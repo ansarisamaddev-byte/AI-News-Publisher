@@ -2,9 +2,14 @@ feedparser
 requests
 beautifulsoup4
 python-dateutil
+python-dotenv
 
 pillow
 requests
 
 google-genai
 trafilatura
+
+requests
+cloudinary
+Pillow

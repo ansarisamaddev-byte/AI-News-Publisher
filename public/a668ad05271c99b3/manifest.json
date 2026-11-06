@@ -1,0 +1,81 @@
+{
+  "news_id": "a668ad05271c99b3",
+  "title": "CU Biodiversity Garden Notified as Heritage Site",
+  "category": "science",
+  "tags": [
+    "biodiversity",
+    "heritage site",
+    "garden"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/cu-garden-notified-as-biodiversity-heritage-site/article71670566.ece",
+  "published_at": "2026-11-05T15:04:17+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "CU Biodiversity Garden",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "39C4GfOcA6I",
+        "photographer": "Yash Sachapara",
+        "photographer_url": "https://unsplash.com/@soul_the_clicker?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/green-trees-beside-gray-concrete-road-during-daytime-39C4GfOcA6I?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1589956177346-9163c6d92b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8M3x8Q2FsaWN1dCUyMFVuaXZlcnNpdHklMjBCaW9kaXZlcnNpdHklMjBHYXJkZW4lMjBJbmRpYXxlbnwxfDF8fHwxNzkzOTMzNjA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "Calicut University Biodiversity Garden India",
+        "fallback_used": false,
+        "original_query": "Calicut University Biodiversity Garden India"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Gazette Notification",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "Qckm17422u8",
+        "photographer": "Alex Block",
+        "photographer_url": "https://unsplash.com/@alexblock?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/white-sedan-driving-near-pink-structure-Qckm17422u8?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1498994014744-ad5b02e7bbed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8OHx8U3RhdGUlMjBnb3Zlcm5tZW50JTIwZ2F6ZXR0ZSUyMG5vdGlmaWNhdGlvbiUyMEluZGlhfGVufDF8MXx8fDE3OTM5MzM2MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "State government gazette notification India",
+        "fallback_used": false,
+        "original_query": "State government gazette notification India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Historical Significance",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "mO1eipp0ah8",
+        "photographer": "Chidera Faustina Okeke",
+        "photographer_url": "https://unsplash.com/@thefourthwxll?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/scientist-looking-through-a-microscope-in-a-lab-mO1eipp0ah8?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1766297246931-7b861269dab0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8c2NpZW50aWZpYyUyMHJlc2VhcmNoJTIwbGFib3JhdG9yeXxlbnwxfDF8fHwxNzkzOTMzNjA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "scientific research laboratory",
+        "fallback_used": true,
+        "original_query": "Calicut University Biodiversity Garden Tenhipalam India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "mO1eipp0ah8",
+        "photographer": "Chidera Faustina Okeke",
+        "photographer_url": "https://unsplash.com/@thefourthwxll?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/scientist-looking-through-a-microscope-in-a-lab-mO1eipp0ah8?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1766297246931-7b861269dab0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8c2NpZW50aWZpYyUyMHJlc2VhcmNoJTIwbGFib3JhdG9yeXxlbnwxfDF8fHwxNzkzOTMzNjA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "scientific research laboratory",
+        "fallback_used": false,
+        "original_query": "scientific research laboratory"
+      }
+    }
+  ]
+}

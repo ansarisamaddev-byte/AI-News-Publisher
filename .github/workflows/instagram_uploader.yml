@@ -1,0 +1,102 @@
+
+name: Instagram News Carousel
+
+on:
+  schedule:
+    # 8:00 AM IST → 02:30 UTC
+    - cron: "30 2 * * *"
+    # 9:00 PM IST → 15:30 UTC
+    - cron: "30 15 * * *"
+
+  workflow_dispatch:
+    inputs:
+      news_id:
+        description: "Specific news ID (leave empty for next pending news)"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram-news-carousel
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    env:
+      IG_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+      IG_USER_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+      CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
+      CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
+      CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
+      GRAPH_API_VERSION: v25.0
+      MAX_INSTAGRAM_POSTS_PER_RUN: "1"
+
+    steps:
+      # --------------------------------------------------
+      # CHECKOUT
+      # --------------------------------------------------
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # --------------------------------------------------
+      # PYTHON SETUP
+      # --------------------------------------------------
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # --------------------------------------------------
+      # INSTALL DEPENDENCIES
+      # --------------------------------------------------
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests cloudinary Pillow
+
+      # --------------------------------------------------
+      # PUBLISH INSTAGRAM CAROUSEL
+      # --------------------------------------------------
+
+      - name: Publish Instagram Carousel
+        run: |
+          echo "Starting Instagram carousel publishing..."
+
+          if [ -n "${{ inputs.news_id }}" ]; then
+            python instagram_carousel_uploader.py \
+              --news-id "${{ inputs.news_id }}" \
+              --limit 1
+          else
+            python instagram_carousel_uploader.py --limit 1
+          fi
+
+      # --------------------------------------------------
+      # COMMIT PUBLISHING STATUS
+      # --------------------------------------------------
+
+      - name: Commit Instagram publishing status
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A -- data/content/
+
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update Instagram publishing status"
+
+            git pull --rebase origin main
+
+            git push origin HEAD:main
+          else
+            echo "No publishing status changes to commit."
+          fi

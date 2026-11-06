@@ -18,14 +18,14 @@
       "slide_number": 1,
       "heading": "Det Supt Andy Furphy",
       "image": {
-        "provider": "Wikimedia Commons",
-        "photographer": "Anthony O'Neil",
-        "license": "CC BY-SA 2.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Old_%22New_Scotland_Yard%22,_Westminster_-_geograph.org.uk_-_1600086.jpg",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Old_%22New_Scotland_Yard%22%2C_Westminster_-_geograph.org.uk_-_1600086.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "provider": "Unsplash",
+        "photo_id": "3zfTVVStzgs",
+        "photographer": "King's Church International",
+        "photographer_url": "https://unsplash.com/@kingschurchinternational?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/three-policemen-patrolling-on-the-street-3zfTVVStzgs?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1526659541029-256e1bf106e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8TWV0cm9wb2xpdGFuJTIwUG9saWNlJTIwZGV0ZWN0aXZlJTIwVW5pdGVkJTIwS2luZ2RvbXxlbnwxfDF8fHwxNzkzOTMzNTk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
         "query": "Metropolitan Police detective United Kingdom",
-        "fallback_used": true,
+        "fallback_used": false,
         "original_query": "Metropolitan Police detective United Kingdom"
       }
     },
@@ -50,14 +50,14 @@
       "slide_number": 3,
       "heading": "Victim reports",
       "image": {
-        "provider": "Wikimedia Commons",
-        "photographer": "Unknown author Unknown author ( Franz Konrad confessed to taking some of the photographs, the rest was probably taken by photographers from Propaganda Kompanie nr 689. [ 1 ] [ 2 ] )",
-        "license": "Public domain",
-        "license_url": "",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Stroop_Report_-_Warsaw_Ghetto_Uprising_09.jpg",
-        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Stroop_Report_-_Warsaw_Ghetto_Uprising_09.jpg/1280px-Stroop_Report_-_Warsaw_Ghetto_Uprising_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "provider": "Unsplash",
+        "photo_id": "lDpC03HfyJY",
+        "photographer": "James Eades",
+        "photographer_url": "https://unsplash.com/@eadesstudio?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/people-walking-near-big-ben-during-daytime-lDpC03HfyJY?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1591626157017-af8cf7e18069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8Nnx8VmljdGltJTIwcmVwb3J0cyUyMFVuaXRlZCUyMEtpbmdkb218ZW58MXwxfHx8MTc5MzkzMzYwMXww&ixlib=rb-4.1.0&q=80&w=1080",
         "query": "Victim reports United Kingdom",
-        "fallback_used": true,
+        "fallback_used": false,
         "original_query": "Victim reports United Kingdom"
       }
     },
