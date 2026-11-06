@@ -1040,6 +1040,16 @@ def render_source(data, theme, date_text, index, total, category):
 # MAIN EXECUTION
 # =========================================================
 
+def content_date_key(value=None):
+    date_value = value or datetime.now().isoformat()
+
+    try:
+        parsed = datetime.fromisoformat(str(date_value).replace("Z", "+00:00"))
+        return parsed.astimezone().strftime("%Y-%m-%d")
+    except Exception:
+        return datetime.now().strftime("%Y-%m-%d")
+
+
 def generate_post(json_file):
     with open(json_file, "r", encoding="utf-8") as file:
         data = json.load(file)
@@ -1057,7 +1067,8 @@ def generate_post(json_file):
     if not slides:
         raise ValueError("No slides found in JSON: expected content.slides")
 
-    output_dir = PUBLIC_DIR / news_id
+    date_key = content_date_key(data.get("published_at"))
+    output_dir = PUBLIC_DIR / date_key / news_id
     output_dir.mkdir(parents=True, exist_ok=True)
 
     date_text = published_date(data.get("published_at"))
@@ -1141,7 +1152,7 @@ def load_json_files():
         raise FileNotFoundError(f"Content folder not found: {CONTENT_DIR}")
 
     return sorted(
-        CONTENT_DIR.glob("*.json"),
+        CONTENT_DIR.rglob("*.json"),
         key=lambda p: p.stat().st_mtime
     )
 

@@ -3,9 +3,10 @@ name: Instagram News Carousel
 
 on:
   schedule:
-    # 8:00 AM IST → 02:30 UTC
-    - cron: "30 2 * * *"
-    # 9:00 PM IST → 15:30 UTC
+    # Every 2 hours (IST): 6 AM, 8 AM, 10 AM ... 10 PM
+    - cron: "30 */2 * * *"
+
+    # Additional run at 9:00 PM IST
     - cron: "30 15 * * *"
 
   workflow_dispatch:
@@ -62,7 +63,7 @@ jobs:
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests cloudinary Pillow
+          pip install -r instagram_uploader_requirements.txt
 
       # --------------------------------------------------
       # PUBLISH INSTAGRAM CAROUSEL
@@ -73,11 +74,11 @@ jobs:
           echo "Starting Instagram carousel publishing..."
 
           if [ -n "${{ inputs.news_id }}" ]; then
-            python instagram_carousel_uploader.py \
+            python instagram_uploader.py \
               --news-id "${{ inputs.news_id }}" \
               --limit 1
           else
-            python instagram_carousel_uploader.py --limit 1
+            python instagram_uploader.py --limit 1
           fi
 
       # --------------------------------------------------

@@ -163,11 +163,32 @@ def natural_sort_key(path):
     ]
 
 
-def find_carousel_images(news_id):
-    image_dir = PUBLIC_DIR / news_id
+def find_carousel_images(news_id, published_at=None, json_path=None):
+    date_key = None
 
-    if not image_dir.is_dir():
-        raise FileNotFoundError(f"Image directory not found: {image_dir}")
+    if json_path is not None:
+        date_key = json_path.parent.name if json_path.parent != CONTENT_DIR else None
+
+    if not date_key and published_at:
+        try:
+            from datetime import datetime
+            parsed = datetime.fromisoformat(str(published_at).replace("Z", "+00:00"))
+            if parsed.tzinfo is None:
+                parsed = parsed.replace(tzinfo=None)
+            date_key = parsed.strftime("%Y-%m-%d")
+        except Exception:
+            date_key = None
+
+    candidate_dirs = []
+    if date_key:
+        candidate_dirs.append(PUBLIC_DIR / date_key / news_id)
+    candidate_dirs.append(PUBLIC_DIR / news_id)
+
+    image_dir = next((path for path in candidate_dirs if path.is_dir()), None)
+
+    if image_dir is None:
+        searched = ", ".join(str(path) for path in candidate_dirs)
+        raise FileNotFoundError(f"Image directory not found: {searched}")
 
     all_images = [
         path for path in image_dir.iterdir()
@@ -407,7 +428,11 @@ def publish_news(json_path, dry_run=False):
         return False
 
     caption = build_caption(data)
-    images = find_carousel_images(news_id)
+    images = find_carousel_images(
+        news_id,
+        published_at=data.get("published_at"),
+        json_path=json_path
+    )
 
     print("\n" + "=" * 55)
     print(f"[NEWS] {news_id}")
@@ -472,11 +497,11 @@ def main():
     if not CONTENT_DIR.is_dir():
         raise FileNotFoundError(f"Content directory not found: {CONTENT_DIR}")
 
-    json_files = (
-        [CONTENT_DIR / f"{args.news_id}.json"]
-        if args.news_id
-        else sorted(CONTENT_DIR.glob("*.json"))
-    )
+    if args.news_id:
+        matches = sorted(CONTENT_DIR.rglob(f"{args.news_id}.json"))
+        json_files = matches if matches else [CONTENT_DIR / f"{args.news_id}.json"]
+    else:
+        json_files = sorted(CONTENT_DIR.rglob("*.json"))
 
     if args.news_id and not json_files[0].is_file():
         raise FileNotFoundError(f"News JSON not found: {json_files[0]}")

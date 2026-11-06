@@ -750,8 +750,24 @@ Do not add explanations outside the JSON.
 # JSON SAVING
 # ============================================================
 
+def content_date_key(value=None):
+    date_value = value or datetime.now(ZoneInfo("Asia/Kolkata")).isoformat()
+
+    try:
+        parsed = datetime.fromisoformat(str(date_value).replace("Z", "+00:00"))
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=ZoneInfo("Asia/Kolkata"))
+        return parsed.astimezone(ZoneInfo("Asia/Kolkata")).strftime("%Y-%m-%d")
+    except Exception:
+        return datetime.now(ZoneInfo("Asia/Kolkata")).strftime("%Y-%m-%d")
+
+
+def content_file_for(news_id, published_at=None):
+    return CONTENT_DIR / content_date_key(published_at) / f"{news_id}.json"
+
+
 def save_json(output_file, output):
-    CONTENT_DIR.mkdir(parents=True, exist_ok=True)
+    output_file.parent.mkdir(parents=True, exist_ok=True)
     temp_file = output_file.with_suffix(".tmp")
 
     with open(temp_file, "w", encoding="utf-8") as file:
@@ -771,7 +787,7 @@ def process_news(client, article):
         print("[SKIP] Article has no news_id.")
         return False
 
-    output_file = CONTENT_DIR / f"{news_id}.json"
+    output_file = content_file_for(news_id, article.get("published_at"))
     generated = None
 
     if output_file.exists():
