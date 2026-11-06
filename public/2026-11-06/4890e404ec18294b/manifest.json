@@ -1,0 +1,82 @@
+{
+  "news_id": "4890e404ec18294b",
+  "title": "Apple Announces Over 100,000 Duo-Optimized Apps",
+  "category": "technology",
+  "tags": [
+    "apple",
+    "duo",
+    "apps"
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+  "published_at": "2026-11-06T21:38:05+00:00",
+  "provider_default": "",
+  "image_count": 5,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Apple's Duo-Optimized Apps",
+      "image": {
+        "provider": "local-default",
+        "query": "Apple Duo apps United States",
+        "fallback_query": "modern technology computer digital",
+        "source_path": "/home/runner/work/AI-News-Publisher/AI-News-Publisher/data/images/technology/digitalisation-3-1000.jpg",
+        "fallback_used": true,
+        "local_default": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Impact",
+      "image": {
+        "provider": "local-default",
+        "query": "iPhone Duo apps growth United States",
+        "fallback_query": "modern technology computer digital",
+        "source_path": "/home/runner/work/AI-News-Publisher/AI-News-Publisher/data/images/technology/digitalisation-3-1000.jpg",
+        "fallback_used": true,
+        "local_default": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Developer Workshop",
+      "image": {
+        "provider": "local-default",
+        "query": "Apple developer workshops United States",
+        "fallback_query": "modern technology computer digital",
+        "source_path": "/home/runner/work/AI-News-Publisher/AI-News-Publisher/data/images/technology/digitalisation-3-1000.jpg",
+        "fallback_used": true,
+        "local_default": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "heading": "Duo's Popularity",
+      "image": {
+        "provider": "local-default",
+        "query": "iPhone Duo popularity United States",
+        "fallback_query": "modern technology computer digital",
+        "source_path": "/home/runner/work/AI-News-Publisher/AI-News-Publisher/data/images/technology/digitalisation-3-1000.jpg",
+        "fallback_used": true,
+        "local_default": true
+      }
+    },
+    {
+      "file": "slide_05.png",
+      "slide_number": 5,
+      "type": "source_follow",
+      "image": {
+        "provider": "local-default",
+        "query": "modern technology computer digital",
+        "fallback_query": "modern technology computer digital",
+        "source_path": "/home/runner/work/AI-News-Publisher/AI-News-Publisher/data/images/technology/digitalisation-3-1000.jpg",
+        "fallback_used": true,
+        "local_default": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "news_id": "d5e6520769c086b6",
+  "title": "Did the government do right in selling controlling stake in IDBI Bank to a private investor?",
+  "category": "business",
+  "tags": [
+    "banking",
+    "IDBI Bank",
+    "government sale"
+  ],
+  "source": "Google News - Business",
+  "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX2RvREFLcF9aUHZEbndmdlRnY1NSazE1RHhTd0p5aU55V2tiMm03T0wwOXM5a0ZPY2hrUjZRZ3FqejVvXzNaUXZOTGNhQ2dZSzRJUXdMT08yUDlaTEk4STZJU0lvRk5Icjg0anlIWXRzZjhfMDRYQWVWUWNCMlFhV3dOTnAtVkhvZ09MLTZrbEZfYmZkMHpWSE43eHZCN1NvOEc5LXJmaXgtdzkzUkhvWHpZMnpFVDFjbDZoNEt4Skx4ZFkzRTRCSlpidjgwSjVyWlVpVGd4dW5DQ2w5QlZaTUhkLV9lT01Nc0xxeV9ROU9oUQ?oc=5",
+  "published_at": "2026-11-06T21:32:37+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Main News",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Financial_District,_Toronto,_Ontario_(29968552536).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Financial_District%2C_Toronto%2C_Ontario_%2829968552536%29.jpg/1280px-Financial_District%2C_Toronto%2C_Ontario_%2829968552536%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "government sale of IDBI Bank stake India"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What Happened",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Financial_District,_Toronto,_Ontario_(29375222104).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Financial_District%2C_Toronto%2C_Ontario_%2829375222104%29.jpg/1280px-Financial_District%2C_Toronto%2C_Ontario_%2829375222104%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "IDBI Bank sale India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why It Matters",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Financial_District,_Toronto,_Ontario_(29919464191).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Financial_District%2C_Toronto%2C_Ontario_%2829919464191%29.jpg/1280px-Financial_District%2C_Toronto%2C_Ontario_%2829919464191%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "IDBI Bank opposition India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Financial_District,_Toronto,_Ontario_(29375222104).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Financial_District%2C_Toronto%2C_Ontario_%2829375222104%29.jpg/1280px-Financial_District%2C_Toronto%2C_Ontario_%2829375222104%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

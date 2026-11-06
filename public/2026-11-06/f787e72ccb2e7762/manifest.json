@@ -1,0 +1,97 @@
+{
+  "news_id": "f787e72ccb2e7762",
+  "title": "Cornell Faculty Declares 'No Confidence' in School Leaders Over Alleged Gang-Rape",
+  "category": "politics",
+  "tags": [
+    "Cornell University",
+    "fraternity rape",
+    "no confidence vote"
+  ],
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders",
+  "published_at": "2026-11-06T21:11:37+00:00",
+  "provider_default": "",
+  "image_count": 5,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Cornell Faculty Declares 'No Confidence'",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "DXR",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block,_Ottawa,_Southeast_view_20170422_1.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Centre_Block%2C_Ottawa%2C_Southeast_view_20170422_1.jpg/1280px-Centre_Block%2C_Ottawa%2C_Southeast_view_20170422_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "parliament government building",
+        "fallback_used": true,
+        "original_query": "Cornell University faculty senate vote United States"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Alleged Gang-Rape Allegation",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Bernard Gagnon",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Parliament_building_of_Eswatini,_Lobamba.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Parliament_building_of_Eswatini%2C_Lobamba.jpg/1280px-Parliament_building_of_Eswatini%2C_Lobamba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "parliament government building",
+        "fallback_used": true,
+        "original_query": "Cornell University student lawsuit United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Resolution Passed",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Rosodo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Parliament._Government_building_in_Funafuti.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Parliament._Government_building_in_Funafuti.jpg/1280px-Parliament._Government_building_in_Funafuti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "parliament government building",
+        "fallback_used": true,
+        "original_query": "Cornell University faculty senate resolution United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "heading": "Response from Board of Trustees",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Thennicke",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Old_and_new_Parliament_Houses;_Canberra_Australia.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Old_and_new_Parliament_Houses%3B_Canberra_Australia.jpg/1280px-Old_and_new_Parliament_Houses%3B_Canberra_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "parliament government building",
+        "fallback_used": true,
+        "original_query": "Cornell University board of trustees response United States"
+      }
+    },
+    {
+      "file": "slide_05.png",
+      "slide_number": 5,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Marc-Lautenbacher",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Parliament_building_of_Cuba_Havanna_El_Capitolio.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Parliament_building_of_Cuba_Havanna_El_Capitolio.jpg/1280px-Parliament_building_of_Cuba_Havanna_El_Capitolio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "parliament government building",
+        "fallback_used": true,
+        "original_query": "parliament government building"
+      }
+    }
+  ]
+}

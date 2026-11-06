@@ -9,7 +9,7 @@
   "source": "The Hindu",
   "source_url": "https://www.thehindu.com/business/lic-q2-profit-rises-20-to-12115-crore-as-vnb-margin-and-net-premium-expands/article71670728.ece",
   "published_at": "2026-11-05T15:08:15+00:00",
-  "provider_default": "unsplash",
+  "provider_default": "",
   "image_count": 4,
   "images": [
     {
@@ -17,14 +17,14 @@
       "slide_number": 1,
       "heading": "LIC Q2 Profit Rises 20% to ₹12,115 Cr",
       "image": {
-        "provider": "Unsplash",
-        "photo_id": "5EI5JYMSvj8",
-        "photographer": "Prado",
-        "photographer_url": "https://unsplash.com/@pradologue?utm_source=ai_news_publisher&utm_medium=referral",
-        "source_url": "https://unsplash.com/photos/people-walking-on-arch-gate-during-daytime-5EI5JYMSvj8?utm_source=ai_news_publisher&utm_medium=referral",
-        "image_url": "https://images.unsplash.com/photo-1598434192043-71111c1b3f41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MTB8fExJQyUyMFEyJTIwcHJvZml0JTIwcmlzZSUyMEluZGlhfGVufDF8MXx8fDE3OTM4OTUyOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-        "query": "LIC Q2 profit rise India",
-        "fallback_used": false,
+        "provider": "Wikimedia Commons",
+        "photographer": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Financial_District,_Toronto,_Ontario_(29968552536).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Financial_District%2C_Toronto%2C_Ontario_%2829968552536%29.jpg/1280px-Financial_District%2C_Toronto%2C_Ontario_%2829968552536%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "business finance corporate office",
+        "fallback_used": true,
         "original_query": "LIC Q2 profit rise India"
       }
     },
@@ -33,12 +33,12 @@
       "slide_number": 2,
       "heading": "What Happened?",
       "image": {
-        "provider": "Unsplash",
-        "photo_id": "alw-CwGFmwQ",
-        "photographer": "Muhammad Faiz Zulkeflee",
-        "photographer_url": "https://unsplash.com/@fzeo?utm_source=ai_news_publisher&utm_medium=referral",
-        "source_url": "https://unsplash.com/photos/two-businessmen-looking-at-phone-in-office-alw-CwGFmwQ?utm_source=ai_news_publisher&utm_medium=referral",
-        "image_url": "https://images.unsplash.com/photo-1577415124269-fc1140a69e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8YnVzaW5lc3MlMjBmaW5hbmNlJTIwY29ycG9yYXRlJTIwb2ZmaWNlfGVufDF8MXx8fDE3OTM4OTUyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "provider": "Wikimedia Commons",
+        "photographer": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Gabardine,_Toronto,_Ontario_(29375229614).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/The_Gabardine%2C_Toronto%2C_Ontario_%2829375229614%29.jpg/1280px-The_Gabardine%2C_Toronto%2C_Ontario_%2829375229614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "query": "business finance corporate office",
         "fallback_used": true,
         "original_query": "LIC profit rise India"
@@ -49,12 +49,12 @@
       "slide_number": 3,
       "heading": "Why Does It Matter?",
       "image": {
-        "provider": "Unsplash",
-        "photo_id": "alw-CwGFmwQ",
-        "photographer": "Muhammad Faiz Zulkeflee",
-        "photographer_url": "https://unsplash.com/@fzeo?utm_source=ai_news_publisher&utm_medium=referral",
-        "source_url": "https://unsplash.com/photos/two-businessmen-looking-at-phone-in-office-alw-CwGFmwQ?utm_source=ai_news_publisher&utm_medium=referral",
-        "image_url": "https://images.unsplash.com/photo-1577415124269-fc1140a69e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8YnVzaW5lc3MlMjBmaW5hbmNlJTIwY29ycG9yYXRlJTIwb2ZmaWNlfGVufDF8MXx8fDE3OTM4OTUyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "provider": "Wikimedia Commons",
+        "photographer": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Temperance_Street,_Financial_District,_Toronto,_Ontario_(29708907740).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Temperance_Street%2C_Financial_District%2C_Toronto%2C_Ontario_%2829708907740%29.jpg/1280px-Temperance_Street%2C_Financial_District%2C_Toronto%2C_Ontario_%2829708907740%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "query": "business finance corporate office",
         "fallback_used": true,
         "original_query": "LIC profit details India"
@@ -65,14 +65,14 @@
       "slide_number": 4,
       "type": "source_follow",
       "image": {
-        "provider": "Unsplash",
-        "photo_id": "alw-CwGFmwQ",
-        "photographer": "Muhammad Faiz Zulkeflee",
-        "photographer_url": "https://unsplash.com/@fzeo?utm_source=ai_news_publisher&utm_medium=referral",
-        "source_url": "https://unsplash.com/photos/two-businessmen-looking-at-phone-in-office-alw-CwGFmwQ?utm_source=ai_news_publisher&utm_medium=referral",
-        "image_url": "https://images.unsplash.com/photo-1577415124269-fc1140a69e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8YnVzaW5lc3MlMjBmaW5hbmNlJTIwY29ycG9yYXRlJTIwb2ZmaWNlfGVufDF8MXx8fDE3OTM4OTUyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "provider": "Wikimedia Commons",
+        "photographer": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Financial_District,_Toronto,_Ontario_(29376136723).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Financial_District%2C_Toronto%2C_Ontario_%2829376136723%29.jpg/1280px-Financial_District%2C_Toronto%2C_Ontario_%2829376136723%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "query": "business finance corporate office",
-        "fallback_used": false,
+        "fallback_used": true,
         "original_query": "business finance corporate office"
       }
     }

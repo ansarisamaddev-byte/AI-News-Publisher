@@ -10,7 +10,7 @@
   "source": "BBC News",
   "source_url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
   "published_at": "2026-11-05T15:04:43+00:00",
-  "provider_default": "unsplash",
+  "provider_default": "",
   "image_count": 4,
   "images": [
     {
@@ -18,14 +18,14 @@
       "slide_number": 1,
       "heading": "Det Supt Andy Furphy",
       "image": {
-        "provider": "Unsplash",
-        "photo_id": "3zfTVVStzgs",
-        "photographer": "King's Church International",
-        "photographer_url": "https://unsplash.com/@kingschurchinternational?utm_source=ai_news_publisher&utm_medium=referral",
-        "source_url": "https://unsplash.com/photos/three-policemen-patrolling-on-the-street-3zfTVVStzgs?utm_source=ai_news_publisher&utm_medium=referral",
-        "image_url": "https://images.unsplash.com/photo-1526659541029-256e1bf106e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8TWV0cm9wb2xpdGFuJTIwUG9saWNlJTIwZGV0ZWN0aXZlJTIwVW5pdGVkJTIwS2luZ2RvbXxlbnwxfDF8fHwxNzkzOTMzNTk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "provider": "Wikimedia Commons",
+        "photographer": "Anthony O'Neil",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Old_%22New_Scotland_Yard%22,_Westminster_-_geograph.org.uk_-_1600086.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Old_%22New_Scotland_Yard%22%2C_Westminster_-_geograph.org.uk_-_1600086.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "query": "Metropolitan Police detective United Kingdom",
-        "fallback_used": false,
+        "fallback_used": true,
         "original_query": "Metropolitan Police detective United Kingdom"
       }
     },
@@ -35,11 +35,11 @@
       "heading": "Russell Brand",
       "image": {
         "provider": "Wikimedia Commons",
-        "photographer": "colin grice",
+        "photographer": "Alisdare Hickson from Woolwich, United Kingdom",
         "license": "CC BY-SA 2.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Little_and_Large_-_geograph.org.uk_-_795180.jpg",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Little_and_Large_-_geograph.org.uk_-_795180.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Solidarity_with_Assange_and_women_in_Iran._(52420715873).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Solidarity_with_Assange_and_women_in_Iran._%2852420715873%29.jpg/1280px-Solidarity_with_Assange_and_women_in_Iran._%2852420715873%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "query": "Russell Brand United Kingdom",
         "fallback_used": true,
         "original_query": "Russell Brand United Kingdom"
@@ -50,14 +50,14 @@
       "slide_number": 3,
       "heading": "Victim reports",
       "image": {
-        "provider": "Unsplash",
-        "photo_id": "lDpC03HfyJY",
-        "photographer": "James Eades",
-        "photographer_url": "https://unsplash.com/@eadesstudio?utm_source=ai_news_publisher&utm_medium=referral",
-        "source_url": "https://unsplash.com/photos/people-walking-near-big-ben-during-daytime-lDpC03HfyJY?utm_source=ai_news_publisher&utm_medium=referral",
-        "image_url": "https://images.unsplash.com/photo-1591626157017-af8cf7e18069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8Nnx8VmljdGltJTIwcmVwb3J0cyUyMFVuaXRlZCUyMEtpbmdkb218ZW58MXwxfHx8MTc5MzkzMzYwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "provider": "Wikimedia Commons",
+        "photographer": "Unknown author Unknown author or not provided",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Jewish_civilians._Copy_of_German_photograph_taken_during_the_destruction_of_the_Warsaw_Ghetto,_Poland,_1943._-_NARA_-_540124.tif",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Jewish_civilians._Copy_of_German_photograph_taken_during_the_destruction_of_the_Warsaw_Ghetto%2C_Poland%2C_1943._-_NARA_-_540124.tif/lossy-page1-1280px-Jewish_civilians._Copy_of_German_photograph_taken_during_the_destruction_of_the_Warsaw_Ghetto%2C_Poland%2C_1943._-_NARA_-_540124.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "query": "Victim reports United Kingdom",
-        "fallback_used": false,
+        "fallback_used": true,
         "original_query": "Victim reports United Kingdom"
       }
     },
@@ -66,14 +66,14 @@
       "slide_number": 4,
       "type": "source_follow",
       "image": {
-        "provider": "Unsplash",
-        "photo_id": "mxY2r31hLx4",
-        "photographer": "Jules Marvin Eguilos",
-        "photographer_url": "https://unsplash.com/@jmeguilos?utm_source=ai_news_publisher&utm_medium=referral",
-        "source_url": "https://unsplash.com/photos/brown-and-white-concrete-building-mxY2r31hLx4?utm_source=ai_news_publisher&utm_medium=referral",
-        "image_url": "https://images.unsplash.com/photo-1582483893853-0e2b97e6b7d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8Mnx8cGFybGlhbWVudCUyMGdvdmVybm1lbnQlMjBidWlsZGluZ3xlbnwxfDF8fHwxNzkzODk0ODQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "provider": "Wikimedia Commons",
+        "photographer": "Thomas Wolf , www.foto-tw.de",
+        "license": "CC BY-SA 3.0 de",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Parlament_Wien_abends.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Parlament_Wien_abends.jpg/1280px-Parlament_Wien_abends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "query": "parliament government building",
-        "fallback_used": false,
+        "fallback_used": true,
         "original_query": "parliament government building"
       }
     }
