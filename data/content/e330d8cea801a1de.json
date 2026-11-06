@@ -1,0 +1,58 @@
+{
+    "news_id": "e330d8cea801a1de",
+    "country": "INDIA",
+    "classification": {
+        "country": "INDIA",
+        "category": "business",
+        "subcategory": "government policy",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "Karnataka",
+        "tags": [
+            "e-Aasthi",
+            "MCC",
+            "property owners"
+        ],
+        "classification_reason": "The article discusses a government initiative (e-Aasthi drive) launched by the Karnataka Cricket Association (MCC) to provide e-Aasthi certificates to property owners, which is a significant policy change affecting property owners.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "MCC e-Aasthi Drive: 808 Applications on First Day",
+        "caption": "MCC launches e-Aasthi drive to provide certificates to property owners.",
+        "hashtags": [
+            "#eAasthi",
+            "#MCC",
+            "#propertyowners"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "MCC e-Aasthi Drive",
+                "text": "MCC launches special drive to provide e-Aasthi certificates to property owners.",
+                "image_search_query": "MCC e-Aasthi drive Karnataka India"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "What Happened",
+                "text": "MCC launched an e-Aasthi drive on Thursday covering Zones 1, 2, and 3 within the MCC limits.",
+                "image_search_query": "MCC e-Aasthi drive coverage India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why Does It Matter",
+                "text": "Of the 808 applications received, 740 applicants were found eligible for the issuance of e-Aasthi certificates.",
+                "image_search_query": "MCC e-Aasthi drive results India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/karnataka/mcc-e-aasthi-drive-808-applications-on-first-day/article71670109.ece",
+    "published_at": "2026-11-05T15:06:31+00:00"
+}

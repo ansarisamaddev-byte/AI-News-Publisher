@@ -1,0 +1,58 @@
+{
+    "news_id": "c7a03b4dd6faa0b2",
+    "country": "INDIA",
+    "classification": {
+        "country": "INDIA",
+        "category": "politics",
+        "subcategory": "criminal justice",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "",
+        "tags": [
+            "murder",
+            "dowry",
+            "imprisonment"
+        ],
+        "classification_reason": "The article discusses a criminal case involving murder and dowry harassment, which falls under the category of criminal justice.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Koppal Court Sentences Man to Life Imprisonment for Murdering Wife",
+        "caption": "Koppal District Court sentences a man to life imprisonment for murdering his wife.",
+        "hashtags": [
+            "murder",
+            "dowry",
+            "imprisonment"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Koppal District Court Sentences",
+                "text": "Koppal District Court sentences a man to life imprisonment for murdering his wife.",
+                "image_search_query": "Koppal District Court, murder, wife India"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Case Details",
+                "text": "The man, Manjunath, was found guilty of murdering his wife, Manjula, five years ago.",
+                "image_search_query": "murder, wife, manjunath India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Conviction and Sentence",
+                "text": "The Principal District and Sessions Judge Latha Kumari M. awarded Manjunath life imprisonment and imposed a fine of ₹2 lakh.",
+                "image_search_query": "conviction, life imprisonment, fine India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/karnataka/koppal-court-sentences-man-to-life-imprisonment-for-murdering-wife/article71670190.ece",
+    "published_at": "2026-11-05T15:08:32+00:00"
+}

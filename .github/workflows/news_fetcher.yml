@@ -1,0 +1,44 @@
+name: AI News Fetcher
+
+name: News Fetcher
+
+on:
+  schedule:
+    - cron: "30 16 * * *" # Daily at 10:00 PM IST
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-news-fetcher
+  cancel-in-progress: false
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch latest news
+        run: python news_fetcher.py
+
+      - name: Save CSV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news_queue.csv
+          git diff --cached --quiet || git commit -m "Update latest news queue"
+          git push

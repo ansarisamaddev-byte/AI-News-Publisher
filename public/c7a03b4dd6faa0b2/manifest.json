@@ -1,0 +1,81 @@
+{
+  "news_id": "c7a03b4dd6faa0b2",
+  "title": "Koppal Court Sentences Man to Life Imprisonment for Murdering Wife",
+  "category": "politics",
+  "tags": [
+    "murder",
+    "dowry",
+    "imprisonment"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/karnataka/koppal-court-sentences-man-to-life-imprisonment-for-murdering-wife/article71670190.ece",
+  "published_at": "2026-11-05T15:08:32+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Koppal District Court Sentences",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "RnztsELXM_Y",
+        "photographer": "V Srinivasan",
+        "photographer_url": "https://unsplash.com/@timesofwander?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/a-man-with-a-ponytail-RnztsELXM_Y?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1660412575939-6e2ce2cab60c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8NHx8S29wcGFsJTIwRGlzdHJpY3QlMjBDb3VydCUyQyUyMG11cmRlciUyQyUyMHdpZmUlMjBJbmRpYXxlbnwxfDF8fHwxNzkzODk0ODU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "Koppal District Court, murder, wife India",
+        "fallback_used": false,
+        "original_query": "Koppal District Court, murder, wife India"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Case Details",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "RnztsELXM_Y",
+        "photographer": "V Srinivasan",
+        "photographer_url": "https://unsplash.com/@timesofwander?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/a-man-with-a-ponytail-RnztsELXM_Y?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1660412575939-6e2ce2cab60c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8Mnx8bXVyZGVyJTJDJTIwd2lmZSUyQyUyMG1hbmp1bmF0aCUyMEluZGlhfGVufDF8MXx8fDE3OTM4OTQ4NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "murder, wife, manjunath India",
+        "fallback_used": false,
+        "original_query": "murder, wife, manjunath India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Conviction and Sentence",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "YVIN8qGqBRk",
+        "photographer": "Dev Asangbam",
+        "photographer_url": "https://unsplash.com/@devasangbam?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/grayscale-photography-of-man-in-front-of-window-YVIN8qGqBRk?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1541054994710-70495e3e719d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8OXx8Y29udmljdGlvbiUyQyUyMGxpZmUlMjBpbXByaXNvbm1lbnQlMkMlMjBmaW5lJTIwSW5kaWF8ZW58MXwxfHx8MTc5Mzg5NTI4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "conviction, life imprisonment, fine India",
+        "fallback_used": false,
+        "original_query": "conviction, life imprisonment, fine India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "mxY2r31hLx4",
+        "photographer": "Jules Marvin Eguilos",
+        "photographer_url": "https://unsplash.com/@jmeguilos?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/brown-and-white-concrete-building-mxY2r31hLx4?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1582483893853-0e2b97e6b7d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8Mnx8cGFybGlhbWVudCUyMGdvdmVybm1lbnQlMjBidWlsZGluZ3xlbnwxfDF8fHwxNzkzODk0ODQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "parliament government building",
+        "fallback_used": false,
+        "original_query": "parliament government building"
+      }
+    }
+  ]
+}

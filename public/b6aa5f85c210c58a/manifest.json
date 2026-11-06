@@ -1,0 +1,80 @@
+{
+  "news_id": "b6aa5f85c210c58a",
+  "title": "LIC Q2 Profit Rises 20% to ₹12,115 Cr as VNB Margin Expands",
+  "category": "business",
+  "tags": [
+    "business",
+    "financial"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/business/lic-q2-profit-rises-20-to-12115-crore-as-vnb-margin-and-net-premium-expands/article71670728.ece",
+  "published_at": "2026-11-05T15:08:15+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "LIC Q2 Profit Rises 20% to ₹12,115 Cr",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "5EI5JYMSvj8",
+        "photographer": "Prado",
+        "photographer_url": "https://unsplash.com/@pradologue?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/people-walking-on-arch-gate-during-daytime-5EI5JYMSvj8?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1598434192043-71111c1b3f41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MTB8fExJQyUyMFEyJTIwcHJvZml0JTIwcmlzZSUyMEluZGlhfGVufDF8MXx8fDE3OTM4OTUyOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "LIC Q2 profit rise India",
+        "fallback_used": false,
+        "original_query": "LIC Q2 profit rise India"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What Happened?",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "alw-CwGFmwQ",
+        "photographer": "Muhammad Faiz Zulkeflee",
+        "photographer_url": "https://unsplash.com/@fzeo?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/two-businessmen-looking-at-phone-in-office-alw-CwGFmwQ?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1577415124269-fc1140a69e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8YnVzaW5lc3MlMjBmaW5hbmNlJTIwY29ycG9yYXRlJTIwb2ZmaWNlfGVufDF8MXx8fDE3OTM4OTUyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "LIC profit rise India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why Does It Matter?",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "alw-CwGFmwQ",
+        "photographer": "Muhammad Faiz Zulkeflee",
+        "photographer_url": "https://unsplash.com/@fzeo?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/two-businessmen-looking-at-phone-in-office-alw-CwGFmwQ?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1577415124269-fc1140a69e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8YnVzaW5lc3MlMjBmaW5hbmNlJTIwY29ycG9yYXRlJTIwb2ZmaWNlfGVufDF8MXx8fDE3OTM4OTUyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "LIC profit details India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "alw-CwGFmwQ",
+        "photographer": "Muhammad Faiz Zulkeflee",
+        "photographer_url": "https://unsplash.com/@fzeo?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/two-businessmen-looking-at-phone-in-office-alw-CwGFmwQ?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1577415124269-fc1140a69e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8YnVzaW5lc3MlMjBmaW5hbmNlJTIwY29ycG9yYXRlJTIwb2ZmaWNlfGVufDF8MXx8fDE3OTM4OTUyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "business finance corporate office",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

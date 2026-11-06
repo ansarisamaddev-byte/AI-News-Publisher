@@ -1,0 +1,58 @@
+{
+    "news_id": "f953b6a930afde62",
+    "country": "UK",
+    "classification": {
+        "country": "UK",
+        "category": "politics",
+        "subcategory": "government",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "London",
+        "tags": [
+            "politics",
+            "investigation",
+            "rape allegations"
+        ],
+        "classification_reason": "The article discusses a police investigation into allegations of sexual assault and rape against a prominent public figure, which is a significant political and legal issue.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "More women likely to come forward, says detective who led Russell Brand investigation",
+        "caption": "Det Supt Andy Furphy, from the Metropolitan Police, said he hoped other women would gain 'courage' and 'confidence' from the guilty verdicts.",
+        "hashtags": [
+            "#politics",
+            "#investigation",
+            "#rapeallegations"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Det Supt Andy Furphy",
+                "text": "Metropolitan Police detective",
+                "image_search_query": "Metropolitan Police detective United Kingdom"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Russell Brand",
+                "text": "Public figure facing sexual assault allegations",
+                "image_search_query": "Russell Brand United Kingdom"
+            },
+            {
+                "slide_number": 3,
+                "type": "key_detail",
+                "heading": "Victim reports",
+                "text": "Hundreds of women interviewed for investigation",
+                "image_search_query": "Victim reports United Kingdom"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-05T15:04:43+00:00"
+}

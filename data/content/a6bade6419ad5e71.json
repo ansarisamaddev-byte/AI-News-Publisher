@@ -1,0 +1,58 @@
+{
+    "news_id": "a6bade6419ad5e71",
+    "country": "INDIA",
+    "classification": {
+        "country": "INDIA",
+        "category": "politics",
+        "subcategory": "criminals",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "Telangana",
+        "tags": [
+            "criminals",
+            "sexual abuse",
+            "child protection"
+        ],
+        "classification_reason": "The case involves a teacher accused of sexually abusing an 11-year-old boy, highlighting issues of child protection and teacher accountability.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Case booked against madrasa teacher for sexually abusing 11-year-old boy",
+        "caption": "A case has been registered against a teacher accused of sexually abusing an 11-year-old boy at a madrasa in Telangana.",
+        "hashtags": [
+            "#criminals",
+            "#sexualabuse",
+            "#childprotection"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Teacher Accused of Sexual Abuse",
+                "text": "A teacher accused of sexually abusing an 11-year-old boy at a madrasa in Telangana.",
+                "image_search_query": "teacher accused sexual abuse boy madrasa India"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Incident Details",
+                "text": "The accused subjected the child to sexual abuse after showing him obscene videos on a mobile phone.",
+                "image_search_query": "teacher abuse boy obscene videos India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Investigation and Response",
+                "text": "Further investigation is underway and the boy was sent to Bharosa centre for recording his statement.",
+                "image_search_query": "investigation boy statement India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/telangana/case-booked-against-madrasa-teacher-for-sexually-abusing-11-year-old-boy/article71669547.ece",
+    "published_at": "2026-11-05T15:06:47+00:00"
+}

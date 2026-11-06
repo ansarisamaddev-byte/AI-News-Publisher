@@ -1,0 +1,58 @@
+{
+    "news_id": "faf3ffed8ce4c5e3",
+    "country": "INDIA",
+    "classification": {
+        "country": "INDIA",
+        "category": "business",
+        "subcategory": "finance",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "",
+        "tags": [
+            "police arrest",
+            "loan racket",
+            "cheques"
+        ],
+        "classification_reason": "The article discusses a police arrest of individuals involved in an illegal loan racket, which is a business-related crime.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Malkajgiri Police Arrest Seven in Illegal Loan Racket",
+        "caption": "Police arrest seven in illegal loan racket involving large interest and blank signed cheques.",
+        "hashtags": [
+            "police arrest",
+            "loan racket",
+            "cheques"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Police Arrest",
+                "text": "Seven arrested in illegal loan racket involving large interest and blank signed cheques.",
+                "image_search_query": "police arrest illegal loan racket India"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Details",
+                "text": "The accused approached borrowers through known persons and intermediaries, promised substantial loans and deducted hefty amounts as advance interest.",
+                "image_search_query": "illegal loan racket details India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact",
+                "text": "The gang obtained promissory notes, bonds and blank signed cheques for amounts substantially higher than the loans actually advanced.",
+                "image_search_query": "impact of illegal loan racket India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/cities/Hyderabad/malkajgiri-police-arrest-seven-in-illegal-loan-racket-gang-collected-hefty-interest-in-advance-blank-signed-cheques/article71669082.ece",
+    "published_at": "2026-11-05T15:05:41+00:00"
+}

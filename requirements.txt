@@ -1,0 +1,10 @@
+feedparser
+requests
+beautifulsoup4
+python-dateutil
+
+pillow
+requests
+
+google-genai
+trafilatura

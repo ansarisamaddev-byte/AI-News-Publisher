@@ -1,0 +1,81 @@
+{
+  "news_id": "faf3ffed8ce4c5e3",
+  "title": "Malkajgiri Police Arrest Seven in Illegal Loan Racket",
+  "category": "business",
+  "tags": [
+    "police arrest",
+    "loan racket",
+    "cheques"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/Hyderabad/malkajgiri-police-arrest-seven-in-illegal-loan-racket-gang-collected-hefty-interest-in-advance-blank-signed-cheques/article71669082.ece",
+  "published_at": "2026-11-05T15:05:41+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Police Arrest",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "alw-CwGFmwQ",
+        "photographer": "Muhammad Faiz Zulkeflee",
+        "photographer_url": "https://unsplash.com/@fzeo?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/two-businessmen-looking-at-phone-in-office-alw-CwGFmwQ?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1577415124269-fc1140a69e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8YnVzaW5lc3MlMjBmaW5hbmNlJTIwY29ycG9yYXRlJTIwb2ZmaWNlfGVufDF8MXx8fDE3OTM4OTUyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "police arrest illegal loan racket India"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Details",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "alw-CwGFmwQ",
+        "photographer": "Muhammad Faiz Zulkeflee",
+        "photographer_url": "https://unsplash.com/@fzeo?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/two-businessmen-looking-at-phone-in-office-alw-CwGFmwQ?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1577415124269-fc1140a69e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8YnVzaW5lc3MlMjBmaW5hbmNlJTIwY29ycG9yYXRlJTIwb2ZmaWNlfGVufDF8MXx8fDE3OTM4OTUyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "illegal loan racket details India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "alw-CwGFmwQ",
+        "photographer": "Muhammad Faiz Zulkeflee",
+        "photographer_url": "https://unsplash.com/@fzeo?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/two-businessmen-looking-at-phone-in-office-alw-CwGFmwQ?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1577415124269-fc1140a69e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8YnVzaW5lc3MlMjBmaW5hbmNlJTIwY29ycG9yYXRlJTIwb2ZmaWNlfGVufDF8MXx8fDE3OTM4OTUyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "impact of illegal loan racket India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "alw-CwGFmwQ",
+        "photographer": "Muhammad Faiz Zulkeflee",
+        "photographer_url": "https://unsplash.com/@fzeo?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/two-businessmen-looking-at-phone-in-office-alw-CwGFmwQ?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1577415124269-fc1140a69e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8YnVzaW5lc3MlMjBmaW5hbmNlJTIwY29ycG9yYXRlJTIwb2ZmaWNlfGVufDF8MXx8fDE3OTM4OTUyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "business finance corporate office",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

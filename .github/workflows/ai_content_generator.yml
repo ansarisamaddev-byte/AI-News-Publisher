@@ -1,0 +1,130 @@
+
+name: AI Content Generator
+
+on:
+  workflow_run:
+    workflows:
+      - News Fetcher
+    types:
+      - completed
+    branches:
+      - main
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-content-generator
+  cancel-in-progress: false
+
+jobs:
+  generate-content:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    env:
+      ENV: PROD
+      HF_HUB_DISABLE_IMPLICIT_TOKEN: "1"
+      LOCAL_MODEL_PATH: models/qwen2.5-1.5b-instruct-q4_k_m.gguf
+      MODEL_REPO_ID: beast2314/viral-moment-qwen-model
+      LLM_N_CTX: "8192"
+      LLM_N_THREADS: "4"
+      LLM_N_GPU_LAYERS: "0"
+
+    steps:
+      # --------------------------------------------------
+      # CHECKOUT
+      # --------------------------------------------------
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # --------------------------------------------------
+      # RESTORE QWEN MODEL CACHE
+      # --------------------------------------------------
+
+      - name: Restore Qwen Model Cache
+        id: qwen-cache
+        uses: actions/cache/restore@v4
+        with:
+          path: models/qwen2.5-1.5b-instruct-q4_k_m.gguf
+          key: qwen2.5-1.5b-instruct-q4_k-m-v1
+
+      - name: Verify Qwen Model
+        run: |
+          MODEL="models/qwen2.5-1.5b-instruct-q4_k_m.gguf"
+
+          if [ ! -s "$MODEL" ]; then
+            echo "[MODEL] Cache missing. Python will download from Hugging Face."
+          else
+            SIZE=$(stat -c%s "$MODEL")
+
+            if [ "$SIZE" -lt 500000000 ]; then
+              echo "::error::Qwen model file is incomplete or invalid."
+              exit 1
+            fi
+
+            ls -lh "$MODEL"
+            echo "[MODEL] Cache restored successfully."
+          fi
+
+      # --------------------------------------------------
+      # PYTHON SETUP
+      # --------------------------------------------------
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install llama-cpp-python
+        run: |
+          python -m pip install --upgrade pip
+          pip install --prefer-binary llama-cpp-python \
+            --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # --------------------------------------------------
+      # GENERATE AI CONTENT
+      # --------------------------------------------------
+
+      - name: Generate pending AI content
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          echo "Environment: $ENV"
+          echo "Model: $LOCAL_MODEL_PATH"
+
+          python ai_content_generator.py
+
+      # --------------------------------------------------
+      # COMMIT RESULTS
+      # --------------------------------------------------
+
+      - name: Commit generated JSON and queue updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A -- data/news/ data/content/
+
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: generate AI news content"
+
+            git pull --rebase origin main
+
+            git push origin HEAD:main
+          else
+            echo "No changes to commit."
+          fi

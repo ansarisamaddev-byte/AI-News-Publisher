@@ -1,0 +1,81 @@
+{
+  "news_id": "f953b6a930afde62",
+  "title": "More women likely to come forward, says detective who led Russell Brand investigation",
+  "category": "politics",
+  "tags": [
+    "politics",
+    "investigation",
+    "rape allegations"
+  ],
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-05T15:04:43+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Det Supt Andy Furphy",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Anthony O'Neil",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Old_%22New_Scotland_Yard%22,_Westminster_-_geograph.org.uk_-_1600086.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Old_%22New_Scotland_Yard%22%2C_Westminster_-_geograph.org.uk_-_1600086.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "Metropolitan Police detective United Kingdom",
+        "fallback_used": true,
+        "original_query": "Metropolitan Police detective United Kingdom"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Russell Brand",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "colin grice",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Little_and_Large_-_geograph.org.uk_-_795180.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Little_and_Large_-_geograph.org.uk_-_795180.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "Russell Brand United Kingdom",
+        "fallback_used": true,
+        "original_query": "Russell Brand United Kingdom"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Victim reports",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Unknown author Unknown author ( Franz Konrad confessed to taking some of the photographs, the rest was probably taken by photographers from Propaganda Kompanie nr 689. [ 1 ] [ 2 ] )",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Stroop_Report_-_Warsaw_Ghetto_Uprising_09.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Stroop_Report_-_Warsaw_Ghetto_Uprising_09.jpg/1280px-Stroop_Report_-_Warsaw_Ghetto_Uprising_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "Victim reports United Kingdom",
+        "fallback_used": true,
+        "original_query": "Victim reports United Kingdom"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "mxY2r31hLx4",
+        "photographer": "Jules Marvin Eguilos",
+        "photographer_url": "https://unsplash.com/@jmeguilos?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/brown-and-white-concrete-building-mxY2r31hLx4?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1582483893853-0e2b97e6b7d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8Mnx8cGFybGlhbWVudCUyMGdvdmVybm1lbnQlMjBidWlsZGluZ3xlbnwxfDF8fHwxNzkzODk0ODQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "parliament government building",
+        "fallback_used": false,
+        "original_query": "parliament government building"
+      }
+    }
+  ]
+}

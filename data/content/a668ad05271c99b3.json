@@ -1,0 +1,58 @@
+{
+    "news_id": "a668ad05271c99b3",
+    "country": "INDIA",
+    "classification": {
+        "country": "INDIA",
+        "category": "science",
+        "subcategory": "environment",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "Kerala",
+        "tags": [
+            "biodiversity",
+            "heritage site",
+            "garden"
+        ],
+        "classification_reason": "The article discusses the designation of a biodiversity garden as a heritage site, highlighting its significance in the context of Kerala's biodiversity conservation efforts.",
+        "selected_channels": [
+            "science-news"
+        ]
+    },
+    "content": {
+        "title": "CU Biodiversity Garden Notified as Heritage Site",
+        "caption": "Calicut University's Biodiversity Garden designated as a heritage site.",
+        "hashtags": [
+            "#biodiversity",
+            "#heritage_site",
+            "#garden"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "CU Biodiversity Garden",
+                "text": "Calicut University's Biodiversity Garden designated as a heritage site.",
+                "image_search_query": "Calicut University Biodiversity Garden India"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Gazette Notification",
+                "text": "The State government has notified the Calicut University Biodiversity Garden at Tenhipalam in Malappuram district as a 'Biodiversity Heritage Site'.",
+                "image_search_query": "State government gazette notification India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Historical Significance",
+                "text": "The garden features tropical India flora and exotic species, inaugurated in 1972 by R.E. Holttum, then Director, Singapore Botanical Garden.",
+                "image_search_query": "Calicut University Biodiversity Garden Tenhipalam India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/kerala/cu-garden-notified-as-biodiversity-heritage-site/article71670566.ece",
+    "published_at": "2026-11-05T15:04:17+00:00"
+}

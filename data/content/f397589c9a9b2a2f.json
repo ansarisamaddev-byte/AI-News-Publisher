@@ -1,0 +1,65 @@
+{
+    "news_id": "f397589c9a9b2a2f",
+    "country": "INDIA",
+    "classification": {
+        "country": "INDIA",
+        "category": "politics",
+        "subcategory": "elections",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "Kerala, LA",
+        "tags": [
+            "elections",
+            "LA",
+            "Kerala"
+        ],
+        "classification_reason": "The article discusses Nithya Raman's victory in the Los Angeles mayoral race, highlighting her background and family's pride in her achievement.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Nithya Raman's Rise in LA: Kerala's Quiet Pride",
+        "caption": "A Democrat from Kerala, Nithya Raman, secured a significant victory in the Los Angeles mayoral race.",
+        "hashtags": [
+            "#NithyaRaman",
+            "#LAMayorRace",
+            "#KeralaPride"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Nithya Raman's Rise",
+                "text": "A Democrat from Kerala, Nithya Raman, secured a significant victory in the Los Angeles mayoral race.",
+                "image_search_query": "Nithya Raman, Kerala, LA, mayoral race India"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Background",
+                "text": "Nithya Raman, a Democrat, was contesting the high-stakes race against incumbent Karen Bass, also a Democrat.",
+                "image_search_query": "Nithya Raman, Kerala, background, mayoral race India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Family's Pride",
+                "text": "Her extended family back in Kerala is ecstatic about her achievement, with her mother Sudha Kechery telling them to wait for the final results.",
+                "image_search_query": "Nithya Raman, Kerala, family, pride India"
+            },
+            {
+                "slide_number": 4,
+                "type": "impact",
+                "heading": "Impact",
+                "text": "Raman's victory will make her Los Angeles's first mayor of South Asian descent, and it's a significant milestone in her journey.",
+                "image_search_query": "Nithya Raman, Kerala, impact, impact India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "Indian Express",
+    "source_url": "https://indianexpress.com/article/india/nithya-raman-la-mayoral-race-kerala-10952437/",
+    "published_at": "2026-11-05T15:09:00+00:00"
+}
