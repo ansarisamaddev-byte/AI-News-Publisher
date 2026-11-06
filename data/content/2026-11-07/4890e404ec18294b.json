@@ -1,0 +1,65 @@
+{
+    "news_id": "4890e404ec18294b",
+    "country": "US",
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "software",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "",
+        "tags": [
+            "apple",
+            "duo",
+            "apps"
+        ],
+        "classification_reason": "The news is about the iPhone Duo and its optimized apps, which is a technology development story.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Apple Announces Over 100,000 Duo-Optimized Apps",
+        "caption": "Apple reports over 100,000 apps built for iPhone Duo, including Microsoft Word and Outlook.",
+        "hashtags": [
+            "#apple",
+            "#duo",
+            "#apps"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Apple's Duo-Optimized Apps",
+                "text": "Apple announces over 100,000 apps built for iPhone Duo.",
+                "image_search_query": "Apple Duo apps United States"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Impact",
+                "text": "Apple sees thousands of apps added daily to the Duo store.",
+                "image_search_query": "iPhone Duo apps growth United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Developer Workshop",
+                "text": "Apple hosts workshops for over 2,000 app developers.",
+                "image_search_query": "Apple developer workshops United States"
+            },
+            {
+                "slide_number": 4,
+                "type": "impact",
+                "heading": "Duo's Popularity",
+                "text": "Duo has proven to be more popular than expected, with high price point.",
+                "image_search_query": "iPhone Duo popularity United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+    "published_at": "2026-11-06T21:38:05+00:00"
+}

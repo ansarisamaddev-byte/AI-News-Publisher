@@ -1,0 +1,63 @@
+{
+    "news_id": "1eaee6d5a7213203",
+    "country": "US",
+    "classification": {
+        "country": "US",
+        "category": "politics",
+        "subcategory": "government",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "US",
+        "tags": [
+            "politics",
+            "government"
+        ],
+        "classification_reason": "The article discusses the appointment of Stephen Miller as the next chief of staff of the White House, which is a significant political appointment.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "How Stephen Miller Schemed His Way to the Top",
+        "caption": "The architect of Trump's brutal crackdown on immigration and dissent was appointed as his next chief of staff.",
+        "hashtags": [
+            "#politics",
+            "#government"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Stephen Miller's Appointment",
+                "text": "Stephen Miller, one of Trump's most powerful aides, was appointed as the next chief of staff of the White House.",
+                "image_search_query": "Stephen Miller, Trump administration, White House United States"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Miller's Background",
+                "text": "Miller has been with Trump since his first campaign and stood by him through his political exile in 2021.",
+                "image_search_query": "Stephen Miller, Trump, political exile United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Miller's Role",
+                "text": "Miller orchestrated the most polarizing policies of Trump's second term, including a brutal crackdown on immigration.",
+                "image_search_query": "Stephen Miller, Trump, immigration United States"
+            },
+            {
+                "slide_number": 4,
+                "type": "impact",
+                "heading": "Impact on Trump's Administration",
+                "text": "Trump settled on Miller, likely due to his zeal in defending the president and his deep loyalty.",
+                "image_search_query": "Stephen Miller, Trump, loyalty United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/how-stephen-miller-schemed-his-way-to-the-top/",
+    "published_at": "2026-11-06T21:10:02+00:00"
+}
