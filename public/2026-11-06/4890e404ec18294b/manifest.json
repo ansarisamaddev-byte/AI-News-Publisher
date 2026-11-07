@@ -18,12 +18,15 @@
       "slide_number": 1,
       "heading": "Apple's Duo-Optimized Apps",
       "image": {
-        "provider": "local-default",
+        "provider": "Wikimedia Commons",
+        "photographer": "left",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Air_Force_duo_design_smart_phone_application_for_Inauguration_Day_130114-A-qq345-001.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Air_Force_duo_design_smart_phone_application_for_Inauguration_Day_130114-A-qq345-001.jpg/1280px-Air_Force_duo_design_smart_phone_application_for_Inauguration_Day_130114-A-qq345-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "query": "Apple Duo apps United States",
-        "fallback_query": "modern technology computer digital",
-        "source_path": "/home/runner/work/AI-News-Publisher/AI-News-Publisher/data/images/technology/digitalisation-3-1000.jpg",
         "fallback_used": true,
-        "local_default": true
+        "original_query": "Apple Duo apps United States"
       }
     },
     {
@@ -31,12 +34,15 @@
       "slide_number": 2,
       "heading": "Impact",
       "image": {
-        "provider": "local-default",
-        "query": "iPhone Duo apps growth United States",
-        "fallback_query": "modern technology computer digital",
-        "source_path": "/home/runner/work/AI-News-Publisher/AI-News-Publisher/data/images/technology/digitalisation-3-1000.jpg",
+        "provider": "Wikimedia Commons",
+        "photographer": "Diyaakram",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lack_of_Technology_in_Traditional_Classrooms.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Lack_of_Technology_in_Traditional_Classrooms.jpg/1280px-Lack_of_Technology_in_Traditional_Classrooms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "modern technology computer digital",
         "fallback_used": true,
-        "local_default": true
+        "original_query": "iPhone Duo apps growth United States"
       }
     },
     {
@@ -44,12 +50,15 @@
       "slide_number": 3,
       "heading": "Developer Workshop",
       "image": {
-        "provider": "local-default",
-        "query": "Apple developer workshops United States",
-        "fallback_query": "modern technology computer digital",
-        "source_path": "/home/runner/work/AI-News-Publisher/AI-News-Publisher/data/images/technology/digitalisation-3-1000.jpg",
+        "provider": "Wikimedia Commons",
+        "photographer": "epSos.de",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg/1280px-Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "modern technology computer digital",
         "fallback_used": true,
-        "local_default": true
+        "original_query": "Apple developer workshops United States"
       }
     },
     {
@@ -57,12 +66,15 @@
       "slide_number": 4,
       "heading": "Duo's Popularity",
       "image": {
-        "provider": "local-default",
-        "query": "iPhone Duo popularity United States",
-        "fallback_query": "modern technology computer digital",
-        "source_path": "/home/runner/work/AI-News-Publisher/AI-News-Publisher/data/images/technology/digitalisation-3-1000.jpg",
+        "provider": "Wikimedia Commons",
+        "photographer": "Machot Gatluak Pathot Tuel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(87121).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Learning_ICT_Computer_%2887121%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "modern technology computer digital",
         "fallback_used": true,
-        "local_default": true
+        "original_query": "iPhone Duo popularity United States"
       }
     },
     {
@@ -70,12 +82,15 @@
       "slide_number": 5,
       "type": "source_follow",
       "image": {
-        "provider": "local-default",
+        "provider": "Wikimedia Commons",
+        "photographer": "Machot Gatluak Pathot Tuel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(87121).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Learning_ICT_Computer_%2887121%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "query": "modern technology computer digital",
-        "fallback_query": "modern technology computer digital",
-        "source_path": "/home/runner/work/AI-News-Publisher/AI-News-Publisher/data/images/technology/digitalisation-3-1000.jpg",
         "fallback_used": true,
-        "local_default": true
+        "original_query": "modern technology computer digital"
       }
     }
   ]

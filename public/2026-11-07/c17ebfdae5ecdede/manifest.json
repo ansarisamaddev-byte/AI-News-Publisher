@@ -1,0 +1,97 @@
+{
+  "news_id": "c17ebfdae5ecdede",
+  "title": "Nallur toll plaza on Kolkata National Highway to be moved to Durainallur",
+  "category": "technology",
+  "tags": [
+    "transportation",
+    "toll plaza",
+    "NHAI"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/chennai/nallur-toll-plaza-on-kolkata-nh-to-be-moved-to-durainallur/article71678789.ece",
+  "published_at": "2026-11-07T20:09:14+00:00",
+  "provider_default": "",
+  "image_count": 5,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Nallur toll plaza relocation",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Diyaakram",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lack_of_Technology_in_Traditional_Classrooms.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Lack_of_Technology_in_Traditional_Classrooms.jpg/1280px-Lack_of_Technology_in_Traditional_Classrooms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "Nallur toll plaza relocation India"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Current situation",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "MujahidAlIbenu",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rudiments_of_Information_Technology_book_cover.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Rudiments_of_Information_Technology_book_cover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "Nallur toll plaza current situation India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Reasons for relocation",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Machot Gatluak Pathot Tuel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(34826).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Learning_ICT_Computer_%2834826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "Nallur toll plaza relocation reasons India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "heading": "Impact on users",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Shixart1985",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Colorful_dog_figure_on_display_during_an_event_at_a_modern_exhibition_center.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Colorful_dog_figure_on_display_during_an_event_at_a_modern_exhibition_center.jpg/1280px-Colorful_dog_figure_on_display_during_an_event_at_a_modern_exhibition_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "Nallur toll plaza relocation impact India"
+      }
+    },
+    {
+      "file": "slide_05.png",
+      "slide_number": 5,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Machot Gatluak Pathot Tuel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(87121).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Learning_ICT_Computer_%2887121%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}
