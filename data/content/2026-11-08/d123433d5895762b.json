@@ -1,0 +1,63 @@
+{
+    "news_id": "d123433d5895762b",
+    "country": "US",
+    "classification": {
+        "country": "US",
+        "category": "politics",
+        "subcategory": "government",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "US",
+        "tags": [
+            "politics",
+            "government"
+        ],
+        "classification_reason": "The article discusses a political appointment by US President Donald Trump, which is a significant event in US government affairs.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Dana, please take the job! - Trump asks UFC boss to be White House press secretary",
+        "caption": "US President Donald Trump asks UFC boss Dana White to be White House press secretary.",
+        "hashtags": [
+            "#politics",
+            "#government"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "US President Donald Trump",
+                "text": "US President Donald Trump",
+                "image_search_query": "US President Donald Trump United States"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Dana White",
+                "text": "Dana White, UFC boss",
+                "image_search_query": "Dana White UFC United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "White House Press Secretary",
+                "text": "White House press secretary position",
+                "image_search_query": "White House press secretary United States"
+            },
+            {
+                "slide_number": 4,
+                "type": "impact",
+                "heading": "Reasons for the Request",
+                "text": "Reasons for the request: Dana White is a friend of Trump, and he wants to bring high-profile UFC fighters to the White House to defend the country against the ",
+                "image_search_query": "reasons for request United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-07T19:52:23+00:00"
+}

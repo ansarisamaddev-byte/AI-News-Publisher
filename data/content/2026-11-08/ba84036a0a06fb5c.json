@@ -1,0 +1,65 @@
+{
+    "news_id": "ba84036a0a06fb5c",
+    "country": "US",
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "air traffic control",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "Florida and Alaska",
+        "tags": [
+            "air traffic control",
+            "digital towers",
+            "aviation infrastructure"
+        ],
+        "classification_reason": "FAA announces first US digital air traffic control towers in Florida and Alaska",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "FAA Announces First US Digital Air Traffic Control Towers",
+        "caption": "The Federal Aviation Administration (FAA) has announced the first digital air traffic control towers in the US, bringing new technology to smaller airports in Florida and Alaska.",
+        "hashtags": [
+            "#FAADigitalAirTraffic",
+            "#USAirTrafficControl",
+            "#DigitalTowers"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "FAA Announces Digital Air Traffic Control Towers",
+                "text": "The Federal Aviation Administration (FAA) announces the first digital air traffic control towers in the US, bringing new technology to smaller airports in Florida and Alaska.",
+                "image_search_query": "FAA digital air traffic control towers United States"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Technology and Air Traffic Control",
+                "text": "The FAA's new digital air traffic control towers use advanced camera systems and digital displays to provide controllers with a continuous, 360-degree view of airport operations.",
+                "image_search_query": "advanced camera systems, digital displays United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact on Air Traffic",
+                "text": "The FAA maintains that the technology is not intended to replace human controllers, but rather to provide greater visibility and additional information to help controllers perform their existing duties.",
+                "image_search_query": "human controllers, greater visibility United States"
+            },
+            {
+                "slide_number": 4,
+                "type": "impact",
+                "heading": "Concerns and Challenges",
+                "text": "The implementation of new technology in air traffic control has raised concerns about the types of technology being used and the potential impact on air safety.",
+                "image_search_query": "concerns, types of technology United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Guardian",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
+    "published_at": "2026-11-07T20:03:23+00:00"
+}

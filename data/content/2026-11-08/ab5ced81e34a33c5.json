@@ -1,0 +1,58 @@
+{
+    "news_id": "ab5ced81e34a33c5",
+    "country": "ISRAEL",
+    "classification": {
+        "country": "ISRAEL",
+        "category": "world",
+        "subcategory": "politics",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "",
+        "tags": [
+            "Israel",
+            "elections",
+            "government"
+        ],
+        "classification_reason": "The article discusses Israeli election results and government formation, clearly indicating a political event in Israel.",
+        "selected_channels": [
+            "world-news"
+        ]
+    },
+    "content": {
+        "title": "Israel Election Results LIVE Updates: President picks Gadi Eisenkot, Netanyahu rival, to form government",
+        "caption": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government",
+        "hashtags": [
+            "#IsraelElections",
+            "#GadiEisenkot",
+            "#NetanyahuRival"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Israeli President Picks New Cabinet",
+                "text": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to form government",
+                "image_search_query": "Israeli president, Gadi Eisenkot, Netanyahu Israel"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Key Figures",
+                "text": "Gadi Eisenkot, Netanyahu rival, to form government",
+                "image_search_query": "Gadi Eisenkot, Netanyahu, government Israel"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact",
+                "text": "Israeli president accepts certified election results",
+                "image_search_query": "Israeli president, election results, acceptance Israel"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - World",
+    "source_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQQkNGcF8xaUdSU1FqbUZTV3p2QWNEdUhHbjVpNzdDdTJYQ0lodWZMbnFOOFBhMDN4VGtaTVhsQkloY24tQTIxQ1kyRk9jbDhmXzlqSmNxajN1UzNsYTNsNkp4WnI4S01DNmhXWTJaNUkyRnJwYnd4eG9sd1hkbHdTU0MtZUlqSmwxRC14T0R6TWNNOVU5N05TR0E2WUVrVEdkeDFQazljY3J1bkNNX1Q1WTJxWTc5bzVlTVF6eFhuMWNDYnQzM21NaTBMRDhBb3JxRXRGdEt1NDRCWTV4MGE3b2xtNl91MHJEM2xkNVNsUEhPaVhBNTgybE5WZnJ3STktSDFmb0F2TXBRRjdrMjJSbWdXWdIBmgJBVV95cUxOaUEyQVpFUnVoTmlITE1xTVoxSVgxa1RhWlY4MnI3TW4tTkR2bHdvX25HZDJhYVlyNzVGdURDNDQ2ME52NHR3TFVFdmtPdi1BUF95SkNUQUtJRnhkcnVvbnNhRFFUenlUbW5NeHJiWVBPdVBYYlZxQkZnV1psM3htZjkzTnFVMGdld1l0aXZyZ3V6cHJaU2RFY1hja2N6Vk9NRWJyVHNacy1qczB0UlFSWGM2eDlsOXJLdnAwQWNrdGpkcjQ4MFFWNWJ5MEFGY05HanQ1c0JjdzRuaWpWT2ZUallFaFEyV1NxM0tOQ2t4SEt6VHJUNlV1MHZFRWlGR3czMmxKYVdvczlINXVmWFRNaUdkTGZMbkRXM2c?oc=5",
+    "published_at": "2026-11-07T20:03:53+00:00"
+}

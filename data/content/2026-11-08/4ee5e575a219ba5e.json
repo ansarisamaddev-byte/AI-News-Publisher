@@ -1,0 +1,58 @@
+{
+    "news_id": "4ee5e575a219ba5e",
+    "country": "INDIA",
+    "classification": {
+        "country": "INDIA",
+        "category": "politics",
+        "subcategory": "government policy",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "Southern India",
+        "tags": [
+            "Deepavali",
+            "firecrackers",
+            "RPF"
+        ],
+        "classification_reason": "This article discusses government policy regarding firecrackers during Deepavali, which is a significant event in Chennai and Southern India.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "RPF Steps Up Deepavali Vigil, Apprehends Five with Firecrackers at Chennai Central, Egmore",
+        "caption": "RPF steps up vigil against firecrackers during Deepavali, arresting five at Chennai Central and Egmore stations.",
+        "hashtags": [
+            "Deepavali",
+            "firecrackers",
+            "RPF"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "RPF Steps Up Deepavali Vigil",
+                "text": "RPF steps up vigil against firecrackers during Deepavali.",
+                "image_search_query": "RPF Deepavali vigil Chennai India"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Deepavali Firecrackers",
+                "text": "Deepavali is a significant festival in Chennai, and RPF steps up vigil against firecrackers.",
+                "image_search_query": "Deepavali festival Chennai India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Firecrackers Apprehensions",
+                "text": "RPF apprehends five with firecrackers at Chennai Central and Egmore stations.",
+                "image_search_query": "RPF apprehensions firecrackers Chennai India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/cities/chennai/rpf-steps-up-deepavali-vigil-apprehends-five-with-firecrackers-at-chennai-central-egmore/article71678209.ece",
+    "published_at": "2026-11-07T20:20:16+00:00"
+}

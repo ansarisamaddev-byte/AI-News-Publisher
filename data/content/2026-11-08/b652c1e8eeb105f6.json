@@ -1,0 +1,58 @@
+{
+    "news_id": "b652c1e8eeb105f6",
+    "country": "POLAND",
+    "classification": {
+        "country": "POLAND",
+        "category": "world",
+        "subcategory": "crime",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "Poland",
+        "tags": [
+            "poland",
+            "crime",
+            "gunshot"
+        ],
+        "classification_reason": "The article discusses a shooting incident in Krakow, Poland, involving six deaths and over a dozen injuries. It covers the details of the incident, including the perpetrator's ideology and the response from the government and public.",
+        "selected_channels": [
+            "world-news"
+        ]
+    },
+    "content": {
+        "title": "Kraków shooting latest updates: six killed and more than a dozen injured",
+        "caption": "Polish Prime Minister Donald Tusk expresses condolences and appeals for politicians to not exploit the tragedy.",
+        "hashtags": [
+            "#poland",
+            "#crime",
+            "#gunshot"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Kraków shooting latest updates",
+                "text": "Polish Prime Minister Donald Tusk expresses condolences and appeals for politicians to not exploit the tragedy.",
+                "image_search_query": "polish prime minister, condolences, tragedy Poland"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "What happened",
+                "text": "Six people were killed and over a dozen injured in a shooting incident in Krakow, Poland.",
+                "image_search_query": "krakow, shooting, incident Poland"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why it matters",
+                "text": "The shooter was influenced by far-right ideology, and the incident highlights the need for political leaders to avoid exploiting tragedies.",
+                "image_search_query": "polish shooter, ideology, exploitation Poland"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Guardian",
+    "source_url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+    "published_at": "2026-11-07T20:07:50+00:00"
+}
