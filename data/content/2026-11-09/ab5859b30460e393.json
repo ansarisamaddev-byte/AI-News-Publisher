@@ -1,0 +1,65 @@
+{
+    "news_id": "ab5859b30460e393",
+    "country": "US",
+    "classification": {
+        "country": "US",
+        "category": "politics",
+        "subcategory": "government policy",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "",
+        "tags": [
+            "immigration",
+            "midterms",
+            "Trump"
+        ],
+        "classification_reason": "The article discusses US government policy regarding immigration, focusing on the aftermath of midterm elections and the administration's stance on enforcement measures.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "US Immigration Policies Amid Midterm Election Results",
+        "caption": "US President Donald Trump's administration vows not to change course on mass deportation plans after midterm elections defeat.",
+        "hashtags": [
+            "immigration",
+            "midterms",
+            "Trump"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "US Immigration Policies Amid Midterm Election",
+                "text": "US President Donald Trump's administration vows not to change course on mass deportation plans after midterm elections defeat.",
+                "image_search_query": "US immigration policies after midterm elections United States"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Midterm Election Results",
+                "text": "US midterm elections resulted in Republican gains, with immigration being the third most important issue.",
+                "image_search_query": "US midterm elections and immigration United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "White House Statement",
+                "text": "White House vows not to change course on mass deportation plans after midterm elections defeat.",
+                "image_search_query": "White House statement on immigration United States"
+            },
+            {
+                "slide_number": 4,
+                "type": "impact",
+                "heading": "ICE Enforcement",
+                "text": "ICE is NOT backing away or slowing down, aiming for about 2,700 arrests of illegal immigrants per day.",
+                "image_search_query": "ICE enforcement and arrests United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-08T20:23:58+00:00"
+}

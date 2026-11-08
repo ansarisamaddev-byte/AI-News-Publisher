@@ -1,0 +1,58 @@
+{
+    "news_id": "07141ad7abea7551",
+    "country": "EGYPT",
+    "classification": {
+        "country": "EGYPT",
+        "category": "world",
+        "subcategory": "accidents",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "Egypt",
+        "tags": [
+            "accident",
+            "train",
+            "Egypt"
+        ],
+        "classification_reason": "The article discusses a train accident in Egypt, including fatalities and injuries, and the government's response.",
+        "selected_channels": [
+            "world-news"
+        ]
+    },
+    "content": {
+        "title": "Seven dead, 100 injured after trains collide in Egypt",
+        "caption": "Train crash near Giza, Egypt, killing seven and injuring over 100.",
+        "hashtags": [
+            "#trainaccident",
+            "#Egypt",
+            "#Giza"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Train Crash in Egypt",
+                "text": "Seven dead, 100 injured after trains collide in Giza, Egypt.",
+                "image_search_query": "train crash near Giza, Egypt"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "What happened?",
+                "text": "Two trains collided in Giza, Egypt, causing several carriages to derail and fall down an embankment.",
+                "image_search_query": "two trains colliding in Giza, Egypt"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why does it matter?",
+                "text": "The incident is the deadliest train accident in Egypt's history, with at least seven deaths and over 100 injuries.",
+                "image_search_query": "deadliest train accident in Egypt"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-08T19:58:02+00:00"
+}

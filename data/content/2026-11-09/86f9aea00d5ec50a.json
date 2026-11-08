@@ -1,0 +1,58 @@
+{
+    "news_id": "86f9aea00d5ec50a",
+    "country": "US",
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "business",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "",
+        "tags": [
+            "technology",
+            "business",
+            "finance"
+        ],
+        "classification_reason": "The article discusses Sequoia Capital, a prominent venture capital firm, and its recent changes, including the departure of its former leader Roelof Botha. The changes are attributed to a report from the Financial Times, which suggests that the firm is attempting to undo the legacy of Botha. This is a significant business development and financial news.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Sequoia Capital Reports Major Changes, Blindsided by Departed Leader",
+        "caption": "Sequoia Capital, a prominent venture capital firm, announced recent changes including the closure of its London office, the merger of its early-stage and growth teams, and the end of its Scouts program. A report from the Financial Times claims these changes are an attempt to undo the legacy of former leader Roelof Botha, who stepped down as the firm’s steward last year.",
+        "hashtags": [
+            "#technology",
+            "#business",
+            "#finance"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Sequoia Capital Announces Major Changes",
+                "text": "Sequoia Capital, a prominent venture capital firm, announced recent changes including the closure of its London office, the merger of its early-stage and growth teams, and the end of its Scouts program.",
+                "image_search_query": "Sequoia Capital, venture capital, changes United States"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Report on Sequoia’s Changes",
+                "text": "A report from the Financial Times claims these changes are an attempt to undo the legacy of former leader Roelof Botha, who stepped down as the firm’s steward last year.",
+                "image_search_query": "Sequoia Capital, venture capital, changes, report United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact of Changes",
+                "text": "Sequoia’s partners were blindsided by the announcement, as Botha didn’t ask for compliance or sign off from the partnership, even though his new role could complicate the firm’s ability to trade its $20 billion stake.",
+                "image_search_query": "Sequoia Capital, venture capital, changes, impact United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+    "published_at": "2026-11-08T19:51:30+00:00"
+}

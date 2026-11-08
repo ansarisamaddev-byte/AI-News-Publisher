@@ -1,0 +1,65 @@
+{
+    "news_id": "6819a8dc78b4b176",
+    "country": "US",
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "automobile",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "",
+        "tags": [
+            "cruise ship",
+            "pianist",
+            "rescue"
+        ],
+        "classification_reason": "A story about a pianist rescued from a cruise ship after nine hours in the ocean.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Cruise Ship Pianist Rescued After Nine Hours in the Pacific Ocean",
+        "caption": "A pianist onboard Royal Caribbean's Ovation of the Seas is expected to survive after being rescued from the Pacific Ocean nearly 20 miles offshore.",
+        "hashtags": [
+            "cruise ship",
+            "pianist",
+            "rescue"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Cruise Ship Pianist Rescued",
+                "text": "A pianist onboard Royal Caribbean's Ovation of the Seas is expected to survive after being rescued from the Pacific Ocean nearly 20 miles offshore.",
+                "image_search_query": "cruise ship pianist rescue United States"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Rescue Details",
+                "text": "The unidentified man was taken to the hospital after the rescue, according to the US Coast Guard.",
+                "image_search_query": "cruise ship rescue United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Rescue Process",
+                "text": "The two Newport Beach, California, fishermen spotted the man in the water and brought him onboard.",
+                "image_search_query": "cruise ship rescue process United States"
+            },
+            {
+                "slide_number": 4,
+                "type": "impact",
+                "heading": "Rescue Impact",
+                "text": "The rescue was made possible by the assistance of Newport Beach lifeguards and the company's support.",
+                "image_search_query": "cruise ship impact United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Guardian",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/08/royal-caribbean-cruise-ship-pianist-rescue",
+    "published_at": "2026-11-08T20:13:09+00:00"
+}
