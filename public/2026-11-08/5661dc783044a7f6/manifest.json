@@ -1,0 +1,81 @@
+{
+  "news_id": "5661dc783044a7f6",
+  "title": "Grid Mystery Solved: Researchers Find the Culprit",
+  "category": "technology",
+  "tags": [
+    "grid",
+    "frequency",
+    "solutions"
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+  "published_at": "2026-11-08T20:30:00+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Mystery Solved",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Machot Gatluak Pathot Tuel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(34826).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Learning_ICT_Computer_%2834826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "German researchers solve power grid anomaly Germany"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What Happened",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Machot Gatluak Pathot Tuel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(94159).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Learning_ICT_Computer_%2894159%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "German researchers solving power grid anomaly Germany"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why It Matters",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "epSos.de",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg/1280px-Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "solutions to power grid anomaly Germany"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Machot Gatluak Pathot Tuel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(87121).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Learning_ICT_Computer_%2887121%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

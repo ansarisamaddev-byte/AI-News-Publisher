@@ -1,0 +1,94 @@
+{
+  "news_id": "ab5859b30460e393",
+  "title": "US Immigration Policies Amid Midterm Election Results",
+  "category": "politics",
+  "tags": [
+    "immigration",
+    "midterms",
+    "Trump"
+  ],
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-08T20:23:58+00:00",
+  "provider_default": "",
+  "image_count": 5,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "US Immigration Policies Amid Midterm Election",
+      "image": {
+        "provider": "local-default",
+        "query": "US immigration policies after midterm elections United States",
+        "fallback_query": "parliament government building",
+        "source_path": "/home/runner/work/AI-News-Publisher/AI-News-Publisher/data/images/politics/istockphoto-2148856297-612x612.jpg",
+        "fallback_used": true,
+        "local_default": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Midterm Election Results",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Thomas Wolf , www.foto-tw.de",
+        "license": "CC BY-SA 3.0 de",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Parlament_Wien_abends.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Parlament_Wien_abends.jpg/1280px-Parlament_Wien_abends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "parliament government building",
+        "fallback_used": true,
+        "original_query": "US midterm elections and immigration United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "White House Statement",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "U.S. Secretary of Defense",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:2025_visit_to_National_Guard_soldiers_by_White_House_Deputy_Chief_of_Staff_Stephen_Miller_at_Union_Station_in_Washington,_D.C._on_August_20_(cropped).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/2025_visit_to_National_Guard_soldiers_by_White_House_Deputy_Chief_of_Staff_Stephen_Miller_at_Union_Station_in_Washington%2C_D.C._on_August_20_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "White House statement on immigration United States",
+        "fallback_used": true,
+        "original_query": "White House statement on immigration United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "heading": "ICE Enforcement",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Thennicke",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Old_and_new_Parliament_Houses;_Canberra_Australia.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Old_and_new_Parliament_Houses%3B_Canberra_Australia.jpg/1280px-Old_and_new_Parliament_Houses%3B_Canberra_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "parliament government building",
+        "fallback_used": true,
+        "original_query": "ICE enforcement and arrests United States"
+      }
+    },
+    {
+      "file": "slide_05.png",
+      "slide_number": 5,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Bernard Gagnon",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Parliament_building_of_Eswatini,_Lobamba.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Parliament_building_of_Eswatini%2C_Lobamba.jpg/1280px-Parliament_building_of_Eswatini%2C_Lobamba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "parliament government building",
+        "fallback_used": true,
+        "original_query": "parliament government building"
+      }
+    }
+  ]
+}

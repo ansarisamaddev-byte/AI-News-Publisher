@@ -1,0 +1,69 @@
+{
+  "news_id": "a844e7157a3aeff9",
+  "title": "Maya Jama steps down as host of reality TV show Love Island",
+  "category": "business",
+  "tags": [
+    "celebrity",
+    "reality TV",
+    "Love Island"
+  ],
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-08T20:20:08+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Maya Jama announces departure from Love Island",
+      "image": {
+        "provider": "generated",
+        "query": "celebrity host stepping down Love Island United Kingdom",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Jama's announcement",
+      "image": {
+        "provider": "generated",
+        "query": "celebrity host announcement Love Island United Kingdom",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Jama's background",
+      "image": {
+        "provider": "generated",
+        "query": "celebrity host background Love Island United Kingdom",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "business finance corporate office",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}
