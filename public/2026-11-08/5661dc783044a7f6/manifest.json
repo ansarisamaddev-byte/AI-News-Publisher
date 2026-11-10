@@ -19,11 +19,11 @@
       "heading": "Mystery Solved",
       "image": {
         "provider": "Wikimedia Commons",
-        "photographer": "Machot Gatluak Pathot Tuel",
-        "license": "CC BY-SA 4.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(34826).jpg",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Learning_ICT_Computer_%2834826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "photographer": "Shixart1985",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Colorful_dog_figure_on_display_during_an_event_at_a_modern_exhibition_center.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Colorful_dog_figure_on_display_during_an_event_at_a_modern_exhibition_center.jpg/1280px-Colorful_dog_figure_on_display_during_an_event_at_a_modern_exhibition_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "query": "modern technology computer digital",
         "fallback_used": true,
         "original_query": "German researchers solve power grid anomaly Germany"
@@ -35,11 +35,11 @@
       "heading": "What Happened",
       "image": {
         "provider": "Wikimedia Commons",
-        "photographer": "Machot Gatluak Pathot Tuel",
+        "photographer": "MujahidAlIbenu",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(94159).jpg",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Learning_ICT_Computer_%2894159%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rudiments_of_Information_Technology_book_cover.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Rudiments_of_Information_Technology_book_cover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "query": "modern technology computer digital",
         "fallback_used": true,
         "original_query": "German researchers solving power grid anomaly Germany"
@@ -51,11 +51,11 @@
       "heading": "Why It Matters",
       "image": {
         "provider": "Wikimedia Commons",
-        "photographer": "epSos.de",
-        "license": "CC BY 2.0",
-        "license_url": "https://creativecommons.org/licenses/by/2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg",
-        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg/1280px-Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photographer": "Machot Gatluak Pathot Tuel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(87121).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Learning_ICT_Computer_%2887121%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "query": "modern technology computer digital",
         "fallback_used": true,
         "original_query": "solutions to power grid anomaly Germany"
@@ -66,15 +66,12 @@
       "slide_number": 4,
       "type": "source_follow",
       "image": {
-        "provider": "Wikimedia Commons",
-        "photographer": "Machot Gatluak Pathot Tuel",
-        "license": "CC BY-SA 4.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(87121).jpg",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Learning_ICT_Computer_%2887121%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "provider": "local-default",
         "query": "modern technology computer digital",
+        "fallback_query": "modern technology computer digital",
+        "source_path": "/home/runner/work/AI-News-Publisher/AI-News-Publisher/data/images/technology/digitalisation-3-1000.jpg",
         "fallback_used": true,
-        "original_query": "modern technology computer digital"
+        "local_default": true
       }
     }
   ]

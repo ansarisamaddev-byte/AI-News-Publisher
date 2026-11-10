@@ -1,0 +1,72 @@
+{
+  "news_id": "2b5d7bbcfbd1bbff",
+  "title": "Chandigarh Sees Better Air Quality This Diwali Than Previous Years",
+  "category": "science",
+  "tags": [
+    "AQI",
+    "Chandigarh",
+    "Diwali"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/chandigarh-news/chandigarh-sees-better-air-quality-this-diwali-than-previous-years-12305705#publisher=newsstand",
+  "published_at": "2026-11-10T00:04:14+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Chandigarh's Air Quality",
+      "image": {
+        "provider": "generated",
+        "query": "Chandigarh Diwali AQI India",
+        "fallback_query": "scientific research laboratory",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "AQI Levels",
+      "image": {
+        "provider": "generated",
+        "query": "Chandigarh AQI Sector 25 India",
+        "fallback_query": "scientific research laboratory",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Louie D.",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Colors_of_T%27nalak_by_Louie_D.Photography.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/The_Colors_of_T%27nalak_by_Louie_D.Photography.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "editorial news photography",
+        "fallback_used": true,
+        "original_query": "Chandigarh Diwali AQI Sector 25 Impact India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "scientific research laboratory",
+        "fallback_query": "scientific research laboratory",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

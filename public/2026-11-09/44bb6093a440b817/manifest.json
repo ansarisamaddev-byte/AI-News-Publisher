@@ -1,0 +1,98 @@
+{
+  "news_id": "44bb6093a440b817",
+  "title": "Nvidia CEO Jensen Huang: Target for Chinese Intelligence",
+  "category": "technology",
+  "tags": [
+    "AI",
+    "Nvidia",
+    "China",
+    "export controls"
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+  "published_at": "2026-11-09T23:51:58+00:00",
+  "provider_default": "",
+  "image_count": 5,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Nvidia CEO Jensen Huang",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "The White House",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:P20251119DT-0059.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/P20251119DT-0059.jpg/1280px-P20251119DT-0059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "Nvidia CEO Jensen Huang United States",
+        "fallback_used": true,
+        "original_query": "Nvidia CEO Jensen Huang United States"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Jensen Huang's Influence",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Horst Faas , Associated Press",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:South_Vietnamese_paratroopers_drag_demonstrators_away.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/South_Vietnamese_paratroopers_drag_demonstrators_away.jpg/1280px-South_Vietnamese_paratroopers_drag_demonstrators_away.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "editorial news photography",
+        "fallback_used": true,
+        "original_query": "Jensen Huang, AI export controls United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact on AI Industry",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "epSos.de",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg/1280px-Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "AI industry, Nvidia, export controls United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "heading": "US Government and China",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "CHAIR Prof. Yoshua Bengio, Université de Montréal / Mila - Quebec AI Institute EXPERT ADVISORY PANEL Prof. Bronwyn Fox, The Commonwealth Scientific and Industrial Research Organisation (CSIRO) (Australia) André Carlos Ponce de Leon Ferreira de Carvalho, Institute of Mathematics and Computer Sciences, University of São Paulo (Brazil) Dr. Mona Nemer, Chief Science Advisor of Canada (Canada) Raquel Pezoa Rivera, Federico Santa María Technical University (Chile) Dr. Yi Zeng, Institute of Automation, Chinese Academy of Sciences (China) Juha Heikkilä, DG Connect (European Union) Guillaume Avrin, General Directorate of Enterprises (France) Prof. Antonio Krüger, German Research Center for Artificial Intelligence (Germany) Prof. Balaraman Ravindran, Indian Institute of Technology, Madras (India) Prof. Hammam Riza, KORIKA (Indonesia) Dr. Ciarán Seoighe, Science Foundation Ireland (Ireland) Dr. Ziv Katzir, Israel Innovation Authority (Israel) Dr. Andrea Monti, University of Chieti-Pescara (Italy) Dr. Hiroaki Kitano, Sony Group (Japan) [Interim] Mary Kerema, Ministry of Information Communications Technology and Digital Economy (Kenya) Dr. José Ramón López Portillo, Q Element (Mexico) Prof. Haroon Sheikh, Netherlands’ Scientific Council for Government Policy (Netherlands) Dr. Gill Jolly, Ministry of Business, Innovation and Employment (New Zealand) Dr. Olubunmi Ajala, Innovation and Digital Economy (Nigeria) Dominic Ligot, CirroLytix (Philippines) Prof. Kyoung Mu Lee, Department of Electrical and Computer Engineering, Seoul National University (Republic of Korea) Ahmet Halit Hatip, Turkish Ministry of Industry and Technology (Republic of Turkey) Crystal Rugege, National Center for AI and Innovation Policy (Rwanda) Dr. Fahad Albalawi, Saudi Authority for Data and Artificial Intelligence (Kingdom of Saudi Arabia) Denise Wong, Data Innovation and Protection Group, Infocomm Media Development Authority (IMDA) (Singapore) Dr. Nuria Oliver, ELLIS Alicante (Spain) Dr. Christian Busch, Federal Department of Economic Affairs, Education and Research (Switzerland) Oleksii Molchanovskyi, Expert Committee on the Development of Artificial intelligence in Ukraine (Ukraine) Marwan Alserkal, Ministry of Cabinet Affairs, Prime Minister’s Office (United Arab Emirates) Saif M. Khan, U.S. Department of Commerce (United States) Dame Angela McLean, Government Chief Scientific Adviser (United Kingdom) Amandeep Gill, UN Tech Envoy (United Nations)",
+        "license": "OGL 3",
+        "license_url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Performance_of_AI_models_on_various_benchmarks_from_1998_to_2024.png",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Performance_of_AI_models_on_various_benchmarks_from_1998_to_2024.png/1280px-Performance_of_AI_models_on_various_benchmarks_from_1998_to_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "US government, China, AI industry United States",
+        "fallback_used": true,
+        "original_query": "US government, China, AI industry United States"
+      }
+    },
+    {
+      "file": "slide_05.png",
+      "slide_number": 5,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Shixart1985",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Colorful_dog_figure_on_display_during_an_event_at_a_modern_exhibition_center.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Colorful_dog_figure_on_display_during_an_event_at_a_modern_exhibition_center.jpg/1280px-Colorful_dog_figure_on_display_during_an_event_at_a_modern_exhibition_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

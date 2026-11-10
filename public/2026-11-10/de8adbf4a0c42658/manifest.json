@@ -1,0 +1,78 @@
+{
+  "news_id": "de8adbf4a0c42658",
+  "title": "Tasmanian Premier Leads Tributes for Todd Russell, Beaconsfield Mine Collapse Survivor",
+  "category": "world",
+  "tags": [
+    "death",
+    "mining",
+    "Tasmania"
+  ],
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+  "published_at": "2026-11-10T00:14:45+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Tasmanian Premier Leads Tributes",
+      "image": {
+        "provider": "generated",
+        "query": "Tasmanian premier Jeremy Rockliff leading tributes Au",
+        "fallback_query": "global world international city",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Beaconsfield Mine Collapse Survivor",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "photographs by Russell; Elliot and Fry; Vandyk; Wayland, Blackheath; Reginald Haines; Dinham, Torquay; Pym, Streatham; Fotoco: Castle Fitch; Goodwin; Roger, St. Andrews; Hills and Saunders, Oxford; Maruki, Tokio; E. H. Mills; and R. Johnson.",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Making_of_a_Great_Illustrated_Newspaper_ILN0-1909-1225-0034.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/The_Making_of_a_Great_Illustrated_Newspaper_ILN0-1909-1225-0034.jpg/1280px-The_Making_of_a_Great_Illustrated_Newspaper_ILN0-1909-1225-0034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "editorial news photography",
+        "fallback_used": true,
+        "original_query": "Beaconsfield mine collapse survivor Au"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Death and Tributes",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Louie D.",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Colors_of_T%27nalak_by_Louie_D.Photography.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/The_Colors_of_T%27nalak_by_Louie_D.Photography.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "editorial news photography",
+        "fallback_used": true,
+        "original_query": "Tributes for Todd Russell Au"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Claire S. Marchand/CS Marchand Photography for U.S. Department of Education",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Secretary_Miguel_A._Cardona_(cropped).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Secretary_Miguel_A._Cardona_%28cropped%29.jpg/1280px-Secretary_Miguel_A._Cardona_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "editorial news photography",
+        "fallback_used": true,
+        "original_query": "global world international city"
+      }
+    }
+  ]
+}

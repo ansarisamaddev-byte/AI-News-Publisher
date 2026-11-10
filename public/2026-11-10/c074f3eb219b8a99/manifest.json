@@ -1,0 +1,82 @@
+{
+  "news_id": "c074f3eb219b8a99",
+  "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
+  "category": "politics",
+  "tags": [
+    "politics",
+    "US politics",
+    "Donald Trump",
+    "Pete Hegseth"
+  ],
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+  "published_at": "2026-11-10T00:06:19+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Main News",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "The White House",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:President_Trump_awards_Military_Men_%26_Woman_the_Mexican_Border_Defense_Medal_(G8P9j-lWwAsFd90).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/President_Trump_awards_Military_Men_%26_Woman_the_Mexican_Border_Defense_Medal_%28G8P9j-lWwAsFd90%29.jpg/1280px-President_Trump_awards_Military_Men_%26_Woman_the_Mexican_Border_Defense_Medal_%28G8P9j-lWwAsFd90%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "Donald Trump defending Pete Hegseth United States",
+        "fallback_used": true,
+        "original_query": "Donald Trump defending Pete Hegseth United States"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What Happened",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Thennicke",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Old_and_new_Parliament_Houses;_Canberra_Australia.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Old_and_new_Parliament_Houses%3B_Canberra_Australia.jpg/1280px-Old_and_new_Parliament_Houses%3B_Canberra_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "parliament government building",
+        "fallback_used": true,
+        "original_query": "Hegseth facing impeachment United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why Does It Matter",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Thomas Wolf , www.foto-tw.de",
+        "license": "CC BY-SA 3.0 de",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Parlament_Wien_abends.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Parlament_Wien_abends.jpg/1280px-Parlament_Wien_abends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "parliament government building",
+        "fallback_used": true,
+        "original_query": "Trump defending Hegseth United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Dietmar Rabich",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Canberra_(AU),_Parliament_House_and_Old_Parliament_House_--_2019_--_1767.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Canberra_%28AU%29%2C_Parliament_House_and_Old_Parliament_House_--_2019_--_1767.jpg/1280px-Canberra_%28AU%29%2C_Parliament_House_and_Old_Parliament_House_--_2019_--_1767.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "parliament government building",
+        "fallback_used": true,
+        "original_query": "parliament government building"
+      }
+    }
+  ]
+}

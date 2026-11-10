@@ -18,12 +18,15 @@
       "slide_number": 1,
       "heading": "Maya Jama announces departure from Love Island",
       "image": {
-        "provider": "generated",
-        "query": "celebrity host stepping down Love Island United Kingdom",
-        "fallback_query": "business finance corporate office",
+        "provider": "Wikimedia Commons",
+        "photographer": "photographs by Russell; Elliot and Fry; Vandyk; Wayland, Blackheath; Reginald Haines; Dinham, Torquay; Pym, Streatham; Fotoco: Castle Fitch; Goodwin; Roger, St. Andrews; Hills and Saunders, Oxford; Maruki, Tokio; E. H. Mills; and R. Johnson.",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Making_of_a_Great_Illustrated_Newspaper_ILN0-1909-1225-0034.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/The_Making_of_a_Great_Illustrated_Newspaper_ILN0-1909-1225-0034.jpg/1280px-The_Making_of_a_Great_Illustrated_Newspaper_ILN0-1909-1225-0034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "editorial news photography",
         "fallback_used": true,
-        "error": "No image found",
-        "fallback_graphic": true
+        "original_query": "celebrity host stepping down Love Island United Kingdom"
       }
     },
     {
@@ -31,12 +34,15 @@
       "slide_number": 2,
       "heading": "Jama's announcement",
       "image": {
-        "provider": "generated",
-        "query": "celebrity host announcement Love Island United Kingdom",
-        "fallback_query": "business finance corporate office",
+        "provider": "Wikimedia Commons",
+        "photographer": "w:Jahangir Razmi",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Firing_Squad_in_Iran.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Firing_Squad_in_Iran.jpg/1280px-Firing_Squad_in_Iran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "editorial news photography",
         "fallback_used": true,
-        "error": "No image found",
-        "fallback_graphic": true
+        "original_query": "celebrity host announcement Love Island United Kingdom"
       }
     },
     {
@@ -44,12 +50,15 @@
       "slide_number": 3,
       "heading": "Jama's background",
       "image": {
-        "provider": "generated",
-        "query": "celebrity host background Love Island United Kingdom",
-        "fallback_query": "business finance corporate office",
+        "provider": "Wikimedia Commons",
+        "photographer": "Louie D.",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Colors_of_T%27nalak_by_Louie_D.Photography.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/The_Colors_of_T%27nalak_by_Louie_D.Photography.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "editorial news photography",
         "fallback_used": true,
-        "error": "No image found",
-        "fallback_graphic": true
+        "original_query": "celebrity host background Love Island United Kingdom"
       }
     },
     {

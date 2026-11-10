@@ -1,0 +1,72 @@
+{
+  "news_id": "62780d483eee23f7",
+  "title": "Headteachers consider leaving jobs earlier than planned after new Ofsted inspection",
+  "category": "education",
+  "tags": [
+    "school leadership",
+    "Ofsted",
+    "inspections"
+  ],
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/education/2026/nov/10/headteachers-consider-leaving-job-earlier-than-planned-new-ofsted-inspection",
+  "published_at": "2026-11-10T00:01:22+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Headteachers consider leaving jobs earlier",
+      "image": {
+        "provider": "generated",
+        "query": "headteachers leaving jobs earlier United Kingdom",
+        "fallback_query": "university education classroom",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Impact on School Leaders",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "w:Jahangir Razmi",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Firing_Squad_in_Iran.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Firing_Squad_in_Iran.jpg/1280px-Firing_Squad_in_Iran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "editorial news photography",
+        "fallback_used": true,
+        "original_query": "intense inspections, stress, anxiety United Kingdom"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Survey Findings",
+      "image": {
+        "provider": "generated",
+        "query": "survey findings, headteachers leaving jobs, mental health United Kingdom",
+        "fallback_query": "university education classroom",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "university education classroom",
+        "fallback_query": "university education classroom",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}
