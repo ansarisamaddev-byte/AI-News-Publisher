@@ -1,0 +1,66 @@
+{
+    "news_id": "d1c5195bec7e377f",
+    "country": "US",
+    "classification": {
+        "country": "US",
+        "category": "politics",
+        "subcategory": "US politics",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "",
+        "tags": [
+            "politics",
+            "elections",
+            "House",
+            "Senate"
+        ],
+        "classification_reason": "The article discusses US politics, elections, and the House and Senate minority leadership.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Trump ally Jim Jordan wins House minority leader election",
+        "caption": "Jim Jordan, a Republican hardliner from Ohio, wins the election to become the next House minority leader in Congress.",
+        "hashtags": [
+            "#Trump",
+            "#HouseMinorityLeader",
+            "#Republican"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Jim Jordan Wins House Minority Leader Election",
+                "text": "Republican Jim Jordan wins the election to become the next House minority leader in Congress.",
+                "image_search_query": "Jim Jordan, House minority leader, election United States"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Who is Jim Jordan?",
+                "text": "Jim Jordan is a Republican hardliner from Ohio.",
+                "image_search_query": "Jim Jordan, Ohio, Republican United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "How did he win?",
+                "text": "Jordan beat Representative Steve Scalise, the current majority leader, by 106-73 in a closed-door vote.",
+                "image_search_query": "Jim Jordan, Steve Scalise, election United States"
+            },
+            {
+                "slide_number": 4,
+                "type": "impact",
+                "heading": "Why is this important?",
+                "text": "This win is crucial for the Republican party to advance their legislative aims and fend off aggressive oversight that Democrats have promised in the next Congress.",
+                "image_search_query": "Jim Jordan, House minority leader, impact United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Guardian",
+    "source_url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+    "published_at": "2026-11-10T21:34:13+00:00"
+}

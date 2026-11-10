@@ -1,0 +1,65 @@
+{
+    "news_id": "b71b8490ddfc5930",
+    "country": "BRAZIL",
+    "classification": {
+        "country": "BRAZIL",
+        "category": "science",
+        "subcategory": "ecology",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "Atlantic Forest",
+        "tags": [
+            "fungus",
+            "Atlantic Forest",
+            "amphibians"
+        ],
+        "classification_reason": "Investigation into the mysterious crash of amphibians in Brazil's Atlantic Forest, which occurred in the 1970s and 1980s, and the discovery of a killer fungus that was absent before the crash.",
+        "selected_channels": [
+            "science-news"
+        ]
+    },
+    "content": {
+        "title": "Investigation: Fungus May Have Killed Amphibians in Brazil's Atlantic Forest",
+        "caption": "Scientists discover a killer fungus that was absent before the amphibian crash in Brazil's Atlantic Forest.",
+        "hashtags": [
+            "#amphibians",
+            "#AtlanticForest",
+            "#killerfungus"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Investigation",
+                "text": "Scientists investigate the mysterious amphibian crash in Brazil's Atlantic Forest.",
+                "image_search_query": "amphibian crash Brazil Atlantic Forest fungus"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "The Crash",
+                "text": "Amphibians in Brazil's Atlantic Forest crashed between 1979 and 1982.",
+                "image_search_query": "amphibian crash Brazil Atlantic Forest"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "The Killer Fungus",
+                "text": "Scientists found a killer fungus that was absent before the crash.",
+                "image_search_query": "killer fungus Atlantic Forest amphibians Brazil"
+            },
+            {
+                "slide_number": 4,
+                "type": "impact",
+                "heading": "Implications",
+                "text": "The discovery has implications for conservation efforts in the Atlantic Forest.",
+                "image_search_query": "implications Atlantic Forest conservation Brazil"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Science",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXExTWg0Z05RYUR0NUJnREJyQnZ0NVhlQjduTHdRbUlKOGpxX2thbmNRRkRURUs2RkU5NkloVk12NU9uYlhjWUw4Qk9KM2s0WFFjSEgxdjFZMXZNeVQ0d2VnSlRta1NJNWluSkgyQThLSHNqQ0ticFZVRmg5SFhSLVBXWDE2V3pyVjJfZ2dzOHZBRjdoaVVGU2J4elFpS2RvS1ZnTHl0ZWx3aW5GSnhyMUlmbFhuZDBLUGpn0gHAAUFVX3lxTFBHbTF3ckhmdkRFNzdONmZsaVdHMkdvNGl1N0Q0bWhEMVRSUWx1YmRGTjRpdFFSYVJvcjdibWRlaXJyOHRaOXZCU3dqWHJ1dDgzQ0ZjaUozaHl2Q01qYmdISGcxUXBvWEQtYlJFSmJuSmJDc1JuRHZiS1B3TjU1U2ZWa1llaE95OF95amthTmltUE1GcFNpVmhDUjlqNG9XajhxZXFYWmN0aVd2bHpfNGVld3llTElaTTV3ZnA3a1BQYg?oc=5",
+    "published_at": "2026-11-10T21:27:48+00:00"
+}
