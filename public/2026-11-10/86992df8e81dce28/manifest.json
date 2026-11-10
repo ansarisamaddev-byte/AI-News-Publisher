@@ -19,15 +19,12 @@
       "slide_number": 1,
       "heading": "Jensen Huang’s Troubles",
       "image": {
-        "provider": "Wikimedia Commons",
-        "photographer": "Diyaakram",
-        "license": "CC BY-SA 4.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Lack_of_Technology_in_Traditional_Classrooms.jpg",
-        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Lack_of_Technology_in_Traditional_Classrooms.jpg/1280px-Lack_of_Technology_in_Traditional_Classrooms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "query": "modern technology computer digital",
+        "provider": "local-default",
+        "query": "Jensen Huang, Alice Huang, Singapore, Nvidia United States",
+        "fallback_query": "modern technology computer digital",
+        "source_path": "/home/runner/work/AI-News-Publisher/AI-News-Publisher/data/images/technology/digitalisation-3-1000.jpg",
         "fallback_used": true,
-        "original_query": "Jensen Huang, Alice Huang, Singapore, Nvidia United States"
+        "local_default": true
       }
     },
     {
@@ -35,15 +32,12 @@
       "slide_number": 2,
       "heading": "The Scandal",
       "image": {
-        "provider": "Wikimedia Commons",
-        "photographer": "Horst Faas , Associated Press",
-        "license": "Public domain",
-        "license_url": "",
-        "source_url": "https://commons.wikimedia.org/wiki/File:South_Vietnamese_paratroopers_drag_demonstrators_away.jpg",
-        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/South_Vietnamese_paratroopers_drag_demonstrators_away.jpg/1280px-South_Vietnamese_paratroopers_drag_demonstrators_away.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "query": "editorial news photography",
+        "provider": "local-default",
+        "query": "Jensen Huang, Alice Huang, Singapore, Nvidia, intelligence United States",
+        "fallback_query": "modern technology computer digital",
+        "source_path": "/home/runner/work/AI-News-Publisher/AI-News-Publisher/data/images/technology/digitalisation-3-1000.jpg",
         "fallback_used": true,
-        "original_query": "Jensen Huang, Alice Huang, Singapore, Nvidia, intelligence United States"
+        "local_default": true
       }
     },
     {
@@ -51,15 +45,12 @@
       "slide_number": 3,
       "heading": "Impact",
       "image": {
-        "provider": "Wikimedia Commons",
-        "photographer": "MujahidAlIbenu",
-        "license": "CC BY-SA 4.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Rudiments_of_Information_Technology_book_cover.jpg",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Rudiments_of_Information_Technology_book_cover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "query": "modern technology computer digital",
+        "provider": "local-default",
+        "query": "Jensen Huang, Alice Huang, Singapore, Nvidia, board investigation United States",
+        "fallback_query": "modern technology computer digital",
+        "source_path": "/home/runner/work/AI-News-Publisher/AI-News-Publisher/data/images/technology/linkedin-post-not-showing-up-fix-2026.jpg",
         "fallback_used": true,
-        "original_query": "Jensen Huang, Alice Huang, Singapore, Nvidia, board investigation United States"
+        "local_default": true
       }
     },
     {
@@ -68,12 +59,12 @@
       "type": "source_follow",
       "image": {
         "provider": "Wikimedia Commons",
-        "photographer": "Louie D.",
-        "license": "CC BY-SA 2.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:The_Colors_of_T%27nalak_by_Louie_D.Photography.jpg",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/The_Colors_of_T%27nalak_by_Louie_D.Photography.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "query": "editorial news photography",
+        "photographer": "epSos.de",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg/1280px-Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "modern technology computer digital",
         "fallback_used": true,
         "original_query": "modern technology computer digital"
       }

@@ -18,12 +18,15 @@
       "slide_number": 1,
       "heading": "Headteachers consider leaving jobs earlier",
       "image": {
-        "provider": "generated",
-        "query": "headteachers leaving jobs earlier United Kingdom",
-        "fallback_query": "university education classroom",
+        "provider": "Wikimedia Commons",
+        "photographer": "Harrison Keely",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Professor_and_students_in_a_university_classroom_in_Tennessee.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Professor_and_students_in_a_university_classroom_in_Tennessee.jpg/1280px-Professor_and_students_in_a_university_classroom_in_Tennessee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "university education classroom",
         "fallback_used": true,
-        "error": "No image found",
-        "fallback_graphic": true
+        "original_query": "headteachers leaving jobs earlier United Kingdom"
       }
     },
     {
@@ -32,12 +35,12 @@
       "heading": "Impact on School Leaders",
       "image": {
         "provider": "Wikimedia Commons",
-        "photographer": "w:Jahangir Razmi",
-        "license": "Public domain",
-        "license_url": "",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Firing_Squad_in_Iran.jpg",
-        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Firing_Squad_in_Iran.jpg/1280px-Firing_Squad_in_Iran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "query": "editorial news photography",
+        "photographer": "Harrison Keely",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:A_science_classroom_at_Lee_University_in_Cleveland,_Tennessee,_United_States_04.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/A_science_classroom_at_Lee_University_in_Cleveland%2C_Tennessee%2C_United_States_04.jpg/1280px-A_science_classroom_at_Lee_University_in_Cleveland%2C_Tennessee%2C_United_States_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "university education classroom",
         "fallback_used": true,
         "original_query": "intense inspections, stress, anxiety United Kingdom"
       }
@@ -47,12 +50,15 @@
       "slide_number": 3,
       "heading": "Survey Findings",
       "image": {
-        "provider": "generated",
-        "query": "survey findings, headteachers leaving jobs, mental health United Kingdom",
-        "fallback_query": "university education classroom",
+        "provider": "Wikimedia Commons",
+        "photographer": "Harrison Keely",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Students_in_a_university_classroom_in_Tennessee_08.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Students_in_a_university_classroom_in_Tennessee_08.jpg/1280px-Students_in_a_university_classroom_in_Tennessee_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "university education classroom",
         "fallback_used": true,
-        "error": "No image found",
-        "fallback_graphic": true
+        "original_query": "survey findings, headteachers leaving jobs, mental health United Kingdom"
       }
     },
     {
@@ -60,12 +66,15 @@
       "slide_number": 4,
       "type": "source_follow",
       "image": {
-        "provider": "generated",
+        "provider": "Wikimedia Commons",
+        "photographer": "Bighornedowl",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:%E5%8D%9A%E9%9B%85%E6%95%99%E5%AD%B8%E9%A4%A8%E6%9D%B1.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%E5%8D%9A%E9%9B%85%E6%95%99%E5%AD%B8%E9%A4%A8%E6%9D%B1.jpg/1280px-%E5%8D%9A%E9%9B%85%E6%95%99%E5%AD%B8%E9%A4%A8%E6%9D%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "query": "university education classroom",
-        "fallback_query": "university education classroom",
         "fallback_used": true,
-        "error": "No image found",
-        "fallback_graphic": true
+        "original_query": "university education classroom"
       }
     }
   ]

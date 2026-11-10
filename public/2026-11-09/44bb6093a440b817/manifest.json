@@ -23,8 +23,8 @@
         "photographer": "The White House",
         "license": "Public domain",
         "license_url": "",
-        "source_url": "https://commons.wikimedia.org/wiki/File:P20251119DT-0059.jpg",
-        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/P20251119DT-0059.jpg/1280px-P20251119DT-0059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source_url": "https://commons.wikimedia.org/wiki/File:P20251119DT-0042.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/P20251119DT-0042.jpg/1280px-P20251119DT-0042.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "query": "Nvidia CEO Jensen Huang United States",
         "fallback_used": true,
         "original_query": "Nvidia CEO Jensen Huang United States"
@@ -36,12 +36,12 @@
       "heading": "Jensen Huang's Influence",
       "image": {
         "provider": "Wikimedia Commons",
-        "photographer": "Horst Faas , Associated Press",
-        "license": "Public domain",
-        "license_url": "",
-        "source_url": "https://commons.wikimedia.org/wiki/File:South_Vietnamese_paratroopers_drag_demonstrators_away.jpg",
-        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/South_Vietnamese_paratroopers_drag_demonstrators_away.jpg/1280px-South_Vietnamese_paratroopers_drag_demonstrators_away.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "query": "editorial news photography",
+        "photographer": "Machot Gatluak Pathot Tuel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(78797).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Learning_ICT_Computer_%2878797%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "modern technology computer digital",
         "fallback_used": true,
         "original_query": "Jensen Huang, AI export controls United States"
       }
@@ -52,11 +52,11 @@
       "heading": "Impact on AI Industry",
       "image": {
         "provider": "Wikimedia Commons",
-        "photographer": "epSos.de",
-        "license": "CC BY 2.0",
-        "license_url": "https://creativecommons.org/licenses/by/2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg",
-        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg/1280px-Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photographer": "Machot Gatluak Pathot Tuel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(87121).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Learning_ICT_Computer_%2887121%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "query": "modern technology computer digital",
         "fallback_used": true,
         "original_query": "AI industry, Nvidia, export controls United States"
@@ -84,11 +84,11 @@
       "type": "source_follow",
       "image": {
         "provider": "Wikimedia Commons",
-        "photographer": "Shixart1985",
-        "license": "CC BY 2.0",
-        "license_url": "https://creativecommons.org/licenses/by/2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Colorful_dog_figure_on_display_during_an_event_at_a_modern_exhibition_center.jpg",
-        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Colorful_dog_figure_on_display_during_an_event_at_a_modern_exhibition_center.jpg/1280px-Colorful_dog_figure_on_display_during_an_event_at_a_modern_exhibition_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photographer": "Machot Gatluak Pathot Tuel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(34826).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Learning_ICT_Computer_%2834826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "query": "modern technology computer digital",
         "fallback_used": true,
         "original_query": "modern technology computer digital"
