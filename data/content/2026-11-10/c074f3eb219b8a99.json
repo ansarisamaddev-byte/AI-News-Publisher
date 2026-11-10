@@ -1,0 +1,60 @@
+{
+    "news_id": "c074f3eb219b8a99",
+    "country": "US",
+    "classification": {
+        "country": "US",
+        "category": "politics",
+        "subcategory": "US politics",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "US",
+        "tags": [
+            "politics",
+            "US politics",
+            "Donald Trump",
+            "Pete Hegseth"
+        ],
+        "classification_reason": "The article discusses political events and figures in the US, including impeachment proceedings, defense secretary appointments, and election results.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
+        "caption": "Donald Trump defends Pete Hegseth, who is facing articles of impeachment introduced by Republican senator Thomas Massie.",
+        "hashtags": [
+            "#politics",
+            "#USpolitics",
+            "#DonaldTrump",
+            "#PeteHegseth"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Main News",
+                "text": "Donald Trump defends Pete Hegseth, facing impeachment",
+                "image_search_query": "Donald Trump defending Pete Hegseth United States"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "What Happened",
+                "text": "Hegseth faces articles of impeachment introduced by Republican senator Thomas Massie",
+                "image_search_query": "Hegseth facing impeachment United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "key detail",
+                "heading": "Why Does It Matter",
+                "text": "Trump defends Hegseth, saying he won two wars",
+                "image_search_query": "Trump defending Hegseth United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Guardian",
+    "source_url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+    "published_at": "2026-11-10T00:06:19+00:00"
+}

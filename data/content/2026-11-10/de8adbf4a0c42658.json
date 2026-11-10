@@ -1,0 +1,58 @@
+{
+    "news_id": "de8adbf4a0c42658",
+    "country": "AU",
+    "classification": {
+        "country": "AU",
+        "category": "world",
+        "subcategory": "death",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "",
+        "tags": [
+            "death",
+            "mining",
+            "Tasmania"
+        ],
+        "classification_reason": "The article discusses the death of a mine collapse survivor in Tasmania, Australia, which is a significant event in the local news.",
+        "selected_channels": [
+            "world-news"
+        ]
+    },
+    "content": {
+        "title": "Tasmanian Premier Leads Tributes for Todd Russell, Beaconsfield Mine Collapse Survivor",
+        "caption": "Tasmanian premier Jeremy Rockliff leads tributes for Todd Russell, a mine collapse survivor who died aged 54.",
+        "hashtags": [
+            "#Tasmania",
+            "#ToddRussell",
+            "#BeaconsfieldMine"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Tasmanian Premier Leads Tributes",
+                "text": "Tasmanian premier Jeremy Rockliff leads tributes for Todd Russell, a mine collapse survivor who died aged 54.",
+                "image_search_query": "Tasmanian premier Jeremy Rockliff leading tributes Au"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Beaconsfield Mine Collapse Survivor",
+                "text": "Beaconsfield mine collapse survivor Todd Russell died aged 54 after recently announcing deteriorating health.",
+                "image_search_query": "Beaconsfield mine collapse survivor Au"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Death and Tributes",
+                "text": "The Tasmanian premier, Jeremy Rockliff, led tributes for Todd Russell, a mine collapse survivor who died aged 54.",
+                "image_search_query": "Tributes for Todd Russell Au"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Guardian",
+    "source_url": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+    "published_at": "2026-11-10T00:14:45+00:00"
+}

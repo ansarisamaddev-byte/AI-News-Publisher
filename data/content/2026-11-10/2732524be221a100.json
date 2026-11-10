@@ -1,0 +1,65 @@
+{
+    "news_id": "2732524be221a100",
+    "country": "INDIA",
+    "classification": {
+        "country": "INDIA",
+        "category": "world",
+        "subcategory": "environment",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "",
+        "tags": [
+            "pollution",
+            "AQI",
+            "Diwali"
+        ],
+        "classification_reason": "The article discusses Delhi's air quality during Diwali, highlighting the discrepancy between official AQI and actual pollution levels.",
+        "selected_channels": [
+            "world-news"
+        ]
+    },
+    "content": {
+        "title": "Delhi's Air Quality During Diwali: AQI Understated",
+        "caption": "Delhi's air quality during Diwali was severely impacted, with AQI understated by the official system.",
+        "hashtags": [
+            "#DelhiAirQuality",
+            "#DiwaliPollution",
+            "#AQIUnderestimation"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Delhi's Air Quality During Diwali",
+                "text": "Delhi's air quality during Diwali was severely impacted, with AQI understated by the official system.",
+                "image_search_query": "Delhi air quality Diwali AQI India"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "AQI Underestimation",
+                "text": "The official AQI understated the pollution levels during Diwali.",
+                "image_search_query": "AQI understatement Diwali India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why It Matters",
+                "text": "The discrepancy between AQI and actual pollution levels highlights the need for better air quality monitoring.",
+                "image_search_query": "AQI understatement Diwali importance India"
+            },
+            {
+                "slide_number": 4,
+                "type": "impact",
+                "heading": "Impact",
+                "text": "The underestimation of pollution levels during Diwali led to a severe impact on Delhi's air quality.",
+                "image_search_query": "AQI understatement Diwali impact India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "Hindustan Times",
+    "source_url": "https://www.hindustantimes.com/india-news/delhi-pollution-monitors-went-dark-as-aqi-surged-on-diwali-101794268023082.html",
+    "published_at": "2026-11-09T23:56:24+00:00"
+}

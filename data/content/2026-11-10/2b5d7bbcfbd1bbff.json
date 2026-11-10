@@ -1,0 +1,58 @@
+{
+    "news_id": "2b5d7bbcfbd1bbff",
+    "country": "INDIA",
+    "classification": {
+        "country": "INDIA",
+        "category": "science",
+        "subcategory": "environment",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "Haryana",
+        "tags": [
+            "AQI",
+            "Chandigarh",
+            "Diwali"
+        ],
+        "classification_reason": "Chandigarh's air quality improved during Diwali compared to previous years, indicating a positive environmental impact.",
+        "selected_channels": [
+            "science-news"
+        ]
+    },
+    "content": {
+        "title": "Chandigarh Sees Better Air Quality This Diwali Than Previous Years",
+        "caption": "Chandigarh's air quality improved during Diwali compared to previous years.",
+        "hashtags": [
+            "#Chandigarh",
+            "#Diwali",
+            "#AQI"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Chandigarh's Air Quality",
+                "text": "Chandigarh saw better air quality during Diwali compared to previous years.",
+                "image_search_query": "Chandigarh Diwali AQI India"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "AQI Levels",
+                "text": "The highest AQI during the bursting window was recorded at Sector 25 at 326.",
+                "image_search_query": "Chandigarh AQI Sector 25 India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact",
+                "text": "This improvement suggests a positive environmental impact.",
+                "image_search_query": "Chandigarh Diwali AQI Sector 25 Impact India"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "NDTV",
+    "source_url": "https://www.ndtv.com/chandigarh-news/chandigarh-sees-better-air-quality-this-diwali-than-previous-years-12305705#publisher=newsstand",
+    "published_at": "2026-11-10T00:04:14+00:00"
+}
