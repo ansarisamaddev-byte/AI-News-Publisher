@@ -22,8 +22,8 @@
         "photographer": "Machot Gatluak Pathot Tuel",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(94159).jpg",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Learning_ICT_Computer_%2894159%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(34826).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Learning_ICT_Computer_%2834826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "query": "modern technology computer digital",
         "fallback_used": true,
         "original_query": "Oura acquisition Counsel Health AI chatbot United States"
@@ -34,12 +34,15 @@
       "slide_number": 2,
       "heading": "Oura's AI Integration",
       "image": {
-        "provider": "local-default",
-        "query": "Oura AI chatbot insights United States",
-        "fallback_query": "modern technology computer digital",
-        "source_path": "/home/runner/work/AI-News-Publisher/AI-News-Publisher/data/images/technology/digitalisation-3-1000.jpg",
+        "provider": "Wikimedia Commons",
+        "photographer": "epSos.de",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg/1280px-Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "modern technology computer digital",
         "fallback_used": true,
-        "local_default": true
+        "original_query": "Oura AI chatbot insights United States"
       }
     },
     {
@@ -48,11 +51,11 @@
       "heading": "Oura's Strategy",
       "image": {
         "provider": "Wikimedia Commons",
-        "photographer": "Diyaakram",
+        "photographer": "Machot Gatluak Pathot Tuel",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Lack_of_Technology_in_Traditional_Classrooms.jpg",
-        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Lack_of_Technology_in_Traditional_Classrooms.jpg/1280px-Lack_of_Technology_in_Traditional_Classrooms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(87121).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Learning_ICT_Computer_%2887121%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "query": "modern technology computer digital",
         "fallback_used": true,
         "original_query": "Oura health data AI integration United States"
@@ -67,8 +70,8 @@
         "photographer": "Machot Gatluak Pathot Tuel",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer.jpg",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Learning_ICT_Computer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(87121).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Learning_ICT_Computer_%2887121%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "query": "modern technology computer digital",
         "fallback_used": true,
         "original_query": "modern technology computer digital"

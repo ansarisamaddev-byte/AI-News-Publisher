@@ -1,0 +1,81 @@
+{
+  "news_id": "e2da39a99c9489b5",
+  "title": "Turkey's Erdogan Calls Gaza War 'Ecocide' at UN Climate Summit",
+  "category": "world",
+  "tags": [
+    "politics",
+    "climate summit",
+    "COP31"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/turkeys-erdogan-calls-gaza-war-ecocide-at-un-climate-summit-cop31-israel-hits-back-12314752#publisher=newsstand",
+  "published_at": "2026-11-11T22:42:32+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Erdogan at COP31",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Célian",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:GaWC_World_Cities_2024.png",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/GaWC_World_Cities_2024.png/1280px-GaWC_World_Cities_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "global world international city",
+        "fallback_used": true,
+        "original_query": "Erdogan speaking at UN climate summit Turkey"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Erdogan's Statement",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Lumos3",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Victoria_Falls_Publicity_Association_Global_directions_plaque.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Victoria_Falls_Publicity_Association_Global_directions_plaque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "global world international city",
+        "fallback_used": true,
+        "original_query": "Erdogan calling Gaza War Ecocide Turkey"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Israel's Response",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "PortCCX",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Fintech_World_Cup_at_Port_City_Colombo.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Fintech_World_Cup_at_Port_City_Colombo.jpg/1280px-Fintech_World_Cup_at_Port_City_Colombo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "global world international city",
+        "fallback_used": true,
+        "original_query": "Israel responding to Erdogan Turkey"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Hannah Ritchie and Max Roser",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Global_land_use_for_food_production,_OWID_statistic.png",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Global_land_use_for_food_production%2C_OWID_statistic.png/1280px-Global_land_use_for_food_production%2C_OWID_statistic.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "global world international city",
+        "fallback_used": true,
+        "original_query": "global world international city"
+      }
+    }
+  ]
+}
