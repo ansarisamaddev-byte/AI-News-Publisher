@@ -1,0 +1,58 @@
+{
+    "news_id": "71eca8357776eb82",
+    "country": "US",
+    "classification": {
+        "country": "US",
+        "category": "world",
+        "subcategory": "politics",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "US",
+        "tags": [
+            "politics",
+            "war",
+            "Iran"
+        ],
+        "classification_reason": "U.S. President Donald Trump defends the war against Iran on Veterans Day.",
+        "selected_channels": [
+            "world-news"
+        ]
+    },
+    "content": {
+        "title": "Trump defends Iran war in Veterans Day address",
+        "caption": "U.S. President Donald Trump defends the war against Iran on Veterans Day.",
+        "hashtags": [
+            "#politics",
+            "#war",
+            "#Iran"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "U.S. President defends Iran war",
+                "text": "U.S. President Donald Trump defends the war against Iran on Veterans Day.",
+                "image_search_query": "U.S. President defending Iran war United States"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Background",
+                "text": "The conflict began on February 28 with U.S. and Israeli strikes against Iran.",
+                "image_search_query": "U.S. strikes against Iran United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact",
+                "text": "The war has cost the lives of 23 U.S. service members and wounded several hundred more.",
+                "image_search_query": "U.S. war casualties United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/international/usa-president-donald-trump-veterans-day-address-iran-war/article71691407.ece",
+    "published_at": "2026-11-11T22:37:21+00:00"
+}

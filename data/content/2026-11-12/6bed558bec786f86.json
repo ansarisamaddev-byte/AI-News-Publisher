@@ -1,0 +1,58 @@
+{
+    "news_id": "6bed558bec786f86",
+    "country": "UK",
+    "classification": {
+        "country": "UK",
+        "category": "world",
+        "subcategory": "environment",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "Europe",
+        "tags": [
+            "climate",
+            "security",
+            "UK"
+        ],
+        "classification_reason": "The article discusses the appointment of the world's first special representative for climate security in the UK, highlighting the country's concerns about the impacts of climate change on national security.",
+        "selected_channels": [
+            "world-news"
+        ]
+    },
+    "content": {
+        "title": "UK appoints world's first special representative for climate security",
+        "caption": "The UK has appointed Madeleine Alessandri as the world's first special representative for climate security, warning of national security risks from the climate crisis.",
+        "hashtags": [
+            "#climate",
+            "#security",
+            "#UK"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Special Representative for Climate Security",
+                "text": "The UK appoints Madeleine Alessandri as the world's first special representative for climate security.",
+                "image_search_query": "UK climate security representative United Kingdom"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Climate Crisis and National Security",
+                "text": "The UK is concerned about the impacts of climate change on national security. The appointment of Madeleine Alessandri signals the country's growing awareness of these risks.",
+                "image_search_query": "UK climate crisis national security United Kingdom"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Key Risks",
+                "text": "The JIC report warns that within five years, the UK could experience national security impacts from the collapse of ecosystems overseas, driven by the climate crisis.",
+                "image_search_query": "UK climate security risks United Kingdom"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Guardian",
+    "source_url": "https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security",
+    "published_at": "2026-11-11T22:30:01+00:00"
+}

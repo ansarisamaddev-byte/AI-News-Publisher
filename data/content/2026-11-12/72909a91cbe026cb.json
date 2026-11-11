@@ -1,0 +1,58 @@
+{
+    "news_id": "72909a91cbe026cb",
+    "country": "INDIA",
+    "classification": {
+        "country": "INDIA",
+        "category": "entertainment",
+        "subcategory": "film",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "India",
+        "tags": [
+            "box office",
+            "Nayanthara",
+            "Suriya"
+        ],
+        "classification_reason": "Entertainment news about a film's box office performance.",
+        "selected_channels": [
+            "entertainment-news"
+        ]
+    },
+    "content": {
+        "title": "Mookuthi Amman 2 Box Office Collection Day 6",
+        "caption": "Nayanthara's film trails Suriya's scene by 750% box office collection",
+        "hashtags": [
+            "#boxoffice",
+            "#Nayanthara",
+            "#Suriya"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Mookuthi Amman 2 Box Office Collection Day 6",
+                "text": "Nayanthara's film trails Suriya's scene by 750% box office collection",
+                "image_search_query": "Mookuthi Amman 2 box office collection day 6 India"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Nayanthara's Film Trails",
+                "text": "Nayanthara's film 'Mookuthi Amman 2' has been a huge success, with a box office collection that has grown by 750% from the previous day.",
+                "image_search_query": "Nayanthara film trails Mookuthi Amman 2 India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Suriya's Scene",
+                "text": "Suriya's film 'Mookuthi Amman 2' has also performed well, with a box office collection that has grown by 750% from the previous day.",
+                "image_search_query": "Suriya film Mookuthi Amman 2 India"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Entertainment",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3pITHMxOHV2cElWSGtsdzVNWWV0UFo2VURUaDJYWXF0cU1vQkVvd3dWUnRZcGNhY1Zrdkc0allkcXcxSFJzV1AyYTJnazVURmRqdHhOZFNFZXRsNk9FMmpvcXpYNkxad1hjVHh6Mm5RYm9JYU51SW5DTHRaemdIRFlkajRkSWs2RDNv?oc=5",
+    "published_at": "2026-11-11T22:21:59+00:00"
+}
