@@ -121,9 +121,7 @@ jobs:
 
           if ! git diff --cached --quiet; then
             git commit -m "chore: generate AI news content"
-
             git pull --rebase origin main
-
             git push origin HEAD:main
           else
             echo "No changes to commit."

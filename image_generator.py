@@ -25,6 +25,8 @@ TIMEOUT = 30
 MIN_FONT_SIZE = 24
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp"}
 
+CURRENT_POST_USED_LOCAL_IMAGES = set()
+
 def load_env():
     try:
         from dotenv import load_dotenv
@@ -223,25 +225,8 @@ def normalize_folder_name(value):
 
 def normalize_match_text(value):
     value = clean_text(value).lower()
-    value = re.sub(r"[^a-z0-9\s]", " ", value)
-    words = value.split()
-
-    # Remove common titles so "Mahatma Gandhi" matches "Gandhiji".
-    titles = {
-        "mahatma", "mr", "mrs", "ms", "dr", "professor",
-        "president", "prime", "minister", "sir", "shri",
-        "sri", "late"
-    }
-
-    words = [word for word in words if word not in titles]
-
-    # Normalize common Indian honorific suffixes.
-    words = [
-        word[:-2] if word.endswith("ji") and len(word) > 4 else word
-        for word in words
-    ]
-
-    return " ".join(words)
+    value = re.sub(r"[^a-z0-9]+", " ", value)
+    return " ".join(value.split())
 
 def get_story_tags(data):
     tags = (data.get("classification") or {}).get("tags") or []
@@ -275,11 +260,52 @@ def contains_phrase(text, phrase):
     if not text or not phrase:
         return False
 
-    # Word-boundary matching avoids accidental matches such as "AI" in "paid".
     return re.search(
         rf"(?<![a-z0-9]){re.escape(phrase)}(?![a-z0-9])",
         text
     ) is not None
+
+def get_direct_images(folder):
+    if not folder.exists() or not folder.is_dir():
+        return []
+
+    return [
+        path for path in folder.iterdir()
+        if path.is_file() and path.suffix.lower() in IMAGE_EXTENSIONS
+    ]
+
+def get_folder_match_score(tag, folder_name):
+    tag = normalize_match_text(tag)
+    folder_name = normalize_match_text(folder_name)
+
+    if not tag or not folder_name:
+        return 0
+
+    # Full folder name matches the tag.
+    if tag == folder_name:
+        return 120
+
+    # Complete folder name or tag appears inside the other.
+    if contains_phrase(tag, folder_name):
+        return 110
+
+    if contains_phrase(folder_name, tag):
+        return 100
+
+    # Match meaningful individual words.
+    # Example: "Gandhi" matches "Mahatma Gandhi".
+    tag_words = set(tag.split())
+    folder_words = set(folder_name.split())
+
+    matched_words = [
+        word for word in tag_words.intersection(folder_words)
+        if len(word) >= 4
+    ]
+
+    if matched_words:
+        return 80 + max(len(word) for word in matched_words)
+
+    return 0
 
 def get_local_entity_match(data, slide=None, query=""):
     if not IMAGE_ROOT.exists():
@@ -287,74 +313,65 @@ def get_local_entity_match(data, slide=None, query=""):
         return None
 
     tags = get_story_tags(data)
-    normalized_tags = [
-        normalize_match_text(tag)
-        for tag in tags
-        if normalize_match_text(tag)
-    ]
 
-    context = get_story_context(data, slide, query)
-
-    if not normalized_tags and not context:
+    if not tags:
+        print("[LOCAL IMAGE] No AI tags available.")
         return None
 
-    best_match = None
-    best_score = 0
+    matches = []
 
+    # Only inspect folders directly inside data/images.
     for folder in IMAGE_ROOT.iterdir():
         if not folder.is_dir():
             continue
 
-        folder_name = normalize_match_text(folder.name)
-
-        if not folder_name:
-            continue
-
-        images = [
-            path for path in folder.rglob("*")
-            if path.is_file() and path.suffix.lower() in IMAGE_EXTENSIONS
-        ]
+        images = get_direct_images(folder)
 
         if not images:
             continue
 
-        score = 0
+        best_tag_score = 0
+        matched_tag = ""
 
-        # AI tags have the highest priority.
-        for tag in normalized_tags:
-            if not tag:
-                continue
+        for tag in tags:
+            score = get_folder_match_score(tag, folder.name)
 
-            if folder_name == tag:
-                score = max(score, 100)
-            elif contains_phrase(tag, folder_name):
-                score = max(score, 90)
-            elif contains_phrase(folder_name, tag):
-                # A shorter tag may match a more specific folder.
-                if len(tag) >= 4:
-                    score = max(score, 75)
+            if score > best_tag_score:
+                best_tag_score = score
+                matched_tag = tag
 
-        # Use the title and slide context when tags do not give a strong match.
-        if context:
-            if folder_name == context:
-                score = max(score, 70)
-            elif contains_phrase(context, folder_name):
-                score = max(score, 65)
+        if best_tag_score:
+            matches.append({
+                "score": best_tag_score,
+                "folder": folder,
+                "images": images,
+                "tag": matched_tag
+            })
 
-        if score > best_score:
-            best_score = score
-            best_match = (folder, images)
+    if not matches:
+        print("[LOCAL IMAGE] No matching entity folder found.")
+        return None
 
-    if best_match:
-        folder, images = best_match
-        print(
-            f"[LOCAL IMAGE] Matched folder: {folder.name} "
-            f"| Score: {best_score} | Images: {len(images)}"
-        )
-        return folder, images
+    # Select the strongest matching folder.
+    best_score = max(item["score"] for item in matches)
+    best_matches = [
+        item for item in matches
+        if item["score"] == best_score
+    ]
 
-    print("[LOCAL IMAGE] No matching entity folder found.")
-    return None
+    selected_match = random.choice(best_matches)
+
+    folder = selected_match["folder"]
+    images = selected_match["images"]
+
+    print(
+        f"[LOCAL IMAGE] Matched folder: {folder.name} "
+        f"| Tag: {selected_match['tag']} "
+        f"| Score: {best_score} "
+        f"| Images: {len(images)}"
+    )
+
+    return folder, images
 
 def search_local_entity_image(data, slide=None, query=""):
     match = get_local_entity_match(data, slide, query)
@@ -363,9 +380,16 @@ def search_local_entity_image(data, slide=None, query=""):
         return None
 
     folder, images = match
-    random.shuffle(images)
 
-    for selected in images:
+    unused = [
+        path for path in images
+        if str(path.resolve()) not in CURRENT_POST_USED_LOCAL_IMAGES
+    ]
+
+    candidates = unused or images
+    random.shuffle(candidates)
+
+    for selected in candidates:
         try:
             image = ImageOps.exif_transpose(
                 Image.open(selected)
@@ -374,6 +398,8 @@ def search_local_entity_image(data, slide=None, query=""):
             if image.width < 300 or image.height < 300:
                 print(f"[LOCAL IMAGE] Image too small: {selected}")
                 continue
+
+            CURRENT_POST_USED_LOCAL_IMAGES.add(str(selected.resolve()))
 
             print(f"[LOCAL IMAGE] Selected: {selected}")
 
@@ -402,6 +428,7 @@ def add_utm(url):
 
     parsed = urlparse(url)
     params = dict(parse_qsl(parsed.query))
+
     params.update({
         "utm_source": "ai_news_publisher",
         "utm_medium": "referral"
@@ -426,8 +453,8 @@ def search_unsplash(query):
             },
             timeout=TIMEOUT
         )
-        response.raise_for_status()
 
+        response.raise_for_status()
         photos = response.json().get("results", [])
 
         if not photos:
@@ -497,8 +524,8 @@ def search_wikimedia(query):
             },
             timeout=TIMEOUT
         )
-        response.raise_for_status()
 
+        response.raise_for_status()
         pages = response.json().get("query", {}).get("pages", {})
 
         if not pages:
@@ -574,34 +601,40 @@ def download_image(info):
 def pick_default_local_image(category=None, tags=None):
     folders = []
 
+    category = normalize_folder_name(category or "")
+    tags = tags or []
+
     if isinstance(tags, str):
         tags = [tags]
 
-    for tag in tags or []:
-        tag = clean_text(tag)
+    if category:
+        folders.extend([
+            IMAGE_ROOT / "news" / category,
+            IMAGE_ROOT / category
+        ])
+
+    for tag in tags:
+        tag = normalize_folder_name(tag)
 
         if not tag:
             continue
 
-        folder_names = {
-            tag,
-            normalize_folder_name(tag),
-            normalize_folder_name(tag).replace("-", "_")
-        }
-
-        for folder_name in folder_names:
-            if folder_name:
-                folders.append(IMAGE_ROOT / folder_name)
-
-    category = clean_text(category).lower()
+        folders.extend([
+            IMAGE_ROOT / "news" / tag,
+            IMAGE_ROOT / "places" / tag,
+            IMAGE_ROOT / tag
+        ])
 
     if category:
-        folders.append(IMAGE_ROOT / category)
-        folders.append(IMAGE_ROOT / normalize_folder_name(category))
+        folders.append(IMAGE_ROOT / "backgrounds" / category)
 
-    folders.append(IMAGE_ROOT)
+    folders.extend([
+        IMAGE_ROOT / "placeholders" / "default-news",
+        IMAGE_ROOT / "placeholders"
+    ])
 
     seen_folders = set()
+    candidates = []
 
     for folder in folders:
         if not folder.exists() or not folder.is_dir():
@@ -614,18 +647,30 @@ def pick_default_local_image(category=None, tags=None):
 
         seen_folders.add(resolved_folder)
 
-        candidates = [
-            path for path in folder.iterdir()
-            if path.is_file()
-            and path.suffix.lower() in IMAGE_EXTENSIONS
+        directories = [folder] + [
+            path for path in folder.rglob("*") if path.is_dir()
         ]
 
-        if candidates:
-            selected = random.choice(candidates)
-            print(f"[IMAGE] Local fallback: {selected}")
-            return str(selected)
+        for directory in directories:
+            candidates.extend(get_direct_images(directory))
 
-    return None
+    candidates.extend(get_direct_images(IMAGE_ROOT))
+    candidates = list(dict.fromkeys(candidates))
+
+    if not candidates:
+        return None
+
+    unused = [
+        path for path in candidates
+        if str(path.resolve()) not in CURRENT_POST_USED_LOCAL_IMAGES
+    ]
+
+    selected = random.choice(unused or candidates)
+    CURRENT_POST_USED_LOCAL_IMAGES.add(str(selected.resolve()))
+
+    print(f"[IMAGE] Local fallback: {selected}")
+
+    return str(selected)
 
 # =========================================================
 # IMAGE SELECTION PIPELINE
@@ -643,7 +688,7 @@ def get_image(query, category=None, tags=None, data=None, slide=None):
     data = data or {}
     tags = tags or get_story_tags(data)
 
-    # 1. Search local entity folders using AI tags and story context.
+    # 1. Match a local entity folder using AI tags.
     local_result = search_local_entity_image(data, slide, query)
 
     if local_result:
@@ -651,7 +696,7 @@ def get_image(query, category=None, tags=None, data=None, slide=None):
         info["original_query"] = query
         return image, info
 
-    # 2. No entity match: search the internet.
+    # 2. Search internet providers.
     queries = [
         clean_text(query),
         clean_text(theme["fallback"]),
@@ -665,7 +710,10 @@ def get_image(query, category=None, tags=None, data=None, slide=None):
             unique_queries.append(q)
 
     for index, search_query in enumerate(unique_queries, start=1):
-        print(f"\n[IMAGE] Internet search {index}/{len(unique_queries)}: {search_query}")
+        print(
+            f"\n[IMAGE] Internet search "
+            f"{index}/{len(unique_queries)}: {search_query}"
+        )
 
         if provider == "unsplash":
             info = search_unsplash(search_query)
@@ -680,7 +728,10 @@ def get_image(query, category=None, tags=None, data=None, slide=None):
                     return image, info
 
         else:
-            print(f"[IMAGE] Unsupported provider '{provider}', trying Wikimedia")
+            print(
+                f"[IMAGE] Unsupported provider '{provider}', "
+                "trying Wikimedia"
+            )
 
         print(f"[IMAGE] Trying Wikimedia Commons: {search_query}")
 
@@ -695,7 +746,7 @@ def get_image(query, category=None, tags=None, data=None, slide=None):
                 print("[IMAGE] Selected: Wikimedia Commons")
                 return image, info
 
-    # 3. Try existing category/default local images.
+    # 3. Search local category/default folders.
     fallback_path = pick_default_local_image(category, tags)
 
     if fallback_path:
@@ -760,7 +811,9 @@ def make_background(query, category, theme, style="photo", tags=None, data=None,
         info["fallback_graphic"] = True
     else:
         image = ImageOps.fit(
-            image, (WIDTH, HEIGHT), method=Image.Resampling.LANCZOS
+            image,
+            (WIDTH, HEIGHT),
+            method=Image.Resampling.LANCZOS
         )
 
     if style == "glass":
@@ -947,7 +1000,6 @@ def render_cover(data, slide, theme, date_text, total, category):
     )
 
     draw = ImageDraw.Draw(image, "RGBA")
-
     draw_top(draw, date_text)
 
     title = clean_text(
@@ -1037,7 +1089,6 @@ def render_content(data, slide, theme, date_text, index, total, category):
     image = draw_glass_card(image, panel, radius=44, blur=45)
 
     draw = ImageDraw.Draw(image, "RGBA")
-
     draw_top(draw, date_text)
 
     heading = clean_text(slide.get("heading", "")).upper()
@@ -1261,10 +1312,13 @@ def content_date_key(value=None):
         return datetime.now().strftime("%Y-%m-%d")
 
 def generate_post(json_file):
+    CURRENT_POST_USED_LOCAL_IMAGES.clear()
+    json_file = Path(json_file)
+
     with open(json_file, "r", encoding="utf-8") as file:
         data = json.load(file)
 
-    news_id = clean_text(data.get("news_id")) or Path(json_file).stem
+    news_id = clean_text(data.get("news_id")) or json_file.stem
 
     classification = data.get("classification") or {}
     content = data.get("content") or {}
@@ -1317,7 +1371,6 @@ def generate_post(json_file):
             )
 
         filename = f"slide_{index:02d}.png"
-
         image.save(output_dir / filename, "PNG", optimize=True)
 
         manifest["images"].append({
@@ -1334,12 +1387,7 @@ def generate_post(json_file):
     )
 
     filename = f"slide_{total:02d}.png"
-
-    final_image.save(
-        output_dir / filename,
-        "PNG",
-        optimize=True
-    )
+    final_image.save(output_dir / filename, "PNG", optimize=True)
 
     manifest["images"].append({
         "file": filename,
@@ -1348,12 +1396,22 @@ def generate_post(json_file):
         "image": info
     })
 
-    (output_dir / "manifest.json").write_text(
+    # Save manifest only after every slide has been generated.
+    manifest_path = output_dir / "manifest.json"
+    manifest_path.write_text(
         json.dumps(manifest, indent=2, ensure_ascii=False),
         encoding="utf-8"
     )
 
+    # Mark the source JSON complete only after successful image generation.
+    data["image_done"] = True
+    json_file.write_text(
+        json.dumps(data, indent=2, ensure_ascii=False),
+        encoding="utf-8"
+    )
+
     print(f"[DONE] {output_dir}")
+    print(f"[STATUS] image_done = true")
 
     return total
 
