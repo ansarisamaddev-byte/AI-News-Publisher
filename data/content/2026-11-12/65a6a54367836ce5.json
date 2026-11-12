@@ -1,0 +1,70 @@
+{
+    "news_id": "65a6a54367836ce5",
+    "country": "UK",
+    "main_subject": {
+        "name": "Daniel Thomas",
+        "type": "person",
+        "image_search_query": "Daniel Thomas"
+    },
+    "classification": {
+        "country": "UK",
+        "category": "politics",
+        "subcategory": "criminal charges",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "",
+        "tags": [
+            "criminal charges",
+            "Danny Tommo",
+            "Portsmouth Crown Court"
+        ],
+        "classification_reason": "Danny Tommo is the main subject of the news story, and he is a person involved in criminal charges.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Activist Daniel Thomas Pleads Guilty to Criminal Damage in English Channel",
+        "caption": "Danny Tommo, also known as Daniel Thomas, admitted to slashing a dinghy with a knife in the English Channel.",
+        "hashtags": [
+            "#criminalcharges",
+            "#DannyTommo",
+            "#PortsmouthCrownCourt"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Danny Tommo Admits Criminal Damage",
+                "text": "Danny Tommo, also known as Daniel Thomas, pleaded guilty to criminal damage in the English Channel.",
+                "image_search_query": "Daniel Thomas"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Incident in the English Channel",
+                "text": "A dinghy was slashed with a knife by a 37-year-old activist in the English Channel.",
+                "image_search_query": "dinghy slashing knife English Channel United Kingdom"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Prosecutor's Statement",
+                "text": "The prosecutor stated that the defendant instructed his vessel to be steered towards the empty RIB that was adrift.",
+                "image_search_query": "RIB empty RIB English Channel United Kingdom"
+            },
+            {
+                "slide_number": 4,
+                "type": "impact",
+                "heading": "Sentencing",
+                "text": "The maximum sentence for criminal damage valued at more than £5,000 is 10 years' imprisonment.",
+                "image_search_query": "criminal damage sentencing United Kingdom"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/news/articles/c6x20x380z12o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-12T16:44:25+00:00"
+}

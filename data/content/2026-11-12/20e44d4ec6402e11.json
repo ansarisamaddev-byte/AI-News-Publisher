@@ -1,0 +1,61 @@
+{
+    "news_id": "20e44d4ec6402e11",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Amit Kumar Dubey",
+        "type": "person",
+        "image_search_query": "Amit Kumar Dubey"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "politics",
+        "subcategory": "criminal",
+        "importance_score": 9,
+        "relevance_score": 9,
+        "region": "",
+        "tags": [
+            "criminal",
+            "Amit Kumar Dubey"
+        ],
+        "classification_reason": "The article is about the arrest of a person involved in a shootout case, which is a criminal matter.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Amit Kumar Dubey Arrested in Bihar",
+        "caption": "Amit Kumar Dubey, accused in the Whitefield shootout case, arrested in Bihar.",
+        "hashtags": [
+            "#criminal",
+            "#AmitKumarDubey"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Amit Kumar Dubey Arrested",
+                "text": "Amit Kumar Dubey, accused in the Whitefield shootout case, arrested in Bihar.",
+                "image_search_query": "Amit Kumar Dubey"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Manhunt and Arrest",
+                "text": "A 20-day manhunt involving 10 special teams resulted in the arrest of Amit Kumar Dubey, accused in the Whitefield shootout case.",
+                "image_search_query": "Amit Kumar Dubey arrest details India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Investigation and Arrest",
+                "text": "The arrest was made after the police tracked the accused using conventional investigative methods and recovered a country-made firearm.",
+                "image_search_query": "Amit Kumar Dubey arrest firearm India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/karnataka/20-days-10-special-teams-whitefield-shootout-accused-arrested-in-bihar/article71694572.ece",
+    "published_at": "2026-11-12T16:37:31+00:00"
+}

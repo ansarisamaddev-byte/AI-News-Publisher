@@ -1,0 +1,69 @@
+{
+    "news_id": "05fb44fa7f35b422",
+    "country": null,
+    "main_subject": {
+        "name": "Jensen Huang",
+        "type": "person",
+        "image_search_query": "Jensen Huang"
+    },
+    "classification": {
+        "country": null,
+        "category": "technology",
+        "subcategory": "CEO",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "",
+        "tags": [
+            "CEO",
+            "Jensen Huang"
+        ],
+        "classification_reason": "Jensen Huang is the CEO of Nvidia, a leading technology company.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "India's Renewable Energy Transformation: Earthshot Prize CEO's Vision",
+        "caption": "India is at the forefront of climate solutions, with innovations that have global application, especially in renewable energy.",
+        "hashtags": [
+            "#EarthshotPrize",
+            "#RenewableEnergy",
+            "#India"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Jensen Huang",
+                "text": "CEO of Nvidia",
+                "image_search_query": "Jensen Huang"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "India's Renewable Energy Transformation",
+                "text": "India is leading the world in renewable energy solutions, with innovations that have global impact.",
+                "image_search_query": "India, renewable energy, India's leadership"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why India?",
+                "text": "India is an inspiration for the Earthshot Prize, with a huge solar resource and a commitment to sustainable climate solutions.",
+                "image_search_query": "India, Earthshot Prize, renewable energy"
+            },
+            {
+                "slide_number": 4,
+                "type": "impact",
+                "heading": "Mumbai's Role",
+                "text": "Mumbai is chosen as the venue for the Earthshot Prize summit due to its financial and entertainment capital status.",
+                "image_search_query": "Mumbai, Earthshot Prize, Mumbai's role"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-undergoing-massive-transformation-in-renewable-energy-earthshot-prize-ceo/article71694272.ece",
+    "published_at": "2026-11-12T16:39:28+00:00"
+}

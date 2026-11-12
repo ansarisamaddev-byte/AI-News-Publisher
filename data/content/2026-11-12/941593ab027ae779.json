@@ -1,0 +1,61 @@
+{
+    "news_id": "941593ab027ae779",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Mahesh Muralidhar Bhagwat",
+        "type": "person",
+        "image_search_query": "Mahesh Muralidhar Bhagwat"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "politics",
+        "subcategory": "police reshuffle",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Telangana",
+        "tags": [
+            "police reshuffle",
+            "Mahesh Muralidhar Bhagwat"
+        ],
+        "classification_reason": "The article is about a reshuffle of senior IPS officers in Telangana, focusing on the new appointments and their backgrounds.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "IPS officers behind major investigations, policing reforms take charge of key posts in Telangana",
+        "caption": "The reshuffle brings officers associated with the Tollywood drugs investigation, the Disha case, the EAMCET paper leak probe, anti-Maoist operations and the creation of SHE Teams into key leadership positions across Telangana’s police establishment.",
+        "hashtags": [
+            "#policereshuffle",
+            "#MaheshMuralidharBhagwat"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Mahesh Muralidhar Bhagwat",
+                "text": "Mahesh Muralidhar Bhagwat takes over as Hyderabad Police Commissioner",
+                "image_search_query": "Mahesh Muralidhar Bhagwat"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Key Officers",
+                "text": "Mahesh Muralidhar Bhagwat leads the reshuffle, with other officers taking over key positions in Telangana’s police establishment.",
+                "image_search_query": "key officers in Telangana police India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Background",
+                "text": "Mahesh Muralidhar Bhagwat has spent much of his career tackling human trafficking and organised exploitation, with recognition from the US Department of State.",
+                "image_search_query": "Mahesh Muralidhar Bhagwat background India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/telangana/ips-officers-behind-major-investigations-policing-reforms-take-charge-of-key-posts-in-telangana/article71694128.ece",
+    "published_at": "2026-11-12T16:37:46+00:00"
+}
