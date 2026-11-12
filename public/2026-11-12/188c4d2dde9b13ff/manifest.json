@@ -1,0 +1,88 @@
+{
+  "news_id": "188c4d2dde9b13ff",
+  "title": "Home Office Approves Plans for Asylum Accommodation at Former Military Site",
+  "main_subject": {
+    "name": "Home Office",
+    "type": "organization",
+    "image_search_query": "Home Office"
+  },
+  "category": "business",
+  "tags": [
+    "government",
+    "asylum",
+    "housing",
+    "planning",
+    "UK"
+  ],
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-12T22:16:34+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Home Office Approves Plans for Asylum Accommodation at Former Military",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Canley at English Wikipedia",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Marsham_St_Home_Office.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Marsham_St_Home_Office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "Home Office",
+        "fallback_used": true,
+        "original_query": "Home Office"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Government's Emergency Measures",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Chris Brown",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Villa_at_Piddington_-_geograph.org.uk_-_6197139.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Villa_at_Piddington_-_geograph.org.uk_-_6197139.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "Oxfordshire village of Piddington United Kingdom",
+        "fallback_used": true,
+        "original_query": "Oxfordshire village of Piddington United Kingdom"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Key Details",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "norman hyett",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Site_of_former_US_military_hospital_at_ullenwood_-_geograph.org.uk_-_1543633.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Site_of_former_US_military_hospital_at_ullenwood_-_geograph.org.uk_-_1543633.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "former military site United Kingdom",
+        "fallback_used": true,
+        "original_query": "former military site United Kingdom"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Gabardine,_Toronto,_Ontario_(29375229614).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/The_Gabardine%2C_Toronto%2C_Ontario_%2829375229614%29.jpg/1280px-The_Gabardine%2C_Toronto%2C_Ontario_%2829375229614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

@@ -1,62 +1,63 @@
 {
-    "news_id": "ab23a7fa21e24fb3",
+  "news_id": "ab23a7fa21e24fb3",
+  "country": "US",
+  "main_subject": {
+    "name": "Muse",
+    "type": "company",
+    "image_search_query": "Muse"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Muse",
-        "type": "company",
+    "category": "technology",
+    "subcategory": "consumer AI",
+    "importance_score": 8,
+    "relevance_score": 8,
+    "region": "US",
+    "tags": [
+      "AI",
+      "consumer",
+      "call"
+    ],
+    "classification_reason": "The article is about the consumer AI agent Muse, its new call feature, and its potential for mainstream adoption.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Muse's AI Can Now Place Calls to U.S. Businesses",
+    "caption": "Meta's consumer AI agent Muse has added a new feature allowing users to place outbound calls to U.S. businesses.",
+    "hashtags": [
+      "#MuseAI",
+      "#OutboundCalls"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Muse's AI Can Now Place Calls to U.S. Businesses",
+        "text": "Meta's consumer AI agent Muse has added a new feature allowing users to place outbound calls to U.S. businesses.",
         "image_search_query": "Muse"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "consumer AI",
-        "importance_score": 8,
-        "relevance_score": 8,
-        "region": "US",
-        "tags": [
-            "AI",
-            "consumer",
-            "call"
-        ],
-        "classification_reason": "The article is about the consumer AI agent Muse, its new call feature, and its potential for mainstream adoption.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Muse's AI Can Now Place Calls to U.S. Businesses",
-        "caption": "Meta's consumer AI agent Muse has added a new feature allowing users to place outbound calls to U.S. businesses.",
-        "hashtags": [
-            "#MuseAI",
-            "#OutboundCalls"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Muse's AI Can Now Place Calls to U.S. Businesses",
-                "text": "Meta's consumer AI agent Muse has added a new feature allowing users to place outbound calls to U.S. businesses.",
-                "image_search_query": "Muse"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "New Feature",
-                "text": "Muse has added a new feature allowing users to place outbound calls to U.S. businesses.",
-                "image_search_query": "Muse AI new feature United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Subscription Plans",
-                "text": "Muse subscription plans start at $20 per month for 500 million tokens per week, with heavier users paying $100 per month for 3 billion tokens.",
-                "image_search_query": "Muse subscription plans United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-    "published_at": "2026-11-12T22:22:28+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "New Feature",
+        "text": "Muse has added a new feature allowing users to place outbound calls to U.S. businesses.",
+        "image_search_query": "Muse AI new feature United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Subscription Plans",
+        "text": "Muse subscription plans start at $20 per month for 500 million tokens per week, with heavier users paying $100 per month for 3 billion tokens.",
+        "image_search_query": "Muse subscription plans United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+  "published_at": "2026-11-12T22:22:28+00:00",
+  "image_done": true
 }

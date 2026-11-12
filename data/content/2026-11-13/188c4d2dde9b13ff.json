@@ -1,66 +1,67 @@
 {
-    "news_id": "188c4d2dde9b13ff",
+  "news_id": "188c4d2dde9b13ff",
+  "country": "UK",
+  "main_subject": {
+    "name": "Home Office",
+    "type": "organization",
+    "image_search_query": "Home Office"
+  },
+  "classification": {
     "country": "UK",
-    "main_subject": {
-        "name": "Home Office",
-        "type": "organization",
+    "category": "business",
+    "subcategory": "government",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Oxfordshire, Piddington",
+    "tags": [
+      "government",
+      "asylum",
+      "housing",
+      "planning",
+      "UK"
+    ],
+    "classification_reason": "The article is centered around the Home Office's application for asylum accommodation at a former military site, which is a significant government initiative in the UK.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Home Office Approves Plans for Asylum Accommodation at Former Military Site",
+    "caption": "The Home Office has granted planning permission for up to 1,256 men to be housed at a former military base near Piddington, Oxfordshire.",
+    "hashtags": [
+      "#HomeOffice",
+      "#AsylumAccommodation",
+      "#MilitaryBase",
+      "#Oxfordshire"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Home Office Approves Plans for Asylum Accommodation at Former Military",
+        "text": "The Home Office has granted planning permission for up to 1,256 men to be housed at a former military base near Piddington, Oxfordshire.",
         "image_search_query": "Home Office"
-    },
-    "classification": {
-        "country": "UK",
-        "category": "business",
-        "subcategory": "government",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Oxfordshire, Piddington",
-        "tags": [
-            "government",
-            "asylum",
-            "housing",
-            "planning",
-            "UK"
-        ],
-        "classification_reason": "The article is centered around the Home Office's application for asylum accommodation at a former military site, which is a significant government initiative in the UK.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Home Office Approves Plans for Asylum Accommodation at Former Military Site",
-        "caption": "The Home Office has granted planning permission for up to 1,256 men to be housed at a former military base near Piddington, Oxfordshire.",
-        "hashtags": [
-            "#HomeOffice",
-            "#AsylumAccommodation",
-            "#MilitaryBase",
-            "#Oxfordshire"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Home Office Approves Plans for Asylum Accommodation at Former Military",
-                "text": "The Home Office has granted planning permission for up to 1,256 men to be housed at a former military base near Piddington, Oxfordshire.",
-                "image_search_query": "Home Office"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Government's Emergency Measures",
-                "text": "The Home Office's application to house asylum seekers at the MoD Bicester site was fast-tracked using an Urgent Crown Development application.",
-                "image_search_query": "Oxfordshire village of Piddington United Kingdom"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Key Details",
-                "text": "The Home Office's application allows for demolition of existing buildings, the erection of new modular accommodation, and provisions for health and welfare facilities.",
-                "image_search_query": "former military site United Kingdom"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-12T22:16:34+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Government's Emergency Measures",
+        "text": "The Home Office's application to house asylum seekers at the MoD Bicester site was fast-tracked using an Urgent Crown Development application.",
+        "image_search_query": "Oxfordshire village of Piddington United Kingdom"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Key Details",
+        "text": "The Home Office's application allows for demolition of existing buildings, the erection of new modular accommodation, and provisions for health and welfare facilities.",
+        "image_search_query": "former military site United Kingdom"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-12T22:16:34+00:00",
+  "image_done": true
 }
