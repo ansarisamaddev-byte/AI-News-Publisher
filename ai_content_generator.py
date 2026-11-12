@@ -120,6 +120,7 @@ def get_client():
 
     return llm
 
+
 # ============================================================
 # CSV QUEUE
 # ============================================================
@@ -156,20 +157,6 @@ def load_queue():
 
 def save_queue(rows, fields):
     temp_file = QUEUE_FILE.with_suffix(".tmp")
-
-    with open(temp_file, "w", encoding="utf-8", newline="") as file:
-        writer = csv.DictWriter(
-            file,
-            fieldnames=fields,
-            extrasaction="ignore"
-        )
-        writer.writeheader()
-        writer.writerows(rows)
-
-    temp_file.replace(QUEUE_FILE)
-
-def save_queue(rows, fields):
-    temp_file = QUEUE_FILE.with_suffix(".tmp")
     QUEUE_FILE.parent.mkdir(parents=True, exist_ok=True)
 
     with open(temp_file, "w", encoding="utf-8", newline="") as file:
@@ -182,11 +169,6 @@ def save_queue(rows, fields):
         writer.writerows(rows)
 
     temp_file.replace(QUEUE_FILE)
-
-
-def is_selected(article):
-    status = str(article.get("selection_status") or "").strip().lower()
-    return status == "selected"
 
 
 # ============================================================
@@ -379,16 +361,71 @@ def resolve_country(model_country, region, article_text):
 
     if detected_country:
         if model_country != detected_country:
-            print(
-                f"[COUNTRY CORRECTION] "
-                f"{model_country} -> {detected_country}"
-            )
+            print(f"[COUNTRY CORRECTION] {model_country} -> {detected_country}")
         return detected_country
 
     if model_country and re.fullmatch(r"[A-Z][A-Z .'-]*", model_country):
         return model_country
 
     return None
+
+
+# ============================================================
+# MAIN SUBJECT
+# ============================================================
+
+def determine_main_subject(result, article):
+    subject = result.get("main_subject", {})
+
+    if not isinstance(subject, dict):
+        subject = {}
+
+    name = str(subject.get("name") or "").strip()
+    subject_type = str(subject.get("type") or "person").strip().lower()
+
+    headline = str(article.get("title") or "").lower()
+
+    # Use the recognizable main person for these company stories.
+    if re.search(r"\btesla\b", headline):
+        name = "Elon Musk"
+        subject_type = "person"
+    elif re.search(r"\bnvidia\b", headline):
+        name = "Jensen Huang"
+        subject_type = "person"
+
+    if not name:
+        raise ValueError("Main subject name is missing.")
+
+    allowed_types = {
+        "person", "character", "company", "team",
+        "event", "product", "organization", "other"
+    }
+
+    if subject_type not in allowed_types:
+        subject_type = "person"
+
+    # Keep the cover search query as the name only.
+    return {
+        "name": name,
+        "type": subject_type,
+        "image_search_query": name
+    }
+
+
+def apply_main_subject_to_cover(result, article):
+    main_subject = determine_main_subject(result, article)
+    result["main_subject"] = main_subject
+
+    slides = result["content"].get("slides", [])
+
+    if not slides:
+        raise ValueError("No slides available for cover.")
+
+    slides[0]["slide_number"] = 1
+    slides[0]["type"] = "cover"
+    slides[0]["image_search_query"] = main_subject["name"]
+
+    return main_subject
 
 
 # ============================================================
@@ -401,7 +438,11 @@ def add_country_to_image_queries(content, country):
 
     country_name = COUNTRY_IMAGE_NAMES.get(country, country.title())
 
-    for slide in content.get("slides", []):
+    for index, slide in enumerate(content.get("slides", [])):
+        # Never add country or extra keywords to the cover query.
+        if index == 0 or slide.get("type") == "cover":
+            continue
+
         query = slide.get("image_search_query", "").strip()
 
         if not query:
@@ -423,12 +464,22 @@ def validate_result(result):
 
     classification = result.get("classification")
     content = result.get("content")
+    main_subject = result.get("main_subject")
 
     if not isinstance(classification, dict):
         raise ValueError("Invalid classification object.")
 
     if not isinstance(content, dict):
         raise ValueError("Invalid content object.")
+
+    if not isinstance(main_subject, dict):
+        raise ValueError("Missing main_subject object.")
+
+    if not isinstance(main_subject.get("name"), str) or not main_subject["name"].strip():
+        raise ValueError("Main subject name is missing.")
+
+    if not isinstance(main_subject.get("type"), str):
+        raise ValueError("Main subject type is missing.")
 
     required_classification = [
         "country", "category", "subcategory",
@@ -477,6 +528,9 @@ def validate_result(result):
             f"Carousel must contain {MIN_SLIDES} to {MAX_SLIDES} slides."
         )
 
+    if slides[0].get("type") != "cover":
+        raise ValueError("Slide 1 must have type 'cover'.")
+
     image_queries = set()
 
     for index, slide in enumerate(slides, start=1):
@@ -495,13 +549,19 @@ def validate_result(result):
             raise ValueError(f"Slide {index} heading is too long.")
 
         query = slide["image_search_query"].strip()
-        query_words = word_count(query)
 
-        if not MIN_IMAGE_QUERY_WORDS <= query_words <= MAX_IMAGE_QUERY_WORDS:
-            raise ValueError(
-                f"Slide {index} image query must contain "
-                f"{MIN_IMAGE_QUERY_WORDS}-{MAX_IMAGE_QUERY_WORDS} words."
-            )
+        if index == 1:
+            # Cover query must be exactly the main subject's name.
+            if query.lower() != main_subject["name"].strip().lower():
+                raise ValueError("Cover image query must be only the main subject name.")
+        else:
+            query_words = word_count(query)
+
+            if not MIN_IMAGE_QUERY_WORDS <= query_words <= MAX_IMAGE_QUERY_WORDS:
+                raise ValueError(
+                    f"Slide {index} image query must contain "
+                    f"{MIN_IMAGE_QUERY_WORDS}-{MAX_IMAGE_QUERY_WORDS} words."
+                )
 
         normalized_query = query.lower()
 
@@ -565,6 +625,10 @@ Classify the news and create a concise social media carousel.
 Return ONLY one valid JSON object with this exact structure:
 
 {{
+  "main_subject": {{
+    "name": "Jensen Huang",
+    "type": "person"
+  }},
   "classification": {{
     "country": null,
     "category": "one allowed category",
@@ -585,7 +649,7 @@ Return ONLY one valid JSON object with this exact structure:
         "type": "cover",
         "heading": "short heading",
         "text": "concise slide text",
-        "image_search_query": "3 to 6 word photo search phrase"
+        "image_search_query": "Jensen Huang"
       }}
     ]
   }}
@@ -594,7 +658,35 @@ Return ONLY one valid JSON object with this exact structure:
 ALLOWED CATEGORIES:
 {", ".join(CATEGORIES)}
 
-CLASSIFICATION RULES:
+MAIN SUBJECT RULES:
+
+- Identify the single most important person or character in the news.
+- The main subject should be the recognizable person viewers would expect to see on the cover.
+- Use the person's actual full name only.
+- Do not add their job title, company, country, description or search instructions.
+- Examples: "Jensen Huang", "Elon Musk", "Donald Trump", "Narendra Modi".
+- If the story is about Tesla as a company, use "Elon Musk" as the recognizable main person.
+- If the story is about Nvidia as a company, use "Jensen Huang" as the recognizable main person.
+- If the article is about a specific person, use that person instead of the company.
+- If multiple people are involved, select the person most central to the headline and story.
+- If the story is about a fictional character, use only the character's name.
+- If no person or character is central, use the main company, team, product or event name.
+- The type must be one of: person, character, company, team, event, product, organization, other.
+- Do not use a generic topic such as AI, technology or business when a specific person is the main subject.
+
+COVER IMAGE RULES:
+
+- Slide 1 must show the main subject.
+- Slide 1 image_search_query must contain ONLY main_subject.name.
+- Do not add words such as portrait, CEO, photo, image, company, country or background.
+- Examples:
+  - Main subject: Jensen Huang -> image_search_query: "Jensen Huang"
+  - Main subject: Elon Musk -> image_search_query: "Elon Musk"
+  - Main subject: Donald Trump -> image_search_query: "Donald Trump"
+- Never use a generic AI image, company logo or unrelated technology image for a person-led story's cover.
+- The main subject's recognizable image has priority over the story's background.
+
+ALLOWED CATEGORIES:
 
 - Choose exactly ONE primary category.
 - AI model announcements belong to technology.
@@ -631,10 +723,9 @@ COMPACT CAROUSEL RULES:
 - Slide 1 must have type "cover".
 - Each slide communicates ONE main idea.
 - Avoid repetition, filler and unnecessary explanations.
-- Each slide text must contain no more than 20 words.
-- Prefer 12 to 16 words per slide.
-- Headings should contain 2 to 5 words.
-- Never exceed 7 words in a heading.
+- Each slide text must contain no more than 35 words.
+- Prefer 12 to 20 words per slide.
+- Headings should contain 2 to 7 words.
 - Keep the complete carousel around 50 to 70 words.
 - Use slide types only: cover, context, details, impact, takeaway.
 - Do not force a separate impact or takeaway slide.
@@ -667,8 +758,9 @@ ACCURACY RULES:
 - Keep the wording neutral and factual.
 
 SLIDE CONTENT RULES:
+
 - Generate 3–4 slides.
-- Keep slide text ideally between 15–25 words.
+- Keep slide text ideally between 12–20 words.
 - Never exceed 35 words per slide.
 - Keep headings ideally between 3–6 words.
 - Never exceed 10 words per heading.
@@ -676,49 +768,44 @@ SLIDE CONTENT RULES:
 - Every slide should communicate one key point.
 
 IMAGE SEARCH QUERY RULES:
-- Generate a descriptive image search query for each slide.
-- Prefer 4–8 words.
-- Use specific subjects, locations, people, or objects.
+
+- Slide 1 must follow the COVER IMAGE RULES exactly.
+- For all other slides, generate a descriptive photographic search phrase.
+- Use 3 to 8 words for slides 2 onward.
+- Use specific subjects, locations, people or objects.
 - Different slides should ideally have different image queries.
 - Commas are allowed.
-- Do not include instructions such as "no text" or "no watermark" in the query.
-
-For EVERY slide:
-- Generate one natural-language photographic phrase.
-- Use 3 to 6 words only.
-- Describe visible objects, people, places or activities.
-- Use common, recognizable photography search terms.
-- Use different visual subjects when slide content changes.
+- Do not include instructions such as "no text" or "no watermark".
+- Do not add country names. The system handles country information separately.
 - If the exact event cannot be photographed, use a realistic representative scene.
 - Prefer broad, recognizable visual subjects.
 
 SLIDE UNIQUENESS RULES:
+
 - Every slide must communicate a different piece of information.
 - Never repeat the article title or RSS description as the text of multiple slides.
 - Do not repeat the same heading across slides.
 - Do not paraphrase the same fact to fill the required slide count.
-- Each slide must add new information, context, statistics, background, or consequences.
+- Each slide must add new information, context, statistics, background or consequences.
 - Use only facts supported by the provided article or source material.
-- Do not invent statistics, match events, scores, quotes, or explanations.
+- Do not invent statistics, match events, scores, quotes or explanations.
 
 NEVER:
-- Use comma-separated keywords.
-- Copy the article headline into the query.
+
+- Use comma-separated keywords in image queries.
+- Copy the article headline into an image query.
 - Use abstract concepts such as impact, takeaway, compliance or controversy.
 - Use words such as news, breaking news, social media graphic or infographic.
 - Request text, logos, watermarks or captions in photos.
+- Add a person's job title or company to the cover image query.
 
-GOOD EXAMPLES:
+GOOD IMAGE QUERY EXAMPLES FOR SLIDES 2 ONWARD:
+
 "modern data center building exterior"
 "rows of servers in data center"
 "Indian High Court building exterior"
 "urban street flooded after rainfall"
 "electric vehicle charging station"
-
-BAD EXAMPLES:
-"Google data center, legal decision, impact"
-"government policy and political controversy"
-"news about road safety"
 
 ARTICLE INFORMATION:
 
@@ -746,8 +833,10 @@ Do not add explanations outside the JSON.
                         "role": "system",
                         "content": (
                             "You are a precise news editor. Follow every required "
-                            "JSON field exactly. Determine country from the actual "
-                            "article. Return null when country is not known. "
+                            "JSON field exactly. Identify the main person or character. "
+                            "The cover image query must be only their name. "
+                            "Determine country from the actual article. "
+                            "Return null when country is not known. "
                             "Never assume INDIA. Never invent facts. "
                             "Generate only 3 or 4 carousel slides."
                         )
@@ -775,6 +864,9 @@ Do not add explanations outside the JSON.
                 )
 
             result = json.loads(response_text)
+
+            # Set the cover query deterministically before validation.
+            apply_main_subject_to_cover(result, article)
             validate_result(result)
 
             result["_article_evidence"] = input_content
@@ -845,9 +937,16 @@ def process_news(client, article):
                 existing = json.load(file)
 
             validate_result({
+                "main_subject": existing.get("main_subject"),
                 "classification": existing.get("classification"),
                 "content": existing.get("content")
             })
+
+            # Reapply the cover rules to older saved JSON as well.
+            existing["main_subject"] = determine_main_subject(existing, article)
+            existing["content"]["slides"][0]["image_search_query"] = (
+                existing["main_subject"]["name"]
+            )
 
             print(f"[EXISTING] Reusing JSON: {news_id}")
 
@@ -856,6 +955,7 @@ def process_news(client, article):
             )
 
             generated = {
+                "main_subject": existing["main_subject"],
                 "classification": existing["classification"],
                 "content": existing["content"],
                 "_article_evidence": (
@@ -889,6 +989,16 @@ def process_news(client, article):
 
     classification = generated["classification"]
     content = generated["content"]
+    main_subject = generated["main_subject"]
+
+    # Enforce the simple-name cover query again before saving.
+    main_subject = determine_main_subject(
+        {"main_subject": main_subject},
+        article
+    )
+    generated["main_subject"] = main_subject
+    content["slides"][0]["type"] = "cover"
+    content["slides"][0]["image_search_query"] = main_subject["name"]
 
     article_evidence = " ".join([
         str(article.get("title") or ""),
@@ -911,6 +1021,9 @@ def process_news(client, article):
 
     add_country_to_image_queries(content, classification["country"])
 
+    # Ensure cover query remains only the main subject's name.
+    content["slides"][0]["image_search_query"] = main_subject["name"]
+
     classification["selected_channels"] = [
         f"{classification['category']}-news"
     ]
@@ -918,6 +1031,7 @@ def process_news(client, article):
     output = {
         "news_id": news_id,
         "country": classification["country"],
+        "main_subject": main_subject,
         "classification": classification,
         "content": content,
         "article_text_available": generated.get("article_text_available", False),
@@ -947,6 +1061,8 @@ def process_news(client, article):
     article["classified"] = "true"
     article["ai_done"] = "true"
 
+    print(f"[MAIN SUBJECT] {main_subject['name']} ({main_subject['type']})")
+    print(f"[COVER IMAGE QUERY] {content['slides'][0]['image_search_query']}")
     print(f"[CLASSIFIED] {classification['category']}")
     print(f"[CHANNELS] {', '.join(classification['selected_channels'])}")
     print(f"[SLIDES] {len(content['slides'])}")
@@ -973,6 +1089,7 @@ def main(filename=None, reprocess=False):
     print(f"Reprocess mode: {reprocess}")
     print("Engine: Local Qwen GGUF")
     print("Classification + Compact Carousel: Enabled")
+    print("Main Subject Cover: Enabled")
     print("Direct CSV Processing: Enabled")
     print("===============================================\n")
 
@@ -1015,6 +1132,19 @@ def main(filename=None, reprocess=False):
 
     remaining = max(0, len(pending) - len(batch))
 
+    # Keep all rows until every article has been processed.
+    all_classified = all(
+        str(row.get("ai_done") or "").strip().lower() == "true"
+        for row in rows
+    )
+
+    if all_classified and len(rows) > TOP_NEWS_LIMIT:
+        keep_top_news(rows, fields)
+        print("[CSV CLEANUP] CSV now contains only the top 20 articles.")
+    else:
+        save_queue(rows, fields)
+        print(f"[CSV QUEUE] Retaining {len(rows)} articles for further processing.")
+
     print("\n========== GENERATION SUMMARY ==========")
     print(f"Total records: {len(rows)}")
     print(f"Pending articles: {len(pending)}")
@@ -1023,6 +1153,34 @@ def main(filename=None, reprocess=False):
     print(f"Remaining: {remaining}")
     print(f"CSV updated: {QUEUE_FILE}")
     print("========================================\n")
+
+TOP_NEWS_LIMIT = 20
+
+def keep_top_news(rows, fields):
+    if not rows:
+        save_queue([], fields)
+        return
+
+    def rank_score(row):
+        try:
+            importance = int(float(row.get("importance_score") or 0))
+            relevance = int(float(row.get("relevance_score") or 0))
+        except (ValueError, TypeError):
+            importance = relevance = 0
+
+        return (
+            importance + relevance,
+            importance,
+            relevance
+        )
+
+    ranked = sorted(rows, key=rank_score, reverse=True)
+    top_rows = ranked[:TOP_NEWS_LIMIT]
+
+    save_queue(top_rows, fields)
+
+    print(f"[TOP NEWS] Retained {len(top_rows)} best articles.")
+    print(f"[TOP NEWS] Removed {max(0, len(rows) - len(top_rows))} lower-ranked articles.")
 
 # ============================================================
 # ENTRY POINT

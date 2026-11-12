@@ -236,6 +236,16 @@ def get_story_tags(data):
 
     return [clean_text(tag) for tag in tags if clean_text(tag)]
 
+
+def get_main_subject(data):
+    subject = data.get("main_subject") or {}
+    name = clean_text(subject.get("name") or subject.get("image_search_query"))
+    return {
+        "name": name,
+        "type": clean_text(subject.get("type") or "other"),
+        "image_search_query": name
+    } if name else {}
+
 def get_story_context(data, slide=None, query=""):
     content = data.get("content") or {}
     classification = data.get("classification") or {}
@@ -312,6 +322,48 @@ def get_local_entity_match(data, slide=None, query=""):
         print(f"[LOCAL IMAGE] Image directory not found: {IMAGE_ROOT}")
         return None
 
+    # Prioritize the main subject's folder for the cover.
+    if slide and slide.get("_is_cover"):
+        subject = get_main_subject(data)
+        subject_name = subject.get("name", "")
+
+        if subject_name:
+            for folder in IMAGE_ROOT.iterdir():
+                if not folder.is_dir():
+                    continue
+
+                if get_folder_match_score(subject_name, folder.name) >= 100:
+                    images = get_direct_images(folder)
+
+                    if images:
+                        unused = [
+                            path for path in images
+                            if str(path.resolve()) not in CURRENT_POST_USED_LOCAL_IMAGES
+                        ]
+                        candidates = unused or images
+                        random.shuffle(candidates)
+
+                        for selected in candidates:
+                            try:
+                                image = ImageOps.exif_transpose(
+                                    Image.open(selected)
+                                ).convert("RGB")
+
+                                if image.width < 300 or image.height < 300:
+                                    continue
+
+                                CURRENT_POST_USED_LOCAL_IMAGES.add(str(selected.resolve()))
+                                print(f"[LOCAL IMAGE] Main subject folder: {folder.name}")
+                                print(f"[LOCAL IMAGE] Selected: {selected}")
+
+                                return folder, [{
+                                    "path": selected,
+                                    "image": image
+                                }]
+
+                            except Exception as exc:
+                                print(f"[LOCAL IMAGE] Failed to open {selected}: {exc}")
+
     tags = get_story_tags(data)
 
     if not tags:
@@ -320,7 +372,6 @@ def get_local_entity_match(data, slide=None, query=""):
 
     matches = []
 
-    # Only inspect folders directly inside data/images.
     for folder in IMAGE_ROOT.iterdir():
         if not folder.is_dir():
             continue
@@ -352,13 +403,8 @@ def get_local_entity_match(data, slide=None, query=""):
         print("[LOCAL IMAGE] No matching entity folder found.")
         return None
 
-    # Select the strongest matching folder.
     best_score = max(item["score"] for item in matches)
-    best_matches = [
-        item for item in matches
-        if item["score"] == best_score
-    ]
-
+    best_matches = [item for item in matches if item["score"] == best_score]
     selected_match = random.choice(best_matches)
 
     folder = selected_match["folder"]
@@ -380,6 +426,24 @@ def search_local_entity_image(data, slide=None, query=""):
         return None
 
     folder, images = match
+
+    # Main-subject folder may return an already loaded image.
+    if images and isinstance(images[0], dict):
+        selected = images[0]["path"]
+        image = images[0]["image"]
+
+        CURRENT_POST_USED_LOCAL_IMAGES.add(str(selected.resolve()))
+
+        return image, {
+            "provider": "local-entity",
+            "folder": folder.name,
+            "source_path": str(selected),
+            "query": query,
+            "matched_tags": get_story_tags(data),
+            "main_subject_match": True,
+            "fallback_used": False,
+            "local_default": False
+        }
 
     unused = [
         path for path in images
@@ -697,11 +761,14 @@ def get_image(query, category=None, tags=None, data=None, slide=None):
         return image, info
 
     # 2. Search internet providers.
-    queries = [
-        clean_text(query),
-        clean_text(theme["fallback"]),
-        "editorial news photography"
-    ]
+    if slide and slide.get("_is_cover") and get_main_subject(data):
+        queries = [get_main_subject(data)["name"]]
+    else:
+        queries = [
+            clean_text(query),
+            clean_text(theme["fallback"]),
+            "editorial news photography"
+        ]
 
     unique_queries = []
 
@@ -979,15 +1046,24 @@ def draw_footer(draw, index, total, accent):
 # =========================================================
 # COVER SLIDE
 # =========================================================
-
 def render_cover(data, slide, theme, date_text, total, category):
-    query = clean_text(
+    main_subject = get_main_subject(data)
+
+    # Cover image search must use only the main subject's name.
+    query = main_subject.get("name") or clean_text(
         slide.get("image_search_query")
         or slide.get("heading")
         or data.get("content", {}).get("title")
     )
 
+    # Mark this slide so local image search prioritizes the subject folder.
+    slide = dict(slide)
+    slide["_is_cover"] = True
+
     tags = get_story_tags(data)
+
+    if main_subject.get("name") and main_subject["name"] not in tags:
+        tags.insert(0, main_subject["name"])
 
     image, info = make_background(
         query,
@@ -1341,6 +1417,7 @@ def generate_post(json_file):
     manifest = {
         "news_id": news_id,
         "title": content.get("title", ""),
+        "main_subject": get_main_subject(data),
         "category": category,
         "tags": classification.get("tags", []),
         "source": data.get("source", ""),
@@ -1419,10 +1496,19 @@ def load_json_files():
     if not CONTENT_DIR.exists():
         raise FileNotFoundError(f"Content folder not found: {CONTENT_DIR}")
 
-    return sorted(
-        CONTENT_DIR.rglob("*.json"),
-        key=lambda p: p.stat().st_mtime
-    )
+    files = []
+
+    for path in CONTENT_DIR.rglob("*.json"):
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+
+            if data.get("image_done") is not True:
+                files.append(path)
+
+        except Exception as exc:
+            print(f"[SKIP] Invalid JSON {path.name}: {exc}")
+
+    return sorted(files, key=lambda p: p.stat().st_mtime)
 
 def main(filename=None):
     discover_fonts()
