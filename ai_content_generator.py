@@ -25,6 +25,7 @@ TODAY = datetime.now(ZoneInfo("Asia/Kolkata")).date()
 QUEUE_FILE = NEWS_DIR / f"{TODAY}.csv"
 
 MAX_NEWS_PER_RUN = 10
+TOP_NEWS_LIMIT = 20
 MAX_ARTICLE_CHARS = 14000
 REQUEST_TIMEOUT = 25
 
@@ -371,40 +372,63 @@ def resolve_country(model_country, region, article_text):
 
 
 # ============================================================
-# MAIN SUBJECT
+# MAIN SUBJECT VALIDATION
 # ============================================================
 
-def determine_main_subject(result, article):
-    subject = result.get("main_subject", {})
+def normalize_subject_text(value):
+    return re.sub(
+        r"[^a-z0-9]+",
+        " ",
+        str(value or "").lower()
+    ).strip()
+
+
+def subject_is_supported(name, article, article_text=""):
+    source = " ".join([
+        str(article.get("title") or ""),
+        str(article.get("description") or ""),
+        str(article_text or "")
+    ])
+
+    source = normalize_subject_text(source)
+    subject = normalize_subject_text(name)
+
+    if not subject:
+        return False
+
+    return bool(
+        re.search(
+            rf"(?<!\w){re.escape(subject)}(?!\w)",
+            source
+        )
+    )
+
+
+def determine_main_subject(result, article, article_text=""):
+    subject = result.get("main_subject") or {}
 
     if not isinstance(subject, dict):
-        subject = {}
+        raise ValueError("Invalid main_subject object.")
 
     name = str(subject.get("name") or "").strip()
-    subject_type = str(subject.get("type") or "person").strip().lower()
-
-    headline = str(article.get("title") or "").lower()
-
-    # Use the recognizable main person for these company stories.
-    if re.search(r"\btesla\b", headline):
-        name = "Elon Musk"
-        subject_type = "person"
-    elif re.search(r"\bnvidia\b", headline):
-        name = "Jensen Huang"
-        subject_type = "person"
+    subject_type = str(subject.get("type") or "other").strip().lower()
 
     if not name:
         raise ValueError("Main subject name is missing.")
 
+    if not subject_is_supported(name, article, article_text):
+        raise ValueError(
+            f"Main subject '{name}' is not supported by the article."
+        )
+
     allowed_types = {
-        "person", "character", "company", "team",
-        "event", "product", "organization", "other"
+        "person", "place", "character", "company",
+        "team", "event", "product", "organization", "other"
     }
 
     if subject_type not in allowed_types:
-        subject_type = "person"
+        subject_type = "other"
 
-    # Keep the cover search query as the name only.
     return {
         "name": name,
         "type": subject_type,
@@ -412,18 +436,32 @@ def determine_main_subject(result, article):
     }
 
 
-def apply_main_subject_to_cover(result, article):
-    main_subject = determine_main_subject(result, article)
+def apply_main_subject_to_cover(result, article, article_text=""):
+    main_subject = determine_main_subject(
+        result, article, article_text
+    )
+
     result["main_subject"] = main_subject
 
-    slides = result["content"].get("slides", [])
+    content = result.get("content", {})
+    slides = content.get("slides", [])
 
     if not slides:
         raise ValueError("No slides available for cover.")
 
-    slides[0]["slide_number"] = 1
-    slides[0]["type"] = "cover"
-    slides[0]["image_search_query"] = main_subject["name"]
+    cover = slides[0]
+    cover["slide_number"] = 1
+    cover["type"] = "cover"
+
+    # Use the actual news title and caption on the cover.
+    heading = str(content.get("title") or "").strip()
+    text = str(content.get("caption") or "").strip()
+
+    cover["heading"] = " ".join(heading.split()[:MAX_HEADING_WORDS])
+    cover["text"] = " ".join(text.split()[:MAX_SLIDE_WORDS])
+
+    # Only the subject's name is used for image search.
+    cover["image_search_query"] = main_subject["name"]
 
     return main_subject
 
@@ -436,10 +474,12 @@ def add_country_to_image_queries(content, country):
     if not country:
         return
 
-    country_name = COUNTRY_IMAGE_NAMES.get(country, country.title())
+    country_name = COUNTRY_IMAGE_NAMES.get(
+        country,
+        country.title()
+    )
 
     for index, slide in enumerate(content.get("slides", [])):
-        # Never add country or extra keywords to the cover query.
         if index == 0 or slide.get("type") == "cover":
             continue
 
@@ -528,7 +568,7 @@ def validate_result(result):
             f"Carousel must contain {MIN_SLIDES} to {MAX_SLIDES} slides."
         )
 
-    if slides[0].get("type") != "cover":
+    if not isinstance(slides[0], dict) or slides[0].get("type") != "cover":
         raise ValueError("Slide 1 must have type 'cover'.")
 
     image_queries = set()
@@ -551,9 +591,10 @@ def validate_result(result):
         query = slide["image_search_query"].strip()
 
         if index == 1:
-            # Cover query must be exactly the main subject's name.
             if query.lower() != main_subject["name"].strip().lower():
-                raise ValueError("Cover image query must be only the main subject name.")
+                raise ValueError(
+                    "Cover image query must be only the main subject name."
+                )
         else:
             query_words = word_count(query)
 
@@ -592,8 +633,16 @@ def validate_slide_uniqueness(slides):
     texts = set()
 
     for index, slide in enumerate(slides, start=1):
-        heading = re.sub(r"\s+", " ", slide["heading"].strip().lower())
-        text = re.sub(r"\s+", " ", slide["text"].strip().lower())
+        heading = re.sub(
+            r"\s+",
+            " ",
+            slide["heading"].strip().lower()
+        )
+        text = re.sub(
+            r"\s+",
+            " ",
+            slide["text"].strip().lower()
+        )
 
         if heading in headings:
             raise ValueError(f"Slide {index} repeats a heading: {heading}")
@@ -610,7 +659,10 @@ def validate_slide_uniqueness(slides):
 # ============================================================
 
 def generate_content(client, article):
-    article_text, article_available = extract_article(article.get("url", ""))
+    article_text, article_available = extract_article(
+        article.get("url", "")
+    )
+
     input_content = article_text or article.get("description", "") or ""
 
     if len(input_content.strip()) < 50:
@@ -620,89 +672,105 @@ def generate_content(client, article):
     prompt = f"""
 You are a professional news editor and social media carousel strategist.
 
-Classify the news and create a concise social media carousel.
+Your job is to understand the ACTUAL article and create accurate news content.
 
-Return ONLY one valid JSON object with this exact structure:
+IMPORTANT:
+Do not copy names from examples or templates.
+Every generated field must belong to the current article.
+Do not mix information from different people, companies or news stories.
+
+Return ONLY one valid JSON object with this structure:
 
 {{
   "main_subject": {{
-    "name": "Jensen Huang",
+    "name": "Actual main subject from this article",
     "type": "person"
   }},
   "classification": {{
     "country": null,
-    "category": "one allowed category",
+    "category": "technology",
     "subcategory": "specific subcategory",
     "importance_score": 1,
     "relevance_score": 1,
-    "region": "geographical region or empty string",
-    "tags": ["tag1", "tag2"],
+    "region": "",
+    "tags": ["relevant tag"],
     "classification_reason": "brief reason"
   }},
   "content": {{
-    "title": "accurate title",
-    "caption": "concise social media caption",
-    "hashtags": ["#tag1", "#tag2"],
+    "title": "Accurate news headline",
+    "caption": "Accurate summary of the actual news",
+    "hashtags": ["#RelevantTag"],
     "slides": [
       {{
         "slide_number": 1,
         "type": "cover",
-        "heading": "short heading",
-        "text": "concise slide text",
-        "image_search_query": "Jensen Huang"
+        "heading": "Actual news headline",
+        "text": "A concise explanation of the actual news story.",
+        "image_search_query": "Actual main subject name"
+      }},
+      {{
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Relevant context",
+        "text": "A different important fact from the article.",
+        "image_search_query": "descriptive photographic search phrase"
+      }},
+      {{
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Important details",
+        "text": "Another distinct fact supported by the article.",
+        "image_search_query": "descriptive photographic search phrase"
       }}
     ]
   }}
 }}
 
+MAIN SUBJECT RULES:
+
+- Read the article before choosing the main subject.
+- Identify the single most important subject of THIS article.
+- The subject can be a person, place, company, organization, product, event, team, character or other specific entity.
+- Choose the subject that is central to the actual news, not simply a famous person mentioned in passing.
+- Do not automatically choose a CEO, founder, celebrity or politician just because their name appears in the article.
+- Do not automatically choose a company when the actual story is about a person.
+- Do not automatically choose a person when the actual story is about a company, product, place or event.
+- The main subject must be explicitly supported by the article.
+- Do not invent or guess the main subject.
+- Use the proper recognizable name of the subject.
+- Do not use generic topics such as technology, business, AI or politics when a specific subject exists.
+- The type must be one of: person, place, character, company, team, event, product, organization, other.
+- Do not copy the example subject or example names from this prompt.
+
+COVER RULES:
+
+- Slide 1 must describe the actual news story.
+- Slide 1 heading should be the actual news headline or a concise version of it.
+- Slide 1 text should explain the actual news in one or two sentences.
+- Never use only a person's name as the cover heading.
+- Never use only a job title as the cover text.
+- Never create a cover unrelated to the article.
+- Slide 1 image_search_query must contain ONLY main_subject.name.
+- Do not add a job title, company, country, description, portrait, photo or other keywords to the cover query.
+- The cover must visually represent the selected main subject.
+
 ALLOWED CATEGORIES:
 {", ".join(CATEGORIES)}
 
-MAIN SUBJECT RULES:
-
-- Identify the single most important person or character in the news.
-- The main subject should be the recognizable person viewers would expect to see on the cover.
-- Use the person's actual full name only.
-- Do not add their job title, company, country, description or search instructions.
-- Examples: "Jensen Huang", "Elon Musk", "Donald Trump", "Narendra Modi".
-- If the story is about Tesla as a company, use "Elon Musk" as the recognizable main person.
-- If the story is about Nvidia as a company, use "Jensen Huang" as the recognizable main person.
-- If the article is about a specific person, use that person instead of the company.
-- If multiple people are involved, select the person most central to the headline and story.
-- If the story is about a fictional character, use only the character's name.
-- If no person or character is central, use the main company, team, product or event name.
-- The type must be one of: person, character, company, team, event, product, organization, other.
-- Do not use a generic topic such as AI, technology or business when a specific person is the main subject.
-
-COVER IMAGE RULES:
-
-- Slide 1 must show the main subject.
-- Slide 1 image_search_query must contain ONLY main_subject.name.
-- Do not add words such as portrait, CEO, photo, image, company, country or background.
-- Examples:
-  - Main subject: Jensen Huang -> image_search_query: "Jensen Huang"
-  - Main subject: Elon Musk -> image_search_query: "Elon Musk"
-  - Main subject: Donald Trump -> image_search_query: "Donald Trump"
-- Never use a generic AI image, company logo or unrelated technology image for a person-led story's cover.
-- The main subject's recognizable image has priority over the story's background.
-
-ALLOWED CATEGORIES:
+CLASSIFICATION RULES:
 
 - Choose exactly ONE primary category.
-- AI model announcements belong to technology.
-- Indian government policy may belong to india or politics.
-- International conflict may belong to world or politics.
-- Indian cricket may belong to sports or india.
 - Score importance and audience relevance from 1 to 10.
 - Do not inflate scores.
-- The category must be one of the allowed categories.
+- Use a specific subcategory.
+- Tags must relate to the actual article.
+- Do not use the main subject from another article.
 
 COUNTRY CLASSIFICATION RULES:
 
 - Determine the country from the actual news event.
-- Use the full article text as the primary evidence.
-- Consider event location, people, organizations, governments,
-  companies and geographical context.
+- Use the full article text as primary evidence.
+- Consider event location, people, organizations, governments and geographical context.
 - Do not use the publisher's country as the news country.
 - Do not use the target audience's country.
 - Never assume the country is INDIA.
@@ -719,8 +787,7 @@ COMPACT CAROUSEL RULES:
 - Generate exactly 3 or 4 slides.
 - Use 3 slides for straightforward stories.
 - Use 4 slides only when an important distinct detail requires it.
-- NEVER generate 5 or more slides.
-- Slide 1 must have type "cover".
+- Never generate 5 or more slides.
 - Each slide communicates ONE main idea.
 - Avoid repetition, filler and unnecessary explanations.
 - Each slide text must contain no more than 35 words.
@@ -730,13 +797,12 @@ COMPACT CAROUSEL RULES:
 - Use slide types only: cover, context, details, impact, takeaway.
 - Do not force a separate impact or takeaway slide.
 - Preserve important facts, names, figures and dates.
-- Caption should summarize the story concisely.
-- Include around five relevant hashtags.
+- Caption should summarize the actual story concisely.
 
 SUGGESTED STRUCTURE:
 
 3-SLIDE STORY:
-1. Cover: What is the main news?
+1. Cover: What is the actual main news?
 2. Context: What happened?
 3. Key detail: Why does it matter?
 
@@ -747,7 +813,6 @@ SUGGESTED STRUCTURE:
 4. Impact: Important consequence or response.
 
 Choose the structure that best fits the article.
-Do not create unnecessary slides.
 
 ACCURACY RULES:
 
@@ -755,27 +820,17 @@ ACCURACY RULES:
 - Do not invent facts, quotes, statistics or consequences.
 - Clearly attribute allegations and political claims.
 - Do not present allegations as established facts.
-- Keep the wording neutral and factual.
-
-SLIDE CONTENT RULES:
-
-- Generate 3–4 slides.
-- Keep slide text ideally between 12–20 words.
-- Never exceed 35 words per slide.
-- Keep headings ideally between 3–6 words.
-- Never exceed 10 words per heading.
-- Use clear, natural, informative language.
-- Every slide should communicate one key point.
+- Do not confuse different people with similar names.
+- Do not introduce unrelated companies, executives or events.
+- If the article does not contain enough information, keep the content conservative.
 
 IMAGE SEARCH QUERY RULES:
 
-- Slide 1 must follow the COVER IMAGE RULES exactly.
-- For all other slides, generate a descriptive photographic search phrase.
+- Slide 1 query must be ONLY main_subject.name.
+- For slides 2 onward, generate descriptive photographic search phrases.
 - Use 3 to 8 words for slides 2 onward.
 - Use specific subjects, locations, people or objects.
 - Different slides should ideally have different image queries.
-- Commas are allowed.
-- Do not include instructions such as "no text" or "no watermark".
 - Do not add country names. The system handles country information separately.
 - If the exact event cannot be photographed, use a realistic representative scene.
 - Prefer broad, recognizable visual subjects.
@@ -787,25 +842,18 @@ SLIDE UNIQUENESS RULES:
 - Do not repeat the same heading across slides.
 - Do not paraphrase the same fact to fill the required slide count.
 - Each slide must add new information, context, statistics, background or consequences.
-- Use only facts supported by the provided article or source material.
-- Do not invent statistics, match events, scores, quotes or explanations.
+- Use only facts supported by the article or source material.
 
 NEVER:
 
+- Copy names from examples.
+- Mix unrelated stories.
+- Invent a person's involvement.
 - Use comma-separated keywords in image queries.
 - Copy the article headline into an image query.
 - Use abstract concepts such as impact, takeaway, compliance or controversy.
 - Use words such as news, breaking news, social media graphic or infographic.
 - Request text, logos, watermarks or captions in photos.
-- Add a person's job title or company to the cover image query.
-
-GOOD IMAGE QUERY EXAMPLES FOR SLIDES 2 ONWARD:
-
-"modern data center building exterior"
-"rows of servers in data center"
-"Indian High Court building exterior"
-"urban street flooded after rainfall"
-"electric vehicle charging station"
 
 ARTICLE INFORMATION:
 
@@ -821,7 +869,8 @@ ARTICLE TEXT:
 
 Full article text successfully extracted: {article_available}
 
-Return valid JSON only. Do not use Markdown fences.
+Return valid JSON only.
+Do not use Markdown fences.
 Do not add explanations outside the JSON.
 """
 
@@ -832,16 +881,18 @@ Do not add explanations outside the JSON.
                     {
                         "role": "system",
                         "content": (
-                            "You are a precise news editor. Follow every required "
-                            "JSON field exactly. Identify the main person or character. "
-                            "The cover image query must be only their name. "
-                            "Determine country from the actual article. "
-                            "Return null when country is not known. "
-                            "Never assume INDIA. Never invent facts. "
-                            "Generate only 3 or 4 carousel slides."
+                            "You are a precise news editor. Analyze only the "
+                            "current article. Never copy names from examples. "
+                            "Identify the actual main subject, which may be a "
+                            "person, place, company, product, event or other "
+                            "entity. Every claim must be supported by the article. "
+                            "The cover must describe the actual news story."
                         )
                     },
-                    {"role": "user", "content": prompt}
+                    {
+                        "role": "user",
+                        "content": prompt
+                    }
                 ],
                 response_format={"type": "json_object"},
                 temperature=0.2,
@@ -865,8 +916,13 @@ Do not add explanations outside the JSON.
 
             result = json.loads(response_text)
 
-            # Set the cover query deterministically before validation.
-            apply_main_subject_to_cover(result, article)
+            # Validate the actual subject before accepting the result.
+            apply_main_subject_to_cover(
+                result,
+                article,
+                input_content
+            )
+
             validate_result(result)
 
             result["_article_evidence"] = input_content
@@ -881,6 +937,7 @@ Do not add explanations outside the JSON.
 
         except Exception as error:
             print(f"[AI ERROR] Attempt {attempt}/3: {error}")
+
             if attempt < 3:
                 time.sleep(attempt * 2)
 
@@ -892,19 +949,36 @@ Do not add explanations outside the JSON.
 # ============================================================
 
 def content_date_key(value=None):
-    date_value = value or datetime.now(ZoneInfo("Asia/Kolkata")).isoformat()
+    date_value = value or datetime.now(
+        ZoneInfo("Asia/Kolkata")
+    ).isoformat()
 
     try:
-        parsed = datetime.fromisoformat(str(date_value).replace("Z", "+00:00"))
+        parsed = datetime.fromisoformat(
+            str(date_value).replace("Z", "+00:00")
+        )
+
         if parsed.tzinfo is None:
-            parsed = parsed.replace(tzinfo=ZoneInfo("Asia/Kolkata"))
-        return parsed.astimezone(ZoneInfo("Asia/Kolkata")).strftime("%Y-%m-%d")
+            parsed = parsed.replace(
+                tzinfo=ZoneInfo("Asia/Kolkata")
+            )
+
+        return parsed.astimezone(
+            ZoneInfo("Asia/Kolkata")
+        ).strftime("%Y-%m-%d")
+
     except Exception:
-        return datetime.now(ZoneInfo("Asia/Kolkata")).strftime("%Y-%m-%d")
+        return datetime.now(
+            ZoneInfo("Asia/Kolkata")
+        ).strftime("%Y-%m-%d")
 
 
 def content_file_for(news_id, published_at=None):
-    return CONTENT_DIR / content_date_key(published_at) / f"{news_id}.json"
+    return (
+        CONTENT_DIR
+        / content_date_key(published_at)
+        / f"{news_id}.json"
+    )
 
 
 def save_json(output_file, output):
@@ -912,7 +986,12 @@ def save_json(output_file, output):
     temp_file = output_file.with_suffix(".tmp")
 
     with open(temp_file, "w", encoding="utf-8") as file:
-        json.dump(output, file, indent=4, ensure_ascii=False)
+        json.dump(
+            output,
+            file,
+            indent=4,
+            ensure_ascii=False
+        )
 
     temp_file.replace(output_file)
 
@@ -928,7 +1007,11 @@ def process_news(client, article):
         print("[SKIP] Article has no news_id.")
         return False
 
-    output_file = content_file_for(news_id, article.get("published_at"))
+    output_file = content_file_for(
+        news_id,
+        article.get("published_at")
+    )
+
     generated = None
 
     if output_file.exists():
@@ -936,33 +1019,44 @@ def process_news(client, article):
             with open(output_file, "r", encoding="utf-8") as file:
                 existing = json.load(file)
 
+            existing_article_text, article_available = extract_article(
+                article.get("url", "")
+            )
+
+            evidence = (
+                existing_article_text
+                or article.get("description", "")
+                or ""
+            )
+
+            # Check existing JSON structure.
             validate_result({
                 "main_subject": existing.get("main_subject"),
                 "classification": existing.get("classification"),
                 "content": existing.get("content")
             })
 
-            # Reapply the cover rules to older saved JSON as well.
-            existing["main_subject"] = determine_main_subject(existing, article)
-            existing["content"]["slides"][0]["image_search_query"] = (
-                existing["main_subject"]["name"]
+            # Check that the existing main subject belongs to this article.
+            existing["main_subject"] = determine_main_subject(
+                existing,
+                article,
+                evidence
             )
 
-            print(f"[EXISTING] Reusing JSON: {news_id}")
-
-            existing_article_text, article_available = extract_article(
-                article.get("url", "")
+            # Correct the cover using the existing actual news content.
+            apply_main_subject_to_cover(
+                existing,
+                article,
+                evidence
             )
+
+            print(f"[EXISTING] Reusing valid JSON: {news_id}")
 
             generated = {
                 "main_subject": existing["main_subject"],
                 "classification": existing["classification"],
                 "content": existing["content"],
-                "_article_evidence": (
-                    existing_article_text
-                    or article.get("description", "")
-                    or ""
-                ),
+                "_article_evidence": evidence,
                 "article_text_available": existing.get(
                     "article_text_available",
                     article_available
@@ -976,7 +1070,7 @@ def process_news(client, article):
             }
 
         except Exception as error:
-            print(f"[REGENERATE] {news_id}: {error}")
+            print(f"[REGENERATE] Existing JSON is invalid: {error}")
             generated = generate_content(client, article)
 
     else:
@@ -989,16 +1083,33 @@ def process_news(client, article):
 
     classification = generated["classification"]
     content = generated["content"]
-    main_subject = generated["main_subject"]
 
-    # Enforce the simple-name cover query again before saving.
-    main_subject = determine_main_subject(
-        {"main_subject": main_subject},
-        article
-    )
-    generated["main_subject"] = main_subject
-    content["slides"][0]["type"] = "cover"
-    content["slides"][0]["image_search_query"] = main_subject["name"]
+    try:
+        # Validate the subject again before saving.
+        main_subject = determine_main_subject(
+            generated,
+            article,
+            generated.get("_article_evidence", "")
+        )
+
+        generated["main_subject"] = main_subject
+
+        # Enforce a proper news cover.
+        apply_main_subject_to_cover(
+            generated,
+            article,
+            generated.get("_article_evidence", "")
+        )
+
+        validate_result(generated)
+
+    except Exception as error:
+        print(f"[VALIDATION ERROR] {news_id}: {error}")
+        return False
+
+    classification = generated["classification"]
+    content = generated["content"]
+    main_subject = generated["main_subject"]
 
     article_evidence = " ".join([
         str(article.get("title") or ""),
@@ -1019,9 +1130,12 @@ def process_news(client, article):
         article_evidence
     )
 
-    add_country_to_image_queries(content, classification["country"])
+    add_country_to_image_queries(
+        content,
+        classification["country"]
+    )
 
-    # Ensure cover query remains only the main subject's name.
+    # Never modify the cover query with country or other keywords.
     content["slides"][0]["image_search_query"] = main_subject["name"]
 
     classification["selected_channels"] = [
@@ -1034,8 +1148,14 @@ def process_news(client, article):
         "main_subject": main_subject,
         "classification": classification,
         "content": content,
-        "article_text_available": generated.get("article_text_available", False),
-        "article_text_note": generated.get("article_text_note", ""),
+        "article_text_available": generated.get(
+            "article_text_available",
+            False
+        ),
+        "article_text_note": generated.get(
+            "article_text_note",
+            ""
+        ),
         "source": article.get("source", ""),
         "source_url": article.get("url", ""),
         "published_at": article.get("published_at", "")
@@ -1043,15 +1163,23 @@ def process_news(client, article):
 
     try:
         save_json(output_file, output)
+
     except Exception as error:
         print(f"[SAVE ERROR] {news_id}: {error}")
         return False
 
     article["category"] = classification["category"]
     article["subcategory"] = classification["subcategory"]
-    article["importance_score"] = str(classification["importance_score"])
-    article["relevance_score"] = str(classification["relevance_score"])
-    article["tags"] = json.dumps(classification["tags"], ensure_ascii=False)
+    article["importance_score"] = str(
+        classification["importance_score"]
+    )
+    article["relevance_score"] = str(
+        classification["relevance_score"]
+    )
+    article["tags"] = json.dumps(
+        classification["tags"],
+        ensure_ascii=False
+    )
     article["selected_channels"] = json.dumps(
         classification["selected_channels"],
         ensure_ascii=False
@@ -1061,15 +1189,77 @@ def process_news(client, article):
     article["classified"] = "true"
     article["ai_done"] = "true"
 
-    print(f"[MAIN SUBJECT] {main_subject['name']} ({main_subject['type']})")
-    print(f"[COVER IMAGE QUERY] {content['slides'][0]['image_search_query']}")
+    print(
+        f"[MAIN SUBJECT] {main_subject['name']} "
+        f"({main_subject['type']})"
+    )
+    print(
+        f"[COVER HEADING] "
+        f"{content['slides'][0]['heading']}"
+    )
+    print(
+        f"[COVER IMAGE QUERY] "
+        f"{content['slides'][0]['image_search_query']}"
+    )
     print(f"[CLASSIFIED] {classification['category']}")
-    print(f"[CHANNELS] {', '.join(classification['selected_channels'])}")
+    print(
+        f"[CHANNELS] "
+        f"{', '.join(classification['selected_channels'])}"
+    )
     print(f"[SLIDES] {len(content['slides'])}")
     print(f"[COUNTRY] {classification['country'] or 'null'}")
     print(f"[SUCCESS] JSON saved: {output_file.name}")
 
     return True
+
+
+# ============================================================
+# TOP 20 NEWS
+# ============================================================
+
+def keep_top_news(rows, fields):
+    if not rows:
+        save_queue([], fields)
+        return
+
+    def rank_score(row):
+        try:
+            importance = float(
+                row.get("importance_score") or 0
+            )
+        except (ValueError, TypeError):
+            importance = 0
+
+        try:
+            relevance = float(
+                row.get("relevance_score") or 0
+            )
+        except (ValueError, TypeError):
+            relevance = 0
+
+        return (
+            importance + relevance,
+            importance,
+            relevance
+        )
+
+    ranked = sorted(
+        rows,
+        key=rank_score,
+        reverse=True
+    )
+
+    top_rows = ranked[:TOP_NEWS_LIMIT]
+
+    save_queue(top_rows, fields)
+
+    print(
+        f"[TOP NEWS] Retained {len(top_rows)} best articles."
+    )
+    print(
+        f"[TOP NEWS] Removed "
+        f"{max(0, len(rows) - len(top_rows))} lower-ranked articles."
+    )
 
 
 # ============================================================
@@ -1089,8 +1279,10 @@ def main(filename=None, reprocess=False):
     print(f"Reprocess mode: {reprocess}")
     print("Engine: Local Qwen GGUF")
     print("Classification + Compact Carousel: Enabled")
-    print("Main Subject Cover: Enabled")
+    print("Main Subject Validation: Enabled")
+    print("News Cover Validation: Enabled")
     print("Direct CSV Processing: Enabled")
+    print("Top 20 Ranking: Enabled")
     print("===============================================\n")
 
     rows, fields = load_queue()
@@ -1111,6 +1303,17 @@ def main(filename=None, reprocess=False):
 
     if not batch:
         print("\n[INFO] No pending articles to process.")
+
+        all_classified = all(
+            str(row.get("ai_done") or "").strip().lower() == "true"
+            for row in rows
+        )
+
+        if all_classified and len(rows) > TOP_NEWS_LIMIT:
+            keep_top_news(rows, fields)
+        else:
+            save_queue(rows, fields)
+
         return
 
     client = get_client()
@@ -1123,16 +1326,20 @@ def main(filename=None, reprocess=False):
             try:
                 save_queue(rows, fields)
                 processed += 1
-                print(f"[CSV UPDATED] {article.get('news_id')}")
+                print(
+                    f"[CSV UPDATED] {article.get('news_id')}"
+                )
+
             except Exception as error:
                 failed += 1
                 print(f"[CSV SAVE ERROR] {error}")
+
         else:
             failed += 1
 
     remaining = max(0, len(pending) - len(batch))
 
-    # Keep all rows until every article has been processed.
+    # Do not remove unprocessed articles.
     all_classified = all(
         str(row.get("ai_done") or "").strip().lower() == "true"
         for row in rows
@@ -1140,10 +1347,16 @@ def main(filename=None, reprocess=False):
 
     if all_classified and len(rows) > TOP_NEWS_LIMIT:
         keep_top_news(rows, fields)
-        print("[CSV CLEANUP] CSV now contains only the top 20 articles.")
+        print(
+            "[CSV CLEANUP] CSV now contains only the top 20 articles."
+        )
+
     else:
         save_queue(rows, fields)
-        print(f"[CSV QUEUE] Retaining {len(rows)} articles for further processing.")
+        print(
+            f"[CSV QUEUE] Retaining {len(rows)} articles "
+            "for further processing."
+        )
 
     print("\n========== GENERATION SUMMARY ==========")
     print(f"Total records: {len(rows)}")
@@ -1154,33 +1367,6 @@ def main(filename=None, reprocess=False):
     print(f"CSV updated: {QUEUE_FILE}")
     print("========================================\n")
 
-TOP_NEWS_LIMIT = 20
-
-def keep_top_news(rows, fields):
-    if not rows:
-        save_queue([], fields)
-        return
-
-    def rank_score(row):
-        try:
-            importance = int(float(row.get("importance_score") or 0))
-            relevance = int(float(row.get("relevance_score") or 0))
-        except (ValueError, TypeError):
-            importance = relevance = 0
-
-        return (
-            importance + relevance,
-            importance,
-            relevance
-        )
-
-    ranked = sorted(rows, key=rank_score, reverse=True)
-    top_rows = ranked[:TOP_NEWS_LIMIT]
-
-    save_queue(top_rows, fields)
-
-    print(f"[TOP NEWS] Retained {len(top_rows)} best articles.")
-    print(f"[TOP NEWS] Removed {max(0, len(rows) - len(top_rows))} lower-ranked articles.")
 
 # ============================================================
 # ENTRY POINT
@@ -1191,7 +1377,10 @@ if __name__ == "__main__":
 
     args = sys.argv[1:]
     reprocess = "--reprocess" in args
-    args = [arg for arg in args if arg != "--reprocess"]
+    args = [
+        arg for arg in args
+        if arg != "--reprocess"
+    ]
 
     main(
         args[0] if args else None,
