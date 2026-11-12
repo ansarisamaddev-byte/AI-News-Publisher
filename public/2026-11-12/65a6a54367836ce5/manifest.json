@@ -1,0 +1,102 @@
+{
+  "news_id": "65a6a54367836ce5",
+  "title": "Activist Daniel Thomas Pleads Guilty to Criminal Damage in English Channel",
+  "main_subject": {
+    "name": "Daniel Thomas",
+    "type": "person",
+    "image_search_query": "Daniel Thomas"
+  },
+  "category": "politics",
+  "tags": [
+    "criminal charges",
+    "Danny Tommo",
+    "Portsmouth Crown Court"
+  ],
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6x20x380z12o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-12T16:44:25+00:00",
+  "provider_default": "",
+  "image_count": 5,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Danny Tommo Admits Criminal Damage",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Chrisjnelson at en.wikipedia",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Daniel_Thomas.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Daniel_Thomas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "Daniel Thomas",
+        "fallback_used": true,
+        "original_query": "Daniel Thomas"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Incident in the English Channel",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Rosodo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Parliament._Government_building_in_Funafuti.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Parliament._Government_building_in_Funafuti.jpg/1280px-Parliament._Government_building_in_Funafuti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "parliament government building",
+        "fallback_used": true,
+        "original_query": "dinghy slashing knife English Channel United Kingdom"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Prosecutor's Statement",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Dietmar Rabich",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Canberra_(AU),_Parliament_House_and_Old_Parliament_House_--_2019_--_1767.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Canberra_%28AU%29%2C_Parliament_House_and_Old_Parliament_House_--_2019_--_1767.jpg/1280px-Canberra_%28AU%29%2C_Parliament_House_and_Old_Parliament_House_--_2019_--_1767.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "parliament government building",
+        "fallback_used": true,
+        "original_query": "RIB empty RIB English Channel United Kingdom"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "heading": "Sentencing",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Alisdare Hickson from Woolwich, United Kingdom",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Tired_Activists_Sleep_Side_By_Side_in_the_Sunlight_-_Flickr_-_alisdare1.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Tired_Activists_Sleep_Side_By_Side_in_the_Sunlight_-_Flickr_-_alisdare1.jpg/1280px-Tired_Activists_Sleep_Side_By_Side_in_the_Sunlight_-_Flickr_-_alisdare1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "criminal damage sentencing United Kingdom",
+        "fallback_used": true,
+        "original_query": "criminal damage sentencing United Kingdom"
+      }
+    },
+    {
+      "file": "slide_05.png",
+      "slide_number": 5,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "DXR",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Centre_Block,_Ottawa,_Southeast_view_20170422_1.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Centre_Block%2C_Ottawa%2C_Southeast_view_20170422_1.jpg/1280px-Centre_Block%2C_Ottawa%2C_Southeast_view_20170422_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "parliament government building",
+        "fallback_used": true,
+        "original_query": "parliament government building"
+      }
+    }
+  ]
+}

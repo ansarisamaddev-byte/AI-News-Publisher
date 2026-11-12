@@ -1,0 +1,85 @@
+{
+  "news_id": "3e284c4e795d17ae",
+  "title": "Tesla's Internal Policy: Doctors and Staff to Mark Night Attendance",
+  "main_subject": {
+    "name": "Jensen Huang",
+    "type": "person",
+    "image_search_query": "Jensen Huang"
+  },
+  "category": "technology",
+  "tags": [
+    "Tesla",
+    "Jensen Huang"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/karnataka/health-staff-told-to-mark-night-attendance-through-kartavya-app/article71694456.ece",
+  "published_at": "2026-11-12T16:37:22+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Jensen Huang",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Anderseidesvik",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_029.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Jensen_huang_stanford_2026-04-30_029.jpg/1280px-Jensen_huang_stanford_2026-04-30_029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "Jensen Huang",
+        "fallback_used": true,
+        "original_query": "Jensen Huang"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Internal Policy",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "epSos.de",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg/1280px-Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "Tesla internal policy United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Implementation",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Shixart1985",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Colorful_dog_figure_on_display_during_an_event_at_a_modern_exhibition_center.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Colorful_dog_figure_on_display_during_an_event_at_a_modern_exhibition_center.jpg/1280px-Colorful_dog_figure_on_display_during_an_event_at_a_modern_exhibition_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "Kartavya app implementation United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Machot Gatluak Pathot Tuel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(78797).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Learning_ICT_Computer_%2878797%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

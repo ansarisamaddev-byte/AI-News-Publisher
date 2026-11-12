@@ -1,0 +1,101 @@
+{
+  "news_id": "05fb44fa7f35b422",
+  "title": "India's Renewable Energy Transformation: Earthshot Prize CEO's Vision",
+  "main_subject": {
+    "name": "Jensen Huang",
+    "type": "person",
+    "image_search_query": "Jensen Huang"
+  },
+  "category": "technology",
+  "tags": [
+    "CEO",
+    "Jensen Huang"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-undergoing-massive-transformation-in-renewable-energy-earthshot-prize-ceo/article71694272.ece",
+  "published_at": "2026-11-12T16:39:28+00:00",
+  "provider_default": "",
+  "image_count": 5,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Jensen Huang",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Anderseidesvik",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_007.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Jensen_huang_stanford_2026-04-30_007.jpg/1280px-Jensen_huang_stanford_2026-04-30_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "Jensen Huang",
+        "fallback_used": true,
+        "original_query": "Jensen Huang"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "India's Renewable Energy Transformation",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Ministry of Power",
+        "license": "GODL-India",
+        "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Minister_of_State_(Independent_Charge)_for_Power,_Coal_and_New_and_Renewable_Energy,_Shri_Piyush_Goyal_at_the_AIMA%27s_2nd_National_Leadership_Conclave_on_%E2%80%9CBreaking_Through_Making_India_a_Creative_Superpower%E2%80%9D,_in_New_Delhi.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/The_Minister_of_State_%28Independent_Charge%29_for_Power%2C_Coal_and_New_and_Renewable_Energy%2C_Shri_Piyush_Goyal_at_the_AIMA%27s_2nd_National_Leadership_Conclave_on_%E2%80%9CBreaking_Through_Making_India_a_Creative_Superpower%E2%80%9D%2C_in_New_Delhi.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "India, renewable energy, India's leadership",
+        "fallback_used": true,
+        "original_query": "India, renewable energy, India's leadership"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why India?",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Machot Gatluak Pathot Tuel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(87121).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Learning_ICT_Computer_%2887121%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "India, Earthshot Prize, renewable energy"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "heading": "Mumbai's Role",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "epSos.de",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg/1280px-Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "Mumbai, Earthshot Prize, Mumbai's role"
+      }
+    },
+    {
+      "file": "slide_05.png",
+      "slide_number": 5,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "epSos.de",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg/1280px-Computer_Memory_Hard_Drive_Disk_HDD_Storage_Technology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

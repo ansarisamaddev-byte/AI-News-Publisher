@@ -1,70 +1,71 @@
 {
-    "news_id": "3112dd1b3c9b019c",
+  "news_id": "3112dd1b3c9b019c",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "KPTCL",
+    "type": "company",
+    "image_search_query": "KPTCL"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "KPTCL",
-        "type": "company",
+    "category": "technology",
+    "subcategory": "power transmission",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "",
+    "tags": [
+      "power transmission",
+      "KPTCL",
+      "Vande Bharat"
+    ],
+    "classification_reason": "KPTCL completes power supply ahead of Vande Bharat train launch in Western Ghats",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "KPTCL Completes Power Supply Ahead of Vande Bharat Train Launch",
+    "caption": "KPTCL completes power supply ahead of Vande Bharat train launch in Western Ghats.",
+    "hashtags": [
+      "#KPTCL",
+      "#VandeBharat",
+      "#PowerTransmission"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Power Supply Completion",
+        "text": "KPTCL completes power supply ahead of Vande Bharat train launch in Western Ghats.",
         "image_search_query": "KPTCL"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "technology",
-        "subcategory": "power transmission",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "",
-        "tags": [
-            "power transmission",
-            "KPTCL",
-            "Vande Bharat"
-        ],
-        "classification_reason": "KPTCL completes power supply ahead of Vande Bharat train launch in Western Ghats",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "KPTCL Completes Power Supply Ahead of Vande Bharat Train Launch",
-        "caption": "KPTCL completes power supply ahead of Vande Bharat train launch in Western Ghats.",
-        "hashtags": [
-            "#KPTCL",
-            "#VandeBharat",
-            "#PowerTransmission"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Power Supply Completion",
-                "text": "KPTCL completes power supply ahead of Vande Bharat train launch in Western Ghats.",
-                "image_search_query": "KPTCL"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Technical Challenges",
-                "text": "Technical challenges in supplying power to the Western Ghats, including difficult terrain and heavy rainfall.",
-                "image_search_query": "rows of servers in data center India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Preparation",
-                "text": "KPTCL completed a review to ensure all substations and transmission systems were ready.",
-                "image_search_query": "electric vehicle charging station India"
-            },
-            {
-                "slide_number": 4,
-                "type": "impact",
-                "heading": "Impact",
-                "text": "The train will make travel between Bengaluru and coastal Karnataka easier and benefit tourism and hospitality in Mangaluru, Udupi, Murudeshwar, and Gokarna.",
-                "image_search_query": "urban street flooded after rainfall India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/cities/bangalore/kptcl-prepares-power-network-ahead-of-vande-bharat-launch-on-western-ghat-route/article71694416.ece",
-    "published_at": "2026-11-12T16:37:17+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Technical Challenges",
+        "text": "Technical challenges in supplying power to the Western Ghats, including difficult terrain and heavy rainfall.",
+        "image_search_query": "rows of servers in data center India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Preparation",
+        "text": "KPTCL completed a review to ensure all substations and transmission systems were ready.",
+        "image_search_query": "electric vehicle charging station India"
+      },
+      {
+        "slide_number": 4,
+        "type": "impact",
+        "heading": "Impact",
+        "text": "The train will make travel between Bengaluru and coastal Karnataka easier and benefit tourism and hospitality in Mangaluru, Udupi, Murudeshwar, and Gokarna.",
+        "image_search_query": "urban street flooded after rainfall India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/bangalore/kptcl-prepares-power-network-ahead-of-vande-bharat-launch-on-western-ghat-route/article71694416.ece",
+  "published_at": "2026-11-12T16:37:17+00:00",
+  "image_done": true
 }
