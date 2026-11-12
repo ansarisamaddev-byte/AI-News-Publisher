@@ -1,0 +1,83 @@
+{
+  "news_id": "c557a499183d5911",
+  "title": "YSR Congress Party Assists 18-Month-Old Boy with Spinal Muscular Atrophy",
+  "main_subject": {
+    "name": "Varshit",
+    "type": "person",
+    "image_search_query": "Varshit"
+  },
+  "category": "health",
+  "tags": [
+    "rare genetic disorder",
+    "Spinal Muscular Atrophy",
+    "18-month-old"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-promises-assistance-to-18-month-old-boy-suffering-from-spinal-muscular-atrophy/article71693478.ece",
+  "published_at": "2026-11-12T16:41:06+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "YSR Congress Party Assists 18-Month-Old Boy with Spinal Muscular Atrophy",
+      "image": {
+        "provider": "generated",
+        "query": "Varshit",
+        "fallback_query": "healthcare hospital medical doctor",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "The 18-Month-Old Boy",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "The Eloquent Peasant",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Helicopter_landing_pad_at_HCA_Florida_Oak_Hill_Hospital_in_Brooksville_02.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Helicopter_landing_pad_at_HCA_Florida_Oak_Hill_Hospital_in_Brooksville_02.jpg/1280px-Helicopter_landing_pad_at_HCA_Florida_Oak_Hill_Hospital_in_Brooksville_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "healthcare hospital medical doctor",
+        "fallback_used": true,
+        "original_query": "18-month-old boy suffering from Spinal Muscular Atrophy India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "The Assistance",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Sakshi TV",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mekathoti_Sucharitha.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Mekathoti_Sucharitha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "YSR Congress Party India",
+        "fallback_used": true,
+        "original_query": "YSR Congress Party India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Press Information Department",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rangpur_Medical_College_and_Hospital_meeting_on_healthcare_2023-02-16_(PID-0017939).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Rangpur_Medical_College_and_Hospital_meeting_on_healthcare_2023-02-16_%28PID-0017939%29.jpg/1280px-Rangpur_Medical_College_and_Hospital_meeting_on_healthcare_2023-02-16_%28PID-0017939%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "healthcare hospital medical doctor",
+        "fallback_used": true,
+        "original_query": "healthcare hospital medical doctor"
+      }
+    }
+  ]
+}

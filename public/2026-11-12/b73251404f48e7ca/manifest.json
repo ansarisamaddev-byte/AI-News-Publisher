@@ -1,0 +1,79 @@
+{
+  "news_id": "b73251404f48e7ca",
+  "title": "Jahangir Khan's House Demolished in West Bengal",
+  "main_subject": {
+    "name": "Jahangir Khan",
+    "type": "person",
+    "image_search_query": "Jahangir Khan"
+  },
+  "category": "politics",
+  "tags": [
+    "former politician",
+    "criminals"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/west-bengal/parts-of-former-tmc-strongman-jahangir-khans-house-demolished/article71694515.ece",
+  "published_at": "2026-11-12T16:40:22+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Jahangir Khan's House Demolished in West Bengal",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "TheAsianAwards",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Jahangir_Khan_2018.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Jahangir_Khan_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "Jahangir Khan",
+        "fallback_used": true,
+        "original_query": "Jahangir Khan"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Arrest and Demolition",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Tan Mondal",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sunset_from_Falta_jetty.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Sunset_from_Falta_jetty.jpg/1280px-Sunset_from_Falta_jetty.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "Falta, West Bengal India",
+        "fallback_used": true,
+        "original_query": "Falta, West Bengal India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact",
+      "image": {
+        "provider": "generated",
+        "query": "Jahangir Khan, Falta, West Bengal India",
+        "fallback_query": "parliament government building",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "parliament government building",
+        "fallback_query": "parliament government building",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

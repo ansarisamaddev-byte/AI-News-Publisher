@@ -1,63 +1,64 @@
 {
-    "news_id": "c557a499183d5911",
+  "news_id": "c557a499183d5911",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Varshit",
+    "type": "person",
+    "image_search_query": "Varshit"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Varshit",
-        "type": "person",
+    "category": "health",
+    "subcategory": "rare genetic disorders",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Andhra Pradesh",
+    "tags": [
+      "rare genetic disorder",
+      "Spinal Muscular Atrophy",
+      "18-month-old"
+    ],
+    "classification_reason": "The article is centered around the 18-month-old boy suffering from Spinal Muscular Atrophy and the assistance provided by the YSR Congress Party.",
+    "selected_channels": [
+      "health-news"
+    ]
+  },
+  "content": {
+    "title": "YSR Congress Party Assists 18-Month-Old Boy with Spinal Muscular Atrophy",
+    "caption": "The YSR Congress Party (YSRCP) promises financial assistance to an 18-month-old boy suffering from Spinal Muscular Atrophy (SMA), a rare genetic disorder requiring treatment costing nearly ₹1.5 crore.",
+    "hashtags": [
+      "#SpinalMuscularAtrophy",
+      "#YSRCP",
+      "#Assistance"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "YSR Congress Party Assists 18-Month-Old Boy with Spinal Muscular Atrophy",
+        "text": "The YSR Congress Party (YSRCP) promises financial assistance to an 18-month-old boy suffering from Spinal Muscular Atrophy (SMA), a rare genetic disorder requiring treatment costing nearly ₹1.5 crore.",
         "image_search_query": "Varshit"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "health",
-        "subcategory": "rare genetic disorders",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Andhra Pradesh",
-        "tags": [
-            "rare genetic disorder",
-            "Spinal Muscular Atrophy",
-            "18-month-old"
-        ],
-        "classification_reason": "The article is centered around the 18-month-old boy suffering from Spinal Muscular Atrophy and the assistance provided by the YSR Congress Party.",
-        "selected_channels": [
-            "health-news"
-        ]
-    },
-    "content": {
-        "title": "YSR Congress Party Assists 18-Month-Old Boy with Spinal Muscular Atrophy",
-        "caption": "The YSR Congress Party (YSRCP) promises financial assistance to an 18-month-old boy suffering from Spinal Muscular Atrophy (SMA), a rare genetic disorder requiring treatment costing nearly ₹1.5 crore.",
-        "hashtags": [
-            "#SpinalMuscularAtrophy",
-            "#YSRCP",
-            "#Assistance"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "YSR Congress Party Assists 18-Month-Old Boy with Spinal Muscular Atrophy",
-                "text": "The YSR Congress Party (YSRCP) promises financial assistance to an 18-month-old boy suffering from Spinal Muscular Atrophy (SMA), a rare genetic disorder requiring treatment costing nearly ₹1.5 crore.",
-                "image_search_query": "Varshit"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "The 18-Month-Old Boy",
-                "text": "The 18-month-old boy, Varshit, is suffering from Spinal Muscular Atrophy (SMA), a rare genetic disorder requiring treatment costing nearly ₹1.5 crore.",
-                "image_search_query": "18-month-old boy suffering from Spinal Muscular Atrophy India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "The Assistance",
-                "text": "The YSR Congress Party (YSRCP) promises financial assistance to the 18-month-old boy suffering from Spinal Muscular Atrophy (SMA), a rare genetic disorder requiring treatment costing nearly ₹1.5 crore.",
-                "image_search_query": "YSR Congress Party India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-promises-assistance-to-18-month-old-boy-suffering-from-spinal-muscular-atrophy/article71693478.ece",
-    "published_at": "2026-11-12T16:41:06+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "The 18-Month-Old Boy",
+        "text": "The 18-month-old boy, Varshit, is suffering from Spinal Muscular Atrophy (SMA), a rare genetic disorder requiring treatment costing nearly ₹1.5 crore.",
+        "image_search_query": "18-month-old boy suffering from Spinal Muscular Atrophy India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "The Assistance",
+        "text": "The YSR Congress Party (YSRCP) promises financial assistance to the 18-month-old boy suffering from Spinal Muscular Atrophy (SMA), a rare genetic disorder requiring treatment costing nearly ₹1.5 crore.",
+        "image_search_query": "YSR Congress Party India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-promises-assistance-to-18-month-old-boy-suffering-from-spinal-muscular-atrophy/article71693478.ece",
+  "published_at": "2026-11-12T16:41:06+00:00",
+  "image_done": true
 }
