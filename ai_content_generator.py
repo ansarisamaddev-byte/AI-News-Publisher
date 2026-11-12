@@ -22,7 +22,7 @@ NEWS_DIR = BASE_DIR / "data" / "news"
 CONTENT_DIR = BASE_DIR / "data" / "content"
 
 TODAY = datetime.now(ZoneInfo("Asia/Kolkata")).date()
-QUEUE_FILE = SELECTED_NEWS_DIR / f"{TODAY}.csv"
+QUEUE_FILE = NEWS_DIR / f"{TODAY}.csv"
 
 MAX_NEWS_PER_RUN = 10
 MAX_ARTICLE_CHARS = 14000
