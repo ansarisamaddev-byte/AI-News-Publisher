@@ -19,7 +19,6 @@ from llama_cpp import Llama
 
 BASE_DIR = Path(__file__).resolve().parent
 NEWS_DIR = BASE_DIR / "data" / "news"
-SELECTED_NEWS_DIR = NEWS_DIR / "selected_news"
 CONTENT_DIR = BASE_DIR / "data" / "content"
 
 TODAY = datetime.now(ZoneInfo("Asia/Kolkata")).date()
@@ -121,7 +120,6 @@ def get_client():
 
     return llm
 
-
 # ============================================================
 # CSV QUEUE
 # ============================================================
@@ -129,8 +127,8 @@ def get_client():
 def load_queue():
     if not QUEUE_FILE.exists():
         raise FileNotFoundError(
-            f"Selected news queue not found: {QUEUE_FILE}\n"
-            "Run ai_news_selector.py before ai_content_generator.py."
+            f"News CSV not found: {QUEUE_FILE}\n"
+            "Run ai_news_fetcher.py before ai_content_generator.py."
         )
 
     with open(QUEUE_FILE, "r", encoding="utf-8-sig", newline="") as file:
@@ -141,19 +139,34 @@ def load_queue():
     if not fields:
         raise ValueError("CSV file has no headers.")
 
-    # Safety check: never process the raw candidate queue.
-    if "selection_status" not in fields:
-        raise ValueError(
-            "Missing 'selection_status' column. "
-            "The selector must mark approved stories as 'selected'."
-        )
+    required_fields = ["news_id", "title", "description", "url", "ai_done"]
+
+    for field in required_fields:
+        if field not in fields:
+            raise ValueError(f"Missing required CSV column: {field}")
 
     for field in CSV_EXTRA_FIELDS:
         if field not in fields:
             fields.append(field)
+            for row in rows:
+                row[field] = ""
 
     return rows, fields
 
+
+def save_queue(rows, fields):
+    temp_file = QUEUE_FILE.with_suffix(".tmp")
+
+    with open(temp_file, "w", encoding="utf-8", newline="") as file:
+        writer = csv.DictWriter(
+            file,
+            fieldnames=fields,
+            extrasaction="ignore"
+        )
+        writer.writeheader()
+        writer.writerows(rows)
+
+    temp_file.replace(QUEUE_FILE)
 
 def save_queue(rows, fields):
     temp_file = QUEUE_FILE.with_suffix(".tmp")
@@ -960,51 +973,56 @@ def main(filename=None, reprocess=False):
     print(f"Reprocess mode: {reprocess}")
     print("Engine: Local Qwen GGUF")
     print("Classification + Compact Carousel: Enabled")
-    print("Selection filter: Enabled")
+    print("Direct CSV Processing: Enabled")
     print("===============================================\n")
 
     rows, fields = load_queue()
-    client = get_client()
-
-    selected = [
-        row for row in rows
-        if is_selected(row)
-    ]
 
     pending = [
-        row for row in selected
+        row for row in rows
         if (
             reprocess
             or str(row.get("ai_done") or "").strip().lower() != "true"
         )
     ]
 
+    batch = pending[:MAX_NEWS_PER_RUN]
+
     print(f"Total records: {len(rows)}")
-    print(f"Selected stories: {len(selected)}")
-    print(f"Pending selected stories: {len(pending)}")
+    print(f"Pending articles: {len(pending)}")
     print(f"Maximum per run: {MAX_NEWS_PER_RUN}")
+
+    if not batch:
+        print("\n[INFO] No pending articles to process.")
+        return
+
+    client = get_client()
 
     processed = 0
     failed = 0
 
-    for article in pending[:MAX_NEWS_PER_RUN]:
+    for article in batch:
         if process_news(client, article):
-            save_queue(rows, fields)
-            processed += 1
+            try:
+                save_queue(rows, fields)
+                processed += 1
+                print(f"[CSV UPDATED] {article.get('news_id')}")
+            except Exception as error:
+                failed += 1
+                print(f"[CSV SAVE ERROR] {error}")
         else:
             failed += 1
 
-    remaining = max(0, len(pending) - processed - failed)
+    remaining = max(0, len(pending) - len(batch))
 
     print("\n========== GENERATION SUMMARY ==========")
     print(f"Total records: {len(rows)}")
-    print(f"Selected stories: {len(selected)}")
+    print(f"Pending articles: {len(pending)}")
     print(f"Successfully processed: {processed}")
     print(f"Failed: {failed}")
     print(f"Remaining: {remaining}")
     print(f"CSV updated: {QUEUE_FILE}")
     print("========================================\n")
-
 
 # ============================================================
 # ENTRY POINT
