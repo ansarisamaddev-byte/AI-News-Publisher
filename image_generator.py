@@ -1,3 +1,4 @@
+
 import os
 import re
 import sys
@@ -16,11 +17,13 @@ BASE_DIR = Path(__file__).resolve().parent
 CONTENT_DIR = BASE_DIR / "data" / "content"
 PUBLIC_DIR = BASE_DIR / "public"
 FONT_DIR = BASE_DIR / "fonts"
+IMAGE_ROOT = BASE_DIR / "data" / "images"
 
 WIDTH, HEIGHT = 1080, 1350
 MAX_NEWS_PER_RUN = 10
 TIMEOUT = 30
 MIN_FONT_SIZE = 24
+IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp"}
 
 def load_env():
     try:
@@ -215,6 +218,181 @@ def normalize_folder_name(value):
     return value.strip("-")
 
 # =========================================================
+# LOCAL ENTITY IMAGE LIBRARY
+# =========================================================
+
+def normalize_match_text(value):
+    value = clean_text(value).lower()
+    value = re.sub(r"[^a-z0-9\s]", " ", value)
+    words = value.split()
+
+    # Remove common titles so "Mahatma Gandhi" matches "Gandhiji".
+    titles = {
+        "mahatma", "mr", "mrs", "ms", "dr", "professor",
+        "president", "prime", "minister", "sir", "shri",
+        "sri", "late"
+    }
+
+    words = [word for word in words if word not in titles]
+
+    # Normalize common Indian honorific suffixes.
+    words = [
+        word[:-2] if word.endswith("ji") and len(word) > 4 else word
+        for word in words
+    ]
+
+    return " ".join(words)
+
+def get_story_tags(data):
+    tags = (data.get("classification") or {}).get("tags") or []
+
+    if isinstance(tags, str):
+        tags = [tags]
+
+    return [clean_text(tag) for tag in tags if clean_text(tag)]
+
+def get_story_context(data, slide=None, query=""):
+    content = data.get("content") or {}
+    classification = data.get("classification") or {}
+
+    parts = [
+        content.get("title", ""),
+        content.get("caption", ""),
+        classification.get("category", ""),
+        query
+    ]
+
+    if slide:
+        parts.extend([
+            slide.get("heading", ""),
+            slide.get("text", ""),
+            slide.get("image_search_query", "")
+        ])
+
+    return normalize_match_text(" ".join(str(x or "") for x in parts))
+
+def contains_phrase(text, phrase):
+    if not text or not phrase:
+        return False
+
+    # Word-boundary matching avoids accidental matches such as "AI" in "paid".
+    return re.search(
+        rf"(?<![a-z0-9]){re.escape(phrase)}(?![a-z0-9])",
+        text
+    ) is not None
+
+def get_local_entity_match(data, slide=None, query=""):
+    if not IMAGE_ROOT.exists():
+        print(f"[LOCAL IMAGE] Image directory not found: {IMAGE_ROOT}")
+        return None
+
+    tags = get_story_tags(data)
+    normalized_tags = [
+        normalize_match_text(tag)
+        for tag in tags
+        if normalize_match_text(tag)
+    ]
+
+    context = get_story_context(data, slide, query)
+
+    if not normalized_tags and not context:
+        return None
+
+    best_match = None
+    best_score = 0
+
+    for folder in IMAGE_ROOT.iterdir():
+        if not folder.is_dir():
+            continue
+
+        folder_name = normalize_match_text(folder.name)
+
+        if not folder_name:
+            continue
+
+        images = [
+            path for path in folder.rglob("*")
+            if path.is_file() and path.suffix.lower() in IMAGE_EXTENSIONS
+        ]
+
+        if not images:
+            continue
+
+        score = 0
+
+        # AI tags have the highest priority.
+        for tag in normalized_tags:
+            if not tag:
+                continue
+
+            if folder_name == tag:
+                score = max(score, 100)
+            elif contains_phrase(tag, folder_name):
+                score = max(score, 90)
+            elif contains_phrase(folder_name, tag):
+                # A shorter tag may match a more specific folder.
+                if len(tag) >= 4:
+                    score = max(score, 75)
+
+        # Use the title and slide context when tags do not give a strong match.
+        if context:
+            if folder_name == context:
+                score = max(score, 70)
+            elif contains_phrase(context, folder_name):
+                score = max(score, 65)
+
+        if score > best_score:
+            best_score = score
+            best_match = (folder, images)
+
+    if best_match:
+        folder, images = best_match
+        print(
+            f"[LOCAL IMAGE] Matched folder: {folder.name} "
+            f"| Score: {best_score} | Images: {len(images)}"
+        )
+        return folder, images
+
+    print("[LOCAL IMAGE] No matching entity folder found.")
+    return None
+
+def search_local_entity_image(data, slide=None, query=""):
+    match = get_local_entity_match(data, slide, query)
+
+    if not match:
+        return None
+
+    folder, images = match
+    random.shuffle(images)
+
+    for selected in images:
+        try:
+            image = ImageOps.exif_transpose(
+                Image.open(selected)
+            ).convert("RGB")
+
+            if image.width < 300 or image.height < 300:
+                print(f"[LOCAL IMAGE] Image too small: {selected}")
+                continue
+
+            print(f"[LOCAL IMAGE] Selected: {selected}")
+
+            return image, {
+                "provider": "local-entity",
+                "folder": folder.name,
+                "source_path": str(selected),
+                "query": query,
+                "matched_tags": get_story_tags(data),
+                "fallback_used": False,
+                "local_default": False
+            }
+
+        except Exception as exc:
+            print(f"[LOCAL IMAGE] Failed to open {selected}: {exc}")
+
+    return None
+
+# =========================================================
 # IMAGE PROVIDER: UNSPLASH
 # =========================================================
 
@@ -390,11 +568,10 @@ def download_image(info):
         return None
 
 # =========================================================
-# LOCAL IMAGE FALLBACK
+# LOCAL CATEGORY IMAGE FALLBACK
 # =========================================================
 
 def pick_default_local_image(category=None, tags=None):
-    image_root = BASE_DIR / "data" / "images"
     folders = []
 
     if isinstance(tags, str):
@@ -414,15 +591,15 @@ def pick_default_local_image(category=None, tags=None):
 
         for folder_name in folder_names:
             if folder_name:
-                folders.append(image_root / folder_name)
+                folders.append(IMAGE_ROOT / folder_name)
 
     category = clean_text(category).lower()
 
     if category:
-        folders.append(image_root / category)
-        folders.append(image_root / normalize_folder_name(category))
+        folders.append(IMAGE_ROOT / category)
+        folders.append(IMAGE_ROOT / normalize_folder_name(category))
 
-    folders.append(image_root)
+    folders.append(IMAGE_ROOT)
 
     seen_folders = set()
 
@@ -440,7 +617,7 @@ def pick_default_local_image(category=None, tags=None):
         candidates = [
             path for path in folder.iterdir()
             if path.is_file()
-            and path.suffix.lower() in {".png", ".jpg", ".jpeg", ".webp"}
+            and path.suffix.lower() in IMAGE_EXTENSIONS
         ]
 
         if candidates:
@@ -454,7 +631,7 @@ def pick_default_local_image(category=None, tags=None):
 # IMAGE SELECTION PIPELINE
 # =========================================================
 
-def get_image(query, category=None, tags=None):
+def get_image(query, category=None, tags=None, data=None, slide=None):
     category = clean_text(category).lower()
     theme = THEMES.get(category, DEFAULT_THEME)
 
@@ -463,6 +640,18 @@ def get_image(query, category=None, tags=None):
         DEFAULT_PROVIDER
     ).lower()
 
+    data = data or {}
+    tags = tags or get_story_tags(data)
+
+    # 1. Search local entity folders using AI tags and story context.
+    local_result = search_local_entity_image(data, slide, query)
+
+    if local_result:
+        image, info = local_result
+        info["original_query"] = query
+        return image, info
+
+    # 2. No entity match: search the internet.
     queries = [
         clean_text(query),
         clean_text(theme["fallback"]),
@@ -476,7 +665,7 @@ def get_image(query, category=None, tags=None):
             unique_queries.append(q)
 
     for index, search_query in enumerate(unique_queries, start=1):
-        print(f"\n[IMAGE] Search {index}/{len(unique_queries)}: {search_query}")
+        print(f"\n[IMAGE] Internet search {index}/{len(unique_queries)}: {search_query}")
 
         if provider == "unsplash":
             info = search_unsplash(search_query)
@@ -491,7 +680,7 @@ def get_image(query, category=None, tags=None):
                     return image, info
 
         else:
-            print(f"[IMAGE] Unsupported provider '{provider}', using Unsplash")
+            print(f"[IMAGE] Unsupported provider '{provider}', trying Wikimedia")
 
         print(f"[IMAGE] Trying Wikimedia Commons: {search_query}")
 
@@ -506,6 +695,7 @@ def get_image(query, category=None, tags=None):
                 print("[IMAGE] Selected: Wikimedia Commons")
                 return image, info
 
+    # 3. Try existing category/default local images.
     fallback_path = pick_default_local_image(category, tags)
 
     if fallback_path:
@@ -526,6 +716,7 @@ def get_image(query, category=None, tags=None):
         except Exception as exc:
             print(f"[IMAGE] Local default image failed: {exc}")
 
+    # 4. Final fallback: generated background.
     print("[IMAGE] No image found. Using generated background.")
 
     return None, {
@@ -537,7 +728,7 @@ def get_image(query, category=None, tags=None):
     }
 
 # =========================================================
-# BACKGROUND DESIGN (DARKENED FOR BETTER TEXT CONTRAST)
+# BACKGROUND DESIGN
 # =========================================================
 
 def generated_fallback(theme):
@@ -555,8 +746,14 @@ def generated_fallback(theme):
 
     return Image.alpha_composite(base, layer).convert("RGB")
 
-def make_background(query, category, theme, style="photo", tags=None):
-    image, info = get_image(query, category, tags)
+def make_background(query, category, theme, style="photo", tags=None, data=None, slide=None):
+    image, info = get_image(
+        query,
+        category,
+        tags,
+        data=data,
+        slide=slide
+    )
 
     if image is None:
         image = generated_fallback(theme)
@@ -568,11 +765,10 @@ def make_background(query, category, theme, style="photo", tags=None):
 
     if style == "glass":
         image = ImageEnhance.Color(image).enhance(1.2)
-        image = ImageEnhance.Brightness(image).enhance(0.75)  # Darken background for glass card
+        image = ImageEnhance.Brightness(image).enhance(0.75)
         image = image.convert("RGBA")
         overlay = Image.new("RGBA", (WIDTH, HEIGHT), (8, 10, 16, 90))
     else:
-        # Darken photo background and increase contrast so white text pops out more
         image = ImageEnhance.Brightness(image).enhance(0.68)
         image = ImageEnhance.Contrast(image).enhance(1.15)
         image = image.convert("RGBA")
@@ -582,7 +778,6 @@ def make_background(query, category, theme, style="photo", tags=None):
 
         for y in range(HEIGHT):
             t = y / HEIGHT
-            # Stronger shadow/darkening gradient from top to bottom
             alpha = int(60 + 175 * max(0, (t - 0.15) / 0.85) ** 1.6)
             draw.line((0, y, WIDTH, y), fill=(8, 10, 16, alpha))
 
@@ -739,16 +934,21 @@ def render_cover(data, slide, theme, date_text, total, category):
         or data.get("content", {}).get("title")
     )
 
-    tags = (data.get("classification") or {}).get("tags", [])
+    tags = get_story_tags(data)
 
     image, info = make_background(
-        query, category, theme, style="photo", tags=tags
+        query,
+        category,
+        theme,
+        style="photo",
+        tags=tags,
+        data=data,
+        slide=slide
     )
 
     draw = ImageDraw.Draw(image, "RGBA")
 
     draw_top(draw, date_text)
-    # Category tag omitted
 
     title = clean_text(
         slide.get("heading") or data.get("content", {}).get("title")
@@ -821,10 +1021,16 @@ def collect_highlights(slide):
 
 def render_content(data, slide, theme, date_text, index, total, category):
     query = clean_text(slide.get("image_search_query") or slide.get("heading"))
-    tags = (data.get("classification") or {}).get("tags", [])
+    tags = get_story_tags(data)
 
     image, info = make_background(
-        query, category, theme, style="glass", tags=tags
+        query,
+        category,
+        theme,
+        style="glass",
+        tags=tags,
+        data=data,
+        slide=slide
     )
 
     panel = (60, 250, WIDTH - 60, 1140)
@@ -957,10 +1163,15 @@ def render_content(data, slide, theme, date_text, index, total, category):
 
 def render_source(data, theme, date_text, index, total, category):
     query = theme.get("fallback", "journalism newsroom")
-    tags = (data.get("classification") or {}).get("tags", [])
+    tags = get_story_tags(data)
 
     image, info = make_background(
-        query, category, theme, style="photo", tags=tags
+        query,
+        category,
+        theme,
+        style="photo",
+        tags=tags,
+        data=data
     )
 
     draw = ImageDraw.Draw(image, "RGBA")
@@ -1027,7 +1238,7 @@ def render_source(data, theme, date_text, index, total, category):
 
     draw.text(
         (95, 985),
-        f"FOLLOW FOR MORE STORIES",
+        "FOLLOW FOR MORE STORIES",
         font=font(25, "bold"),
         fill=on_accent
     )
@@ -1048,7 +1259,6 @@ def content_date_key(value=None):
         return parsed.astimezone().strftime("%Y-%m-%d")
     except Exception:
         return datetime.now().strftime("%Y-%m-%d")
-
 
 def generate_post(json_file):
     with open(json_file, "r", encoding="utf-8") as file:
@@ -1178,7 +1388,8 @@ def main(filename=None):
 
     print("\n========== NEWS IMAGE GENERATOR ==========")
     print(f"Provider: {DEFAULT_PROVIDER}")
-    print("Fallback: Wikimedia Commons → Local Images → Generated Background")
+    print("Image priority: Local Entity Images → Unsplash → Wikimedia → Local Default → Generated")
+    print(f"Local image directory: {IMAGE_ROOT}")
     print(f"Minimum font size: {MIN_FONT_SIZE}px")
     print(f"Output: {PUBLIC_DIR}")
     print(f"Size: {WIDTH}x{HEIGHT}")

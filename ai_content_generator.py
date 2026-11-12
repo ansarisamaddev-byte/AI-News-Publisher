@@ -1,3 +1,4 @@
+
 import csv
 import json
 import os
@@ -18,8 +19,11 @@ from llama_cpp import Llama
 
 BASE_DIR = Path(__file__).resolve().parent
 NEWS_DIR = BASE_DIR / "data" / "news"
+SELECTED_NEWS_DIR = NEWS_DIR / "selected_news"
 CONTENT_DIR = BASE_DIR / "data" / "content"
-QUEUE_FILE = NEWS_DIR / f"{datetime.now(ZoneInfo('Asia/Kolkata')).date()}.csv"
+
+TODAY = datetime.now(ZoneInfo("Asia/Kolkata")).date()
+QUEUE_FILE = SELECTED_NEWS_DIR / f"{TODAY}.csv"
 
 MAX_NEWS_PER_RUN = 10
 MAX_ARTICLE_CHARS = 14000
@@ -124,7 +128,10 @@ def get_client():
 
 def load_queue():
     if not QUEUE_FILE.exists():
-        raise FileNotFoundError(f"Queue file not found: {QUEUE_FILE}")
+        raise FileNotFoundError(
+            f"Selected news queue not found: {QUEUE_FILE}\n"
+            "Run ai_news_selector.py before ai_content_generator.py."
+        )
 
     with open(QUEUE_FILE, "r", encoding="utf-8-sig", newline="") as file:
         reader = csv.DictReader(file)
@@ -133,6 +140,13 @@ def load_queue():
 
     if not fields:
         raise ValueError("CSV file has no headers.")
+
+    # Safety check: never process the raw candidate queue.
+    if "selection_status" not in fields:
+        raise ValueError(
+            "Missing 'selection_status' column. "
+            "The selector must mark approved stories as 'selected'."
+        )
 
     for field in CSV_EXTRA_FIELDS:
         if field not in fields:
@@ -143,6 +157,7 @@ def load_queue():
 
 def save_queue(rows, fields):
     temp_file = QUEUE_FILE.with_suffix(".tmp")
+    QUEUE_FILE.parent.mkdir(parents=True, exist_ok=True)
 
     with open(temp_file, "w", encoding="utf-8", newline="") as file:
         writer = csv.DictWriter(
@@ -154,6 +169,11 @@ def save_queue(rows, fields):
         writer.writerows(rows)
 
     temp_file.replace(QUEUE_FILE)
+
+
+def is_selected(article):
+    status = str(article.get("selection_status") or "").strip().lower()
+    return status == "selected"
 
 
 # ============================================================
@@ -352,8 +372,6 @@ def resolve_country(model_country, region, article_text):
             )
         return detected_country
 
-    # Keep a valid country supplied by the AI.
-    # If the AI cannot identify it, the result remains None.
     if model_country and re.fullmatch(r"[A-Z][A-Z .'-]*", model_country):
         return model_country
 
@@ -376,7 +394,6 @@ def add_country_to_image_queries(content, country):
         if not query:
             continue
 
-        # Avoid appending the country more than once.
         if contains_phrase(query.upper(), country_name.upper()):
             continue
 
@@ -418,7 +435,6 @@ def validate_result(result):
         if field not in content:
             raise ValueError(f"Missing content field: {field}")
 
-    # Country may be null when it cannot be identified.
     country = normalize_country(classification["country"])
 
     if country and not re.fullmatch(r"[A-Z][A-Z .'-]*", country):
@@ -466,7 +482,6 @@ def validate_result(result):
             raise ValueError(f"Slide {index} heading is too long.")
 
         query = slide["image_search_query"].strip()
-
         query_words = word_count(query)
 
         if not MIN_IMAGE_QUERY_WORDS <= query_words <= MAX_IMAGE_QUERY_WORDS:
@@ -496,12 +511,33 @@ def validate_result(result):
 
 
 # ============================================================
+# SLIDE UNIQUENESS
+# ============================================================
+
+def validate_slide_uniqueness(slides):
+    headings = set()
+    texts = set()
+
+    for index, slide in enumerate(slides, start=1):
+        heading = re.sub(r"\s+", " ", slide["heading"].strip().lower())
+        text = re.sub(r"\s+", " ", slide["text"].strip().lower())
+
+        if heading in headings:
+            raise ValueError(f"Slide {index} repeats a heading: {heading}")
+
+        if text in texts:
+            raise ValueError(f"Slide {index} repeats slide text.")
+
+        headings.add(heading)
+        texts.add(text)
+
+
+# ============================================================
 # AI CONTENT GENERATION
 # ============================================================
 
 def generate_content(client, article):
     article_text, article_available = extract_article(article.get("url", ""))
-
     input_content = article_text or article.get("description", "") or ""
 
     if len(input_content.strip()) < 50:
@@ -860,7 +896,6 @@ def process_news(client, article):
         article_evidence
     )
 
-    # Add country to every image query when country is known.
     add_country_to_image_queries(content, classification["country"])
 
     classification["selected_channels"] = [
@@ -885,7 +920,6 @@ def process_news(client, article):
         print(f"[SAVE ERROR] {news_id}: {error}")
         return False
 
-    # Update CSV fields.
     article["category"] = classification["category"]
     article["subcategory"] = classification["subcategory"]
     article["importance_score"] = str(classification["importance_score"])
@@ -896,9 +930,7 @@ def process_news(client, article):
         ensure_ascii=False
     )
 
-    # CSV represents a null country as an empty cell.
     article["country"] = classification["country"] or ""
-
     article["classified"] = "true"
     article["ai_done"] = "true"
 
@@ -909,23 +941,6 @@ def process_news(client, article):
     print(f"[SUCCESS] JSON saved: {output_file.name}")
 
     return True
-
-def validate_slide_uniqueness(slides):
-    headings = set()
-    texts = set()
-
-    for index, slide in enumerate(slides, start=1):
-        heading = re.sub(r"\s+", " ", slide["heading"].strip().lower())
-        text = re.sub(r"\s+", " ", slide["text"].strip().lower())
-
-        if heading in headings:
-            raise ValueError(f"Slide {index} repeats a heading: {heading}")
-
-        if text in texts:
-            raise ValueError(f"Slide {index} repeats slide text.")
-
-        headings.add(heading)
-        texts.add(text)
 
 
 # ============================================================
@@ -938,27 +953,36 @@ def main(filename=None, reprocess=False):
     if filename:
         QUEUE_FILE = Path(filename)
 
-    client = get_client()
+    print("\n========== AI NEWS CONTENT GENERATOR ==========")
+    print(f"CSV file: {QUEUE_FILE}")
+    print(f"Maximum per run: {MAX_NEWS_PER_RUN}")
+    print(f"Model: {MODEL_NAME}")
+    print(f"Reprocess mode: {reprocess}")
+    print("Engine: Local Qwen GGUF")
+    print("Classification + Compact Carousel: Enabled")
+    print("Selection filter: Enabled")
+    print("===============================================\n")
+
     rows, fields = load_queue()
+    client = get_client()
+
+    selected = [
+        row for row in rows
+        if is_selected(row)
+    ]
 
     pending = [
-        row for row in rows
+        row for row in selected
         if (
             reprocess
             or str(row.get("ai_done") or "").strip().lower() != "true"
         )
     ]
 
-    print("\n========== AI NEWS CONTENT GENERATOR ==========")
-    print(f"CSV file: {QUEUE_FILE}")
-    print(f"Total news records: {len(rows)}")
-    print(f"Pending records: {len(pending)}")
+    print(f"Total records: {len(rows)}")
+    print(f"Selected stories: {len(selected)}")
+    print(f"Pending selected stories: {len(pending)}")
     print(f"Maximum per run: {MAX_NEWS_PER_RUN}")
-    print(f"Model: {MODEL_NAME}")
-    print(f"Reprocess mode: {reprocess}")
-    print("Engine: Local Qwen GGUF")
-    print("Classification + Compact Carousel: Enabled")
-    print("===============================================\n")
 
     processed = 0
     failed = 0
@@ -973,12 +997,18 @@ def main(filename=None, reprocess=False):
     remaining = max(0, len(pending) - processed - failed)
 
     print("\n========== GENERATION SUMMARY ==========")
+    print(f"Total records: {len(rows)}")
+    print(f"Selected stories: {len(selected)}")
     print(f"Successfully processed: {processed}")
     print(f"Failed: {failed}")
     print(f"Remaining: {remaining}")
     print(f"CSV updated: {QUEUE_FILE}")
     print("========================================\n")
 
+
+# ============================================================
+# ENTRY POINT
+# ============================================================
 
 if __name__ == "__main__":
     import sys

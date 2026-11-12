@@ -10,6 +10,7 @@ import cloudinary
 import cloudinary.uploader
 
 from pathlib import Path
+from datetime import datetime
 from PIL import Image, ImageOps
 
 # ============================================================
@@ -20,6 +21,23 @@ BASE_DIR = Path(__file__).resolve().parent
 CONTENT_DIR = BASE_DIR / "data" / "content"
 PUBLIC_DIR = BASE_DIR / "public"
 
+MAX_POSTS_PER_RUN = int(os.getenv("MAX_INSTAGRAM_POSTS_PER_RUN", "1"))
+REQUEST_TIMEOUT = 60
+POLL_INTERVAL = 10
+MAX_POLL_ATTEMPTS = 60
+MAX_CAPTION_LENGTH = 2200
+MIN_CAROUSEL_IMAGES = 2
+MAX_CAROUSEL_IMAGES = 10
+
+SUPPORTED_IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp"}
+GRAPH_API_VERSION = "v25.0"
+
+SESSION = requests.Session()
+SESSION.headers.update({"User-Agent": "AINewsPublisher/2.0"})
+
+# ============================================================
+# ENVIRONMENT
+# ============================================================
 
 def load_env():
     env_path = BASE_DIR / ".env"
@@ -36,6 +54,7 @@ def load_env():
 
     for raw_line in env_path.read_text(encoding="utf-8").splitlines():
         line = raw_line.strip()
+
         if not line or line.startswith("#") or "=" not in line:
             continue
 
@@ -51,23 +70,13 @@ load_env()
 
 IG_ACCESS_TOKEN = os.getenv("IG_ACCESS_TOKEN", "").strip()
 IG_USER_ID = os.getenv("IG_USER_ID", "").strip()
-GRAPH_API_VERSION = os.getenv("GRAPH_API_VERSION", "v25.0")
+GRAPH_API_VERSION = os.getenv("GRAPH_API_VERSION", GRAPH_API_VERSION)
 
 CLOUDINARY_CLOUD_NAME = os.getenv("CLOUDINARY_CLOUD_NAME", "").strip()
 CLOUDINARY_API_KEY = os.getenv("CLOUDINARY_API_KEY", "").strip()
 CLOUDINARY_API_SECRET = os.getenv("CLOUDINARY_API_SECRET", "").strip()
 
-MAX_POSTS_PER_RUN = int(os.getenv("MAX_INSTAGRAM_POSTS_PER_RUN", "1"))
-REQUEST_TIMEOUT = 60
-POLL_INTERVAL = 10
-MAX_POLL_ATTEMPTS = 60
-MAX_CAPTION_LENGTH = 2200
-MIN_CAROUSEL_IMAGES = 2
-MAX_CAROUSEL_IMAGES = 10
-
 GRAPH_URL = f"https://graph.facebook.com/{GRAPH_API_VERSION}"
-
-SUPPORTED_IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp"}
 
 # ============================================================
 # INITIALIZATION
@@ -76,16 +85,17 @@ SUPPORTED_IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp"}
 def configure_services():
     missing = []
 
-    if not IG_ACCESS_TOKEN:
-        missing.append("IG_ACCESS_TOKEN")
-    if not IG_USER_ID:
-        missing.append("IG_USER_ID")
-    if not CLOUDINARY_CLOUD_NAME:
-        missing.append("CLOUDINARY_CLOUD_NAME")
-    if not CLOUDINARY_API_KEY:
-        missing.append("CLOUDINARY_API_KEY")
-    if not CLOUDINARY_API_SECRET:
-        missing.append("CLOUDINARY_API_SECRET")
+    required = {
+        "IG_ACCESS_TOKEN": IG_ACCESS_TOKEN,
+        "IG_USER_ID": IG_USER_ID,
+        "CLOUDINARY_CLOUD_NAME": CLOUDINARY_CLOUD_NAME,
+        "CLOUDINARY_API_KEY": CLOUDINARY_API_KEY,
+        "CLOUDINARY_API_SECRET": CLOUDINARY_API_SECRET
+    }
+
+    for key, value in required.items():
+        if not value:
+            missing.append(key)
 
     if missing:
         raise RuntimeError(
@@ -122,6 +132,39 @@ def get_content(data):
     return content if isinstance(content, dict) else {}
 
 
+def get_instagram_status(data):
+    publishing = data.get("publishing", {})
+    if not isinstance(publishing, dict):
+        return {}
+
+    instagram = publishing.get("instagram", {})
+    return instagram if isinstance(instagram, dict) else {}
+
+
+def is_already_posted(data):
+    status = get_instagram_status(data)
+    return status.get("done") is True
+
+
+def is_ready_for_publishing(data):
+    if data.get("image_done") is not True:
+        return False
+
+    if is_already_posted(data):
+        return False
+
+    status = get_instagram_status(data)
+
+    # An interrupted/uncertain publication must be checked manually.
+    if status.get("status") == "publishing":
+        return False
+
+    return True
+
+# ============================================================
+# CAPTION
+# ============================================================
+
 def build_caption(data):
     content = get_content(data)
 
@@ -134,7 +177,9 @@ def build_caption(data):
 
     if isinstance(hashtags, list):
         hashtags = " ".join(
-            str(tag).strip() for tag in hashtags if str(tag).strip()
+            str(tag).strip()
+            for tag in hashtags
+            if str(tag).strip()
         )
     else:
         hashtags = str(hashtags or "").strip()
@@ -163,32 +208,44 @@ def natural_sort_key(path):
     ]
 
 
+def get_date_key(json_path, published_at=None):
+    # Prefer the date folder containing the content JSON.
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}", json_path.parent.name):
+        return json_path.parent.name
+
+    if published_at:
+        try:
+            parsed = datetime.fromisoformat(
+                str(published_at).replace("Z", "+00:00")
+            )
+            return parsed.strftime("%Y-%m-%d")
+        except (ValueError, TypeError):
+            pass
+
+    return None
+
+
 def find_carousel_images(news_id, published_at=None, json_path=None):
-    date_key = None
+    candidate_dirs = []
 
     if json_path is not None:
-        date_key = json_path.parent.name if json_path.parent != CONTENT_DIR else None
+        date_key = get_date_key(json_path, published_at)
 
-    if not date_key and published_at:
-        try:
-            from datetime import datetime
-            parsed = datetime.fromisoformat(str(published_at).replace("Z", "+00:00"))
-            if parsed.tzinfo is None:
-                parsed = parsed.replace(tzinfo=None)
-            date_key = parsed.strftime("%Y-%m-%d")
-        except Exception:
-            date_key = None
+        if date_key:
+            candidate_dirs.append(PUBLIC_DIR / date_key / news_id)
 
-    candidate_dirs = []
-    if date_key:
-        candidate_dirs.append(PUBLIC_DIR / date_key / news_id)
     candidate_dirs.append(PUBLIC_DIR / news_id)
 
-    image_dir = next((path for path in candidate_dirs if path.is_dir()), None)
+    image_dir = next(
+        (path for path in candidate_dirs if path.is_dir()),
+        None
+    )
 
     if image_dir is None:
         searched = ", ".join(str(path) for path in candidate_dirs)
-        raise FileNotFoundError(f"Image directory not found: {searched}")
+        raise FileNotFoundError(
+            f"Image directory not found. Searched: {searched}"
+        )
 
     all_images = [
         path for path in image_dir.iterdir()
@@ -196,10 +253,13 @@ def find_carousel_images(news_id, published_at=None, json_path=None):
         and path.suffix.lower() in SUPPORTED_IMAGE_EXTENSIONS
     ]
 
-    # Prefer generated slide files to avoid including unrelated assets.
     slide_images = [
         path for path in all_images
-        if re.search(r"slide[_\-\s]*\d+", path.stem, re.IGNORECASE)
+        if re.search(
+            r"slide[_\-\s]*\d+",
+            path.stem,
+            re.IGNORECASE
+        )
     ]
 
     images = slide_images if slide_images else all_images
@@ -207,36 +267,48 @@ def find_carousel_images(news_id, published_at=None, json_path=None):
 
     if not MIN_CAROUSEL_IMAGES <= len(images) <= MAX_CAROUSEL_IMAGES:
         raise ValueError(
-            f"{news_id}: Instagram carousel needs 2-10 images; "
+            f"{news_id}: Instagram carousel requires 2-10 images; "
             f"found {len(images)} in {image_dir}"
         )
 
     return images
 
 # ============================================================
-# CLOUDINARY IMAGE UPLOAD
+# IMAGE VALIDATION / CONVERSION
 # ============================================================
 
 def convert_to_jpeg(image_path, output_path):
-    with Image.open(image_path) as image:
-        image = ImageOps.exif_transpose(image)
+    with Image.open(image_path) as source:
+        image = ImageOps.exif_transpose(source)
 
-        if image.mode in ("RGBA", "LA"):
-            background = Image.new("RGB", image.size, "white")
-            if image.mode == "RGBA":
-                background.paste(image, mask=image.getchannel("A"))
-            else:
-                background.paste(image.convert("RGB"))
-            image = background
+        if "A" in image.getbands() or "transparency" in image.info:
+            image = image.convert("RGBA")
+            background = Image.new("RGBA", image.size, "white")
+            background.alpha_composite(image)
+            image = background.convert("RGB")
         else:
             image = image.convert("RGB")
 
-        image.save(output_path, "JPEG", quality=92, optimize=True)
+        if image.width < 300 or image.height < 300:
+            raise ValueError(f"Image is too small: {image_path}")
 
+        image.save(
+            output_path,
+            "JPEG",
+            quality=92,
+            optimize=True
+        )
+
+# ============================================================
+# CLOUDINARY
+# ============================================================
 
 def upload_image_to_cloudinary(image_path, news_id, slide_number):
+    safe_news_id = re.sub(r"[^a-zA-Z0-9_-]", "_", news_id)
+
     with tempfile.TemporaryDirectory() as temp_dir:
         jpeg_path = Path(temp_dir) / f"slide_{slide_number}.jpg"
+
         convert_to_jpeg(image_path, jpeg_path)
 
         print(f"[CLOUDINARY] Uploading {image_path.name}")
@@ -244,7 +316,7 @@ def upload_image_to_cloudinary(image_path, news_id, slide_number):
         result = cloudinary.uploader.upload(
             str(jpeg_path),
             resource_type="image",
-            folder=f"ai-news/{news_id}",
+            folder=f"ai-news/{safe_news_id}",
             public_id=f"slide_{slide_number}",
             overwrite=True,
             format="jpg"
@@ -275,7 +347,7 @@ def upload_carousel_images(news_id, images):
     return urls
 
 # ============================================================
-# INSTAGRAM API
+# INSTAGRAM GRAPH API
 # ============================================================
 
 def instagram_request(method, endpoint, data=None, params=None):
@@ -286,14 +358,16 @@ def instagram_request(method, endpoint, data=None, params=None):
 
     if method.upper() == "POST":
         payload["access_token"] = IG_ACCESS_TOKEN
-        response = requests.post(
+
+        response = SESSION.post(
             url,
             data=payload,
             timeout=REQUEST_TIMEOUT
         )
     else:
         query["access_token"] = IG_ACCESS_TOKEN
-        response = requests.get(
+
+        response = SESSION.get(
             url,
             params=query,
             timeout=REQUEST_TIMEOUT
@@ -308,9 +382,11 @@ def instagram_request(method, endpoint, data=None, params=None):
 
     if not response.ok or "error" in result:
         error = result.get("error", {})
+
         raise RuntimeError(
             f"Instagram API error: {error.get('message', result)} "
-            f"(code={error.get('code', 'unknown')})"
+            f"(code={error.get('code', 'unknown')}, "
+            f"subcode={error.get('error_subcode', 'unknown')})"
         )
 
     return result
@@ -354,7 +430,9 @@ def create_carousel_container(container_ids, caption):
     carousel_id = result.get("id")
 
     if not carousel_id:
-        raise RuntimeError("Instagram did not return a carousel container ID.")
+        raise RuntimeError(
+            "Instagram did not return a carousel container ID."
+        )
 
     print(f"[INSTAGRAM] Created carousel container: {carousel_id}")
     return carousel_id
@@ -369,6 +447,7 @@ def wait_for_container(container_id):
         )
 
         status = result.get("status_code")
+
         print(
             f"[INSTAGRAM] Container status: {status} "
             f"({attempt}/{MAX_POLL_ATTEMPTS})"
@@ -379,7 +458,8 @@ def wait_for_container(container_id):
 
         if status == "ERROR":
             raise RuntimeError(
-                f"Instagram container processing failed: {result.get('status')}"
+                f"Instagram container processing failed: "
+                f"{result.get('status')}"
             )
 
         if status == "EXPIRED":
@@ -400,7 +480,9 @@ def publish_carousel(carousel_id):
     media_id = result.get("id")
 
     if not media_id:
-        raise RuntimeError("Instagram did not return a published media ID.")
+        raise RuntimeError(
+            "Instagram did not return a published media ID."
+        )
 
     print(f"[INSTAGRAM] Published successfully: {media_id}")
     return media_id
@@ -409,14 +491,20 @@ def publish_carousel(carousel_id):
 # PUBLISHING
 # ============================================================
 
-def is_already_posted(data):
-    publishing = data.get("publishing", {})
-    instagram = publishing.get("instagram", {})
+def mark_publication_in_progress(json_path, data, carousel_id):
+    data.setdefault("publishing", {})
+    data["publishing"]["instagram"] = {
+        "done": False,
+        "status": "publishing",
+        "carousel_container_id": carousel_id,
+        "account_id": IG_USER_ID,
+        "started_at": time.strftime(
+            "%Y-%m-%dT%H:%M:%SZ",
+            time.gmtime()
+        )
+    }
 
-    return (
-        isinstance(instagram, dict)
-        and instagram.get("done") is True
-    )
+    save_json(json_path, data)
 
 
 def publish_news(json_path, dry_run=False):
@@ -427,7 +515,21 @@ def publish_news(json_path, dry_run=False):
         print(f"[SKIP] Already posted: {news_id}")
         return False
 
+    if data.get("image_done") is not True:
+        print(f"[SKIP] Images not marked complete: {news_id}")
+        return False
+
+    status = get_instagram_status(data)
+
+    if status.get("status") == "publishing":
+        print(
+            f"[MANUAL CHECK] Previous publishing attempt may be incomplete: "
+            f"{news_id}"
+        )
+        return False
+
     caption = build_caption(data)
+
     images = find_carousel_images(
         news_id,
         published_at=data.get("published_at"),
@@ -438,6 +540,7 @@ def publish_news(json_path, dry_run=False):
     print(f"[NEWS] {news_id}")
     print(f"[IMAGES] {len(images)}")
     print(f"[CAPTION] {caption[:200]}")
+
     for image in images:
         print(f"  - {image.name}")
 
@@ -456,26 +559,89 @@ def publish_news(json_path, dry_run=False):
 
     wait_for_container(carousel_id)
 
-    media_id = publish_carousel(carousel_id)
+    # Save before publishing to prevent automatic duplicate retries
+    # if the publishing request has an uncertain outcome.
+    mark_publication_in_progress(json_path, data, carousel_id)
 
-    data.setdefault("publishing", {})
+    try:
+        media_id = publish_carousel(carousel_id)
+    except Exception:
+        print(
+            f"[WARNING] Publication outcome may be uncertain for {news_id}. "
+            "Check Instagram before retrying."
+        )
+        raise
+
     data["publishing"]["instagram"] = {
         "done": True,
+        "status": "published",
         "media_id": media_id,
         "carousel_container_id": carousel_id,
         "account_id": IG_USER_ID,
-        "published_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+        "published_at": time.strftime(
+            "%Y-%m-%dT%H:%M:%SZ",
+            time.gmtime()
+        ),
         "image_count": len(images)
     }
-
-    if data.get("image_done") is not True:
-        print(f"[SKIP] Images not marked complete: {news_id}")
-        return False
 
     save_json(json_path, data)
 
     print(f"[SUCCESS] {news_id} published and status saved.")
     return True
+
+# ============================================================
+# FILE DISCOVERY
+# ============================================================
+
+def load_json_files(news_id=None):
+    if not CONTENT_DIR.is_dir():
+        raise FileNotFoundError(
+            f"Content directory not found: {CONTENT_DIR}"
+        )
+
+    if news_id:
+        files = [
+            path for path in CONTENT_DIR.rglob("*.json")
+            if path.stem == news_id
+        ]
+
+        if not files:
+            raise FileNotFoundError(
+                f"News JSON not found for ID: {news_id}"
+            )
+
+        return files
+
+    return sorted(
+        CONTENT_DIR.rglob("*.json"),
+        key=lambda path: path.stat().st_mtime
+    )
+
+
+def get_eligible_files(json_files):
+    eligible = []
+
+    for path in json_files:
+        try:
+            data = load_json(path)
+
+            if is_ready_for_publishing(data):
+                eligible.append(path)
+            else:
+                news_id = data.get("news_id", path.stem)
+
+                if data.get("image_done") is not True:
+                    print(f"[SKIP] Images pending: {news_id}")
+                elif is_already_posted(data):
+                    print(f"[SKIP] Already published: {news_id}")
+                elif get_instagram_status(data).get("status") == "publishing":
+                    print(f"[SKIP] Manual publication check required: {news_id}")
+
+        except Exception as exc:
+            print(f"[INVALID JSON] {path.name}: {exc}")
+
+    return eligible
 
 # ============================================================
 # MAIN
@@ -485,26 +651,36 @@ def main():
     parser = argparse.ArgumentParser(
         description="Publish AI News carousels to Instagram."
     )
-    parser.add_argument("--news-id", help="Process only this news ID.")
-    parser.add_argument("--limit", type=int, default=MAX_POSTS_PER_RUN)
+
+    parser.add_argument(
+        "--news-id",
+        help="Process only this news ID."
+    )
+
+    parser.add_argument(
+        "--limit",
+        type=int,
+        default=MAX_POSTS_PER_RUN
+    )
+
     parser.add_argument(
         "--dry-run",
         action="store_true",
         help="Validate content and images without uploading or publishing."
     )
+
     args = parser.parse_args()
 
-    if not CONTENT_DIR.is_dir():
-        raise FileNotFoundError(f"Content directory not found: {CONTENT_DIR}")
+    if args.limit < 1:
+        parser.error("--limit must be at least 1.")
 
-    if args.news_id:
-        matches = sorted(CONTENT_DIR.rglob(f"{args.news_id}.json"))
-        json_files = matches if matches else [CONTENT_DIR / f"{args.news_id}.json"]
-    else:
-        json_files = sorted(CONTENT_DIR.rglob("*.json"))
+    json_files = load_json_files(args.news_id)
+    eligible_files = get_eligible_files(json_files)
+    selected_files = eligible_files[:args.limit]
 
-    if args.news_id and not json_files[0].is_file():
-        raise FileNotFoundError(f"News JSON not found: {json_files[0]}")
+    if not selected_files:
+        print("[INFO] No eligible news available for Instagram publishing.")
+        return
 
     if not args.dry_run:
         configure_services()
@@ -513,27 +689,23 @@ def main():
     successful = 0
     failed = 0
 
-    for json_path in json_files:
-        if processed >= args.limit:
-            break
+    print("\n========== INSTAGRAM PUBLISHER ==========")
+    print(f"Account ID: {IG_USER_ID or 'DRY RUN'}")
+    print(f"Eligible news: {len(eligible_files)}")
+    print(f"Run limit: {args.limit}")
+    print(f"Selected: {len(selected_files)}")
+    print(f"Dry run: {args.dry_run}")
+    print("=========================================")
+
+    for json_path in selected_files:
+        processed += 1
 
         try:
-            data = load_json(json_path)
-
-            if is_already_posted(data):
-                continue
-
-            if not args.dry_run:
-                print("\n[START] Preparing Instagram publishing...")
-
             if publish_news(json_path, dry_run=args.dry_run):
                 successful += 1
 
-            processed += 1
-
         except Exception as error:
             failed += 1
-            processed += 1
             print(f"[ERROR] {json_path.name}: {error}")
 
     print("\n" + "=" * 55)
@@ -541,6 +713,7 @@ def main():
     print(f"Processed: {processed}")
     print(f"Successful: {successful}")
     print(f"Failed: {failed}")
+    print("=" * 55)
 
     if failed:
         raise SystemExit(1)
