@@ -1,0 +1,61 @@
+{
+    "news_id": "b73251404f48e7ca",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Jahangir Khan",
+        "type": "person",
+        "image_search_query": "Jahangir Khan"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "politics",
+        "subcategory": "criminals",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "West Bengal",
+        "tags": [
+            "former politician",
+            "criminals"
+        ],
+        "classification_reason": "Jahangir Khan is a former politician arrested for criminal activities.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Jahangir Khan's House Demolished in West Bengal",
+        "caption": "Former Trinamool Congress strongman arrested for extortion, murder, and criminal intimidation.",
+        "hashtags": [
+            "#JahangirKhan",
+            "#WestBengal"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Jahangir Khan's House Demolished in West Bengal",
+                "text": "Former Trinamool Congress strongman arrested for extortion, murder, and criminal intimidation.",
+                "image_search_query": "Jahangir Khan"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Arrest and Demolition",
+                "text": "Jahangir Khan was arrested on July 8 for extortion, murder, and criminal intimidation. His house was demolished in Falta, West Bengal.",
+                "image_search_query": "Falta, West Bengal India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact",
+                "text": "Several notices were issued to Mr. Khan to remove the structure. The building exceeded two storeys and lacked approval.",
+                "image_search_query": "Jahangir Khan, Falta, West Bengal India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/west-bengal/parts-of-former-tmc-strongman-jahangir-khans-house-demolished/article71694515.ece",
+    "published_at": "2026-11-12T16:40:22+00:00"
+}
