@@ -1,0 +1,58 @@
+{
+    "news_id": "dd48866a8e00785e",
+    "country": "INDIA",
+    "classification": {
+        "country": "INDIA",
+        "category": "politics",
+        "subcategory": "police bust",
+        "importance_score": 7,
+        "relevance_score": 7,
+        "region": "Telangana",
+        "tags": [
+            "police",
+            "bust",
+            "e-cigarettes"
+        ],
+        "classification_reason": "police operation targeting illegal e-cigarette trade",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Police bust interstate vape supply network in Hyderabad, man arrested",
+        "caption": "Police arrest 28-year-old man for selling banned e-cigarettes and foreign cigarettes",
+        "hashtags": [
+            "#policebust",
+            "#e-cigarettes",
+            "#vape"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Police bust",
+                "text": "Police arrest 28-year-old man in Hyderabad for illegal e-cigarette trade",
+                "image_search_query": "police bust e-cigarettes Hyderabad India"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Details",
+                "text": "Man arrested for selling banned e-cigarettes and foreign cigarettes",
+                "image_search_query": "police arrest Hyderabad e-cigarettes India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Investigation",
+                "text": "Investigation reveals multiple retail outlets, transportation services, and digital payment channels",
+                "image_search_query": "investigation Hyderabad e-cigarettes India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/telangana/police-bust-interstate-vape-supply-network-in-hyderabad-man-arrested/article71694589.ece",
+    "published_at": "2026-11-12T16:43:28+00:00"
+}

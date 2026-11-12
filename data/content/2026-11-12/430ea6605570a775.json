@@ -1,0 +1,58 @@
+{
+    "news_id": "430ea6605570a775",
+    "country": "INDIA",
+    "classification": {
+        "country": "INDIA",
+        "category": "world",
+        "subcategory": "elections",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "Tiruchi district, Tamil Nadu",
+        "tags": [
+            "elections",
+            "Tiruchi district",
+            "Tamil Nadu"
+        ],
+        "classification_reason": "The article discusses the release of the draft electoral roll for the Tiruchi district, which is part of the larger context of elections in Tamil Nadu.",
+        "selected_channels": [
+            "world-news"
+        ]
+    },
+    "content": {
+        "title": "Tiruchi District's Electorate Size Rises to 21.61 Lakh Voters",
+        "caption": "The Tiruchi district's draft electoral roll shows a total of 21,61,238 voters, with 10,47,048 men, 11,13,872 women, and 318 third gender voters.",
+        "hashtags": [
+            "#Tiruchi",
+            "#Elections",
+            "#Tamil Nadu"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Tiruchi District's Draft Electoral Roll",
+                "text": "The Tiruchi district's draft electoral roll shows a total of 21,61,238 voters, with 10,47,048 men, 11,13,872 women, and 318 third gender voters.",
+                "image_search_query": "Tiruchi district Tiruchi district Tiruchi district India"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Election Exercise",
+                "text": "A Special Summary Revision of electoral rolls is being undertaken with January 1, 2027 as the qualifying date.",
+                "image_search_query": "election exercise electoral rolls India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Electoral Roll Details",
+                "text": "The district has 10,47,048 men, 11,13,872 women, and 318 third gender voters, taking the total number of voters to 21,61,238.",
+                "image_search_query": "electoral roll details Tiruchi district India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/cities/Tiruchirapalli/tiruchi-districts-electorate-size-rises-to-2161-lakh-voters/article71694666.ece",
+    "published_at": "2026-11-12T16:43:38+00:00"
+}

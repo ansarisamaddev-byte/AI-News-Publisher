@@ -1,0 +1,67 @@
+{
+    "news_id": "376d5a6f39d9f86f",
+    "country": "US",
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "AI and technology",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "",
+        "tags": [
+            "AI",
+            "Nvidia",
+            "Jensen Huang",
+            "Nvidia Way"
+        ],
+        "classification_reason": "The article discusses the downfall of AI visionary Jensen Huang due to personal and professional issues, focusing on his role at Nvidia and the AI industry.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Jensen Huang's AI Visionary Fall",
+        "caption": "AI visionary Jensen Huang's downfall due to personal and professional issues.",
+        "hashtags": [
+            "#AI",
+            "#JensenHuang",
+            "#Nvidia",
+            "#NvidiaWay"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Jensen Huang's AI Visionary Fall",
+                "text": "AI visionary Jensen Huang's downfall due to personal and professional issues.",
+                "image_search_query": "Jensen Huang, Nvidia, AI, downfall United States"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Jensen Huang's Role at Nvidia",
+                "text": "Jensen Huang co-founded Nvidia and built it from the ground up, steering it through some disastrous times with endless energy and ruthless determination.",
+                "image_search_query": "Jensen Huang, Nvidia, co-founder, disastrous times United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Jensen Huang's Personal Life",
+                "text": "Jensen Huang's personal life was reportedly impacted by his second affair with a colleague, leading to the board deciding he had gone too far.",
+                "image_search_query": "Jensen Huang, affair, colleague United States"
+            },
+            {
+                "slide_number": 4,
+                "type": "impact",
+                "heading": "Impact on Nvidia and AI Industry",
+                "text": "Nvidia without Huang: Colette Kress will take over, Nvidia's products are highly technical, and the AI industry relies on Nvidia chips.",
+                "image_search_query": "Nvidia, Colette Kress, takeover, AI industry United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC Technology",
+    "source_url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-12T16:43:36+00:00"
+}

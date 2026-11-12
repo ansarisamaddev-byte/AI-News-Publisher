@@ -1,0 +1,65 @@
+{
+    "news_id": "c557a499183d5911",
+    "country": "INDIA",
+    "classification": {
+        "country": "INDIA",
+        "category": "health",
+        "subcategory": "genetic disorders",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "Andhra Pradesh",
+        "tags": [
+            "genetic disorders",
+            "Spinal Muscular Atrophy",
+            "18-month-old boy"
+        ],
+        "classification_reason": "The article discusses a rare genetic disorder affecting an 18-month-old boy and the YSR Congress Party's assistance in providing financial and medical support.",
+        "selected_channels": [
+            "health-news"
+        ]
+    },
+    "content": {
+        "title": "YSR Congress Party Assists 18-Month-Old Boy with Spinal Muscular Atrophy",
+        "caption": "YSR Congress Party (YSRCP) promises financial assistance to 18-month-old boy suffering from Spinal Muscular Atrophy (SMA).",
+        "hashtags": [
+            "#geneticdisorders",
+            "#SpinalMuscularAtrophy",
+            "#18montholdboy"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "YSR Congress Party Assists SMA Patient",
+                "text": "YSR Congress Party promises financial assistance to 18-month-old boy suffering from Spinal Muscular Atrophy.",
+                "image_search_query": "YSR Congress Party, 18-month-old boy, Spinal Muscular Atrophy India"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "The Boy's Condition",
+                "text": "The boy suffers from Spinal Muscular Atrophy (SMA), a rare genetic disorder requiring treatment costing nearly ₹1.5 crore.",
+                "image_search_query": "Spinal Muscular Atrophy, genetic disorder India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Parents' Financial Struggles",
+                "text": "The boy's parents, accompanied by YSRCP spokesperson, met Mr. Jagan at Tadepalli and explained their financial difficulties and the need for urgent medical intervention.",
+                "image_search_query": "parents, financial difficulties, urgent medical intervention India"
+            },
+            {
+                "slide_number": 4,
+                "type": "impact",
+                "heading": "YSRCP's Response",
+                "text": "YSRCP leader assured the family that all necessary assistance would be extended from his side, and arranged passports and facilitated medical tests.",
+                "image_search_query": "YSR Congress Party, assistance, urgent medical intervention India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-promises-assistance-to-18-month-old-boy-suffering-from-spinal-muscular-atrophy/article71693478.ece",
+    "published_at": "2026-11-12T16:41:06+00:00"
+}
