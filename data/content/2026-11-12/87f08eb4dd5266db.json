@@ -1,58 +1,59 @@
 {
-    "news_id": "87f08eb4dd5266db",
+  "news_id": "87f08eb4dd5266db",
+  "country": "INDIA",
+  "classification": {
     "country": "INDIA",
-    "classification": {
-        "country": "INDIA",
-        "category": "world",
-        "subcategory": "crime",
-        "importance_score": 8,
-        "relevance_score": 8,
-        "region": "Telangana",
-        "tags": [
-            "newborn",
-            "abandonment",
-            "Dimda village"
-        ],
-        "classification_reason": "The article reports a tragic incident of a newborn being found abandoned in a village, which is a significant event affecting the local community.",
-        "selected_channels": [
-            "world-news"
-        ]
-    },
-    "content": {
-        "title": "Newborn Baby Found Abandoned in Dimda Village",
-        "caption": "A newborn baby was found abandoned in Dimda village, triggering shock among villagers.",
-        "hashtags": [
-            "#newbornabandonment",
-            "#DimdaVillage",
-            "#Telangana"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Newborn Baby Found Abandoned",
-                "text": "A newborn baby was found abandoned in Dimda village.",
-                "image_search_query": "Newborn baby abandoned Dimda village India"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Incident Details",
-                "text": "The body of the newborn was found mutilated on the outskirts of Dimda village.",
-                "image_search_query": "Newborn mutilated body Dimda village India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Local Response",
-                "text": "Local villagers alerted the police, who registered a case under relevant laws.",
-                "image_search_query": "Local villagers alert police Dimda village India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/telangana/body-of-newborn-baby-found-abandoned-at-dimda-village-in-kumram-bheem-asifabad-district/article71694794.ece",
-    "published_at": "2026-11-12T16:40:48+00:00"
+    "category": "world",
+    "subcategory": "crime",
+    "importance_score": 8,
+    "relevance_score": 8,
+    "region": "Telangana",
+    "tags": [
+      "newborn",
+      "abandonment",
+      "Dimda village"
+    ],
+    "classification_reason": "The article reports a tragic incident of a newborn being found abandoned in a village, which is a significant event affecting the local community.",
+    "selected_channels": [
+      "world-news"
+    ]
+  },
+  "content": {
+    "title": "Newborn Baby Found Abandoned in Dimda Village",
+    "caption": "A newborn baby was found abandoned in Dimda village, triggering shock among villagers.",
+    "hashtags": [
+      "#newbornabandonment",
+      "#DimdaVillage",
+      "#Telangana"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Newborn Baby Found Abandoned",
+        "text": "A newborn baby was found abandoned in Dimda village.",
+        "image_search_query": "Newborn baby abandoned Dimda village India"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Incident Details",
+        "text": "The body of the newborn was found mutilated on the outskirts of Dimda village.",
+        "image_search_query": "Newborn mutilated body Dimda village India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Local Response",
+        "text": "Local villagers alerted the police, who registered a case under relevant laws.",
+        "image_search_query": "Local villagers alert police Dimda village India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/telangana/body-of-newborn-baby-found-abandoned-at-dimda-village-in-kumram-bheem-asifabad-district/article71694794.ece",
+  "published_at": "2026-11-12T16:40:48+00:00",
+  "image_done": true
 }

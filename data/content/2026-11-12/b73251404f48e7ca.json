@@ -1,58 +1,59 @@
 {
-    "news_id": "b73251404f48e7ca",
+  "news_id": "b73251404f48e7ca",
+  "country": "INDIA",
+  "classification": {
     "country": "INDIA",
-    "classification": {
-        "country": "INDIA",
-        "category": "politics",
-        "subcategory": "criminals and corruption",
-        "importance_score": 8,
-        "relevance_score": 8,
-        "region": "West Bengal",
-        "tags": [
-            "politics",
-            "criminals",
-            "TMC"
-        ],
-        "classification_reason": "The article discusses the demolition of a house belonging to a former Trinamool Congress strongman in West Bengal, which is a political event involving corruption and criminal activities.",
-        "selected_channels": [
-            "politics-news"
-        ]
-    },
-    "content": {
-        "title": "Parts of former TMC strongman Jahangir Khan's house demolished",
-        "caption": "Former Trinamool Congress strongman Jahangir Khan's house demolished in Falta, West Bengal.",
-        "hashtags": [
-            "#politics",
-            "#criminals",
-            "#TMC"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Former Trinamool Congress Strongman's House Demolished",
-                "text": "Former Trinamool Congress strongman Jahangir Khan's house demolished in Falta, West Bengal.",
-                "image_search_query": "former tmc strongman house demolished India"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Background",
-                "text": "Jahangir Khan, a former Trinamool Congress strongman, was arrested on July 8 for extortion, murder, and criminal intimidation. He dropped out of the race just ahead of the repoll.",
-                "image_search_query": "former tmc strongman arrest India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Details",
-                "text": "The district administration demolished an unauthorised portion of a home belonging to Jahangir Khan in Falta, West Bengal. The building exceeded two storeys and lacked approval.",
-                "image_search_query": "former tmc strongman house demolition India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/west-bengal/parts-of-former-tmc-strongman-jahangir-khans-house-demolished/article71694515.ece",
-    "published_at": "2026-11-12T16:40:22+00:00"
+    "category": "politics",
+    "subcategory": "criminals and corruption",
+    "importance_score": 8,
+    "relevance_score": 8,
+    "region": "West Bengal",
+    "tags": [
+      "politics",
+      "criminals",
+      "TMC"
+    ],
+    "classification_reason": "The article discusses the demolition of a house belonging to a former Trinamool Congress strongman in West Bengal, which is a political event involving corruption and criminal activities.",
+    "selected_channels": [
+      "politics-news"
+    ]
+  },
+  "content": {
+    "title": "Parts of former TMC strongman Jahangir Khan's house demolished",
+    "caption": "Former Trinamool Congress strongman Jahangir Khan's house demolished in Falta, West Bengal.",
+    "hashtags": [
+      "#politics",
+      "#criminals",
+      "#TMC"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Former Trinamool Congress Strongman's House Demolished",
+        "text": "Former Trinamool Congress strongman Jahangir Khan's house demolished in Falta, West Bengal.",
+        "image_search_query": "former tmc strongman house demolished India"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Background",
+        "text": "Jahangir Khan, a former Trinamool Congress strongman, was arrested on July 8 for extortion, murder, and criminal intimidation. He dropped out of the race just ahead of the repoll.",
+        "image_search_query": "former tmc strongman arrest India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Details",
+        "text": "The district administration demolished an unauthorised portion of a home belonging to Jahangir Khan in Falta, West Bengal. The building exceeded two storeys and lacked approval.",
+        "image_search_query": "former tmc strongman house demolition India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/west-bengal/parts-of-former-tmc-strongman-jahangir-khans-house-demolished/article71694515.ece",
+  "published_at": "2026-11-12T16:40:22+00:00",
+  "image_done": true
 }
