@@ -1,0 +1,74 @@
+{
+  "news_id": "6833bb6dd61c4d3b",
+  "title": "Layered superionic conductor hosts atomic vibrations that behave like liquids, glasses and crystals",
+  "main_subject": {
+    "name": "Layered superionic conductor",
+    "type": "product",
+    "image_search_query": "Layered superionic conductor"
+  },
+  "category": "technology",
+  "tags": [
+    "superconductivity",
+    "atomic vibrations",
+    "layered superionic conductor"
+  ],
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTEybk43ODZTYmdLWGp2cGN1dlp0M19tbTBqZXNucVI4WkdxdHVDalRneDNpRWVuZ0hYLUdrU1M0M2FuZi05N09iTEVGX2lZcFhPVGluTDRnQzN0eWh6bVI2Y2dfbWh4WDNCSS1MZGVRdS1Ram9KMnFwTmwyUnVJV3BR?oc=5",
+  "published_at": "2026-11-12T22:00:06+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Layered superionic conductor hosts atomic vibrations that behave like liquids,",
+      "image": {
+        "provider": "generated",
+        "query": "Layered superionic conductor",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Discovery",
+      "image": {
+        "provider": "generated",
+        "query": "atomic vibrations layered superionic conductor United States",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Implications",
+      "image": {
+        "provider": "generated",
+        "query": "implications layered superionic conductor United States",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "modern technology computer digital",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

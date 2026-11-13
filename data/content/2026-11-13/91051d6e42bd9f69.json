@@ -1,63 +1,64 @@
 {
-    "news_id": "91051d6e42bd9f69",
+  "news_id": "91051d6e42bd9f69",
+  "country": "UK",
+  "main_subject": {
+    "name": "Kane",
+    "type": "person",
+    "image_search_query": "Kane"
+  },
+  "classification": {
     "country": "UK",
-    "main_subject": {
-        "name": "Kane",
-        "type": "person",
+    "category": "business",
+    "subcategory": "sport",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "England",
+    "tags": [
+      "England",
+      "Harry Kane",
+      "football"
+    ],
+    "classification_reason": "The article is about Harry Kane's performance in a football match and his impact on the team.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Harry Kane's Performance in Nations League Match",
+    "caption": "Harry Kane scored the winner in England's Nations League match against Croatia, and the article discusses his performance and the team's overall rating.",
+    "hashtags": [
+      "#HarryKane",
+      "#England",
+      "#NationsLeague"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Harry Kane's Performance in Nations League Match",
+        "text": "Harry Kane scored the winner in England's Nations League match against Croatia, and the article discusses his performance and the team's overall rating.",
         "image_search_query": "Kane"
-    },
-    "classification": {
-        "country": "UK",
-        "category": "business",
-        "subcategory": "sport",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "England",
-        "tags": [
-            "England",
-            "Harry Kane",
-            "football"
-        ],
-        "classification_reason": "The article is about Harry Kane's performance in a football match and his impact on the team.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Harry Kane's Performance in Nations League Match",
-        "caption": "Harry Kane scored the winner in England's Nations League match against Croatia, and the article discusses his performance and the team's overall rating.",
-        "hashtags": [
-            "#HarryKane",
-            "#England",
-            "#NationsLeague"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Harry Kane's Performance in Nations League Match",
-                "text": "Harry Kane scored the winner in England's Nations League match against Croatia, and the article discusses his performance and the team's overall rating.",
-                "image_search_query": "Kane"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Match Details",
-                "text": "England defeated Croatia 1-0 in the Nations League match.",
-                "image_search_query": "England Croatia Nations League United Kingdom"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Player Ratings",
-                "text": "The article provides player ratings for the match, including Harry Kane's performance.",
-                "image_search_query": "player ratings England Nations League United Kingdom"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-12T21:47:36+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Match Details",
+        "text": "England defeated Croatia 1-0 in the Nations League match.",
+        "image_search_query": "England Croatia Nations League United Kingdom"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Player Ratings",
+        "text": "The article provides player ratings for the match, including Harry Kane's performance.",
+        "image_search_query": "player ratings England Nations League United Kingdom"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-12T21:47:36+00:00",
+  "image_done": true
 }

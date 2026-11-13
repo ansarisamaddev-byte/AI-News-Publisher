@@ -1,63 +1,64 @@
 {
-    "news_id": "63316a14b871c033",
+  "news_id": "63316a14b871c033",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "TNPDCL",
+    "type": "company",
+    "image_search_query": "TNPDCL"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "TNPDCL",
-        "type": "company",
+    "category": "business",
+    "subcategory": "energy",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Tamil Nadu",
+    "tags": [
+      "power procurement",
+      "electricity",
+      "regulatory commission"
+    ],
+    "classification_reason": "The article is primarily about TNPDCL's power procurement and regulatory process.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "TNPDCL seeks nod to procure 3,000 MW",
+    "caption": "TNPDCL increases power procurement from 1,500 MW to 3,000 MW through a medium-term tender agreement.",
+    "hashtags": [
+      "#TNPDCL",
+      "#PowerProcurement",
+      "#ElectricityRegulation"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "TNPDCL seeks nod to procure 3,000 MW",
+        "text": "TNPDCL increases power procurement from 1,500 MW to 3,000 MW through a medium-term tender agreement.",
         "image_search_query": "TNPDCL"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "business",
-        "subcategory": "energy",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Tamil Nadu",
-        "tags": [
-            "power procurement",
-            "electricity",
-            "regulatory commission"
-        ],
-        "classification_reason": "The article is primarily about TNPDCL's power procurement and regulatory process.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "TNPDCL seeks nod to procure 3,000 MW",
-        "caption": "TNPDCL increases power procurement from 1,500 MW to 3,000 MW through a medium-term tender agreement.",
-        "hashtags": [
-            "#TNPDCL",
-            "#PowerProcurement",
-            "#ElectricityRegulation"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "TNPDCL seeks nod to procure 3,000 MW",
-                "text": "TNPDCL increases power procurement from 1,500 MW to 3,000 MW through a medium-term tender agreement.",
-                "image_search_query": "TNPDCL"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Relevant context",
-                "text": "TNPDCL, which submitted the proposal to procure 1,500 MW to the Tamil Nadu Electricity Regulatory Commission (TNERC) in February this year, has now doubled the quantum.",
-                "image_search_query": "TNPDCL power procurement context India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Important details",
-                "text": "The estimated cost of the medium-term procurement is around ₹5.50 per kilo watt per hour, with the annual expenditure pegged at ₹6,150 crore.",
-                "image_search_query": "TNPDCL power procurement details India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tnpdcl-seeks-nod-to-procure-3000-mw/article71693793.ece",
-    "published_at": "2026-11-12T21:35:23+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Relevant context",
+        "text": "TNPDCL, which submitted the proposal to procure 1,500 MW to the Tamil Nadu Electricity Regulatory Commission (TNERC) in February this year, has now doubled the quantum.",
+        "image_search_query": "TNPDCL power procurement context India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Important details",
+        "text": "The estimated cost of the medium-term procurement is around ₹5.50 per kilo watt per hour, with the annual expenditure pegged at ₹6,150 crore.",
+        "image_search_query": "TNPDCL power procurement details India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tnpdcl-seeks-nod-to-procure-3000-mw/article71693793.ece",
+  "published_at": "2026-11-12T21:35:23+00:00",
+  "image_done": true
 }

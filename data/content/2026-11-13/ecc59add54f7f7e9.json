@@ -1,64 +1,65 @@
 {
-    "news_id": "ecc59add54f7f7e9",
+  "news_id": "ecc59add54f7f7e9",
+  "country": "US",
+  "main_subject": {
+    "name": "Oura Ring 4",
+    "type": "product",
+    "image_search_query": "Oura Ring 4"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Oura Ring 4",
-        "type": "product",
+    "category": "technology",
+    "subcategory": "health",
+    "importance_score": 8,
+    "relevance_score": 8,
+    "region": "US",
+    "tags": [
+      "smart ring",
+      "health tracking",
+      "sensors",
+      "software"
+    ],
+    "classification_reason": "The product is a smart ring with health tracking features, focusing on accuracy and affordability.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Oura Ring 4 on Sale for $249",
+    "caption": "The previous-generation Oura Ring 4 is available for $249, offering a significant discount from its retail price.",
+    "hashtags": [
+      "#OuraRing4",
+      "#SmartRing",
+      "#HealthTracking"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Oura Ring 4 on Sale for $249",
+        "text": "The previous-generation Oura Ring 4 is available for $249, offering a significant discount from its retail price.",
         "image_search_query": "Oura Ring 4"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "health",
-        "importance_score": 8,
-        "relevance_score": 8,
-        "region": "US",
-        "tags": [
-            "smart ring",
-            "health tracking",
-            "sensors",
-            "software"
-        ],
-        "classification_reason": "The product is a smart ring with health tracking features, focusing on accuracy and affordability.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Oura Ring 4 on Sale for $249",
-        "caption": "The previous-generation Oura Ring 4 is available for $249, offering a significant discount from its retail price.",
-        "hashtags": [
-            "#OuraRing4",
-            "#SmartRing",
-            "#HealthTracking"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Oura Ring 4 on Sale for $249",
-                "text": "The previous-generation Oura Ring 4 is available for $249, offering a significant discount from its retail price.",
-                "image_search_query": "Oura Ring 4"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Previous-Generation Oura Ring 4",
-                "text": "The previous-generation Oura Ring 4 is on sale for $249, offering a significant discount from its retail price.",
-                "image_search_query": "Previous-generation Oura Ring 4 United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Key Features",
-                "text": "The Oura Ring 4 offers improved sensors and software features compared to its predecessor, making it a more accurate and user-friendly option.",
-                "image_search_query": "Oura Ring 4 features United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
-    "published_at": "2026-11-12T21:28:53+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Previous-Generation Oura Ring 4",
+        "text": "The previous-generation Oura Ring 4 is on sale for $249, offering a significant discount from its retail price.",
+        "image_search_query": "Previous-generation Oura Ring 4 United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Key Features",
+        "text": "The Oura Ring 4 offers improved sensors and software features compared to its predecessor, making it a more accurate and user-friendly option.",
+        "image_search_query": "Oura Ring 4 features United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
+  "published_at": "2026-11-12T21:28:53+00:00",
+  "image_done": true
 }

@@ -1,0 +1,82 @@
+{
+  "news_id": "ae089956d8e33db2",
+  "title": "New York City Construction Collapse Kills at Least 8, Injures 18",
+  "main_subject": {
+    "name": "New York City",
+    "type": "place",
+    "image_search_query": "New York City"
+  },
+  "category": "business",
+  "tags": [
+    "New York City",
+    "construction collapse"
+  ],
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
+  "published_at": "2026-11-12T21:59:21+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "New York City Construction Collapse Kills at Least 8, Injures",
+      "image": {
+        "provider": "generated",
+        "query": "New York City",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Rescue Efforts",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:150_King_Street_West,_Financial_District,_Toronto,_Ontario_(29375899443).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/150_King_Street_West%2C_Financial_District%2C_Toronto%2C_Ontario_%2829375899443%29.jpg/1280px-150_King_Street_West%2C_Financial_District%2C_Toronto%2C_Ontario_%2829375899443%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "rescue crews searching rubble United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Incident Details",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Financial_District,_Toronto,_Ontario_(29375222104).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Financial_District%2C_Toronto%2C_Ontario_%2829375222104%29.jpg/1280px-Financial_District%2C_Toronto%2C_Ontario_%2829375222104%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "collapsed building details United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Gabardine,_Toronto,_Ontario_(29375229614).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/The_Gabardine%2C_Toronto%2C_Ontario_%2829375229614%29.jpg/1280px-The_Gabardine%2C_Toronto%2C_Ontario_%2829375229614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

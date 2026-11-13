@@ -1,59 +1,60 @@
 {
-    "news_id": "88010a7dde71586c",
+  "news_id": "88010a7dde71586c",
+  "country": "US",
+  "main_subject": {
+    "name": "New York Times",
+    "type": "company",
+    "image_search_query": "New York Times"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "New York Times",
-        "type": "company",
+    "category": "technology",
+    "subcategory": "news",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "",
+    "tags": [
+      "New York Times"
+    ],
+    "classification_reason": "The article is about the New York Times, a major news company.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "New York Times Strands Hints, Spangram and Answers for Friday, Nov. 13, #985",
+    "caption": "The New York Times provides hints, spangram, and answers for Friday, November 13, 2026.",
+    "hashtags": [
+      "#NewYorkTimes"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "New York Times Strands Hints, Spangram and Answers for Friday,",
+        "text": "The New York Times provides hints, spangram, and answers for Friday, November 13, 2026.",
         "image_search_query": "New York Times"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "news",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "",
-        "tags": [
-            "New York Times"
-        ],
-        "classification_reason": "The article is about the New York Times, a major news company.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "New York Times Strands Hints, Spangram and Answers for Friday, Nov. 13, #985",
-        "caption": "The New York Times provides hints, spangram, and answers for Friday, November 13, 2026.",
-        "hashtags": [
-            "#NewYorkTimes"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "New York Times Strands Hints, Spangram and Answers for Friday,",
-                "text": "The New York Times provides hints, spangram, and answers for Friday, November 13, 2026.",
-                "image_search_query": "New York Times"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Hints and Answers",
-                "text": "The New York Times provides hints and answers.",
-                "image_search_query": "New York Times hints and answers United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Spangram",
-                "text": "The New York Times uses spangram.",
-                "image_search_query": "New York Times spangram United States"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Technology",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVdNTU1IYkZYSlgwWlJ1czg4SVM3MjlfazduLVRXWk5FTzE5VUpQNEo4SzIxcFM0dUdCMVNsQzc5c3lJRkdqaUY5NUV4NUgtQkdGenVNT0ptd012NWdpMEZWVlBINWVTSUl5Z0lYSy11cFVUR212b1BfVnRrUk5IWkpMNG5FdEthV0ZVN1BJT0xDbV9ybVE?oc=5",
-    "published_at": "2026-11-12T21:00:11+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Hints and Answers",
+        "text": "The New York Times provides hints and answers.",
+        "image_search_query": "New York Times hints and answers United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Spangram",
+        "text": "The New York Times uses spangram.",
+        "image_search_query": "New York Times spangram United States"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Technology",
+  "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVdNTU1IYkZYSlgwWlJ1czg4SVM3MjlfazduLVRXWk5FTzE5VUpQNEo4SzIxcFM0dUdCMVNsQzc5c3lJRkdqaUY5NUV4NUgtQkdGenVNT0ptd012NWdpMEZWVlBINWVTSUl5Z0lYSy11cFVUR212b1BfVnRrUk5IWkpMNG5FdEthV0ZVN1BJT0xDbV9ybVE?oc=5",
+  "published_at": "2026-11-12T21:00:11+00:00",
+  "image_done": true
 }

@@ -1,61 +1,62 @@
 {
-    "news_id": "ae089956d8e33db2",
+  "news_id": "ae089956d8e33db2",
+  "country": "US",
+  "main_subject": {
+    "name": "New York City",
+    "type": "place",
+    "image_search_query": "New York City"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "New York City",
-        "type": "place",
+    "category": "business",
+    "subcategory": "construction",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "New York City",
+    "tags": [
+      "New York City",
+      "construction collapse"
+    ],
+    "classification_reason": "The article is primarily about a construction collapse in New York City, focusing on the incident, rescue efforts, and investigation.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "New York City Construction Collapse Kills at Least 8, Injures 18",
+    "caption": "A three-storey residential building collapsed in Brooklyn, New York, killing at least two children and six adults, injuring 18 others.",
+    "hashtags": [
+      "#NewYorkCity",
+      "#ConstructionCollapse"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "New York City Construction Collapse Kills at Least 8, Injures",
+        "text": "A three-storey residential building collapsed in Brooklyn, New York, killing at least two children and six adults, injuring 18 others.",
         "image_search_query": "New York City"
-    },
-    "classification": {
-        "country": "US",
-        "category": "business",
-        "subcategory": "construction",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "New York City",
-        "tags": [
-            "New York City",
-            "construction collapse"
-        ],
-        "classification_reason": "The article is primarily about a construction collapse in New York City, focusing on the incident, rescue efforts, and investigation.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "New York City Construction Collapse Kills at Least 8, Injures 18",
-        "caption": "A three-storey residential building collapsed in Brooklyn, New York, killing at least two children and six adults, injuring 18 others.",
-        "hashtags": [
-            "#NewYorkCity",
-            "#ConstructionCollapse"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "New York City Construction Collapse Kills at Least 8, Injures",
-                "text": "A three-storey residential building collapsed in Brooklyn, New York, killing at least two children and six adults, injuring 18 others.",
-                "image_search_query": "New York City"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Rescue Efforts",
-                "text": "Rescue crews continue to search for survivors in the rubble of the collapsed building.",
-                "image_search_query": "rescue crews searching rubble United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Incident Details",
-                "text": "The collapsed building was perched at the edge of a lot where another one-storey building had been torn down for a construction project.",
-                "image_search_query": "collapsed building details United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Guardian",
-    "source_url": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
-    "published_at": "2026-11-12T21:59:21+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Rescue Efforts",
+        "text": "Rescue crews continue to search for survivors in the rubble of the collapsed building.",
+        "image_search_query": "rescue crews searching rubble United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Incident Details",
+        "text": "The collapsed building was perched at the edge of a lot where another one-storey building had been torn down for a construction project.",
+        "image_search_query": "collapsed building details United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
+  "published_at": "2026-11-12T21:59:21+00:00",
+  "image_done": true
 }

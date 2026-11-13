@@ -1,63 +1,64 @@
 {
-    "news_id": "17088e6eacd66ca9",
+  "news_id": "17088e6eacd66ca9",
+  "country": "US",
+  "main_subject": {
+    "name": "NASA",
+    "type": "organization",
+    "image_search_query": "NASA"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "NASA",
-        "type": "organization",
+    "category": "science",
+    "subcategory": "astronomy",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "astronomy",
+      "NASA",
+      "Chandra"
+    ],
+    "classification_reason": "NASA is the primary subject of the article, focusing on the Chandra X-Ray Observatory and its findings.",
+    "selected_channels": [
+      "science-news"
+    ]
+  },
+  "content": {
+    "title": "NASA's Chandra Finds Source of Star's Mysterious Outbursts",
+    "caption": "NASA's Chandra X-Ray Observatory reveals the source of a star's periodic outbursts.",
+    "hashtags": [
+      "#NASA",
+      "#Chandra",
+      "#astronomy"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "NASA's Chandra Finds Source of Star's Mysterious Outbursts",
+        "text": "NASA's Chandra X-Ray Observatory reveals the source of a star's periodic outbursts.",
         "image_search_query": "NASA"
-    },
-    "classification": {
-        "country": "US",
-        "category": "science",
-        "subcategory": "astronomy",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "astronomy",
-            "NASA",
-            "Chandra"
-        ],
-        "classification_reason": "NASA is the primary subject of the article, focusing on the Chandra X-Ray Observatory and its findings.",
-        "selected_channels": [
-            "science-news"
-        ]
-    },
-    "content": {
-        "title": "NASA's Chandra Finds Source of Star's Mysterious Outbursts",
-        "caption": "NASA's Chandra X-Ray Observatory reveals the source of a star's periodic outbursts.",
-        "hashtags": [
-            "#NASA",
-            "#Chandra",
-            "#astronomy"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "NASA's Chandra Finds Source of Star's Mysterious Outbursts",
-                "text": "NASA's Chandra X-Ray Observatory reveals the source of a star's periodic outbursts.",
-                "image_search_query": "NASA"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Relevant Context",
-                "text": "A faraway star keeps erupting every 113 days, and a companion black hole could be the reason behind the star's mysterious outbursts.",
-                "image_search_query": "faraway star, periodic outbursts, companion black hole United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Important Details",
-                "text": "The Chandra X-Ray Observatory has identified a compact companion of star AT 2016blu, which could be the source of the star's outbursts.",
-                "image_search_query": "compact companion, star AT 2016blu United States"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Top Stories",
-    "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYXVkRmV3VzE1ajVXWUZxNDBad2FBQ2JsTTJhc2NiNWdEUWh3WHZibjZWWkM4cHlXWFBNU044MlktUnV6ckhNNGlfemg5MG5waHRoZERjTkdwdmpYNUp2d1c2a0o2LVBZczkxYzJ5Z0NWOTFZLWM4c3hPYzdCYTdiQUljT0R0c3BCLWhfaXRrdy1xWGg5eEVXZEwtU0k3bGVhd0F4RVhaUVotS2h4dDd5RV9fOFhXbGZ0YzhUR3F1UHo4TTFyaUVHQTQ1NEhSRzFKZ3ZXekVHTE52azEyUC00STVOZFBuakN3REpjUVpVSXdhYzI3dGcwaw?oc=5",
-    "published_at": "2026-11-12T21:00:00+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Relevant Context",
+        "text": "A faraway star keeps erupting every 113 days, and a companion black hole could be the reason behind the star's mysterious outbursts.",
+        "image_search_query": "faraway star, periodic outbursts, companion black hole United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Important Details",
+        "text": "The Chandra X-Ray Observatory has identified a compact companion of star AT 2016blu, which could be the source of the star's outbursts.",
+        "image_search_query": "compact companion, star AT 2016blu United States"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Top Stories",
+  "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYXVkRmV3VzE1ajVXWUZxNDBad2FBQ2JsTTJhc2NiNWdEUWh3WHZibjZWWkM4cHlXWFBNU044MlktUnV6ckhNNGlfemg5MG5waHRoZERjTkdwdmpYNUp2d1c2a0o2LVBZczkxYzJ5Z0NWOTFZLWM4c3hPYzdCYTdiQUljT0R0c3BCLWhfaXRrdy1xWGg5eEVXZEwtU0k3bGVhd0F4RVhaUVotS2h4dDd5RV9fOFhXbGZ0YzhUR3F1UHo4TTFyaUVHQTQ1NEhSRzFKZ3ZXekVHTE52azEyUC00STVOZFBuakN3REpjUVpVSXdhYzI3dGcwaw?oc=5",
+  "published_at": "2026-11-12T21:00:00+00:00",
+  "image_done": true
 }

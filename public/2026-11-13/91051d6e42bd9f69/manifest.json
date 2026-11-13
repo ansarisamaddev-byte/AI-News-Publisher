@@ -1,0 +1,86 @@
+{
+  "news_id": "91051d6e42bd9f69",
+  "title": "Harry Kane's Performance in Nations League Match",
+  "main_subject": {
+    "name": "Kane",
+    "type": "person",
+    "image_search_query": "Kane"
+  },
+  "category": "business",
+  "tags": [
+    "England",
+    "Harry Kane",
+    "football"
+  ],
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-12T21:47:36+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Harry Kane's Performance in Nations League Match",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Islam90",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kane-Undertaker.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Kane-Undertaker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "Kane",
+        "fallback_used": true,
+        "original_query": "Kane"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Match Details",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Prime Minister's Office",
+        "license": "GODL-India",
+        "license_url": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_at_the_Economic_Times_Global_Business_Summit,_in_New_Delhi_on_January_16,_2015._The_Union_Minister_for_Finance,_Corporate_Affairs_and_Information_%26_Broadcasting,_Shri_Arun_Jaitley_is_also_seen.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Narendra_Modi_at_the_Economic_Times_Global_Business_Summit%2C_in_New_Delhi_on_January_16%2C_2015._The_Union_Minister_for_Finance%2C_Corporate_Affairs_and_Information_%26_Broadcasting%2C_Shri_Arun_Jaitley_is_also_seen.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "England Croatia Nations League United Kingdom"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Player Ratings",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Financial_District,_Toronto,_Ontario_(29919426811).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Financial_District%2C_Toronto%2C_Ontario_%2829919426811%29.jpg/1280px-Financial_District%2C_Toronto%2C_Ontario_%2829919426811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "player ratings England Nations League United Kingdom"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Gabardine,_Toronto,_Ontario_(29375229614).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/The_Gabardine%2C_Toronto%2C_Ontario_%2829375229614%29.jpg/1280px-The_Gabardine%2C_Toronto%2C_Ontario_%2829375229614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}
