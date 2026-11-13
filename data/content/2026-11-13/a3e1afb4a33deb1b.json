@@ -1,0 +1,64 @@
+{
+    "news_id": "a3e1afb4a33deb1b",
+    "country": "US",
+    "main_subject": {
+        "name": "Google",
+        "type": "company",
+        "image_search_query": "Google"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "AI",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "",
+        "tags": [
+            "AI",
+            "Google Search",
+            "Search AI",
+            "AI Model"
+        ],
+        "classification_reason": "The article is primarily about Google's new AI model, Gemini 4 Hydrogen, and its improvements in understanding complex questions.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Google's New Gemini Model Improves Understanding of Complex Questions",
+        "caption": "Google's new AI model, Gemini 4 Hydrogen, is better at answering complex questions, including those with multiple parts, hard-to-understand typos, or highly specific requests.",
+        "hashtags": [
+            "#AI",
+            "#GoogleSearch",
+            "#SearchAI"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Google's New Gemini Model Improves Understanding of Complex Questions",
+                "text": "Google's new AI model, Gemini 4 Hydrogen, is better at answering complex questions, including those with multiple parts, hard-to-understand typos, or highly specific requests.",
+                "image_search_query": "Google"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Improvements in Understanding",
+                "text": "The new model can break down questions, address each part, and provide more helpful answers.",
+                "image_search_query": "Improvements in AI Model United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Features of the New Model",
+                "text": "The model can conduct simultaneous queries across subtopics, generate visuals, and improve language understanding.",
+                "image_search_query": "Features of AI Model United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+    "published_at": "2026-11-12T21:55:32+00:00"
+}

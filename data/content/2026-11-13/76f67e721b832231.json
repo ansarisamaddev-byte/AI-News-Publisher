@@ -1,0 +1,64 @@
+{
+    "news_id": "76f67e721b832231",
+    "country": "SAUDI ARABIA",
+    "main_subject": {
+        "name": "Houthi",
+        "type": "person",
+        "image_search_query": "Houthi"
+    },
+    "classification": {
+        "country": "SAUDI ARABIA",
+        "category": "business",
+        "subcategory": "oil and pipeline",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Red Sea",
+        "tags": [
+            "Houthi",
+            "East-West pipeline",
+            "Yanbu",
+            "Saudi Arabia"
+        ],
+        "classification_reason": "The article is primarily about the Houthis' attacks on the East-West pipeline and Yanbu oil facility in Saudi Arabia.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Houthi Targets East-West Pipeline and Yanbu Oil Facility",
+        "caption": "Houthi forces attacked the East-West pipeline and Yanbu oil facility in Saudi Arabia, claiming success in both operations.",
+        "hashtags": [
+            "#Houthi",
+            "#East-WestPipeline",
+            "#Yanbu"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Houthi Targets East-West Pipeline and Yanbu Oil Facility",
+                "text": "Houthi forces attacked the East-West pipeline and Yanbu oil facility in Saudi Arabia, claiming success in both operations.",
+                "image_search_query": "Houthi"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Houthi Forces Targeted East-West Pipeline",
+                "text": "Houthi forces attacked the East-West pipeline in Saudi Arabia, claiming success in both operations.",
+                "image_search_query": "Houthi forces attacking East-West pipeline Saudi Arabia"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Houthi Forces Targeted Yanbu Oil Facility",
+                "text": "Houthi forces also targeted the Yanbu oil facility in Saudi Arabia, claiming success in both operations.",
+                "image_search_query": "Houthi forces attacking Yanbu oil facility Saudi Arabia"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/international/yemens-houthis-say-they-targeted-saudi-east-west-pipeline-port-city-of-yanbu/article71695404.ece",
+    "published_at": "2026-11-12T21:26:22+00:00"
+}

@@ -1,0 +1,59 @@
+{
+    "news_id": "c69b3efa173a4e3d",
+    "country": "US",
+    "main_subject": {
+        "name": "Microsoft",
+        "type": "company",
+        "image_search_query": "Microsoft"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "internet",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US",
+        "tags": [
+            "Microsoft outage"
+        ],
+        "classification_reason": "The article is about a widespread outage affecting Microsoft's platforms, including Outlook and Teams, which is a significant technology event.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Microsoft Faces Widespread Outage Across Apps",
+        "caption": "Microsoft reported a widespread outage affecting its email and messaging services.",
+        "hashtags": [
+            "#MicrosoftOutage"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Microsoft Faces Widespread Outage Across Apps",
+                "text": "Microsoft reported a widespread outage affecting its email and messaging services.",
+                "image_search_query": "Microsoft"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Outage Details",
+                "text": "The outage affected nearly 1,30,000 users across multiple platforms.",
+                "image_search_query": "Microsoft outage tracker United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Root Cause",
+                "text": "Microsoft identified a problem causing servers to fail during automated checks.",
+                "image_search_query": "Microsoft outage root cause United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/sci-tech/technology/internet/widespread-outage-hits-microsoft-apps/article71695400.ece",
+    "published_at": "2026-11-12T21:01:36+00:00"
+}
