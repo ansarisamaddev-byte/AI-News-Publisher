@@ -1378,14 +1378,29 @@ def render_source(data, theme, date_text, index, total, category):
 # MAIN EXECUTION
 # =========================================================
 
-def content_date_key(value=None):
-    date_value = value or datetime.now().isoformat()
+def content_date_key(value=None, json_file=None):
+    # Prefer the date folder containing the JSON file.
+    if json_file:
+        folder_date = Path(json_file).parent.name
 
-    try:
-        parsed = datetime.fromisoformat(str(date_value).replace("Z", "+00:00"))
-        return parsed.astimezone().strftime("%Y-%m-%d")
-    except Exception:
-        return datetime.now().strftime("%Y-%m-%d")
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}", folder_date):
+            try:
+                datetime.strptime(folder_date, "%Y-%m-%d")
+                return folder_date
+            except ValueError:
+                pass
+
+    # Fallback to published_at.
+    if value:
+        try:
+            parsed = datetime.fromisoformat(
+                str(value).replace("Z", "+00:00")
+            )
+            return parsed.astimezone().strftime("%Y-%m-%d")
+        except Exception:
+            pass
+
+    return datetime.now().strftime("%Y-%m-%d")
 
 def generate_post(json_file):
     CURRENT_POST_USED_LOCAL_IMAGES.clear()
@@ -1407,7 +1422,10 @@ def generate_post(json_file):
     if not slides:
         raise ValueError("No slides found in JSON: expected content.slides")
 
-    date_key = content_date_key(data.get("published_at"))
+    date_key = content_date_key(
+        data.get("published_at"),
+        json_file
+    )
     output_dir = PUBLIC_DIR / date_key / news_id
     output_dir.mkdir(parents=True, exist_ok=True)
 
