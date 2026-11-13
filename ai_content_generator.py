@@ -24,7 +24,7 @@ CONTENT_DIR = BASE_DIR / "data" / "content"
 TODAY = datetime.now(ZoneInfo("Asia/Kolkata")).date()
 QUEUE_FILE = NEWS_DIR / f"{TODAY}.csv"
 
-MAX_NEWS_PER_RUN = 10
+TARGET_JSON_PER_RUN = 10
 TOP_NEWS_LIMIT = 20
 MAX_ARTICLE_CHARS = 14000
 REQUEST_TIMEOUT = 25
@@ -1274,7 +1274,7 @@ def main(filename=None, reprocess=False):
 
     print("\n========== AI NEWS CONTENT GENERATOR ==========")
     print(f"CSV file: {QUEUE_FILE}")
-    print(f"Maximum per run: {MAX_NEWS_PER_RUN}")
+    print(f"Maximum per run: {TARGET_JSON_PER_RUN}")
     print(f"Model: {MODEL_NAME}")
     print(f"Reprocess mode: {reprocess}")
     print("Engine: Local Qwen GGUF")
@@ -1295,11 +1295,10 @@ def main(filename=None, reprocess=False):
         )
     ]
 
-    batch = pending[:MAX_NEWS_PER_RUN]
+    batch = pending[:TARGET_JSON_PER_RUN]
 
     print(f"Total records: {len(rows)}")
     print(f"Pending articles: {len(pending)}")
-    print(f"Maximum per run: {MAX_NEWS_PER_RUN}")
 
     if not batch:
         print("\n[INFO] No pending articles to process.")
@@ -1321,23 +1320,22 @@ def main(filename=None, reprocess=False):
     processed = 0
     failed = 0
 
-    for article in batch:
+    for article in pending:
         if process_news(client, article):
-            try:
-                save_queue(rows, fields)
-                processed += 1
-                print(
-                    f"[CSV UPDATED] {article.get('news_id')}"
-                )
-
-            except Exception as error:
-                failed += 1
-                print(f"[CSV SAVE ERROR] {error}")
+            save_queue(rows, fields)
+            processed += 1
+            print(f"[SUCCESS] {processed}/{TARGET_JSON_PER_RUN} JSON files")
 
         else:
             failed += 1
 
-    remaining = max(0, len(pending) - len(batch))
+        if processed >= TARGET_JSON_PER_RUN:
+            break
+
+    remaining = sum(
+        1 for row in rows
+        if str(row.get("ai_done") or "").strip().lower() != "true"
+    )
 
     # Do not remove unprocessed articles.
     all_classified = all(

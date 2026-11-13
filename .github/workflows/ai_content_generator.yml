@@ -2,14 +2,9 @@
 name: AI Content Generator
 
 on:
-  workflow_run:
-    workflows:
-      - News Fetcher
-    types:
-      - completed
-    branches:
-      - main
-
+  schedule:
+    - cron: "30 3 * * *"
+    - cron: "30 12 * * *"
   workflow_dispatch:
 
 permissions:
