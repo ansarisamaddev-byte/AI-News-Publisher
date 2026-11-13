@@ -38,7 +38,7 @@ load_env()
 
 UNSPLASH_ACCESS_KEY = os.getenv("UNSPLASH_ACCESS_KEY", "")
 DEFAULT_PROVIDER = os.getenv("IMAGE_PROVIDER", "unsplash").lower()
-BRAND = os.getenv("NEWS_BRAND", "BreakingNews").lstrip("#")
+BRAND = "InstaNews24"
 WEBSITE = os.getenv("NEWS_WEBSITE", "www.yourwebsite.com")
 
 SESSION = requests.Session()
