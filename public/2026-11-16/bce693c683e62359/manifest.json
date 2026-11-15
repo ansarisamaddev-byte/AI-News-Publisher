@@ -1,0 +1,73 @@
+{
+  "news_id": "bce693c683e62359",
+  "title": "Mohan Yadav Announces Crop Loss Survey and Financial Aid for Farmers",
+  "main_subject": {
+    "name": "Mohan Yadav",
+    "type": "person",
+    "image_search_query": "Mohan Yadav"
+  },
+  "category": "business",
+  "tags": [
+    "Mohan Yadav",
+    "Madhya Pradesh"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece",
+  "published_at": "2026-11-15T19:51:13+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Mohan Yadav Announces Crop Loss Survey and Financial Aid for",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Mohan Yadav"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Crop Loss Survey and Financial Aid",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "crop loss survey financial aid India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact on Farmers",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "impact on farmers India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

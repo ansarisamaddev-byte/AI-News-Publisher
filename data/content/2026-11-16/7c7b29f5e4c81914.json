@@ -1,67 +1,68 @@
 {
-    "news_id": "7c7b29f5e4c81914",
+  "news_id": "7c7b29f5e4c81914",
+  "country": "UKRAINE",
+  "main_subject": {
+    "name": "Zelensky",
+    "type": "person",
+    "image_search_query": "Zelensky"
+  },
+  "classification": {
     "country": "UKRAINE",
-    "main_subject": {
-        "name": "Zelensky",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "satellite internet",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Ukraine",
+    "tags": [
+      "Ukraine",
+      "Zelensky",
+      "Starlink",
+      "Russia",
+      "Ukraine's energy infrastructure"
+    ],
+    "classification_reason": "The article is centered around Ukrainian President Volodymyr Zelensky's efforts to lift restrictions on Starlink satellite internet service, which is crucial for Ukraine's defense and energy infrastructure.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Ukraine's President Urges US and Musk to Lift Starlink Restrictions",
+    "caption": "Ukraine's President Volodymyr Zelensky urges the US and SpaceX to lift restrictions on Starlink satellite internet service, which is crucial for Ukraine's defense and energy infrastructure.",
+    "hashtags": [
+      "#Zelensky",
+      "#Starlink",
+      "#Ukraine",
+      "#Russia",
+      "#UkraineEnergy"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Ukraine's President Urges US and Musk to Lift Starlink Restrictions",
+        "text": "Ukraine's President Volodymyr Zelensky urges the US and SpaceX to lift restrictions on Starlink satellite internet service, which is crucial for Ukraine's defense and energy infrastructure.",
         "image_search_query": "Zelensky"
-    },
-    "classification": {
-        "country": "UKRAINE",
-        "category": "technology",
-        "subcategory": "satellite internet",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Ukraine",
-        "tags": [
-            "Ukraine",
-            "Zelensky",
-            "Starlink",
-            "Russia",
-            "Ukraine's energy infrastructure"
-        ],
-        "classification_reason": "The article is centered around Ukrainian President Volodymyr Zelensky's efforts to lift restrictions on Starlink satellite internet service, which is crucial for Ukraine's defense and energy infrastructure.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Ukraine's President Urges US and Musk to Lift Starlink Restrictions",
-        "caption": "Ukraine's President Volodymyr Zelensky urges the US and SpaceX to lift restrictions on Starlink satellite internet service, which is crucial for Ukraine's defense and energy infrastructure.",
-        "hashtags": [
-            "#Zelensky",
-            "#Starlink",
-            "#Ukraine",
-            "#Russia",
-            "#UkraineEnergy"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Ukraine's President Urges US and Musk to Lift Starlink Restrictions",
-                "text": "Ukraine's President Volodymyr Zelensky urges the US and SpaceX to lift restrictions on Starlink satellite internet service, which is crucial for Ukraine's defense and energy infrastructure.",
-                "image_search_query": "Zelensky"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Ukraine's Defense and Energy Infrastructure",
-                "text": "Ukraine's Starlink satellite internet service is crucial for its defense and energy infrastructure, but restrictions are still in place, making it difficult to stop Russian attacks.",
-                "image_search_query": "Ukraine Starlink restrictions"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Why the Restrictions are Still in Place",
-                "text": "Zelensky has asked officials to work closely with the US government and SpaceX to lift restrictions on Starlink, which is crucial for Ukraine's defense and energy infrastructure.",
-                "image_search_query": "Zelensky SpaceX Starlink Ukraine"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-15T19:32:39+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Ukraine's Defense and Energy Infrastructure",
+        "text": "Ukraine's Starlink satellite internet service is crucial for its defense and energy infrastructure, but restrictions are still in place, making it difficult to stop Russian attacks.",
+        "image_search_query": "Ukraine Starlink restrictions"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Why the Restrictions are Still in Place",
+        "text": "Zelensky has asked officials to work closely with the US government and SpaceX to lift restrictions on Starlink, which is crucial for Ukraine's defense and energy infrastructure.",
+        "image_search_query": "Zelensky SpaceX Starlink Ukraine"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-15T19:32:39+00:00",
+  "image_done": true
 }

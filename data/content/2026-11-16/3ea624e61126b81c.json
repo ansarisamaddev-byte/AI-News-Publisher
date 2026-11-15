@@ -1,61 +1,62 @@
 {
-    "news_id": "3ea624e61126b81c",
+  "news_id": "3ea624e61126b81c",
+  "country": "US",
+  "main_subject": {
+    "name": "SNL",
+    "type": "event",
+    "image_search_query": "SNL"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "SNL",
-        "type": "event",
+    "category": "entertainment",
+    "subcategory": "Saturday Night Live",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "Saturday Night Live",
+      "SNL"
+    ],
+    "classification_reason": "The article is about a specific event (Saturday Night Live) and its impact on the tech industry.",
+    "selected_channels": [
+      "entertainment-news"
+    ]
+  },
+  "content": {
+    "title": "SNL Gathers All the Tech Tycoons for a Lesson in Dating and Spycraft",
+    "caption": "Saturday Night Live gathered all the tech tycoons for a lesson in dating and spycraft, showcasing their impressions and providing insights into the tech industry.",
+    "hashtags": [
+      "#SNL",
+      "#TechTycoons"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "SNL Gathers All the Tech Tycoons for a Lesson in",
+        "text": "Saturday Night Live gathered all the tech tycoons for a lesson in dating and spycraft, showcasing their impressions and providing insights into the tech industry.",
         "image_search_query": "SNL"
-    },
-    "classification": {
-        "country": "US",
-        "category": "entertainment",
-        "subcategory": "Saturday Night Live",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "Saturday Night Live",
-            "SNL"
-        ],
-        "classification_reason": "The article is about a specific event (Saturday Night Live) and its impact on the tech industry.",
-        "selected_channels": [
-            "entertainment-news"
-        ]
-    },
-    "content": {
-        "title": "SNL Gathers All the Tech Tycoons for a Lesson in Dating and Spycraft",
-        "caption": "Saturday Night Live gathered all the tech tycoons for a lesson in dating and spycraft, showcasing their impressions and providing insights into the tech industry.",
-        "hashtags": [
-            "#SNL",
-            "#TechTycoons"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "SNL Gathers All the Tech Tycoons for a Lesson in",
-                "text": "Saturday Night Live gathered all the tech tycoons for a lesson in dating and spycraft, showcasing their impressions and providing insights into the tech industry.",
-                "image_search_query": "SNL"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Impressions and Insights",
-                "text": "The tech tycoons' impressions and insights provided a glimpse into the tech industry.",
-                "image_search_query": "tech tycoons impressions United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Impact on the Tech Industry",
-                "text": "The tech tycoons' impressions and insights had implications for the tech industry.",
-                "image_search_query": "tech tycoons impact United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-    "published_at": "2026-11-15T20:20:57+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Impressions and Insights",
+        "text": "The tech tycoons' impressions and insights provided a glimpse into the tech industry.",
+        "image_search_query": "tech tycoons impressions United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Impact on the Tech Industry",
+        "text": "The tech tycoons' impressions and insights had implications for the tech industry.",
+        "image_search_query": "tech tycoons impact United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+  "published_at": "2026-11-15T20:20:57+00:00",
+  "image_done": true
 }

@@ -1,0 +1,74 @@
+{
+  "news_id": "9e09af32ba885800",
+  "title": "United Launch Alliance's First Mission Failure",
+  "main_subject": {
+    "name": "United Launch Alliance (ULA)",
+    "type": "company",
+    "image_search_query": "United Launch Alliance (ULA)"
+  },
+  "category": "technology",
+  "tags": [
+    "United Launch Alliance",
+    "Vulcan rocket",
+    "Amazon Leo satellites"
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+  "published_at": "2026-11-15T21:05:02+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "United Launch Alliance's First Mission Failure",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304790934.jpg?quality=90&strip=all&crop=0%2C12.589380284132%2C100%2C74.821239431736&w=1200",
+        "article_url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "United Launch Alliance (ULA)"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "The Launch",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304790934.jpg?quality=90&strip=all&crop=0%2C12.589380284132%2C100%2C74.821239431736&w=1200",
+        "article_url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Amazon Leo satellites United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "The Anomaly",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304790934.jpg?quality=90&strip=all&crop=0%2C12.589380284132%2C100%2C74.821239431736&w=1200",
+        "article_url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Vulcan rocket anomaly United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304790934.jpg?quality=90&strip=all&crop=0%2C12.589380284132%2C100%2C74.821239431736&w=1200",
+        "article_url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

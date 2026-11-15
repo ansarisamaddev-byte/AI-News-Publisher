@@ -1,0 +1,73 @@
+{
+  "news_id": "3ea624e61126b81c",
+  "title": "SNL Gathers All the Tech Tycoons for a Lesson in Dating and Spycraft",
+  "main_subject": {
+    "name": "SNL",
+    "type": "event",
+    "image_search_query": "SNL"
+  },
+  "category": "entertainment",
+  "tags": [
+    "Saturday Night Live",
+    "SNL"
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+  "published_at": "2026-11-15T20:20:57+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "SNL Gathers All the Tech Tycoons for a Lesson in",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525",
+        "article_url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "SNL"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Impressions and Insights",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525",
+        "article_url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "tech tycoons impressions United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact on the Tech Industry",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525",
+        "article_url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "tech tycoons impact United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525",
+        "article_url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "cinema film entertainment"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "news_id": "3862482ac6c7fbf1",
+  "title": "Eight injured after building collapse in Delhi’s Paharganj",
+  "main_subject": {
+    "name": "Delhi",
+    "type": "place",
+    "image_search_query": "Delhi"
+  },
+  "category": "technology",
+  "tags": [
+    "construction accident"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/Delhi/under-construction-building-collapse-central-delhi/article71704776.ece",
+  "published_at": "2026-11-15T20:14:35+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Eight injured after building collapse in Delhi’s Paharganj",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/Delhi/under-construction-building-collapse-central-delhi/article71704776.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Delhi"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Incident Details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/Delhi/under-construction-building-collapse-central-delhi/article71704776.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Delhi Paharganj collapse India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Injury Details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/Delhi/under-construction-building-collapse-central-delhi/article71704776.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Delhi Paharganj injuries India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/Delhi/under-construction-building-collapse-central-delhi/article71704776.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}
