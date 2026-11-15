@@ -1573,7 +1573,7 @@ def main(filename=None):
         files = [path]
     else:
         files = load_json_files()[-MAX_NEWS_PER_RUN:]
-        
+
     if not files:
         print("[INFO] No JSON files found")
         return
