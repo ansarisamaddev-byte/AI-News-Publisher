@@ -1,0 +1,74 @@
+{
+  "news_id": "5ff08b1ef3e37111",
+  "title": "Magic: The Gathering Gets a Netflix Animated Series",
+  "main_subject": {
+    "name": "Magic: The Gathering",
+    "type": "product",
+    "image_search_query": "Magic: The Gathering"
+  },
+  "category": "entertainment",
+  "tags": [
+    "Magic: The Gathering",
+    "Netflix",
+    "animated series"
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+  "published_at": "2026-11-14T19:47:40+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Magic: The Gathering Gets a Netflix Animated Series",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "article_url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Magic: The Gathering"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What's in the Series?",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "article_url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Magic: The Gathering animated series United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why It Matters",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "article_url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Magic: The Gathering animated series details United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "article_url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "cinema film entertainment"
+      }
+    }
+  ]
+}

@@ -1,65 +1,66 @@
 {
-    "news_id": "1e4c1fc5abc49ad2",
+  "news_id": "1e4c1fc5abc49ad2",
+  "country": "US",
+  "main_subject": {
+    "name": "US",
+    "type": "other",
+    "image_search_query": "US"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "US",
-        "type": "other",
+    "category": "technology",
+    "subcategory": "air traffic control",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "air traffic control",
+      "copper wire upgrade",
+      "ground stop",
+      "FAA",
+      "US government"
+    ],
+    "classification_reason": "The article is about a nationwide air traffic control issue in the US, including the cause of a ground stop and the government's investigation.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "US Air Traffic Control Ground Stop Caused by Copper Wire Upgrade",
+    "caption": "A nationwide US air traffic ground stop caused by a copper wire upgrade, with the US government investigating the cause.",
+    "hashtags": [
+      "#USAirTraffic",
+      "#CopperWireUpgrade",
+      "#GroundStop"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "US Air Traffic Control Ground Stop Caused by Copper Wire",
+        "text": "A nationwide US air traffic ground stop caused by a copper wire upgrade, with the US government investigating the cause.",
         "image_search_query": "US"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "air traffic control",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "air traffic control",
-            "copper wire upgrade",
-            "ground stop",
-            "FAA",
-            "US government"
-        ],
-        "classification_reason": "The article is about a nationwide air traffic control issue in the US, including the cause of a ground stop and the government's investigation.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "US Air Traffic Control Ground Stop Caused by Copper Wire Upgrade",
-        "caption": "A nationwide US air traffic ground stop caused by a copper wire upgrade, with the US government investigating the cause.",
-        "hashtags": [
-            "#USAirTraffic",
-            "#CopperWireUpgrade",
-            "#GroundStop"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "US Air Traffic Control Ground Stop Caused by Copper Wire",
-                "text": "A nationwide US air traffic ground stop caused by a copper wire upgrade, with the US government investigating the cause.",
-                "image_search_query": "US"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "What Happened",
-                "text": "A nationwide US air traffic ground stop caused by a copper wire upgrade.",
-                "image_search_query": "US air traffic control ground stop United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Why It Matters",
-                "text": "The US government is investigating the cause of the ground stop.",
-                "image_search_query": "US government investigation United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-14T19:12:25+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "What Happened",
+        "text": "A nationwide US air traffic ground stop caused by a copper wire upgrade.",
+        "image_search_query": "US air traffic control ground stop United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Why It Matters",
+        "text": "The US government is investigating the cause of the ground stop.",
+        "image_search_query": "US government investigation United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-14T19:12:25+00:00",
+  "image_done": true
 }

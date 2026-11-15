@@ -1,0 +1,74 @@
+{
+  "news_id": "a2f3a076eb475132",
+  "title": "BJP to stage protest against TVK’s Kallakurichi MLA",
+  "main_subject": {
+    "name": "BJP",
+    "type": "organization",
+    "image_search_query": "BJP"
+  },
+  "category": "politics",
+  "tags": [
+    "BJP",
+    "Tamil Nadu",
+    "government"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-to-stage-protest-over-allegations-of-tvk-mlas-inappropriate-messages-to-collector/article71701990.ece",
+  "published_at": "2026-11-14T19:27:56+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "BJP to stage protest against TVK’s Kallakurichi MLA",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/ueclas/article71702904.ece/alternates/LANDSCAPE_1200/KALLAKURICHI-MLA.JPG",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-to-stage-protest-over-allegations-of-tvk-mlas-inappropriate-messages-to-collector/article71701990.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "BJP"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Protest against TVK’s Kallakurichi MLA",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/ueclas/article71702904.ece/alternates/LANDSCAPE_1200/KALLAKURICHI-MLA.JPG",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-to-stage-protest-over-allegations-of-tvk-mlas-inappropriate-messages-to-collector/article71701990.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "BJP protest TVK MLA India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "BJP demands accountability",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/ueclas/article71702904.ece/alternates/LANDSCAPE_1200/KALLAKURICHI-MLA.JPG",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-to-stage-protest-over-allegations-of-tvk-mlas-inappropriate-messages-to-collector/article71701990.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "BJP demands accountability India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/ueclas/article71702904.ece/alternates/LANDSCAPE_1200/KALLAKURICHI-MLA.JPG",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-to-stage-protest-over-allegations-of-tvk-mlas-inappropriate-messages-to-collector/article71701990.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "parliament government building"
+      }
+    }
+  ]
+}

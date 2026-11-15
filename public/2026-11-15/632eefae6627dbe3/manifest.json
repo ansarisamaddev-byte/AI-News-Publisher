@@ -1,0 +1,74 @@
+{
+  "news_id": "632eefae6627dbe3",
+  "title": "Tambaram City Police Arrest 26 in Special Drive Against Ganja and Banned Tobacco Products",
+  "main_subject": {
+    "name": "Tambaram City Police",
+    "type": "organization",
+    "image_search_query": "Tambaram City Police"
+  },
+  "category": "politics",
+  "tags": [
+    "police enforcement",
+    "ganja",
+    "tobacco products"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/chennai/tambaram-city-police-arrest-26-in-special-drive-against-ganja-and-banned-tobacco-products/article71702639.ece",
+  "published_at": "2026-11-14T19:14:05+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Tambaram City Police Arrest 26 in Special Drive Against Ganja",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/tambaram-city-police-arrest-26-in-special-drive-against-ganja-and-banned-tobacco-products/article71702639.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Tambaram City Police"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Operation Details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/tambaram-city-police-arrest-26-in-special-drive-against-ganja-and-banned-tobacco-products/article71702639.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "89 special teams, 450 police personnel India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Arrested Persons",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/tambaram-city-police-arrest-26-in-special-drive-against-ganja-and-banned-tobacco-products/article71702639.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "26 persons, 20 remanded in judicial custody India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/tambaram-city-police-arrest-26-in-special-drive-against-ganja-and-banned-tobacco-products/article71702639.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "parliament government building"
+      }
+    }
+  ]
+}

@@ -1,63 +1,64 @@
 {
-    "news_id": "a2f3a076eb475132",
+  "news_id": "a2f3a076eb475132",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "BJP",
+    "type": "organization",
+    "image_search_query": "BJP"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "BJP",
-        "type": "organization",
+    "category": "politics",
+    "subcategory": "government",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Tamil Nadu",
+    "tags": [
+      "BJP",
+      "Tamil Nadu",
+      "government"
+    ],
+    "classification_reason": "The BJP is the main political party involved in the protest against TVK's MLA.",
+    "selected_channels": [
+      "politics-news"
+    ]
+  },
+  "content": {
+    "title": "BJP to stage protest against TVK’s Kallakurichi MLA",
+    "caption": "The BJP will hold a demonstration in Kallakurichi on November 18 against TVK’s Kallakurichi MLA Arul Vignesh.",
+    "hashtags": [
+      "#BJP",
+      "#Kallakurichi",
+      "#TVK"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "BJP to stage protest against TVK’s Kallakurichi MLA",
+        "text": "The BJP will hold a demonstration in Kallakurichi on November 18 against TVK’s Kallakurichi MLA Arul Vignesh.",
         "image_search_query": "BJP"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "politics",
-        "subcategory": "government",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Tamil Nadu",
-        "tags": [
-            "BJP",
-            "Tamil Nadu",
-            "government"
-        ],
-        "classification_reason": "The BJP is the main political party involved in the protest against TVK's MLA.",
-        "selected_channels": [
-            "politics-news"
-        ]
-    },
-    "content": {
-        "title": "BJP to stage protest against TVK’s Kallakurichi MLA",
-        "caption": "The BJP will hold a demonstration in Kallakurichi on November 18 against TVK’s Kallakurichi MLA Arul Vignesh.",
-        "hashtags": [
-            "#BJP",
-            "#Kallakurichi",
-            "#TVK"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "BJP to stage protest against TVK’s Kallakurichi MLA",
-                "text": "The BJP will hold a demonstration in Kallakurichi on November 18 against TVK’s Kallakurichi MLA Arul Vignesh.",
-                "image_search_query": "BJP"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Protest against TVK’s Kallakurichi MLA",
-                "text": "The BJP will stage a protest against TVK’s Kallakurichi MLA Arul Vignesh, who allegedly sent inappropriate messages to the Collector.",
-                "image_search_query": "BJP protest TVK MLA India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "BJP demands accountability",
-                "text": "The BJP demands accountability from the ruling government and a special court to ensure an effective investigation into the allegations.",
-                "image_search_query": "BJP demands accountability India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-to-stage-protest-over-allegations-of-tvk-mlas-inappropriate-messages-to-collector/article71701990.ece",
-    "published_at": "2026-11-14T19:27:56+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Protest against TVK’s Kallakurichi MLA",
+        "text": "The BJP will stage a protest against TVK’s Kallakurichi MLA Arul Vignesh, who allegedly sent inappropriate messages to the Collector.",
+        "image_search_query": "BJP protest TVK MLA India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "BJP demands accountability",
+        "text": "The BJP demands accountability from the ruling government and a special court to ensure an effective investigation into the allegations.",
+        "image_search_query": "BJP demands accountability India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-to-stage-protest-over-allegations-of-tvk-mlas-inappropriate-messages-to-collector/article71701990.ece",
+  "published_at": "2026-11-14T19:27:56+00:00",
+  "image_done": true
 }

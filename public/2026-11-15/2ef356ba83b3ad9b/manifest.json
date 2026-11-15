@@ -1,0 +1,74 @@
+{
+  "news_id": "2ef356ba83b3ad9b",
+  "title": "Police Intensify Investigation into Sexual Harassment Case Against TVK Functionary",
+  "main_subject": {
+    "name": "Karamadai union secretary Karupusamy",
+    "type": "person",
+    "image_search_query": "Karamadai union secretary Karupusamy"
+  },
+  "category": "politics",
+  "tags": [
+    "politics",
+    "sexual harassment",
+    "TVK"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/police-intensify-investigation-in-sexual-harassment-case-against-tvk-functionary/article71702411.ece",
+  "published_at": "2026-11-14T19:28:03+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Police Intensify Investigation into Sexual Harassment Case Against TVK Functionary",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/police-intensify-investigation-in-sexual-harassment-case-against-tvk-functionary/article71702411.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Karamadai union secretary Karupusamy"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Allegations Against Karupusamy",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/police-intensify-investigation-in-sexual-harassment-case-against-tvk-functionary/article71702411.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "allegations against Karupusamy India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Accused in the Case",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/police-intensify-investigation-in-sexual-harassment-case-against-tvk-functionary/article71702411.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "accused in the case India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/police-intensify-investigation-in-sexual-harassment-case-against-tvk-functionary/article71702411.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "parliament government building"
+      }
+    }
+  ]
+}

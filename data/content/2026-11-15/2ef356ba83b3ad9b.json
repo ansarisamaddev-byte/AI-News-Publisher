@@ -1,63 +1,64 @@
 {
-    "news_id": "2ef356ba83b3ad9b",
+  "news_id": "2ef356ba83b3ad9b",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Karamadai union secretary Karupusamy",
+    "type": "person",
+    "image_search_query": "Karamadai union secretary Karupusamy"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Karamadai union secretary Karupusamy",
-        "type": "person",
+    "category": "politics",
+    "subcategory": "sexual harassment",
+    "importance_score": 8,
+    "relevance_score": 8,
+    "region": "Coimbatore District",
+    "tags": [
+      "politics",
+      "sexual harassment",
+      "TVK"
+    ],
+    "classification_reason": "The article is primarily about the sexual harassment case against Karamadai union secretary Karupusamy, which is a significant political event.",
+    "selected_channels": [
+      "politics-news"
+    ]
+  },
+  "content": {
+    "title": "Police Intensify Investigation into Sexual Harassment Case Against TVK Functionary",
+    "caption": "The Coimbatore District Police have intensified their investigation into allegations of sexual harassment against Karamadai union secretary Karupusamy, a prominent TVK functionary.",
+    "hashtags": [
+      "#politics",
+      "#sexualharassment",
+      "#TVK"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Police Intensify Investigation into Sexual Harassment Case Against TVK Functionary",
+        "text": "The Coimbatore District Police have intensified their investigation into allegations of sexual harassment against Karamadai union secretary Karupusamy, a prominent TVK functionary.",
         "image_search_query": "Karamadai union secretary Karupusamy"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "politics",
-        "subcategory": "sexual harassment",
-        "importance_score": 8,
-        "relevance_score": 8,
-        "region": "Coimbatore District",
-        "tags": [
-            "politics",
-            "sexual harassment",
-            "TVK"
-        ],
-        "classification_reason": "The article is primarily about the sexual harassment case against Karamadai union secretary Karupusamy, which is a significant political event.",
-        "selected_channels": [
-            "politics-news"
-        ]
-    },
-    "content": {
-        "title": "Police Intensify Investigation into Sexual Harassment Case Against TVK Functionary",
-        "caption": "The Coimbatore District Police have intensified their investigation into allegations of sexual harassment against Karamadai union secretary Karupusamy, a prominent TVK functionary.",
-        "hashtags": [
-            "#politics",
-            "#sexualharassment",
-            "#TVK"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Police Intensify Investigation into Sexual Harassment Case Against TVK Functionary",
-                "text": "The Coimbatore District Police have intensified their investigation into allegations of sexual harassment against Karamadai union secretary Karupusamy, a prominent TVK functionary.",
-                "image_search_query": "Karamadai union secretary Karupusamy"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Allegations Against Karupusamy",
-                "text": "The complainant alleges that Karupusamy sexually harassed her in May this year, leading to her removal from her post.",
-                "image_search_query": "allegations against Karupusamy India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Accused in the Case",
-                "text": "The accused in the case include Karamadai union secretary Karupusamy, party worker Sabitha, and her husband Pandi.",
-                "image_search_query": "accused in the case India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/tamil-nadu/police-intensify-investigation-in-sexual-harassment-case-against-tvk-functionary/article71702411.ece",
-    "published_at": "2026-11-14T19:28:03+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Allegations Against Karupusamy",
+        "text": "The complainant alleges that Karupusamy sexually harassed her in May this year, leading to her removal from her post.",
+        "image_search_query": "allegations against Karupusamy India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Accused in the Case",
+        "text": "The accused in the case include Karamadai union secretary Karupusamy, party worker Sabitha, and her husband Pandi.",
+        "image_search_query": "accused in the case India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/police-intensify-investigation-in-sexual-harassment-case-against-tvk-functionary/article71702411.ece",
+  "published_at": "2026-11-14T19:28:03+00:00",
+  "image_done": true
 }
