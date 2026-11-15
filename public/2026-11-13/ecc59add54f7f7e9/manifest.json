@@ -1,0 +1,78 @@
+{
+  "news_id": "ecc59add54f7f7e9",
+  "title": "Oura Ring 4 on Sale for $249",
+  "main_subject": {
+    "name": "Oura Ring 4",
+    "type": "product",
+    "image_search_query": "Oura Ring 4"
+  },
+  "category": "technology",
+  "tags": [
+    "smart ring",
+    "health tracking",
+    "sensors",
+    "software"
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
+  "published_at": "2026-11-12T21:28:53+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Oura Ring 4 on Sale for $249",
+      "image": {
+        "provider": "generated",
+        "query": "Oura Ring 4",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Previous-Generation Oura Ring 4",
+      "image": {
+        "provider": "generated",
+        "query": "Previous-generation Oura Ring 4 United States",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Key Features",
+      "image": {
+        "provider": "generated",
+        "query": "Oura Ring 4 features United States",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Machot Gatluak Pathot Tuel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Learning_ICT_Computer_(34826).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Learning_ICT_Computer_%2834826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

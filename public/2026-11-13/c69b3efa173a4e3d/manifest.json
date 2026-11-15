@@ -1,0 +1,72 @@
+{
+  "news_id": "c69b3efa173a4e3d",
+  "title": "Microsoft Faces Widespread Outage Across Apps",
+  "main_subject": {
+    "name": "Microsoft",
+    "type": "company",
+    "image_search_query": "Microsoft"
+  },
+  "category": "technology",
+  "tags": [
+    "Microsoft outage"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/sci-tech/technology/internet/widespread-outage-hits-microsoft-apps/article71695400.ece",
+  "published_at": "2026-11-12T21:01:36+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Microsoft Faces Widespread Outage Across Apps",
+      "image": {
+        "provider": "generated",
+        "query": "Microsoft",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Outage Details",
+      "image": {
+        "provider": "generated",
+        "query": "Microsoft outage tracker United States",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Root Cause",
+      "image": {
+        "provider": "generated",
+        "query": "Microsoft outage root cause United States",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "modern technology computer digital",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

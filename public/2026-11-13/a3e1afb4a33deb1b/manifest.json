@@ -1,0 +1,75 @@
+{
+  "news_id": "a3e1afb4a33deb1b",
+  "title": "Google's New Gemini Model Improves Understanding of Complex Questions",
+  "main_subject": {
+    "name": "Google",
+    "type": "company",
+    "image_search_query": "Google"
+  },
+  "category": "technology",
+  "tags": [
+    "AI",
+    "Google Search",
+    "Search AI",
+    "AI Model"
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+  "published_at": "2026-11-12T21:55:32+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Google's New Gemini Model Improves Understanding of Complex Questions",
+      "image": {
+        "provider": "generated",
+        "query": "Google",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Improvements in Understanding",
+      "image": {
+        "provider": "generated",
+        "query": "Improvements in AI Model United States",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Features of the New Model",
+      "image": {
+        "provider": "generated",
+        "query": "Features of AI Model United States",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "modern technology computer digital",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

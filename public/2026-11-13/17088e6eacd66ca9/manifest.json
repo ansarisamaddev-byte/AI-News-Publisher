@@ -1,0 +1,86 @@
+{
+  "news_id": "17088e6eacd66ca9",
+  "title": "NASA's Chandra Finds Source of Star's Mysterious Outbursts",
+  "main_subject": {
+    "name": "NASA",
+    "type": "organization",
+    "image_search_query": "NASA"
+  },
+  "category": "science",
+  "tags": [
+    "astronomy",
+    "NASA",
+    "Chandra"
+  ],
+  "source": "Google News - Top Stories",
+  "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYXVkRmV3VzE1ajVXWUZxNDBad2FBQ2JsTTJhc2NiNWdEUWh3WHZibjZWWkM4cHlXWFBNU044MlktUnV6ckhNNGlfemg5MG5waHRoZERjTkdwdmpYNUp2d1c2a0o2LVBZczkxYzJ5Z0NWOTFZLWM4c3hPYzdCYTdiQUljT0R0c3BCLWhfaXRrdy1xWGg5eEVXZEwtU0k3bGVhd0F4RVhaUVotS2h4dDd5RV9fOFhXbGZ0YzhUR3F1UHo4TTFyaUVHQTQ1NEhSRzFKZ3ZXekVHTE52azEyUC00STVOZFBuakN3REpjUVpVSXdhYzI3dGcwaw?oc=5",
+  "published_at": "2026-11-12T21:00:00+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "NASA's Chandra Finds Source of Star's Mysterious Outbursts",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Neil Armstrong",
+        "license": "Public domain",
+        "license_url": "",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Buzz_Aldrin_and_Apollo_11_Lunar_Lander,_AS11-40-5927.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Buzz_Aldrin_and_Apollo_11_Lunar_Lander%2C_AS11-40-5927.jpg/1280px-Buzz_Aldrin_and_Apollo_11_Lunar_Lander%2C_AS11-40-5927.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "NASA",
+        "fallback_used": true,
+        "original_query": "NASA"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Relevant Context",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "SalehRokon",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bangladesh_Council_of_Scientific_and_Industrial_Research_Laboratory,_Rajshahi.JPG",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Bangladesh_Council_of_Scientific_and_Industrial_Research_Laboratory%2C_Rajshahi.JPG/1280px-Bangladesh_Council_of_Scientific_and_Industrial_Research_Laboratory%2C_Rajshahi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "scientific research laboratory",
+        "fallback_used": true,
+        "original_query": "faraway star, periodic outbursts, companion black hole United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Important Details",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Science and Technology Facilities Council",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rutherford_Appleton_Laboratory_(rutherford_appleton_lab).tiff",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Rutherford_Appleton_Laboratory_%28rutherford_appleton_lab%29.tiff/lossy-page1-960px-Rutherford_Appleton_Laboratory_%28rutherford_appleton_lab%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "scientific research laboratory",
+        "fallback_used": true,
+        "original_query": "compact companion, star AT 2016blu United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "SalehRokon",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bangladesh_Council_of_Scientific_and_Industrial_Research_Laboratory,_Rajshahi.JPG",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Bangladesh_Council_of_Scientific_and_Industrial_Research_Laboratory%2C_Rajshahi.JPG/1280px-Bangladesh_Council_of_Scientific_and_Industrial_Research_Laboratory%2C_Rajshahi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "scientific research laboratory",
+        "fallback_used": true,
+        "original_query": "scientific research laboratory"
+      }
+    }
+  ]
+}

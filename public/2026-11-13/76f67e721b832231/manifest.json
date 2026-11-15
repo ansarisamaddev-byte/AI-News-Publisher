@@ -1,0 +1,84 @@
+{
+  "news_id": "76f67e721b832231",
+  "title": "Houthi Targets East-West Pipeline and Yanbu Oil Facility",
+  "main_subject": {
+    "name": "Houthi",
+    "type": "person",
+    "image_search_query": "Houthi"
+  },
+  "category": "business",
+  "tags": [
+    "Houthi",
+    "East-West pipeline",
+    "Yanbu",
+    "Saudi Arabia"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/international/yemens-houthis-say-they-targeted-saudi-east-west-pipeline-port-city-of-yanbu/article71695404.ece",
+  "published_at": "2026-11-12T21:26:22+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Houthi Targets East-West Pipeline and Yanbu Oil Facility",
+      "image": {
+        "provider": "generated",
+        "query": "Houthi",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "No image found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Houthi Forces Targeted East-West Pipeline",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:121_King_Street_West,_Financial_District,_Toronto,_Ontario_(29708792600).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/121_King_Street_West%2C_Financial_District%2C_Toronto%2C_Ontario_%2829708792600%29.jpg/1280px-121_King_Street_West%2C_Financial_District%2C_Toronto%2C_Ontario_%2829708792600%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "Houthi forces attacking East-West pipeline Saudi Arabia"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Houthi Forces Targeted Yanbu Oil Facility",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Financial_District,_Toronto,_Ontario_(29375222104).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Financial_District%2C_Toronto%2C_Ontario_%2829375222104%29.jpg/1280px-Financial_District%2C_Toronto%2C_Ontario_%2829375222104%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "Houthi forces attacking Yanbu oil facility Saudi Arabia"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Wikimedia Commons",
+        "photographer": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Financial_District,_Toronto,_Ontario_(29919464191).jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Financial_District%2C_Toronto%2C_Ontario_%2829919464191%29.jpg/1280px-Financial_District%2C_Toronto%2C_Ontario_%2829919464191%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

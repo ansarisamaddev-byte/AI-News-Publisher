@@ -3,13 +3,9 @@ name: Publish Instagram Carousel
 
 on:
   schedule:
-    # 6 AM, 8 AM, 10 AM, 12 PM, 2 PM, 4 PM,
-    # 6 PM, 8 PM and 10 PM IST
-    - cron: "30 0-16/2 * * *"
-
-    # Additional run at 9 PM IST
-    - cron: "30 15 * * *"
-
+    # Every 2 hours (IST: 5:30 AM, 7:30 AM ... 11:30 PM)
+    - cron: "0 */2 * * *"
+    
   workflow_dispatch:
     inputs:
       news_id:
