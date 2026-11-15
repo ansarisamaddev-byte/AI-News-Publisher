@@ -1,0 +1,63 @@
+{
+    "news_id": "7a3c9ed270c19dd6",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Tamil Nadu",
+        "type": "place",
+        "image_search_query": "Tamil Nadu"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "science",
+        "subcategory": "weather",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Tamil Nadu, India",
+        "tags": [
+            "cyclones",
+            "coastal weather",
+            "monsoon"
+        ],
+        "classification_reason": "The article focuses on Tamil Nadu's weather trends during the Northeast monsoon, specifically mentioning cyclones crossing its coast.",
+        "selected_channels": [
+            "science-news"
+        ]
+    },
+    "content": {
+        "title": "Tamil Nadu Sees Fewer Cyclones Crossing Its Coast During Northeast Monsoon",
+        "caption": "Tamil Nadu has experienced relatively fewer cyclonic systems crossing its coast during the Northeast monsoon in the past 45 years.",
+        "hashtags": [
+            "#cyclones",
+            "#coastal_weather",
+            "#monsoon"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Tamil Nadu Sees Fewer Cyclones Crossing Its Coast During Northeast",
+                "text": "Tamil Nadu has experienced relatively fewer cyclonic systems crossing its coast during the Northeast monsoon in the past 45 years.",
+                "image_search_query": "Tamil Nadu"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Weather Trends",
+                "text": "The Bay of Bengal is churning its next cyclone for the season, but the current predictions indicate the possibility of less rainfall over Tamil Nadu.",
+                "image_search_query": "Bay of Bengal cyclone India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Past Weather Trends",
+                "text": "Senior meteorologists point out that only 22 of the 117 cyclonic systems that formed over the Bay of Bengal during October and November, between 1981 and 2025, made landfall along the State’s coast.",
+                "image_search_query": "Tamil Nadu cyclone India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/cities/chennai/past-weather-trends-show-fewer-cyclones-crossing-tamil-nadu-coast-during-northeast-monsoon/article71702043.ece",
+    "published_at": "2026-11-14T19:30:24+00:00"
+}

@@ -1,0 +1,63 @@
+{
+    "news_id": "1b040cce850aff6a",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Dhinakaran",
+        "type": "person",
+        "image_search_query": "Dhinakaran"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "business",
+        "subcategory": "politics",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Tamil Nadu",
+        "tags": [
+            "politics",
+            "inflation",
+            "Tamil Nadu"
+        ],
+        "classification_reason": "The article is about Dhinakaran's political stance on inflation in Tamil Nadu.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Dhinakaran Urges Tamil Nadu Govt to Control Inflation",
+        "caption": "Tamil Nadu's AMMK general secretary urges the TVK-led government to take measures to control price rise and inflation.",
+        "hashtags": [
+            "#Dhinakaran",
+            "#Inflation",
+            "#Tamil Nadu"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Dhinakaran Urges Tamil Nadu Govt to Control Inflation",
+                "text": "Tamil Nadu's AMMK general secretary urges the TVK-led government to take measures to control price rise and inflation.",
+                "image_search_query": "Dhinakaran"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Price Rise and Inflation in Tamil Nadu",
+                "text": "Tamil Nadu ranks first in India in price rise and inflation, with retail inflation at 7.29%.",
+                "image_search_query": "price rise Tamil Nadu India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Efforts to Control Inflation",
+                "text": "Dhinakaran demands the government to abandon false propaganda and take constructive measures to control price rise and inflation.",
+                "image_search_query": "Dhinakaran control inflation India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/tamil-nadu/take-necessary-steps-to-control-inflation-dhinakaran-tells-tn-govt/article71701530.ece",
+    "published_at": "2026-11-14T19:24:31+00:00"
+}

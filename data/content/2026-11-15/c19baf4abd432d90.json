@@ -1,0 +1,63 @@
+{
+    "news_id": "c19baf4abd432d90",
+    "country": "US",
+    "main_subject": {
+        "name": "BioUrja Renewables",
+        "type": "company",
+        "image_search_query": "BioUrja Renewables"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "ethanol production",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Illinois",
+        "tags": [
+            "ethanol production",
+            "bomb threat",
+            "evacuation"
+        ],
+        "classification_reason": "The company BioUrja Renewables is the central subject of the article, dealing with a bomb threat and evacuation order.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "BioUrja Renewables Evacuation Order Lifted After Bomb Disposal",
+        "caption": "BioUrja Renewables, an ethanol production plant, was evacuated after a bomb threat was found. The evacuation was lifted after explosives were rendered safe.",
+        "hashtags": [
+            "#BioUrjaRenewables",
+            "#EthanolProduction",
+            "#EvacuationOrder"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "BioUrja Renewables Evacuation Order Lifted After Bomb Disposal",
+                "text": "BioUrja Renewables, an ethanol production plant, was evacuated after a bomb threat was found. The evacuation was lifted after explosives were rendered safe.",
+                "image_search_query": "BioUrja Renewables"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Bomb Threat at BioUrja Renewables",
+                "text": "A bomb threat was found at BioUrja Renewables, an ethanol production plant in Peoria, Illinois. The evacuation order was implemented to ensure public safety.",
+                "image_search_query": "bomb threat at BioUrja Renewables United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Evacuation Order Lifted",
+                "text": "After explosives were rendered safe, the evacuation order was lifted. The plant was reopened and residents were allowed to return to their homes.",
+                "image_search_query": "BioUrja Renewables lifted evacuation order United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Guardian",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+    "published_at": "2026-11-14T20:14:27+00:00"
+}

@@ -1,0 +1,61 @@
+{
+    "news_id": "2af8a1817054ab64",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Telangana Pollution Control Board (TGPCB)",
+        "type": "organization",
+        "image_search_query": "Telangana Pollution Control Board (TGPCB)"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "technology",
+        "subcategory": "environmental regulations",
+        "importance_score": 1,
+        "relevance_score": 1,
+        "region": "Telangana, India",
+        "tags": [
+            "environmental regulations",
+            "construction"
+        ],
+        "classification_reason": "The article is about the Telangana Pollution Control Board's actions in response to complaints about construction-related dust emissions.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Telangana Pollution Control Board Recommends Closures and Forfeitures Over Dusty Construction",
+        "caption": "The Telangana Pollution Control Board (TGPCB) has recommended closure orders and forfeiture of bank guarantees for construction projects due to dust emissions.",
+        "hashtags": [
+            "#TelanganaPollutionControlBoard",
+            "#DustyConstruction"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Telangana Pollution Control Board Recommends Closures and Forfeitures Over Dusty",
+                "text": "The Telangana Pollution Control Board (TGPCB) has recommended closure orders and forfeiture of bank guarantees for construction projects due to dust emissions.",
+                "image_search_query": "Telangana Pollution Control Board (TGPCB)"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Complaints and Task Force",
+                "text": "The Telangana Pollution Control Board received complaints about air pollution caused by dust emissions from construction projects in Tellapur and Kollur areas of Sangareddy district.",
+                "image_search_query": "Tellapur Kollur construction projects India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Task Force Recommendations",
+                "text": "The Task Force recommended closure orders against projects with serious violations and forfeiture of bank guarantees for minor violations.",
+                "image_search_query": "Task Force Recommendations India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/telangana/tgpcb-recommends-closures-forfeitures-over-dusty-construction/article71702047.ece",
+    "published_at": "2026-11-14T20:41:50+00:00"
+}

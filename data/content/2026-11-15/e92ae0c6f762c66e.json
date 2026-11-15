@@ -1,0 +1,63 @@
+{
+    "news_id": "e92ae0c6f762c66e",
+    "country": "US",
+    "main_subject": {
+        "name": "Will Depue",
+        "type": "person",
+        "image_search_query": "Will Depue"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "astronomy",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Florida",
+        "tags": [
+            "astronomy",
+            "deputy",
+            "NASA"
+        ],
+        "classification_reason": "Will Depue is the main subject of the article, focusing on his claims about dwarf-planet candidates found by Claude agents in public NASA data.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Will Depue Claims Claude Agents Found Dwarf-Planet Candidates in Public NASA Data",
+        "caption": "Will Depue, a deputy in the US government, claims that Claude agents found dwarf-planet candidates in public NASA data and is funding the next wave with $100,000 grants.",
+        "hashtags": [
+            "#WillDepue",
+            "#ClaudeAgents",
+            "#DwarfPlanetCandidates"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Will Depue Claims Claude Agents Found Dwarf-Planet Candidates in Public",
+                "text": "Will Depue, a deputy in the US government, claims that Claude agents found dwarf-planet candidates in public NASA data and is funding the next wave with $100,000 grants.",
+                "image_search_query": "Will Depue"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Claude Agents Found Dwarf-Planet Candidates",
+                "text": "Claude agents, a team of astronomers, found dwarf-planet candidates in public NASA data.",
+                "image_search_query": "Claude agents dwarf-planet candidates NASA United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Will Depue Funding Grants",
+                "text": "Will Depue is funding the next wave with $100,000 grants.",
+                "image_search_query": "Will Depue funding grants United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Science",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TTWxKZWU0YzFSUzBvczhKZEFweGF0TkZFc2RsWWJvUmxoM041ajc1QkM0allQM0VsYU54TmxZdktyN0xNbEFrNTFZblpGVDlRRXJUc2MxT3JlZmM?oc=5",
+    "published_at": "2026-11-14T20:08:00+00:00"
+}
