@@ -1,0 +1,73 @@
+{
+  "news_id": "ae089956d8e33db2",
+  "title": "New York City Construction Collapse Kills at Least 8, Injures 18",
+  "main_subject": {
+    "name": "New York City",
+    "type": "place",
+    "image_search_query": "New York City"
+  },
+  "category": "business",
+  "tags": [
+    "New York City",
+    "construction collapse"
+  ],
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
+  "published_at": "2026-11-12T21:59:21+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "New York City Construction Collapse Kills at Least 8, Injures",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/562b2b4dff5844c3569b043ff61b5e5ad345218f/509_71_4109_3287/master/4109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=215462ef1997be86d30ce3ba772efbe9",
+        "article_url": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "New York City"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Rescue Efforts",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/562b2b4dff5844c3569b043ff61b5e5ad345218f/509_71_4109_3287/master/4109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=215462ef1997be86d30ce3ba772efbe9",
+        "article_url": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "rescue crews searching rubble United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Incident Details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/562b2b4dff5844c3569b043ff61b5e5ad345218f/509_71_4109_3287/master/4109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=215462ef1997be86d30ce3ba772efbe9",
+        "article_url": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "collapsed building details United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/562b2b4dff5844c3569b043ff61b5e5ad345218f/509_71_4109_3287/master/4109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=215462ef1997be86d30ce3ba772efbe9",
+        "article_url": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

@@ -10,7 +10,8 @@ import requests
 from io import BytesIO
 from pathlib import Path
 from datetime import datetime
-from urllib.parse import urlparse, parse_qsl, urlencode, urlunparse
+from urllib.parse import urlparse, parse_qsl, urlencode, urlunparse, urljoin
+from html.parser import HTMLParser
 from PIL import Image, ImageDraw, ImageFont, ImageEnhance, ImageOps, ImageFilter
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -658,6 +659,78 @@ def download_image(info):
         print(f"[IMAGE] Download failed: {exc}")
         return None
 
+
+class ArticleImageParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.image_urls = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag.lower() != "meta":
+            return
+
+        attrs = dict(attrs)
+        key = (attrs.get("property") or attrs.get("name") or "").lower()
+        value = clean_text(attrs.get("content", ""))
+
+        if value and key in {
+            "og:image",
+            "og:image:secure_url",
+            "twitter:image",
+            "twitter:image:src"
+        }:
+            self.image_urls.append(value)
+
+def get_article_image(article_url):
+    if not article_url:
+        print("[ARTICLE IMAGE] Article URL missing")
+        return None
+
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/120.0.0.0 Safari/537.36"
+        ),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    }
+
+    try:
+        response = requests.get(article_url, headers=headers, timeout=TIMEOUT)
+        response.raise_for_status()
+
+        parser = ArticleImageParser()
+        parser.feed(response.text)
+
+        if not parser.image_urls:
+            print("[ARTICLE IMAGE] No og:image/twitter:image metadata found")
+            return None
+
+        for raw_url in parser.image_urls:
+            image_url = urljoin(response.url, raw_url)
+            info = {
+                "provider": "Original Article",
+                "image_url": image_url,
+                "article_url": article_url,
+                "query": "article featured image",
+                "fallback_used": False
+            }
+            image = download_image(info)
+
+            if image is not None:
+                print(f"[ARTICLE IMAGE] Selected: {image_url}")
+                return image, info
+
+        print("[ARTICLE IMAGE] Metadata images could not be downloaded or validated")
+        return None
+
+    except requests.RequestException as exc:
+        print(f"[ARTICLE IMAGE] Article request failed: {exc}")
+        return None
+    except Exception as exc:
+        print(f"[ARTICLE IMAGE] Extraction failed: {exc}")
+        return None
+
 # =========================================================
 # LOCAL CATEGORY IMAGE FALLBACK
 # =========================================================
@@ -743,24 +816,22 @@ def pick_default_local_image(category=None, tags=None):
 def get_image(query, category=None, tags=None, data=None, slide=None):
     category = clean_text(category).lower()
     theme = THEMES.get(category, DEFAULT_THEME)
-
-    provider = os.getenv(
-        f"IMAGE_PROVIDER_{category.upper()}",
-        DEFAULT_PROVIDER
-    ).lower()
-
     data = data or {}
-    tags = tags or get_story_tags(data)
 
-    # 1. Match a local entity folder using AI tags.
-    local_result = search_local_entity_image(data, slide, query)
+    # 1. Try the original article's featured image first.
+    article_url = (
+        data.get("url")
+        or data.get("article_url")
+        or data.get("source_url")
+    )
+    article_result = get_article_image(article_url)
 
-    if local_result:
-        image, info = local_result
+    if article_result:
+        image, info = article_result
         info["original_query"] = query
         return image, info
 
-    # 2. Search internet providers.
+    # 2. If the article image is unavailable, search Unsplash.
     if slide and slide.get("_is_cover") and get_main_subject(data):
         queries = [get_main_subject(data)["name"]]
     else:
@@ -772,77 +843,39 @@ def get_image(query, category=None, tags=None, data=None, slide=None):
 
     unique_queries = []
 
-    for q in queries:
-        if q and q.lower() not in [item.lower() for item in unique_queries]:
-            unique_queries.append(q)
+    for search_query in queries:
+        if search_query and search_query.lower() not in [
+            item.lower() for item in unique_queries
+        ]:
+            unique_queries.append(search_query)
 
     for index, search_query in enumerate(unique_queries, start=1):
         print(
-            f"\n[IMAGE] Internet search "
+            f"\n[IMAGE] Unsplash search "
             f"{index}/{len(unique_queries)}: {search_query}"
         )
 
-        if provider == "unsplash":
-            info = search_unsplash(search_query)
-
-            if info:
-                image = download_image(info)
-
-                if image is not None:
-                    info["fallback_used"] = index > 1
-                    info["original_query"] = query
-                    print("[IMAGE] Selected: Unsplash")
-                    return image, info
-
-        else:
-            print(
-                f"[IMAGE] Unsupported provider '{provider}', "
-                "trying Wikimedia"
-            )
-
-        print(f"[IMAGE] Trying Wikimedia Commons: {search_query}")
-
-        info = search_wikimedia(search_query)
+        info = search_unsplash(search_query)
 
         if info:
             image = download_image(info)
 
             if image is not None:
-                info["fallback_used"] = True
+                info["fallback_used"] = index > 1
                 info["original_query"] = query
-                print("[IMAGE] Selected: Wikimedia Commons")
+                print("[IMAGE] Selected: Unsplash")
                 return image, info
 
-    # 3. Search local category/default folders.
-    fallback_path = pick_default_local_image(category, tags)
-
-    if fallback_path:
-        try:
-            local_image = ImageOps.exif_transpose(
-                Image.open(fallback_path)
-            ).convert("RGB")
-
-            return local_image, {
-                "provider": "local-default",
-                "query": query,
-                "fallback_query": theme["fallback"],
-                "source_path": fallback_path,
-                "fallback_used": True,
-                "local_default": True
-            }
-
-        except Exception as exc:
-            print(f"[IMAGE] Local default image failed: {exc}")
-
-    # 4. Final fallback: generated background.
-    print("[IMAGE] No image found. Using generated background.")
+    # No other image sources are checked. Keep the existing generated
+    # background behavior if both the article image and Unsplash fail.
+    print("[IMAGE] Article image and Unsplash unavailable. Using generated background.")
 
     return None, {
         "provider": "generated",
         "query": query,
         "fallback_query": theme["fallback"],
         "fallback_used": True,
-        "error": "No image found"
+        "error": "Article image and Unsplash image not found"
     }
 
 # =========================================================
@@ -1540,6 +1573,8 @@ def main(filename=None):
         files = [path]
     else:
         files = load_json_files()[-MAX_NEWS_PER_RUN:]
+        
+    print(files)
 
     if not files:
         print("[INFO] No JSON files found")
@@ -1550,8 +1585,7 @@ def main(filename=None):
 
     print("\n========== NEWS IMAGE GENERATOR ==========")
     print(f"Provider: {DEFAULT_PROVIDER}")
-    print("Image priority: Local Entity Images → Unsplash → Wikimedia → Local Default → Generated")
-    print(f"Local image directory: {IMAGE_ROOT}")
+    print("Image priority: Original Article Image → Unsplash → Generated Background")
     print(f"Minimum font size: {MIN_FONT_SIZE}px")
     print(f"Output: {PUBLIC_DIR}")
     print(f"Size: {WIDTH}x{HEIGHT}")
