@@ -1,0 +1,62 @@
+{
+    "news_id": "c9598b6b15bcb08d",
+    "country": "UK",
+    "main_subject": {
+        "name": "Ivor Richard",
+        "type": "person",
+        "image_search_query": "Ivor Richard"
+    },
+    "classification": {
+        "country": "UK",
+        "category": "business",
+        "subcategory": "international relations",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Europe",
+        "tags": [
+            "negotiator",
+            "international relations"
+        ],
+        "classification_reason": "Ivor Richard was a British diplomat involved in the negotiations for Rhodesia's transition to majority rule.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Ivor Richard: British Negotiator in Rhodesia Independence Talks",
+        "caption": "British diplomat Ivor Richard proposed a new compromise timetable for Rhodesia's transition to majority rule.",
+        "hashtags": [
+            "#IvorRichard",
+            "#Negotiator",
+            "#RhodesiaIndependence"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Ivor Richard: British Negotiator in Rhodesia Independence Talks",
+                "text": "British diplomat Ivor Richard proposed a new compromise timetable for Rhodesia's transition to majority rule.",
+                "image_search_query": "Ivor Richard"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Negotiator in Rhodesia Independence Talks",
+                "text": "Ivor Richard was a key figure in the negotiations for Rhodesia's transition to majority rule.",
+                "image_search_query": "negotiator in Rhodesia independence talks United Kingdom"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Proposed Compromise Timetable",
+                "text": "Richard proposed a new compromise timetable for Rhodesia's transition to majority rule.",
+                "image_search_query": "compromise timetable for Rhodesia independence United Kingdom"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/archives/from-the-hindu-archives-november-16-1976-uk-compromise-date-on-rhodesia-independence/article71705575.ece",
+    "published_at": "2026-11-15T20:24:11+00:00"
+}

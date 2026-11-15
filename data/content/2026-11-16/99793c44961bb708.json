@@ -1,0 +1,63 @@
+{
+    "news_id": "99793c44961bb708",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Bilkis Bano",
+        "type": "person",
+        "image_search_query": "Bilkis Bano"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "business",
+        "subcategory": "human rights",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Kerala",
+        "tags": [
+            "Gujarat riots survivor",
+            "icon of resilience",
+            "legal battle for justice"
+        ],
+        "classification_reason": "The article focuses on Bilkis Bano's life story, legal struggles, and her role as an icon of resilience in the face of injustice.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Bilkis Bano: Icon of Resilience in the Face of Injustice",
+        "caption": "Bilkis Bano, a survivor of the 2002 Gujarat riots, has emerged as an icon of resilience in the fight for justice.",
+        "hashtags": [
+            "#BilkisBano",
+            "#GujaratRiots",
+            "#IconofResilience"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Bilkis Bano: Icon of Resilience in the Face of Injustice",
+                "text": "Bilkis Bano, a survivor of the 2002 Gujarat riots, has emerged as an icon of resilience in the fight for justice.",
+                "image_search_query": "Bilkis Bano"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Life Story",
+                "text": "Bilkis Bano's life story includes being gang-raped and losing seven members of her family, including her three-year-old daughter, in the 2002 Gujarat riots.",
+                "image_search_query": "Bilkis Bano life story India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Legal Battle for Justice",
+                "text": "Bilkis Bano's prolonged legal battle for justice has inspired women worldwide, and her husband, Patel Yakub Rasool, recounted the long and arduous struggle for justice she had to wage.",
+                "image_search_query": "Bilkis Bano legal battle India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/kerala/my-entire-life-has-been-a-struggle-says-bilkis-bano-at-gio-conference-in-kochi/article71704988.ece",
+    "published_at": "2026-11-15T20:01:03+00:00"
+}

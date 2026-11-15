@@ -1,0 +1,69 @@
+{
+    "news_id": "bac037dc054d17a0",
+    "country": "US",
+    "main_subject": {
+        "name": "Apple",
+        "type": "company",
+        "image_search_query": "Apple"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "smart devices",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US",
+        "tags": [
+            "Apple",
+            "smart glasses",
+            "Wi-Fi",
+            "Siri",
+            "iPhone",
+            "visionOS"
+        ],
+        "classification_reason": "The article is primarily about Apple's first smart glasses and their features.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Apple's First Smart Glasses to Feature Wi-Fi and a Tic Tac-sized Charger",
+        "caption": "Apple is set to launch its first smart glasses, equipped with Wi-Fi connectivity and a Tic Tac-sized charger.",
+        "hashtags": [
+            "#Apple",
+            "#smartglasses",
+            "#Wi-Fi",
+            "#TicTac",
+            "#Siri",
+            "#iPhone"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Apple's First Smart Glasses to Feature Wi-Fi and a Tic",
+                "text": "Apple is set to launch its first smart glasses, equipped with Wi-Fi connectivity and a Tic Tac-sized charger.",
+                "image_search_query": "Apple"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Launch Date",
+                "text": "Apple targets a 2027 launch for its smart glasses.",
+                "image_search_query": "Apple 2027 launch United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Features",
+                "text": "The smart glasses will feature Wi-Fi connectivity and a Tic Tac-sized charger.",
+                "image_search_query": "Apple smart glasses features United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Technology",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU3RiVHQxV1ZKSkg0WDV4MVhya0dHS0k1OVdwbm14ZXNmVHdTR3QtNjZtS2dsY3VzUVZ1SHJxbVowU0ZXQzc1dmVjcHdNN2x2MUJxY1JQT3g5OUJPT2ZCOGxPamxSbElLSVFrc3pzZFlMMmxVMzBUNEIwU3FrSFhyYnR1SFVWRm53aHVRYlhRdm9RU1Uyb2xoendJVkxheFZ2MFBRNWIzWXE0QQ?oc=5",
+    "published_at": "2026-11-15T19:44:12+00:00"
+}
