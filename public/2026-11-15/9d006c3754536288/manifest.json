@@ -1,0 +1,72 @@
+{
+  "news_id": "9d006c3754536288",
+  "title": "Traffic restrictions and diversions in Banjara Hills",
+  "main_subject": {
+    "name": "Banjara Hills",
+    "type": "place",
+    "image_search_query": "Banjara Hills"
+  },
+  "category": "technology",
+  "tags": [
+    "Banjara Hills"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/telangana/traffic-diversions-for-steel-flyover-construction-in-banjara-hills/article71702037.ece",
+  "published_at": "2026-11-14T20:36:07+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Traffic restrictions and diversions in Banjara Hills",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/national/telangana/traffic-diversions-for-steel-flyover-construction-in-banjara-hills/article71702037.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Banjara Hills"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Construction of Steel Flyover",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/national/telangana/traffic-diversions-for-steel-flyover-construction-in-banjara-hills/article71702037.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Steel Flyover Construction India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Traffic Restrictions",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/national/telangana/traffic-diversions-for-steel-flyover-construction-in-banjara-hills/article71702037.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Traffic Restrictions Banjara Hills India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/national/telangana/traffic-diversions-for-steel-flyover-construction-in-banjara-hills/article71702037.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

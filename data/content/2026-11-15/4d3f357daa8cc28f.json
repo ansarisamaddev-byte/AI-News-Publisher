@@ -1,65 +1,66 @@
 {
-    "news_id": "4d3f357daa8cc28f",
+  "news_id": "4d3f357daa8cc28f",
+  "country": "UKRAINE",
+  "main_subject": {
+    "name": "Zelensky",
+    "type": "person",
+    "image_search_query": "Zelensky"
+  },
+  "classification": {
     "country": "UKRAINE",
-    "main_subject": {
-        "name": "Zelensky",
-        "type": "person",
+    "category": "politics",
+    "subcategory": "war and peace",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Donbas",
+    "tags": [
+      "Zelensky",
+      "Donbas",
+      "Nato",
+      "Ukraine"
+    ],
+    "classification_reason": "The article focuses on Zelensky's comments about Ukraine's withdrawal from Donbas for Nato membership, which is a significant political development in the ongoing war between Ukraine and Russia.",
+    "selected_channels": [
+      "politics-news"
+    ]
+  },
+  "content": {
+    "title": "Zelensky Proposes Ukraine Withdrawal from Donbas for Nato Membership",
+    "caption": "Ukrainian President Volodymyr Zelensky has proposed Ukraine's withdrawal from the eastern Donbas region in exchange for Nato membership. The proposal follows recent meetings between US envoys and Ukrainian President Zelensky and Russian President Putin.",
+    "hashtags": [
+      "#Zelensky",
+      "#Donbas",
+      "#Nato",
+      "#Ukraine"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Zelensky Proposes Ukraine Withdrawal from Donbas for Nato Membership",
+        "text": "Ukrainian President Volodymyr Zelensky has proposed Ukraine's withdrawal from the eastern Donbas region in exchange for Nato membership. The proposal follows recent meetings between US envoys and Ukrainian President Zelensky and Russian President Putin.",
         "image_search_query": "Zelensky"
-    },
-    "classification": {
-        "country": "UKRAINE",
-        "category": "politics",
-        "subcategory": "war and peace",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Donbas",
-        "tags": [
-            "Zelensky",
-            "Donbas",
-            "Nato",
-            "Ukraine"
-        ],
-        "classification_reason": "The article focuses on Zelensky's comments about Ukraine's withdrawal from Donbas for Nato membership, which is a significant political development in the ongoing war between Ukraine and Russia.",
-        "selected_channels": [
-            "politics-news"
-        ]
-    },
-    "content": {
-        "title": "Zelensky Proposes Ukraine Withdrawal from Donbas for Nato Membership",
-        "caption": "Ukrainian President Volodymyr Zelensky has proposed Ukraine's withdrawal from the eastern Donbas region in exchange for Nato membership. The proposal follows recent meetings between US envoys and Ukrainian President Zelensky and Russian President Putin.",
-        "hashtags": [
-            "#Zelensky",
-            "#Donbas",
-            "#Nato",
-            "#Ukraine"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Zelensky Proposes Ukraine Withdrawal from Donbas for Nato Membership",
-                "text": "Ukrainian President Volodymyr Zelensky has proposed Ukraine's withdrawal from the eastern Donbas region in exchange for Nato membership. The proposal follows recent meetings between US envoys and Ukrainian President Zelensky and Russian President Putin.",
-                "image_search_query": "Zelensky"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Recent Meetings and Proposals",
-                "text": "Zelensky's proposal comes after recent meetings between US envoys and Ukrainian President Zelensky and Russian President Putin. These meetings were part of US efforts to end the war between Ukraine and Russia.",
-                "image_search_query": "US envoys, Zelensky, Donbas, Nato, Ukraine"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Proposed Withdrawal and Nato Membership",
-                "text": "Zelensky has proposed that Ukraine withdraw from the eastern Donbas region in exchange for Nato membership. This proposal follows recent meetings between US envoys and Ukrainian President Zelensky and Russian President Putin.",
-                "image_search_query": "Zelensky, Donbas, Nato, Ukraine"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-14T20:41:45+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Recent Meetings and Proposals",
+        "text": "Zelensky's proposal comes after recent meetings between US envoys and Ukrainian President Zelensky and Russian President Putin. These meetings were part of US efforts to end the war between Ukraine and Russia.",
+        "image_search_query": "US envoys, Zelensky, Donbas, Nato, Ukraine"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Proposed Withdrawal and Nato Membership",
+        "text": "Zelensky has proposed that Ukraine withdraw from the eastern Donbas region in exchange for Nato membership. This proposal follows recent meetings between US envoys and Ukrainian President Zelensky and Russian President Putin.",
+        "image_search_query": "Zelensky, Donbas, Nato, Ukraine"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-14T20:41:45+00:00",
+  "image_done": true
 }

@@ -1,0 +1,74 @@
+{
+  "news_id": "1b040cce850aff6a",
+  "title": "Dhinakaran Urges Tamil Nadu Govt to Control Inflation",
+  "main_subject": {
+    "name": "Dhinakaran",
+    "type": "person",
+    "image_search_query": "Dhinakaran"
+  },
+  "category": "business",
+  "tags": [
+    "politics",
+    "inflation",
+    "Tamil Nadu"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/take-necessary-steps-to-control-inflation-dhinakaran-tells-tn-govt/article71701530.ece",
+  "published_at": "2026-11-14T19:24:31+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Dhinakaran Urges Tamil Nadu Govt to Control Inflation",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/hgs786/article71702912.ece/alternates/LANDSCAPE_1200/9871_26_12_2025_20_27_43_4_DSC_0204.JPG",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/take-necessary-steps-to-control-inflation-dhinakaran-tells-tn-govt/article71701530.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Dhinakaran"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Price Rise and Inflation in Tamil Nadu",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/hgs786/article71702912.ece/alternates/LANDSCAPE_1200/9871_26_12_2025_20_27_43_4_DSC_0204.JPG",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/take-necessary-steps-to-control-inflation-dhinakaran-tells-tn-govt/article71701530.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "price rise Tamil Nadu India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Efforts to Control Inflation",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/hgs786/article71702912.ece/alternates/LANDSCAPE_1200/9871_26_12_2025_20_27_43_4_DSC_0204.JPG",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/take-necessary-steps-to-control-inflation-dhinakaran-tells-tn-govt/article71701530.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Dhinakaran control inflation India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/hgs786/article71702912.ece/alternates/LANDSCAPE_1200/9871_26_12_2025_20_27_43_4_DSC_0204.JPG",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/take-necessary-steps-to-control-inflation-dhinakaran-tells-tn-govt/article71701530.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

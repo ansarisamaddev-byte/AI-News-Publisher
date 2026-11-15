@@ -1,64 +1,65 @@
 {
-    "news_id": "2cab796ce2dfe1a0",
+  "news_id": "2cab796ce2dfe1a0",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Shriram Nene",
+    "type": "person",
+    "image_search_query": "Shriram Nene"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Shriram Nene",
-        "type": "person",
+    "category": "business",
+    "subcategory": "healthcare",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Chennai",
+    "tags": [
+      "healthcare",
+      "wellbeing",
+      "youth",
+      "innovation"
+    ],
+    "classification_reason": "The article is about a healthcare surgeon and his views on youth wellbeing and preventive healthcare.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Shriram Nene Discusses Importance of Youth Wellbeing and Preventive Healthcare",
+    "caption": "Shriram Nene, a cardiothoracic surgeon and healthcare innovator, emphasizes the need for healthy habits and preventive healthcare from an early age.",
+    "hashtags": [
+      "#ShriramNene",
+      "#HealthcareInnovation",
+      "#YouthWellbeing"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Shriram Nene Discusses Importance of Youth Wellbeing and Preventive Healthcare",
+        "text": "Shriram Nene, a cardiothoracic surgeon and healthcare innovator, emphasizes the need for healthy habits and preventive healthcare from an early age.",
         "image_search_query": "Shriram Nene"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "business",
-        "subcategory": "healthcare",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Chennai",
-        "tags": [
-            "healthcare",
-            "wellbeing",
-            "youth",
-            "innovation"
-        ],
-        "classification_reason": "The article is about a healthcare surgeon and his views on youth wellbeing and preventive healthcare.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Shriram Nene Discusses Importance of Youth Wellbeing and Preventive Healthcare",
-        "caption": "Shriram Nene, a cardiothoracic surgeon and healthcare innovator, emphasizes the need for healthy habits and preventive healthcare from an early age.",
-        "hashtags": [
-            "#ShriramNene",
-            "#HealthcareInnovation",
-            "#YouthWellbeing"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Shriram Nene Discusses Importance of Youth Wellbeing and Preventive Healthcare",
-                "text": "Shriram Nene, a cardiothoracic surgeon and healthcare innovator, emphasizes the need for healthy habits and preventive healthcare from an early age.",
-                "image_search_query": "Shriram Nene"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Preventive Healthcare and Emotional Wellbeing",
-                "text": "Dr. Nene speaks about the importance of developing healthy habits and prioritizing preventive healthcare from an early age.",
-                "image_search_query": "Preventive healthcare, emotional wellbeing India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Role of Emotional Wellbeing",
-                "text": "Dr. Nene also speaks about the role of emotional wellbeing in ensuring that young people grow up healthy.",
-                "image_search_query": "Emotional wellbeing, youth growth India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/cities/chennai/healthy-habits-preventive-care-key-to-youth-wellbeing-says-surgeon/article71702324.ece",
-    "published_at": "2026-11-14T19:33:22+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Preventive Healthcare and Emotional Wellbeing",
+        "text": "Dr. Nene speaks about the importance of developing healthy habits and prioritizing preventive healthcare from an early age.",
+        "image_search_query": "Preventive healthcare, emotional wellbeing India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Role of Emotional Wellbeing",
+        "text": "Dr. Nene also speaks about the role of emotional wellbeing in ensuring that young people grow up healthy.",
+        "image_search_query": "Emotional wellbeing, youth growth India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/chennai/healthy-habits-preventive-care-key-to-youth-wellbeing-says-surgeon/article71702324.ece",
+  "published_at": "2026-11-14T19:33:22+00:00",
+  "image_done": true
 }

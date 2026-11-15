@@ -1,62 +1,63 @@
 {
-    "news_id": "4c0e34862dc03fea",
+  "news_id": "4c0e34862dc03fea",
+  "country": "UK",
+  "main_subject": {
+    "name": "Stuart Sterling",
+    "type": "person",
+    "image_search_query": "Stuart Sterling"
+  },
+  "classification": {
     "country": "UK",
-    "main_subject": {
-        "name": "Stuart Sterling",
-        "type": "person",
+    "category": "politics",
+    "subcategory": "government ethics",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "UK",
+    "tags": [
+      "ethical misconduct",
+      "government ethics"
+    ],
+    "classification_reason": "The article is about Stuart Sterling, the head of the government's main ethics watchdog, stepping back from his role after allegations of sexual misconduct emerged.",
+    "selected_channels": [
+      "politics-news"
+    ]
+  },
+  "content": {
+    "title": "UK Ethics Watchdog Chief Steps Back from Role Over Sexual Misconduct Claims",
+    "caption": "Stuart Sterling, the head of the government's main ethics watchdog, has stepped back from his role after allegations of sexual misconduct emerged.",
+    "hashtags": [
+      "#StuartSterling",
+      "#EthicalMisconduct",
+      "#GovernmentEthics"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "UK Ethics Watchdog Chief Steps Back from Role Over Sexual",
+        "text": "Stuart Sterling, the head of the government's main ethics watchdog, has stepped back from his role after allegations of sexual misconduct emerged.",
         "image_search_query": "Stuart Sterling"
-    },
-    "classification": {
-        "country": "UK",
-        "category": "politics",
-        "subcategory": "government ethics",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "UK",
-        "tags": [
-            "ethical misconduct",
-            "government ethics"
-        ],
-        "classification_reason": "The article is about Stuart Sterling, the head of the government's main ethics watchdog, stepping back from his role after allegations of sexual misconduct emerged.",
-        "selected_channels": [
-            "politics-news"
-        ]
-    },
-    "content": {
-        "title": "UK Ethics Watchdog Chief Steps Back from Role Over Sexual Misconduct Claims",
-        "caption": "Stuart Sterling, the head of the government's main ethics watchdog, has stepped back from his role after allegations of sexual misconduct emerged.",
-        "hashtags": [
-            "#StuartSterling",
-            "#EthicalMisconduct",
-            "#GovernmentEthics"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "UK Ethics Watchdog Chief Steps Back from Role Over Sexual",
-                "text": "Stuart Sterling, the head of the government's main ethics watchdog, has stepped back from his role after allegations of sexual misconduct emerged.",
-                "image_search_query": "Stuart Sterling"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Allegations of Sexual Misconduct",
-                "text": "Allegations of sexual misconduct involving female colleagues emerged, leading to investigations and sanctions.",
-                "image_search_query": "allegations of sexual misconduct United Kingdom"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Investigations and Sanctions",
-                "text": "Stuart Sterling was investigated in a previous job over allegations of sexual misconduct involving female colleagues, and had been sanctioned.",
-                "image_search_query": "investigations and sanctions United Kingdom"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/articles/cmewv2kzq2e5o?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-14T20:47:02+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Allegations of Sexual Misconduct",
+        "text": "Allegations of sexual misconduct involving female colleagues emerged, leading to investigations and sanctions.",
+        "image_search_query": "allegations of sexual misconduct United Kingdom"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Investigations and Sanctions",
+        "text": "Stuart Sterling was investigated in a previous job over allegations of sexual misconduct involving female colleagues, and had been sanctioned.",
+        "image_search_query": "investigations and sanctions United Kingdom"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmewv2kzq2e5o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-14T20:47:02+00:00",
+  "image_done": true
 }

@@ -1,0 +1,75 @@
+{
+  "news_id": "2cab796ce2dfe1a0",
+  "title": "Shriram Nene Discusses Importance of Youth Wellbeing and Preventive Healthcare",
+  "main_subject": {
+    "name": "Shriram Nene",
+    "type": "person",
+    "image_search_query": "Shriram Nene"
+  },
+  "category": "business",
+  "tags": [
+    "healthcare",
+    "wellbeing",
+    "youth",
+    "innovation"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/chennai/healthy-habits-preventive-care-key-to-youth-wellbeing-says-surgeon/article71702324.ece",
+  "published_at": "2026-11-14T19:33:22+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Shriram Nene Discusses Importance of Youth Wellbeing and Preventive Healthcare",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/gq86fn/article71702764.ece/alternates/LANDSCAPE_1200/_DSC6304.JPG",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/healthy-habits-preventive-care-key-to-youth-wellbeing-says-surgeon/article71702324.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Shriram Nene"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Preventive Healthcare and Emotional Wellbeing",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/gq86fn/article71702764.ece/alternates/LANDSCAPE_1200/_DSC6304.JPG",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/healthy-habits-preventive-care-key-to-youth-wellbeing-says-surgeon/article71702324.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Preventive healthcare, emotional wellbeing India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Role of Emotional Wellbeing",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/gq86fn/article71702764.ece/alternates/LANDSCAPE_1200/_DSC6304.JPG",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/healthy-habits-preventive-care-key-to-youth-wellbeing-says-surgeon/article71702324.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Emotional wellbeing, youth growth India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/gq86fn/article71702764.ece/alternates/LANDSCAPE_1200/_DSC6304.JPG",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/healthy-habits-preventive-care-key-to-youth-wellbeing-says-surgeon/article71702324.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

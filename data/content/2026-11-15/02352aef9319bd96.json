@@ -1,61 +1,62 @@
 {
-    "news_id": "02352aef9319bd96",
+  "news_id": "02352aef9319bd96",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Greater Chennai Corporation (GCC)",
+    "type": "organization",
+    "image_search_query": "Greater Chennai Corporation (GCC)"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Greater Chennai Corporation (GCC)",
-        "type": "organization",
+    "category": "business",
+    "subcategory": "government",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Greater Chennai",
+    "tags": [
+      "GCC",
+      "Greater Chennai Corporation"
+    ],
+    "classification_reason": "The article is about the Greater Chennai Corporation (GCC) and its actions regarding encroachments on roads.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Residents urge GCC to remove encroachments on roads in congested areas",
+    "caption": "Residents call for removal of encroachments on congested stretches in commercial areas like T. Nagar, following a recent Madras High Court direction.",
+    "hashtags": [
+      "#GCC",
+      "#GreaterChennaiCorporation"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Residents urge GCC to remove encroachments on roads in congested",
+        "text": "Residents call for removal of encroachments on congested stretches in commercial areas like T. Nagar, following a recent Madras High Court direction.",
         "image_search_query": "Greater Chennai Corporation (GCC)"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "business",
-        "subcategory": "government",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Greater Chennai",
-        "tags": [
-            "GCC",
-            "Greater Chennai Corporation"
-        ],
-        "classification_reason": "The article is about the Greater Chennai Corporation (GCC) and its actions regarding encroachments on roads.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Residents urge GCC to remove encroachments on roads in congested areas",
-        "caption": "Residents call for removal of encroachments on congested stretches in commercial areas like T. Nagar, following a recent Madras High Court direction.",
-        "hashtags": [
-            "#GCC",
-            "#GreaterChennaiCorporation"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Residents urge GCC to remove encroachments on roads in congested",
-                "text": "Residents call for removal of encroachments on congested stretches in commercial areas like T. Nagar, following a recent Madras High Court direction.",
-                "image_search_query": "Greater Chennai Corporation (GCC)"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Encroachments on Roads",
-                "text": "Residents urge GCC to remove encroachments on congested stretches in commercial areas like T. Nagar.",
-                "image_search_query": "encroachments on roads India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Madras High Court Direction",
-                "text": "The Madras High Court directed GCC to provide walkable footpaths and remove encroachments.",
-                "image_search_query": "Madras High Court direction India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/cities/chennai/residents-urge-gcc-to-remove-encroachments-on-roads-in-congested-areas/article71702199.ece",
-    "published_at": "2026-11-14T19:31:15+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Encroachments on Roads",
+        "text": "Residents urge GCC to remove encroachments on congested stretches in commercial areas like T. Nagar.",
+        "image_search_query": "encroachments on roads India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Madras High Court Direction",
+        "text": "The Madras High Court directed GCC to provide walkable footpaths and remove encroachments.",
+        "image_search_query": "Madras High Court direction India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/chennai/residents-urge-gcc-to-remove-encroachments-on-roads-in-congested-areas/article71702199.ece",
+  "published_at": "2026-11-14T19:31:15+00:00",
+  "image_done": true
 }

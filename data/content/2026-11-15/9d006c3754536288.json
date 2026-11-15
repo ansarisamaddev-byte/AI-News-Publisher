@@ -1,60 +1,61 @@
 {
-    "news_id": "9d006c3754536288",
+  "news_id": "9d006c3754536288",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Banjara Hills",
+    "type": "place",
+    "image_search_query": "Banjara Hills"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Banjara Hills",
-        "type": "place",
+    "category": "technology",
+    "subcategory": "transportation",
+    "importance_score": 1,
+    "relevance_score": 1,
+    "region": "Banjara Hills, Hyderabad",
+    "tags": [
+      "Banjara Hills"
+    ],
+    "classification_reason": "The article is primarily about traffic restrictions and diversions in Banjara Hills, which is a specific location.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Traffic restrictions and diversions in Banjara Hills",
+    "caption": "Traffic restrictions and diversions are implemented in Banjara Hills due to the ongoing construction of a steel flyover.",
+    "hashtags": [
+      "#BanjaraHills",
+      "#TrafficRestrictions"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Traffic restrictions and diversions in Banjara Hills",
+        "text": "Traffic restrictions and diversions are implemented in Banjara Hills due to the ongoing construction of a steel flyover.",
         "image_search_query": "Banjara Hills"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "technology",
-        "subcategory": "transportation",
-        "importance_score": 1,
-        "relevance_score": 1,
-        "region": "Banjara Hills, Hyderabad",
-        "tags": [
-            "Banjara Hills"
-        ],
-        "classification_reason": "The article is primarily about traffic restrictions and diversions in Banjara Hills, which is a specific location.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Traffic restrictions and diversions in Banjara Hills",
-        "caption": "Traffic restrictions and diversions are implemented in Banjara Hills due to the ongoing construction of a steel flyover.",
-        "hashtags": [
-            "#BanjaraHills",
-            "#TrafficRestrictions"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Traffic restrictions and diversions in Banjara Hills",
-                "text": "Traffic restrictions and diversions are implemented in Banjara Hills due to the ongoing construction of a steel flyover.",
-                "image_search_query": "Banjara Hills"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Construction of Steel Flyover",
-                "text": "A steel flyover between Jubilee Hills Check Post and NFCL under the H-CITI project is under construction.",
-                "image_search_query": "Steel Flyover Construction India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Traffic Restrictions",
-                "text": "Traffic restrictions are implemented on stretches between Srinagar Colony T-Junction and NTR Bhavan on Road No. 2, Banjara Hills.",
-                "image_search_query": "Traffic Restrictions Banjara Hills India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/telangana/traffic-diversions-for-steel-flyover-construction-in-banjara-hills/article71702037.ece",
-    "published_at": "2026-11-14T20:36:07+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Construction of Steel Flyover",
+        "text": "A steel flyover between Jubilee Hills Check Post and NFCL under the H-CITI project is under construction.",
+        "image_search_query": "Steel Flyover Construction India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Traffic Restrictions",
+        "text": "Traffic restrictions are implemented on stretches between Srinagar Colony T-Junction and NTR Bhavan on Road No. 2, Banjara Hills.",
+        "image_search_query": "Traffic Restrictions Banjara Hills India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/telangana/traffic-diversions-for-steel-flyover-construction-in-banjara-hills/article71702037.ece",
+  "published_at": "2026-11-14T20:36:07+00:00",
+  "image_done": true
 }

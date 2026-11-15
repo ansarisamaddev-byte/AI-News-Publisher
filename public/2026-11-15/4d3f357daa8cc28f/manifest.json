@@ -1,0 +1,75 @@
+{
+  "news_id": "4d3f357daa8cc28f",
+  "title": "Zelensky Proposes Ukraine Withdrawal from Donbas for Nato Membership",
+  "main_subject": {
+    "name": "Zelensky",
+    "type": "person",
+    "image_search_query": "Zelensky"
+  },
+  "category": "politics",
+  "tags": [
+    "Zelensky",
+    "Donbas",
+    "Nato",
+    "Ukraine"
+  ],
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-14T20:41:45+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Zelensky Proposes Ukraine Withdrawal from Donbas for Nato Membership",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Zelensky"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Recent Meetings and Proposals",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "US envoys, Zelensky, Donbas, Nato, Ukraine"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Proposed Withdrawal and Nato Membership",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Zelensky, Donbas, Nato, Ukraine"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "parliament government building"
+      }
+    }
+  ]
+}
