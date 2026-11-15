@@ -1,0 +1,63 @@
+{
+    "news_id": "5ff08b1ef3e37111",
+    "country": "US",
+    "main_subject": {
+        "name": "Magic: The Gathering",
+        "type": "product",
+        "image_search_query": "Magic: The Gathering"
+    },
+    "classification": {
+        "country": "US",
+        "category": "entertainment",
+        "subcategory": "video games",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US",
+        "tags": [
+            "Magic: The Gathering",
+            "Netflix",
+            "animated series"
+        ],
+        "classification_reason": "The article is about a new animated series based on Magic: The Gathering, which is a popular card game.",
+        "selected_channels": [
+            "entertainment-news"
+        ]
+    },
+    "content": {
+        "title": "Magic: The Gathering Gets a Netflix Animated Series",
+        "caption": "Magic: The Gathering is getting a Netflix animated series, promising a unique design and filmmaking style.",
+        "hashtags": [
+            "#MagicTheGathering",
+            "#Netflix",
+            "#AnimatedSeries"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Magic: The Gathering Gets a Netflix Animated Series",
+                "text": "Magic: The Gathering is getting a Netflix animated series, promising a unique design and filmmaking style.",
+                "image_search_query": "Magic: The Gathering"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "What's in the Series?",
+                "text": "The series is set to debut on Netflix in 2027 and focuses on Chandra Nalaar, a volatile pyromancer hunted for her gifts and haunted by her past.",
+                "image_search_query": "Magic: The Gathering animated series United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why It Matters",
+                "text": "The series promises a unique design and filmmaking style, with each plane existing in its own pocket universe.",
+                "image_search_query": "Magic: The Gathering animated series details United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+    "published_at": "2026-11-14T19:47:40+00:00"
+}

@@ -1,0 +1,63 @@
+{
+    "news_id": "8497ca9e9c463358",
+    "country": "US",
+    "main_subject": {
+        "name": "Tesla",
+        "type": "company",
+        "image_search_query": "Tesla"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "autonomous vehicles",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Texas",
+        "tags": [
+            "Tesla",
+            "Cybercab",
+            "Autonomous Vehicles"
+        ],
+        "classification_reason": "The article is primarily about Tesla's autonomous vehicle, Cybercab, and its pre-order process.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Tesla Opens Cybercab Pre-Orders for Personal Use",
+        "caption": "Tesla announced select customers can pre-order its autonomous Cybercab for personal use, with specific delivery and operating restrictions.",
+        "hashtags": [
+            "#Tesla",
+            "#Cybercab",
+            "#AutonomousVehicle"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Tesla Opens Cybercab Pre-Orders for Personal Use",
+                "text": "Tesla announced select customers can pre-order its autonomous Cybercab for personal use, with specific delivery and operating restrictions.",
+                "image_search_query": "Tesla"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Pre-Order Details",
+                "text": "Customers must accept delivery in Texas cities and operate within specific geofenced areas.",
+                "image_search_query": "Tesla Cybercab delivery United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Monthly Fee",
+                "text": "Cybercab owners will need to pay $299 per month to operate their vehicle.",
+                "image_search_query": "Tesla Cybercab fee United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+    "published_at": "2026-11-14T20:04:44+00:00"
+}

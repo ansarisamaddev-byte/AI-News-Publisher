@@ -1,0 +1,63 @@
+{
+    "news_id": "632eefae6627dbe3",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Tambaram City Police",
+        "type": "organization",
+        "image_search_query": "Tambaram City Police"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "politics",
+        "subcategory": "police enforcement",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Tambaram, Tamil Nadu",
+        "tags": [
+            "police enforcement",
+            "ganja",
+            "tobacco products"
+        ],
+        "classification_reason": "The article is about a police operation targeting illegal drug and tobacco products.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Tambaram City Police Arrest 26 in Special Drive Against Ganja and Banned Tobacco Products",
+        "caption": "Tambaram City Police arrested 26 persons during a special enforcement drive against illegal sale and distribution of ganja and banned tobacco products.",
+        "hashtags": [
+            "#policeaction",
+            "#ganja",
+            "#tobaccoproducts"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Tambaram City Police Arrest 26 in Special Drive Against Ganja",
+                "text": "Tambaram City Police arrested 26 persons during a special enforcement drive against illegal sale and distribution of ganja and banned tobacco products.",
+                "image_search_query": "Tambaram City Police"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Operation Details",
+                "text": "The operation involved 89 special teams comprising 450 police personnel.",
+                "image_search_query": "89 special teams, 450 police personnel India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Arrested Persons",
+                "text": "26 persons were arrested, of whom 20 were remanded in judicial custody.",
+                "image_search_query": "26 persons, 20 remanded in judicial custody India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/cities/chennai/tambaram-city-police-arrest-26-in-special-drive-against-ganja-and-banned-tobacco-products/article71702639.ece",
+    "published_at": "2026-11-14T19:14:05+00:00"
+}

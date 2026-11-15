@@ -1,0 +1,63 @@
+{
+    "news_id": "c40b1f8c279a4e20",
+    "country": "AUSTRALIA",
+    "main_subject": {
+        "name": "Andrew McLachlan",
+        "type": "person",
+        "image_search_query": "Andrew McLachlan"
+    },
+    "classification": {
+        "country": "AUSTRALIA",
+        "category": "politics",
+        "subcategory": "AI and copyright",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Australia",
+        "tags": [
+            "AI",
+            "copyright",
+            "politics"
+        ],
+        "classification_reason": "The article is about a Liberal senator raising concerns about AI and copyright, which are political topics.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Liberal Senator Andrew McLachlan Urges Protection of Artists' Copyright in AI Debate",
+        "caption": "Liberal Senator Andrew McLachlan advocates for artists' copyright protection in the AI policy debate.",
+        "hashtags": [
+            "#AI",
+            "#copyright",
+            "#politics"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Liberal Senator Andrew McLachlan Urges Protection of Artists' Copyright in",
+                "text": "Liberal Senator Andrew McLachlan advocates for artists' copyright protection in the AI policy debate.",
+                "image_search_query": "Andrew McLachlan"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "AI Policy Debate",
+                "text": "The Labor government and Liberal party are discussing AI policy changes including copyright issues.",
+                "image_search_query": "Labor government, Liberal party, AI policy Australia"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "McLachlan's Concerns",
+                "text": "McLachlan advocates for artists' copyright protection and environmental concerns.",
+                "image_search_query": "McLachlan, artists, copyright, environment Australia"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Guardian",
+    "source_url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+    "published_at": "2026-11-14T19:00:52+00:00"
+}

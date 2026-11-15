@@ -1,0 +1,63 @@
+{
+    "news_id": "9144bc7d7729e6eb",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Greater Chennai Corporation (GCC)",
+        "type": "organization",
+        "image_search_query": "Greater Chennai Corporation (GCC)"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "business",
+        "subcategory": "technology",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "India",
+        "tags": [
+            "drone",
+            "monitoring",
+            "CCTV"
+        ],
+        "classification_reason": "The GCC is deploying drones for flood monitoring, which is a significant technological initiative.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Greater Chennai Corporation (GCC) to Deploy Drones for Flood Monitoring",
+        "caption": "The Greater Chennai Corporation (GCC) plans to deploy drones across all 15 zones of Chennai to monitor flood-prone areas during the Northeast monsoon.",
+        "hashtags": [
+            "#GCC",
+            "#drones",
+            "#floodmonitoring"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Greater Chennai Corporation (GCC) to Deploy Drones for Flood Monitoring",
+                "text": "The Greater Chennai Corporation (GCC) plans to deploy drones across all 15 zones of Chennai to monitor flood-prone areas during the Northeast monsoon.",
+                "image_search_query": "Greater Chennai Corporation (GCC)"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Deployment of Drones",
+                "text": "The GCC plans to deploy one drone and a trained operating team in each of the city's 15 zones for 30 days, covering the northern, central, and southern regions.",
+                "image_search_query": "GCC drone operation India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Monitoring Vulnerable Locations",
+                "text": "The drones will be stationed in each zone to help officials assess conditions on the ground and identify locations requiring attention.",
+                "image_search_query": "GCC drone monitoring India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/cities/chennai/flood-prone-areas-to-be-monitored-using-drones-in-chennai/article71701605.ece",
+    "published_at": "2026-11-14T19:05:40+00:00"
+}

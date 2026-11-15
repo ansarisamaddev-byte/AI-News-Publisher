@@ -1,0 +1,63 @@
+{
+    "news_id": "c11abe23da2f6759",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Patriarch Ignatius Peter III",
+        "type": "person",
+        "image_search_query": "Patriarch Ignatius Peter III"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "business",
+        "subcategory": "religion",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Malankara Church",
+        "tags": [
+            "Jacobite Church",
+            "Syrian Orthodox Church",
+            "Patriarch Ignatius Aphrem II"
+        ],
+        "classification_reason": "The article is about the canonization of Patriarch Ignatius Peter III, a significant religious figure in the Malankara Church.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Patriarch Ignatius Peter III: The Man Who Convened the Mulanthuruthy Synod",
+        "caption": "Patriarch Ignatius Peter III, a key figure in the Malankara Church, was the Patriarch of Antioch and head of the Syriac Orthodox Church from 1872 until his death in 1894.",
+        "hashtags": [
+            "#PatriarchIgnatiusPeterIII",
+            "#MalankaraChurch",
+            "#SyrianOrthodoxChurch"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Patriarch Ignatius Peter III: The Man Who Convened the Mulanthuruthy",
+                "text": "Patriarch Ignatius Peter III, a key figure in the Malankara Church, was the Patriarch of Antioch and head of the Syriac Orthodox Church from 1872 until his death in 1894.",
+                "image_search_query": "Patriarch Ignatius Peter III"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "The Synod of Mulanthuruthy",
+                "text": "The Synod of Mulanthuruthy, held in 1876, was a significant event in the history of the Malankara Church, which was convened by Patriarch Ignatius Peter III.",
+                "image_search_query": "Synod of Mulanthuruthy India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "The Canonization of Ignatius Peter III",
+                "text": "The Episcopal Synod of the Jacobite Syrian Church decided to complete the procedures to canonize Patriarch Ignatius Peter III, who convened the historic Mulanthuruthy Synod in 1876.",
+                "image_search_query": "Canonization of Ignatius Peter III India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/kerala/synod-of-jacobite-church-approves-steps-to-canonise-patriarch-ignatius-peter-iii/article71702870.ece",
+    "published_at": "2026-11-14T19:30:08+00:00"
+}

@@ -1,0 +1,61 @@
+{
+    "news_id": "04c8b6f18bc4681d",
+    "country": "US",
+    "main_subject": {
+        "name": "Warriors",
+        "type": "team",
+        "image_search_query": "Warriors"
+    },
+    "classification": {
+        "country": "US",
+        "category": "sports",
+        "subcategory": "cricket",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "USA",
+        "tags": [
+            "Warriors"
+        ],
+        "classification_reason": "The article is about a cricket team, specifically the Warriors, which is a prominent team in the CSA T20 Challenge 2026 tournament.",
+        "selected_channels": [
+            "sports-news"
+        ]
+    },
+    "content": {
+        "title": "Warriors vs Lions, Final, CSA T20 Challenge 2026 Live Cricket Stream",
+        "caption": "The Warriors team is set to face the Lions in the final match of the CSA T20 Challenge 2026 tournament, live cricket stream, with live scores, ball-by-ball commentary, highlights, and videos.",
+        "hashtags": [
+            "#Warriors",
+            "#Lions",
+            "#CSAT20Challenge2026"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Warriors vs Lions, Final, CSA T20 Challenge 2026 Live Cricket",
+                "text": "The Warriors team is set to face the Lions in the final match of the CSA T20 Challenge 2026 tournament, live cricket stream, with live scores, ball-by-ball commentary, highlights, and videos.",
+                "image_search_query": "Warriors"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Relevant context",
+                "text": "The CSA T20 Challenge 2026 is a cricket tournament in the USA and Canada, featuring the Warriors and Lions teams.",
+                "image_search_query": "CSA T20 Challenge 2026 United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Important details",
+                "text": "The Warriors team is known for their strong performance in the CSA T20 Challenge 2026 tournament, and they are expected to be a formidable opponent in the final match.",
+                "image_search_query": "Warriors CSA T20 Challenge 2026 United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Sports",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObTd3c01wTFJHamNhWGFkbU1vZU05enVLN0NUMGJ4dFNmbXlrZVFDZzJCbU1YTmUzMnAyOV9DUHN1aXcxUHA0V2F0X0tqRU4yWEdLRUphaWVSY2Z5MzEyV21URU1uUnUxMGZBZmlrTjZFVlBlSVppR251TFhFdXZjdFRvN2RRdmM3U0c3MHlhU0pnOG54M1FFYw?oc=5",
+    "published_at": "2026-11-14T19:18:45+00:00"
+}
