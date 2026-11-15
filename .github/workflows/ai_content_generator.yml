@@ -2,9 +2,20 @@
 name: AI Content Generator
 
 on:
+  # Automatically run after News Fetcher finishes
+  workflow_run:
+    workflows:
+      - "News Fetcher"
+    types:
+      - completed
+    branches:
+      - main
+
+  # Backup schedules
   schedule:
     - cron: "30 3 * * *"
     - cron: "30 12 * * *"
+
   workflow_dispatch:
 
 permissions:
@@ -16,7 +27,10 @@ concurrency:
 
 jobs:
   generate-content:
-    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    if: |
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
+
     runs-on: ubuntu-latest
     timeout-minutes: 360
 
@@ -30,19 +44,13 @@ jobs:
       LLM_N_GPU_LAYERS: "0"
 
     steps:
-      # --------------------------------------------------
       # CHECKOUT
-      # --------------------------------------------------
-
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # --------------------------------------------------
       # RESTORE QWEN MODEL CACHE
-      # --------------------------------------------------
-
       - name: Restore Qwen Model Cache
         id: qwen-cache
         uses: actions/cache/restore@v4
@@ -68,10 +76,7 @@ jobs:
             echo "[MODEL] Cache restored successfully."
           fi
 
-      # --------------------------------------------------
       # PYTHON SETUP
-      # --------------------------------------------------
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -79,34 +84,29 @@ jobs:
           cache: pip
           cache-dependency-path: ai_content_generator_requirements.txt
 
+      # INSTALL LLAMA CPP
       - name: Install llama-cpp-python
         run: |
           python -m pip install --upgrade pip
           pip install --prefer-binary llama-cpp-python \
             --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
 
+      # INSTALL DEPENDENCIES
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r ai_content_generator_requirements.txt
 
-      # --------------------------------------------------
       # GENERATE AI CONTENT
-      # --------------------------------------------------
-
       - name: Generate pending AI content
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           echo "Environment: $ENV"
           echo "Model: $LOCAL_MODEL_PATH"
-
           python ai_content_generator.py
 
-      # --------------------------------------------------
       # COMMIT RESULTS
-      # --------------------------------------------------
-
       - name: Commit generated JSON and queue updates
         run: |
           git config user.name "github-actions[bot]"
