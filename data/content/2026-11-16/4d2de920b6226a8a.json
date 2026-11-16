@@ -1,0 +1,63 @@
+{
+    "news_id": "4d2de920b6226a8a",
+    "country": "US",
+    "main_subject": {
+        "name": "Runner's World",
+        "type": "company",
+        "image_search_query": "Runner's World"
+    },
+    "classification": {
+        "country": "US",
+        "category": "business",
+        "subcategory": "technology",
+        "importance_score": 1,
+        "relevance_score": 1,
+        "region": "",
+        "tags": [
+            "running",
+            "pelvic floor",
+            "leakage"
+        ],
+        "classification_reason": "company providing running advice and pelvic floor issues",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Runner's World: How Runners Can Fix Pelvic Floor Issues and Prevent Leakage",
+        "caption": "Runner's World offers guidance on fixing pelvic floor issues and preventing leakage for runners.",
+        "hashtags": [
+            "#Runner'sWorld",
+            "#PelvicFloor",
+            "#Leakage"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Runner's World: How Runners Can Fix Pelvic Floor Issues and",
+                "text": "Runner's World offers guidance on fixing pelvic floor issues and preventing leakage for runners.",
+                "image_search_query": "Runner's World"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Pelvic Floor Issues",
+                "text": "Pelvic floor issues can affect runners and lead to leakage.",
+                "image_search_query": "Pelvic floor issues United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Runner's World's Solution",
+                "text": "Runner's World offers guidance on pelvic floor issues and leakage prevention.",
+                "image_search_query": "Runner's World solution United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Science",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2tuaEswQ09zOVNPUkdBOFNOOUg0VHRLXzk4UXpjQ2pXMnZMMTlhbU96SW1OTmluOFdyWFdQbXlJWm9SSFVwa3dzSFpick1hbGNxY1FrS1I1OHhybE05WWo3QkZaaHN2aEVrc05YcFJQUHRtWGs0TER4RWpMRGdnN0FXVUlpckk4UGxjQUN2TTA2UQ?oc=5",
+    "published_at": "2026-11-15T19:17:00+00:00"
+}

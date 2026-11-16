@@ -1,0 +1,63 @@
+{
+    "news_id": "cda11a2f408cc070",
+    "country": "US",
+    "main_subject": {
+        "name": "US",
+        "type": "other",
+        "image_search_query": "US"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "air traffic control",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "USA",
+        "tags": [
+            "air traffic control",
+            "technology",
+            "airline disruptions"
+        ],
+        "classification_reason": "The article primarily discusses the US air traffic control system and its aftermath, focusing on the technical failure that caused widespread flight cancellations and delays.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "US Air Traffic Control System Grounds Flights Nationwide",
+        "caption": "The US air traffic control system experienced a technical failure that grounded thousands of flights across the country.",
+        "hashtags": [
+            "#USAirDisruptions",
+            "#TechFailure",
+            "#AirTrafficControl"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "US Air Traffic Control System Grounds Flights Nationwide",
+                "text": "The US air traffic control system experienced a technical failure that grounded thousands of flights across the country.",
+                "image_search_query": "US"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Technical Failure and National Ground Stop",
+                "text": "A technical failure in the US air traffic control system caused a national ground stop, affecting thousands of flights.",
+                "image_search_query": "US air traffic control system technical failure United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact on Air Travel",
+                "text": "The technical failure disrupted air travel, causing thousands of flight cancellations and delays.",
+                "image_search_query": "US air traffic control system impact United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-15T19:20:53+00:00"
+}
