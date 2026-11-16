@@ -1,63 +1,64 @@
 {
-    "news_id": "57b0314b4f89ef26",
+  "news_id": "57b0314b4f89ef26",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Prince William",
+    "type": "person",
+    "image_search_query": "Prince William"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Prince William",
-        "type": "person",
+    "category": "business",
+    "subcategory": "royalty and royal events",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "New Delhi",
+    "tags": [
+      "royal visit",
+      "Earthshot Prize",
+      "gully cricket"
+    ],
+    "classification_reason": "The article is centered around Prince William's visit to India, focusing on his role as a royal and the Earthshot Prize event.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Prince William to Visit India: Earthshot Prize and Gully Cricket",
+    "caption": "Prince William is set to visit India this week, where he will attend the Earthshot Prize ceremony and participate in gully cricket events.",
+    "hashtags": [
+      "#PrinceWilliam",
+      "#EarthshotPrize",
+      "#GullyCricket"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Prince William to Visit India: Earthshot Prize and Gully Cricket",
+        "text": "Prince William is set to visit India this week, where he will attend the Earthshot Prize ceremony and participate in gully cricket events.",
         "image_search_query": "Prince William"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "business",
-        "subcategory": "royalty and royal events",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "New Delhi",
-        "tags": [
-            "royal visit",
-            "Earthshot Prize",
-            "gully cricket"
-        ],
-        "classification_reason": "The article is centered around Prince William's visit to India, focusing on his role as a royal and the Earthshot Prize event.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Prince William to Visit India: Earthshot Prize and Gully Cricket",
-        "caption": "Prince William is set to visit India this week, where he will attend the Earthshot Prize ceremony and participate in gully cricket events.",
-        "hashtags": [
-            "#PrinceWilliam",
-            "#EarthshotPrize",
-            "#GullyCricket"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Prince William to Visit India: Earthshot Prize and Gully Cricket",
-                "text": "Prince William is set to visit India this week, where he will attend the Earthshot Prize ceremony and participate in gully cricket events.",
-                "image_search_query": "Prince William"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Earthshot Prize Ceremony",
-                "text": "The Earthshot Prize ceremony will take place on Tuesday evening in New Delhi, focused on solutions to pressing environmental problems.",
-                "image_search_query": "Earthshot Prize ceremony India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Gully Cricket Events",
-                "text": "Prince William will attend gully cricket events, including a round with cricketers Sourav Ganguly, Brian Lara, and England captain Joe Root.",
-                "image_search_query": "gully cricket events India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/maharashtra/prince-william-princess-kate-to-visit-mumbai-from-nov-16-18/article71703990.ece",
-    "published_at": "2026-11-15T19:53:58+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Earthshot Prize Ceremony",
+        "text": "The Earthshot Prize ceremony will take place on Tuesday evening in New Delhi, focused on solutions to pressing environmental problems.",
+        "image_search_query": "Earthshot Prize ceremony India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Gully Cricket Events",
+        "text": "Prince William will attend gully cricket events, including a round with cricketers Sourav Ganguly, Brian Lara, and England captain Joe Root.",
+        "image_search_query": "gully cricket events India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/maharashtra/prince-william-princess-kate-to-visit-mumbai-from-nov-16-18/article71703990.ece",
+  "published_at": "2026-11-15T19:53:58+00:00",
+  "image_done": true
 }

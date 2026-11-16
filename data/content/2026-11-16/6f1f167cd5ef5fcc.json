@@ -1,63 +1,64 @@
 {
-    "news_id": "6f1f167cd5ef5fcc",
+  "news_id": "6f1f167cd5ef5fcc",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Anbumani Ramadoss",
+    "type": "person",
+    "image_search_query": "Anbumani Ramadoss"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Anbumani Ramadoss",
-        "type": "person",
+    "category": "business",
+    "subcategory": "education",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Tamil Nadu",
+    "tags": [
+      "guest lecturers",
+      "salary hike",
+      "University Grants Commission"
+    ],
+    "classification_reason": "The article is about Anbumani Ramadoss, the president of PMK, who demanded a salary hike for guest lecturers in Tamil Nadu.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Anbumani Ramadoss Demands Salary Hike for Guest Lecturers in Tamil Nadu",
+    "caption": "Anbumani Ramadoss, the president of PMK, demands a salary hike for guest lecturers in Tamil Nadu.",
+    "hashtags": [
+      "#AnbumaniRamadoss",
+      "#GuestLecturers",
+      "#SalaryHike"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Anbumani Ramadoss Demands Salary Hike for Guest Lecturers in Tamil",
+        "text": "Anbumani Ramadoss, the president of PMK, demands a salary hike for guest lecturers in Tamil Nadu.",
         "image_search_query": "Anbumani Ramadoss"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "business",
-        "subcategory": "education",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Tamil Nadu",
-        "tags": [
-            "guest lecturers",
-            "salary hike",
-            "University Grants Commission"
-        ],
-        "classification_reason": "The article is about Anbumani Ramadoss, the president of PMK, who demanded a salary hike for guest lecturers in Tamil Nadu.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Anbumani Ramadoss Demands Salary Hike for Guest Lecturers in Tamil Nadu",
-        "caption": "Anbumani Ramadoss, the president of PMK, demands a salary hike for guest lecturers in Tamil Nadu.",
-        "hashtags": [
-            "#AnbumaniRamadoss",
-            "#GuestLecturers",
-            "#SalaryHike"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Anbumani Ramadoss Demands Salary Hike for Guest Lecturers in Tamil",
-                "text": "Anbumani Ramadoss, the president of PMK, demands a salary hike for guest lecturers in Tamil Nadu.",
-                "image_search_query": "Anbumani Ramadoss"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Guest Lecturers",
-                "text": "Guest lecturers in Tamil Nadu demand a salary hike.",
-                "image_search_query": "Guest lecturers Tamil Nadu India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Salary Hike",
-                "text": "Anbumani Ramadoss demands a ₹5,000 monthly hike for guest lecturers.",
-                "image_search_query": "Anbumani Ramadoss salary hike India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-seeks-pay-hike-for-guest-lecturers-from-sept-1/article71705798.ece",
-    "published_at": "2026-11-15T19:10:31+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Guest Lecturers",
+        "text": "Guest lecturers in Tamil Nadu demand a salary hike.",
+        "image_search_query": "Guest lecturers Tamil Nadu India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Salary Hike",
+        "text": "Anbumani Ramadoss demands a ₹5,000 monthly hike for guest lecturers.",
+        "image_search_query": "Anbumani Ramadoss salary hike India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-seeks-pay-hike-for-guest-lecturers-from-sept-1/article71705798.ece",
+  "published_at": "2026-11-15T19:10:31+00:00",
+  "image_done": true
 }

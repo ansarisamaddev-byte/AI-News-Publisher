@@ -1,65 +1,66 @@
 {
-    "news_id": "daf77e261eb07a46",
+  "news_id": "daf77e261eb07a46",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Ustaad Waheed Jeelani",
+    "type": "person",
+    "image_search_query": "Ustaad Waheed Jeelani"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Ustaad Waheed Jeelani",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "entertainment",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Kashmir",
+    "tags": [
+      "Kashmir",
+      "artists",
+      "art",
+      "culture",
+      "language"
+    ],
+    "classification_reason": "The article is about Ustaad Waheed Jeelani, a prominent Kashmiri artist, and his call for official handholding and support for artists in Kashmir.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Ustaad Waheed Jeelani Calls for Official Handholding of Kashmir Artists",
+    "caption": "Kashmir artists seek official support and handholding amid deep penury and indignity.",
+    "hashtags": [
+      "#KashmirArtists",
+      "#OfficialHandholding",
+      "#Handholding"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Ustaad Waheed Jeelani Calls for Official Handholding of Kashmir Artists",
+        "text": "Kashmir artists seek official support and handholding amid deep penury and indignity.",
         "image_search_query": "Ustaad Waheed Jeelani"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "technology",
-        "subcategory": "entertainment",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Kashmir",
-        "tags": [
-            "Kashmir",
-            "artists",
-            "art",
-            "culture",
-            "language"
-        ],
-        "classification_reason": "The article is about Ustaad Waheed Jeelani, a prominent Kashmiri artist, and his call for official handholding and support for artists in Kashmir.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Ustaad Waheed Jeelani Calls for Official Handholding of Kashmir Artists",
-        "caption": "Kashmir artists seek official support and handholding amid deep penury and indignity.",
-        "hashtags": [
-            "#KashmirArtists",
-            "#OfficialHandholding",
-            "#Handholding"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Ustaad Waheed Jeelani Calls for Official Handholding of Kashmir Artists",
-                "text": "Kashmir artists seek official support and handholding amid deep penury and indignity.",
-                "image_search_query": "Ustaad Waheed Jeelani"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Deep Penury and Indignity",
-                "text": "Kashmir artists face deep penury and indignity due to official apathy and declining role of government-run Doordarshan and All India Radio.",
-                "image_search_query": "Kashmir artists, penury, indignity India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Call for Official Handholding",
-                "text": "Ustaad Waheed Jeelani calls for official handholding and support for Kashmir artists amid deep penury and indignity.",
-                "image_search_query": "Ustaad Waheed Jeelani, official handholding India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/penury-hit-kashmir-artists-seek-official-handholding/article71705789.ece",
-    "published_at": "2026-11-15T19:19:08+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Deep Penury and Indignity",
+        "text": "Kashmir artists face deep penury and indignity due to official apathy and declining role of government-run Doordarshan and All India Radio.",
+        "image_search_query": "Kashmir artists, penury, indignity India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Call for Official Handholding",
+        "text": "Ustaad Waheed Jeelani calls for official handholding and support for Kashmir artists amid deep penury and indignity.",
+        "image_search_query": "Ustaad Waheed Jeelani, official handholding India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/penury-hit-kashmir-artists-seek-official-handholding/article71705789.ece",
+  "published_at": "2026-11-15T19:19:08+00:00",
+  "image_done": true
 }

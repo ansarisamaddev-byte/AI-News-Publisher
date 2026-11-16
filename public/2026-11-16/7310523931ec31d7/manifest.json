@@ -1,0 +1,74 @@
+{
+  "news_id": "7310523931ec31d7",
+  "title": "Jensen Huang Might Be Plotting a Return and More Nvidia Drama",
+  "main_subject": {
+    "name": "Jensen Huang",
+    "type": "person",
+    "image_search_query": "Jensen Huang"
+  },
+  "category": "business",
+  "tags": [
+    "Jensen Huang",
+    "Nvidia",
+    "CEO"
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+  "published_at": "2026-11-15T20:43:49+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Jensen Huang Might Be Plotting a Return and More Nvidia",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
+        "article_url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Jensen Huang"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Nvidia Co-Founder and Former CEO",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
+        "article_url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Nvidia Co-Founder and Former CEO United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Recent Developments",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
+        "article_url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Jensen Huang return United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
+        "article_url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

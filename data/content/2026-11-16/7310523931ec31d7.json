@@ -1,62 +1,63 @@
 {
-    "news_id": "7310523931ec31d7",
+  "news_id": "7310523931ec31d7",
+  "country": "US",
+  "main_subject": {
+    "name": "Jensen Huang",
+    "type": "person",
+    "image_search_query": "Jensen Huang"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Jensen Huang",
-        "type": "person",
+    "category": "business",
+    "subcategory": "technology",
+    "importance_score": 8,
+    "relevance_score": 8,
+    "region": "US",
+    "tags": [
+      "Jensen Huang",
+      "Nvidia",
+      "CEO"
+    ],
+    "classification_reason": "The article is primarily about Jensen Huang's return to Nvidia and the ongoing drama surrounding him.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Jensen Huang Might Be Plotting a Return and More Nvidia Drama",
+    "caption": "Jensen Huang, the co-founder and former CEO of Nvidia, is reportedly considering a return to the company, raising questions about his future leadership role.",
+    "hashtags": [
+      "#JensenHuang",
+      "#NvidiaDrama"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Jensen Huang Might Be Plotting a Return and More Nvidia",
+        "text": "Jensen Huang, the co-founder and former CEO of Nvidia, is reportedly considering a return to the company, raising questions about his future leadership role.",
         "image_search_query": "Jensen Huang"
-    },
-    "classification": {
-        "country": "US",
-        "category": "business",
-        "subcategory": "technology",
-        "importance_score": 8,
-        "relevance_score": 8,
-        "region": "US",
-        "tags": [
-            "Jensen Huang",
-            "Nvidia",
-            "CEO"
-        ],
-        "classification_reason": "The article is primarily about Jensen Huang's return to Nvidia and the ongoing drama surrounding him.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Jensen Huang Might Be Plotting a Return and More Nvidia Drama",
-        "caption": "Jensen Huang, the co-founder and former CEO of Nvidia, is reportedly considering a return to the company, raising questions about his future leadership role.",
-        "hashtags": [
-            "#JensenHuang",
-            "#NvidiaDrama"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Jensen Huang Might Be Plotting a Return and More Nvidia",
-                "text": "Jensen Huang, the co-founder and former CEO of Nvidia, is reportedly considering a return to the company, raising questions about his future leadership role.",
-                "image_search_query": "Jensen Huang"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Nvidia Co-Founder and Former CEO",
-                "text": "Jensen Huang, the co-founder and former CEO of Nvidia, is a prominent figure in the tech industry, known for his leadership and contributions to the company.",
-                "image_search_query": "Nvidia Co-Founder and Former CEO United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Recent Developments",
-                "text": "Jensen Huang is reportedly considering a return to Nvidia, raising questions about his future leadership role. The company's recent developments and the ongoing drama surrounding Jensen Huang are the focus of the article.",
-                "image_search_query": "Jensen Huang return United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-    "published_at": "2026-11-15T20:43:49+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Nvidia Co-Founder and Former CEO",
+        "text": "Jensen Huang, the co-founder and former CEO of Nvidia, is a prominent figure in the tech industry, known for his leadership and contributions to the company.",
+        "image_search_query": "Nvidia Co-Founder and Former CEO United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Recent Developments",
+        "text": "Jensen Huang is reportedly considering a return to Nvidia, raising questions about his future leadership role. The company's recent developments and the ongoing drama surrounding Jensen Huang are the focus of the article.",
+        "image_search_query": "Jensen Huang return United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+  "published_at": "2026-11-15T20:43:49+00:00",
+  "image_done": true
 }

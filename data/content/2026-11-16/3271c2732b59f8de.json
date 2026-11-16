@@ -1,62 +1,63 @@
 {
-    "news_id": "3271c2732b59f8de",
+  "news_id": "3271c2732b59f8de",
+  "country": "US",
+  "main_subject": {
+    "name": "ULA",
+    "type": "company",
+    "image_search_query": "ULA"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "ULA",
-        "type": "company",
+    "category": "technology",
+    "subcategory": "rocket",
+    "importance_score": 1,
+    "relevance_score": 1,
+    "region": "Florida",
+    "tags": [
+      "rocket",
+      "ULA",
+      "Amazon"
+    ],
+    "classification_reason": "ULA is the company involved in the rocket launch failure.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "ULA's Vulcan Rocket Fails Midflight, Loses Amazon Satellites",
+    "caption": "ULA's Vulcan rocket fails during a midflight test, resulting in the loss of 40 Amazon Leo satellites.",
+    "hashtags": [
+      "ULA Vulcan",
+      "Amazon Leo satellites"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "ULA's Vulcan Rocket Fails Midflight, Loses Amazon Satellites",
+        "text": "ULA's Vulcan rocket fails during a midflight test, resulting in the loss of 40 Amazon Leo satellites.",
         "image_search_query": "ULA"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "rocket",
-        "importance_score": 1,
-        "relevance_score": 1,
-        "region": "Florida",
-        "tags": [
-            "rocket",
-            "ULA",
-            "Amazon"
-        ],
-        "classification_reason": "ULA is the company involved in the rocket launch failure.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "ULA's Vulcan Rocket Fails Midflight, Loses Amazon Satellites",
-        "caption": "ULA's Vulcan rocket fails during a midflight test, resulting in the loss of 40 Amazon Leo satellites.",
-        "hashtags": [
-            "ULA Vulcan",
-            "Amazon Leo satellites"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "ULA's Vulcan Rocket Fails Midflight, Loses Amazon Satellites",
-                "text": "ULA's Vulcan rocket fails during a midflight test, resulting in the loss of 40 Amazon Leo satellites.",
-                "image_search_query": "ULA"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Relevant Context",
-                "text": "ULA's Vulcan rocket, designed to deploy Amazon's Leo satellites, failed during a midflight test at Cape Canaveral, Florida.",
-                "image_search_query": "ULA Vulcan rocket launch United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Important Details",
-                "text": "The failure was caused by an anomaly during the return-to-flight launch, resulting in the loss of 40 Amazon Leo satellites.",
-                "image_search_query": "ULA Vulcan rocket failure United States"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Science",
-    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTW0yRGhpTTVJMHZVdlM4NUc2WDJGWkljT0VmREZ6NTNDcENHYzJ0ZUpab01nTFZxMnlsaFB3OVVzQ3h6TVZCVUdVejZRdWxJWlRrWU1jNmpMSzNuN0w2UXNEdlA5Wk4yVEVxOFR4aUFBczQwZkNMWUdhR2ltaXlZXzhjN0xlbGNjekE4eDNMSllEUlRFcXh3dGVodUNaT3VSVUlUQ0Z5d1Y2RVlYXzR5VQ?oc=5",
-    "published_at": "2026-11-15T19:26:39+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Relevant Context",
+        "text": "ULA's Vulcan rocket, designed to deploy Amazon's Leo satellites, failed during a midflight test at Cape Canaveral, Florida.",
+        "image_search_query": "ULA Vulcan rocket launch United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Important Details",
+        "text": "The failure was caused by an anomaly during the return-to-flight launch, resulting in the loss of 40 Amazon Leo satellites.",
+        "image_search_query": "ULA Vulcan rocket failure United States"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTW0yRGhpTTVJMHZVdlM4NUc2WDJGWkljT0VmREZ6NTNDcENHYzJ0ZUpab01nTFZxMnlsaFB3OVVzQ3h6TVZCVUdVejZRdWxJWlRrWU1jNmpMSzNuN0w2UXNEdlA5Wk4yVEVxOFR4aUFBczQwZkNMWUdhR2ltaXlZXzhjN0xlbGNjekE4eDNMSllEUlRFcXh3dGVodUNaT3VSVUlUQ0Z5d1Y2RVlYXzR5VQ?oc=5",
+  "published_at": "2026-11-15T19:26:39+00:00",
+  "image_done": true
 }

@@ -1,0 +1,74 @@
+{
+  "news_id": "7875023956d1ef65",
+  "title": "Diljit Dosanjh Recites Couplet at Indore Concert Amid Security Concerns",
+  "main_subject": {
+    "name": "Diljit Dosanjh",
+    "type": "person",
+    "image_search_query": "Diljit Dosanjh"
+  },
+  "category": "entertainment",
+  "tags": [
+    "entertainment",
+    "music",
+    "Diljit Dosanjh"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/entertainment/music/diljit-says-attempts-made-to-stop-his-indore-concert-recites-kisi-ke-baap-ka-hindostan-thodi-hai/article71705785.ece",
+  "published_at": "2026-11-15T19:27:28+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Diljit Dosanjh Recites Couplet at Indore Concert Amid Security Concerns",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/dxu2q2/article71705791.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-19%20135303.png",
+        "article_url": "https://www.thehindu.com/entertainment/music/diljit-says-attempts-made-to-stop-his-indore-concert-recites-kisi-ke-baap-ka-hindostan-thodi-hai/article71705785.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Diljit Dosanjh"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Security Concerns and Objections",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/dxu2q2/article71705791.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-19%20135303.png",
+        "article_url": "https://www.thehindu.com/entertainment/music/diljit-says-attempts-made-to-stop-his-indore-concert-recites-kisi-ke-baap-ka-hindostan-thodi-hai/article71705785.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Diljit Dosanjh concert Indore India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Diljit Dosanjh's Recitation",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/dxu2q2/article71705791.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-19%20135303.png",
+        "article_url": "https://www.thehindu.com/entertainment/music/diljit-says-attempts-made-to-stop-his-indore-concert-recites-kisi-ke-baap-ka-hindostan-thodi-hai/article71705785.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Diljit Dosanjh recitation India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/dxu2q2/article71705791.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-19%20135303.png",
+        "article_url": "https://www.thehindu.com/entertainment/music/diljit-says-attempts-made-to-stop-his-indore-concert-recites-kisi-ke-baap-ka-hindostan-thodi-hai/article71705785.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "cinema film entertainment"
+      }
+    }
+  ]
+}

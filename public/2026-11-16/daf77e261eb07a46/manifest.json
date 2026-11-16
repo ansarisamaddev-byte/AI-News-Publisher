@@ -1,0 +1,76 @@
+{
+  "news_id": "daf77e261eb07a46",
+  "title": "Ustaad Waheed Jeelani Calls for Official Handholding of Kashmir Artists",
+  "main_subject": {
+    "name": "Ustaad Waheed Jeelani",
+    "type": "person",
+    "image_search_query": "Ustaad Waheed Jeelani"
+  },
+  "category": "technology",
+  "tags": [
+    "Kashmir",
+    "artists",
+    "art",
+    "culture",
+    "language"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/penury-hit-kashmir-artists-seek-official-handholding/article71705789.ece",
+  "published_at": "2026-11-15T19:19:08+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Ustaad Waheed Jeelani Calls for Official Handholding of Kashmir Artists",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/9zf5h7/article71705795.ece/alternates/LANDSCAPE_1200/20261114553L.jpg",
+        "article_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/penury-hit-kashmir-artists-seek-official-handholding/article71705789.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Ustaad Waheed Jeelani"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Deep Penury and Indignity",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/9zf5h7/article71705795.ece/alternates/LANDSCAPE_1200/20261114553L.jpg",
+        "article_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/penury-hit-kashmir-artists-seek-official-handholding/article71705789.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Kashmir artists, penury, indignity India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Call for Official Handholding",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/9zf5h7/article71705795.ece/alternates/LANDSCAPE_1200/20261114553L.jpg",
+        "article_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/penury-hit-kashmir-artists-seek-official-handholding/article71705789.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Ustaad Waheed Jeelani, official handholding India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/9zf5h7/article71705795.ece/alternates/LANDSCAPE_1200/20261114553L.jpg",
+        "article_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/penury-hit-kashmir-artists-seek-official-handholding/article71705789.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}
