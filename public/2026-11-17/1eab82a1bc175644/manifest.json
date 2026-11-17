@@ -1,0 +1,74 @@
+{
+  "news_id": "1eab82a1bc175644",
+  "title": "United Airlines Resolves Widespread System Outage",
+  "main_subject": {
+    "name": "United Airlines",
+    "type": "company",
+    "image_search_query": "United Airlines"
+  },
+  "category": "technology",
+  "tags": [
+    "airline",
+    "technology",
+    "outage"
+  ],
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+  "published_at": "2026-11-16T23:26:23+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "United Airlines Resolves Widespread System Outage",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/eb6b6150bca60af4894ce9e3f598b0ea8d74e90c/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63b731a9bfe4c570bede67455e6e4ac5",
+        "article_url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "United Airlines"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What Happened",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/eb6b6150bca60af4894ce9e3f598b0ea8d74e90c/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63b731a9bfe4c570bede67455e6e4ac5",
+        "article_url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "United Airlines pilots' union United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why It Matters",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/eb6b6150bca60af4894ce9e3f598b0ea8d74e90c/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63b731a9bfe4c570bede67455e6e4ac5",
+        "article_url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "United Airlines resolution United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/eb6b6150bca60af4894ce9e3f598b0ea8d74e90c/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63b731a9bfe4c570bede67455e6e4ac5",
+        "article_url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

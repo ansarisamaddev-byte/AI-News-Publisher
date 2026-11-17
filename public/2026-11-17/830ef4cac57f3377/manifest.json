@@ -1,0 +1,80 @@
+{
+  "news_id": "830ef4cac57f3377",
+  "title": "Euclid Telescope Unveils Stunning Galaxy Images",
+  "main_subject": {
+    "name": "Euclid",
+    "type": "other",
+    "image_search_query": "Euclid"
+  },
+  "category": "technology",
+  "tags": [
+    "astronomy",
+    "telescope",
+    "dark matter"
+  ],
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xRlM4bHphbjhDSlVNZy1oYnhIeEJ5YkdRUk5NNFRjMU5yYTVndkF3ZlB0M2hqeVlJSkViUlY1ZUxRaXNzRmo3cFVUTjRPSU56MmJPTFBCcW41S3dydlFwV1laVVpHc01zRXhoWFN5akhaXzhSTFNSWk9R?oc=5",
+  "published_at": "2026-11-16T23:40:07+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Euclid Telescope Unveils Stunning Galaxy Images",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xRlM4bHphbjhDSlVNZy1oYnhIeEJ5YkdRUk5NNFRjMU5yYTVndkF3ZlB0M2hqeVlJSkViUlY1ZUxRaXNzRmo3cFVUTjRPSU56MmJPTFBCcW41S3dydlFwV1laVVpHc01zRXhoWFN5akhaXzhSTFNSWk9R?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Euclid"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Euclid Telescope",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "mOU_LvV0WhM",
+        "photographer": "Lorena Kelly",
+        "photographer_url": "https://unsplash.com/@lkelly1313?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/grey-concrete-building-near-green-trees-during-daytime-mOU_LvV0WhM?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1609998866792-b8aeee74c291?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8OXx8RXVjbGlkJTIwdGVsZXNjb3BlJTIwb3ZlcnZpZXclMjBVbml0ZWQlMjBLaW5nZG9tfGVufDF8MXx8fDE3OTQ4NzY2NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "Euclid telescope overview United Kingdom",
+        "fallback_used": false,
+        "original_query": "Euclid telescope overview United Kingdom"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Galaxy Images",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xRlM4bHphbjhDSlVNZy1oYnhIeEJ5YkdRUk5NNFRjMU5yYTVndkF3ZlB0M2hqeVlJSkViUlY1ZUxRaXNzRmo3cFVUTjRPSU56MmJPTFBCcW41S3dydlFwV1laVVpHc01zRXhoWFN5akhaXzhSTFNSWk9R?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Euclid telescope galaxy images United Kingdom"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "Bd7gNnWJBkU",
+        "photographer": "Andras Vas",
+        "photographer_url": "https://unsplash.com/@wasdrew?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/macbook-pro-turned-on-Bd7gNnWJBkU?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8bW9kZXJuJTIwdGVjaG5vbG9neSUyMGNvbXB1dGVyJTIwZGlnaXRhbHxlbnwxfDF8fHwxNzk0ODc2NjM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "modern technology computer digital",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "news_id": "9d17b667170dab78",
+  "title": "Xbox Black Friday Sale Starts November 19 with Our Biggest Sale of the Year on Games, Accessories and More!",
+  "main_subject": {
+    "name": "Xbox",
+    "type": "company",
+    "image_search_query": "Xbox"
+  },
+  "category": "technology",
+  "tags": [
+    "video game console",
+    "Xbox"
+  ],
+  "source": "Google News - Technology",
+  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yVjQzM1V4Z1RZMlptSVctQndUR05nVllfRnhhZjlYYzRTMjZ4RS0yeTVfOGRKU29mMDNBNzQxdlVIS1AzOFJqQTcxanVteDVaV3d0eTd0TnEya1pPN3JTRUxzNmdqUmV5RHpFVGFXaW5ZWHB6YnfSAXtBVV95cUxQVzhqMjJZNVNJZzlzaDQzSDVoeld0VFU1UDV1VjVraHBxaEgxaWZ2ZV9yMkNCVHRmakUtQWNtSkp0VFNlaWRYUHpiVF9jLWU1M1JXQUoxMUYwTElFQWFJMVhkdWNkN29TNmI0VDNoZ0YyOV9KcDViYWNhcUk?oc=5",
+  "published_at": "2026-11-17T00:01:29+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Xbox Black Friday Sale Starts November 19 with Our Biggest",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "FJFPuE1MAOM",
+        "photographer": "Nikita Kachanovsky",
+        "photographer_url": "https://unsplash.com/@nkachanovskyyy?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8WGJveHxlbnwxfDF8fHwxNzk0ODc2NjU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "Xbox",
+        "fallback_used": false,
+        "original_query": "Xbox"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Black Friday Sale",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "qh75QT91TfA",
+        "photographer": "Tim Mossholder",
+        "photographer_url": "https://unsplash.com/@timmossholder?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/black-and-white-love-me-wall-art-qh75QT91TfA?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1604532081136-b157aa1729e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8QmxhY2slMjBGcmlkYXklMjBTYWxlJTIwVW5pdGVkJTIwU3RhdGVzfGVufDF8MXx8fDE3OTQ4NzY2NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "Black Friday Sale United States",
+        "fallback_used": false,
+        "original_query": "Black Friday Sale United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Biggest Sale of the Year",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "Bd7gNnWJBkU",
+        "photographer": "Andras Vas",
+        "photographer_url": "https://unsplash.com/@wasdrew?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/macbook-pro-turned-on-Bd7gNnWJBkU?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8bW9kZXJuJTIwdGVjaG5vbG9neSUyMGNvbXB1dGVyJTIwZGlnaXRhbHxlbnwxfDF8fHwxNzk0ODc2NjM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "modern technology computer digital",
+        "fallback_used": true,
+        "original_query": "Biggest Sale of the Year United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "Bd7gNnWJBkU",
+        "photographer": "Andras Vas",
+        "photographer_url": "https://unsplash.com/@wasdrew?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/macbook-pro-turned-on-Bd7gNnWJBkU?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8bW9kZXJuJTIwdGVjaG5vbG9neSUyMGNvbXB1dGVyJTIwZGlnaXRhbHxlbnwxfDF8fHwxNzk0ODc2NjM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "modern technology computer digital",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

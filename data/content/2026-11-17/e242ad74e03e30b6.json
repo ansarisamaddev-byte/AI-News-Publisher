@@ -1,65 +1,66 @@
 {
-    "news_id": "e242ad74e03e30b6",
+  "news_id": "e242ad74e03e30b6",
+  "country": "UK",
+  "main_subject": {
+    "name": "Arion Kurtaj",
+    "type": "person",
+    "image_search_query": "Arion Kurtaj"
+  },
+  "classification": {
     "country": "UK",
-    "main_subject": {
-        "name": "Arion Kurtaj",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "cybercrime",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "UK",
+    "tags": [
+      "cybercrime",
+      "GTA VI",
+      "Lapsus$",
+      "BT/EE"
+    ],
+    "classification_reason": "Arion Kurtaj is the central figure in the article, detailing his cybercrime activities and legal consequences.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Arion Kurtaj Pleads Guilty to Cybercrime Charges",
+    "caption": "Arion Kurtaj, a 21-year-old member of the Lapsus$ cybercrime group, pleaded guilty to hacking and leaking 90 videos of Grand Theft Auto VI in 2022.",
+    "hashtags": [
+      "#ArionKurtaj",
+      "#Lapsus$",
+      "#GTAVI",
+      "#Cybercrime"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Arion Kurtaj Pleads Guilty to Cybercrime Charges",
+        "text": "Arion Kurtaj, a 21-year-old member of the Lapsus$ cybercrime group, pleaded guilty to hacking and leaking 90 videos of Grand Theft Auto VI in 2022.",
         "image_search_query": "Arion Kurtaj"
-    },
-    "classification": {
-        "country": "UK",
-        "category": "technology",
-        "subcategory": "cybercrime",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "UK",
-        "tags": [
-            "cybercrime",
-            "GTA VI",
-            "Lapsus$",
-            "BT/EE"
-        ],
-        "classification_reason": "Arion Kurtaj is the central figure in the article, detailing his cybercrime activities and legal consequences.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Arion Kurtaj Pleads Guilty to Cybercrime Charges",
-        "caption": "Arion Kurtaj, a 21-year-old member of the Lapsus$ cybercrime group, pleaded guilty to hacking and leaking 90 videos of Grand Theft Auto VI in 2022.",
-        "hashtags": [
-            "#ArionKurtaj",
-            "#Lapsus$",
-            "#GTAVI",
-            "#Cybercrime"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Arion Kurtaj Pleads Guilty to Cybercrime Charges",
-                "text": "Arion Kurtaj, a 21-year-old member of the Lapsus$ cybercrime group, pleaded guilty to hacking and leaking 90 videos of Grand Theft Auto VI in 2022.",
-                "image_search_query": "Arion Kurtaj"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Leaked 90 Videos of GTA VI",
-                "text": "Arion Kurtaj leaked 90 videos of Grand Theft Auto VI years before its release, which led to a marked increase in unauthorised SIM swaps of BT/EE customers' mobile phones.",
-                "image_search_query": "Leaked 90 videos of GTA VI United Kingdom"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Hacked Other Big Companies",
-                "text": "Arion Kurtaj hacked other big companies such as Rockstar Games, Uber, and Revolut, using a mobile phone, hotel TV's Wi-Fi, and a firestick.",
-                "image_search_query": "Hacked other big companies United Kingdom"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
-    "published_at": "2026-11-16T23:35:58+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Leaked 90 Videos of GTA VI",
+        "text": "Arion Kurtaj leaked 90 videos of Grand Theft Auto VI years before its release, which led to a marked increase in unauthorised SIM swaps of BT/EE customers' mobile phones.",
+        "image_search_query": "Leaked 90 videos of GTA VI United Kingdom"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Hacked Other Big Companies",
+        "text": "Arion Kurtaj hacked other big companies such as Rockstar Games, Uber, and Revolut, using a mobile phone, hotel TV's Wi-Fi, and a firestick.",
+        "image_search_query": "Hacked other big companies United Kingdom"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+  "published_at": "2026-11-16T23:35:58+00:00",
+  "image_done": true
 }

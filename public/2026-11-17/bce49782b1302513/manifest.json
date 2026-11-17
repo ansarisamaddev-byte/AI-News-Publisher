@@ -1,0 +1,81 @@
+{
+  "news_id": "bce49782b1302513",
+  "title": "Blocking One Signal May Shield Airways From Wildfire Smoke Damage",
+  "main_subject": {
+    "name": "Mirage News",
+    "type": "company",
+    "image_search_query": "Mirage News"
+  },
+  "category": "technology",
+  "tags": [
+    "data protection"
+  ],
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjhVaTZFVjBnMnhOZkFQZzdUS25FMDdtTTBnVEt3eHp6MXZXZmw0aEJrUlpKdVpUbUtHektTZ3B6WWxxN3hXdDhhRnBfanRGNkwtUFRfNzJOSUFYTnBtd2hXYmczRm5VZHYxY0ZNV0FjclpsSUZDT2lRTlZiYldPQ2szbmdmUQ?oc=5",
+  "published_at": "2026-11-16T23:30:00+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Blocking One Signal May Shield Airways From Wildfire Smoke Damage",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjhVaTZFVjBnMnhOZkFQZzdUS25FMDdtTTBnVEt3eHp6MXZXZmw0aEJrUlpKdVpUbUtHektTZ3B6WWxxN3hXdDhhRnBfanRGNkwtUFRfNzJOSUFYTnBtd2hXYmczRm5VZHYxY0ZNV0FjclpsSUZDT2lRTlZiYldPQ2szbmdmUQ?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Mirage News"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Study",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "Re8nAX44pZg",
+        "photographer": "Polina Kuzovkova",
+        "photographer_url": "https://unsplash.com/@p_kuzovkova?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/a-large-plume-of-smoke-is-seen-in-the-distance-Re8nAX44pZg?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1632301104173-faab428f1a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8d2lsZGZpcmUlMjBzbW9rZSUyMHByb3RlY3Rpb24lMjBzdHVkeSUyMFVuaXRlZCUyMFN0YXRlc3xlbnwxfDF8fHwxNzk0ODc2NjY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "wildfire smoke protection study United States",
+        "fallback_used": false,
+        "original_query": "wildfire smoke protection study United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Implications",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "Re8nAX44pZg",
+        "photographer": "Polina Kuzovkova",
+        "photographer_url": "https://unsplash.com/@p_kuzovkova?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/a-large-plume-of-smoke-is-seen-in-the-distance-Re8nAX44pZg?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1632301104173-faab428f1a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8d2lsZGZpcmUlMjBzbW9rZSUyMG1hbmFnZW1lbnQlMjBVbml0ZWQlMjBTdGF0ZXN8ZW58MXwxfHx8MTc5NDg3NjY2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "wildfire smoke management United States",
+        "fallback_used": false,
+        "original_query": "wildfire smoke management United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "Bd7gNnWJBkU",
+        "photographer": "Andras Vas",
+        "photographer_url": "https://unsplash.com/@wasdrew?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/macbook-pro-turned-on-Bd7gNnWJBkU?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8bW9kZXJuJTIwdGVjaG5vbG9neSUyMGNvbXB1dGVyJTIwZGlnaXRhbHxlbnwxfDF8fHwxNzk0ODc2NjM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "modern technology computer digital",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

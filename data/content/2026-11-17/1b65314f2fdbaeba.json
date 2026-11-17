@@ -1,65 +1,66 @@
 {
-    "news_id": "1b65314f2fdbaeba",
+  "news_id": "1b65314f2fdbaeba",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "12-Year-Old Delhi Girl",
+    "type": "person",
+    "image_search_query": "12-Year-Old Delhi Girl"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "12-Year-Old Delhi Girl",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "health",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Delhi",
+    "tags": [
+      "12-year-old",
+      "Delhi",
+      "vision loss",
+      "firecracker incident"
+    ],
+    "classification_reason": "The article focuses on a 12-year-old girl losing vision in one eye due to a firecracker incident, which is a significant health and safety issue in Delhi.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "12-Year-Old Delhi Girl Loses Vision In One Eye After Being Hit By Firecracker",
+    "caption": "A 12-year-old girl from Delhi lost vision in one eye after being hit by a firecracker during Diwali.",
+    "hashtags": [
+      "#12yearold",
+      "#Delhi",
+      "#visionloss",
+      "#firecrackerincident"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "12-Year-Old Delhi Girl Loses Vision In One Eye After Being",
+        "text": "A 12-year-old girl from Delhi lost vision in one eye after being hit by a firecracker during Diwali.",
         "image_search_query": "12-Year-Old Delhi Girl"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "technology",
-        "subcategory": "health",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Delhi",
-        "tags": [
-            "12-year-old",
-            "Delhi",
-            "vision loss",
-            "firecracker incident"
-        ],
-        "classification_reason": "The article focuses on a 12-year-old girl losing vision in one eye due to a firecracker incident, which is a significant health and safety issue in Delhi.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "12-Year-Old Delhi Girl Loses Vision In One Eye After Being Hit By Firecracker",
-        "caption": "A 12-year-old girl from Delhi lost vision in one eye after being hit by a firecracker during Diwali.",
-        "hashtags": [
-            "#12yearold",
-            "#Delhi",
-            "#visionloss",
-            "#firecrackerincident"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "12-Year-Old Delhi Girl Loses Vision In One Eye After Being",
-                "text": "A 12-year-old girl from Delhi lost vision in one eye after being hit by a firecracker during Diwali.",
-                "image_search_query": "12-Year-Old Delhi Girl"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Relevant Context",
-                "text": "The incident occurred during Diwali, a significant festival in India.",
-                "image_search_query": "Diwali firecracker incident India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Important Details",
-                "text": "The girl was hit by a firecracker while celebrating Diwali, losing vision in one eye.",
-                "image_search_query": "12-year-old girl firecracker hit India"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "NDTV",
-    "source_url": "https://www.ndtv.com/delhi-news/12-year-old-delhi-girl-loses-vision-in-one-eye-after-firecracker-hit-during-diwali-12336148#publisher=newsstand",
-    "published_at": "2026-11-16T23:40:47+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Relevant Context",
+        "text": "The incident occurred during Diwali, a significant festival in India.",
+        "image_search_query": "Diwali firecracker incident India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Important Details",
+        "text": "The girl was hit by a firecracker while celebrating Diwali, losing vision in one eye.",
+        "image_search_query": "12-year-old girl firecracker hit India"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/delhi-news/12-year-old-delhi-girl-loses-vision-in-one-eye-after-firecracker-hit-during-diwali-12336148#publisher=newsstand",
+  "published_at": "2026-11-16T23:40:47+00:00",
+  "image_done": true
 }
