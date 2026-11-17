@@ -1,0 +1,63 @@
+{
+    "news_id": "830ef4cac57f3377",
+    "country": "UK",
+    "main_subject": {
+        "name": "Euclid",
+        "type": "other",
+        "image_search_query": "Euclid"
+    },
+    "classification": {
+        "country": "UK",
+        "category": "technology",
+        "subcategory": "astronomy",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "UK",
+        "tags": [
+            "astronomy",
+            "telescope",
+            "dark matter"
+        ],
+        "classification_reason": "Euclid is a space telescope used for mapping the universe, particularly focusing on dark matter and star formation in distant galaxies.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Euclid Telescope Unveils Stunning Galaxy Images",
+        "caption": "Euclid, a space telescope, reveals breathtaking photos of 900 million galaxies in its first major data release.",
+        "hashtags": [
+            "#Euclid",
+            "#GalaxyImages",
+            "#DarkMatter"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Euclid Telescope Unveils Stunning Galaxy Images",
+                "text": "Euclid, a space telescope, reveals breathtaking photos of 900 million galaxies in its first major data release.",
+                "image_search_query": "Euclid"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Euclid Telescope",
+                "text": "Euclid is a space telescope used for mapping the universe, particularly focusing on dark matter and star formation in distant galaxies.",
+                "image_search_query": "Euclid telescope overview United Kingdom"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Galaxy Images",
+                "text": "Euclid reveals stunning photos of 900 million galaxies, providing insights into the universe's structure and evolution.",
+                "image_search_query": "Euclid telescope galaxy images United Kingdom"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Science",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xRlM4bHphbjhDSlVNZy1oYnhIeEJ5YkdRUk5NNFRjMU5yYTVndkF3ZlB0M2hqeVlJSkViUlY1ZUxRaXNzRmo3cFVUTjRPSU56MmJPTFBCcW41S3dydlFwV1laVVpHc01zRXhoWFN5akhaXzhSTFNSWk9R?oc=5",
+    "published_at": "2026-11-16T23:40:07+00:00"
+}

@@ -1,0 +1,61 @@
+{
+    "news_id": "9d17b667170dab78",
+    "country": "US",
+    "main_subject": {
+        "name": "Xbox",
+        "type": "company",
+        "image_search_query": "Xbox"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "video game consoles",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US",
+        "tags": [
+            "video game console",
+            "Xbox"
+        ],
+        "classification_reason": "The article is about the Xbox, a major video game console company.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Xbox Black Friday Sale Starts November 19 with Our Biggest Sale of the Year on Games, Accessories and More!",
+        "caption": "The Xbox is launching its biggest Black Friday sale of the year, offering discounts on games, accessories, and more.",
+        "hashtags": [
+            "#XboxBlackFriday",
+            "#BigSale"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Xbox Black Friday Sale Starts November 19 with Our Biggest",
+                "text": "The Xbox is launching its biggest Black Friday sale of the year, offering discounts on games, accessories, and more.",
+                "image_search_query": "Xbox"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Black Friday Sale",
+                "text": "The Xbox is offering discounts on games, accessories, and more to celebrate the Black Friday sale.",
+                "image_search_query": "Black Friday Sale United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Biggest Sale of the Year",
+                "text": "The Xbox is launching its biggest Black Friday sale of the year, offering discounts on a wide range of products.",
+                "image_search_query": "Biggest Sale of the Year United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Technology",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yVjQzM1V4Z1RZMlptSVctQndUR05nVllfRnhhZjlYYzRTMjZ4RS0yeTVfOGRKU29mMDNBNzQxdlVIS1AzOFJqQTcxanVteDVaV3d0eTd0TnEya1pPN3JTRUxzNmdqUmV5RHpFVGFXaW5ZWHB6YnfSAXtBVV95cUxQVzhqMjJZNVNJZzlzaDQzSDVoeld0VFU1UDV1VjVraHBxaEgxaWZ2ZV9yMkNCVHRmakUtQWNtSkp0VFNlaWRYUHpiVF9jLWU1M1JXQUoxMUYwTElFQWFJMVhkdWNkN29TNmI0VDNoZ0YyOV9KcDViYWNhcUk?oc=5",
+    "published_at": "2026-11-17T00:01:29+00:00"
+}

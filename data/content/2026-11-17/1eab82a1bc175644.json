@@ -1,0 +1,63 @@
+{
+    "news_id": "1eab82a1bc175644",
+    "country": "US",
+    "main_subject": {
+        "name": "United Airlines",
+        "type": "company",
+        "image_search_query": "United Airlines"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "airline",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US",
+        "tags": [
+            "airline",
+            "technology",
+            "outage"
+        ],
+        "classification_reason": "The article is primarily about United Airlines' technology issue that affected their system and caused delays in flights.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "United Airlines Resolves Widespread System Outage",
+        "caption": "United Airlines has resolved a widespread system outage that delayed flight departures.",
+        "hashtags": [
+            "#UnitedOutage",
+            "#TechIssue",
+            "#FlightDelays"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "United Airlines Resolves Widespread System Outage",
+                "text": "United Airlines has resolved a widespread system outage that delayed flight departures.",
+                "image_search_query": "United Airlines"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "What Happened",
+                "text": "A widespread system outage affected multiple applications used by pilots, including crew communications.",
+                "image_search_query": "United Airlines pilots' union United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why It Matters",
+                "text": "The outage resolved on Monday, just three days after the Federal Aviation Administration issued a rare nationwide ground stop on all US flights.",
+                "image_search_query": "United Airlines resolution United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Guardian",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+    "published_at": "2026-11-16T23:26:23+00:00"
+}
