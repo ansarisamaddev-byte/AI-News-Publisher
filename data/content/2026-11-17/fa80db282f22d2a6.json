@@ -1,0 +1,61 @@
+{
+    "news_id": "fa80db282f22d2a6",
+    "country": "US",
+    "main_subject": {
+        "name": "USS Theodore Roosevelt",
+        "type": "person",
+        "image_search_query": "USS Theodore Roosevelt"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "naval",
+        "importance_score": 1,
+        "relevance_score": 1,
+        "region": "Middle East",
+        "tags": [
+            "naval"
+        ],
+        "classification_reason": "US military aircraft carrier operating in the Middle East",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "US Navy Aircraft Carrier USS Theodore Roosevelt Operating in Middle East",
+        "caption": "The USS Theodore Roosevelt is deployed in the Middle East, marking the third US aircraft carrier operating in the region.",
+        "hashtags": [
+            "#USNavy",
+            "#MiddleEast",
+            "#USAircraftCarrier"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "US Navy Aircraft Carrier USS Theodore Roosevelt Operating in Middle",
+                "text": "The USS Theodore Roosevelt is deployed in the Middle East, marking the third US aircraft carrier operating in the region.",
+                "image_search_query": "USS Theodore Roosevelt"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Deployment Details",
+                "text": "The USS Theodore Roosevelt is the third US aircraft carrier operating in the Middle East, joining the USS John C. Stennis and the USS Theodore Roosevelt Jr.",
+                "image_search_query": "US Navy aircraft carrier deployment United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Significance",
+                "text": "The deployment of the USS Theodore Roosevelt in the Middle East is significant as it underscores the US military's commitment to regional stability and its ability to project power in the region.",
+                "image_search_query": "US Navy aircraft carrier significance United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "NDTV",
+    "source_url": "https://www.ndtv.com/world-news/3-us-aircraft-carriers-operating-in-middle-east-12335914#publisher=newsstand",
+    "published_at": "2026-11-16T23:00:00+00:00"
+}

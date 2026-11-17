@@ -1,0 +1,63 @@
+{
+    "news_id": "f709330c4c7d4bfc",
+    "country": "US",
+    "main_subject": {
+        "name": "Perseverance rover",
+        "type": "person",
+        "image_search_query": "Perseverance rover"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "robotics",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Jezero crater, Mars",
+        "tags": [
+            "robotics",
+            "Mars exploration",
+            "Perseverance rover"
+        ],
+        "classification_reason": "The main subject is the Perseverance rover, which is a significant technological advancement in Mars exploration.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’",
+        "caption": "The Perseverance rover has discovered a cluster of eerily bright, light-toned rocks in the 'Idubi' area of ancient Martian crust.",
+        "hashtags": [
+            "#Perseverance",
+            "#Idubi",
+            "#MarsRover"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Perseverance Update: The Ghostly Rocks of ‘Idubi’",
+                "text": "The Perseverance rover has discovered a cluster of eerily bright, light-toned rocks in the 'Idubi' area of ancient Martian crust.",
+                "image_search_query": "Perseverance rover"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "What Happened",
+                "text": "During the Perseverance rover's investigation of 'Idubi', a cluster of eerily bright, light-toned rocks was discovered.",
+                "image_search_query": "ancient Martian crust, 'Idubi', Perseverance rover United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why It Matters",
+                "text": "These bright rocks are not igneous in origin and are rich in hydrated silica, which could hold signs of ancient life.",
+                "image_search_query": "hydrated silica, hydrated silica rocks, hydrated silica deposits United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "NASA",
+    "source_url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+    "published_at": "2026-11-16T23:12:45+00:00"
+}
