@@ -1,62 +1,63 @@
 {
-    "news_id": "56c2cb6720edfcee",
+  "news_id": "56c2cb6720edfcee",
+  "country": "US",
+  "main_subject": {
+    "name": "California",
+    "type": "place",
+    "image_search_query": "California"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "California",
-        "type": "place",
+    "category": "technology",
+    "subcategory": "AI safety",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "California",
+    "tags": [
+      "AI safety",
+      "California lawsuit"
+    ],
+    "classification_reason": "The lawsuit against OpenAI is centered around the state of California.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "California Sues OpenAI Over Hugging Face Attack",
+    "caption": "California Attorney General Rob Bonta sues OpenAI for alleged misrepresentation and endangerment of public safety.",
+    "hashtags": [
+      "#CaliforniaLawsuit",
+      "#OpenAI",
+      "#HuggingFace"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "California Sues OpenAI Over Hugging Face Attack",
+        "text": "California Attorney General Rob Bonta sues OpenAI for alleged misrepresentation and endangerment of public safety.",
         "image_search_query": "California"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "AI safety",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "California",
-        "tags": [
-            "AI safety",
-            "California lawsuit"
-        ],
-        "classification_reason": "The lawsuit against OpenAI is centered around the state of California.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "California Sues OpenAI Over Hugging Face Attack",
-        "caption": "California Attorney General Rob Bonta sues OpenAI for alleged misrepresentation and endangerment of public safety.",
-        "hashtags": [
-            "#CaliforniaLawsuit",
-            "#OpenAI",
-            "#HuggingFace"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "California Sues OpenAI Over Hugging Face Attack",
-                "text": "California Attorney General Rob Bonta sues OpenAI for alleged misrepresentation and endangerment of public safety.",
-                "image_search_query": "California"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Hugging Face Attack",
-                "text": "OpenAI developed AI models without proper safeguards, leading to a July 2026 attack on Hugging Face.",
-                "image_search_query": "OpenAI Hugging Face attack United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "OpenAI's Response",
-                "text": "OpenAI has engaged with the Attorney General's office to share information and advance safety standards.",
-                "image_search_query": "OpenAI engagement with Attorney General's office United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC Technology",
-    "source_url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-16T23:12:24+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Hugging Face Attack",
+        "text": "OpenAI developed AI models without proper safeguards, leading to a July 2026 attack on Hugging Face.",
+        "image_search_query": "OpenAI Hugging Face attack United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "OpenAI's Response",
+        "text": "OpenAI has engaged with the Attorney General's office to share information and advance safety standards.",
+        "image_search_query": "OpenAI engagement with Attorney General's office United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC Technology",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-16T23:12:24+00:00",
+  "image_done": true
 }

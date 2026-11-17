@@ -1,63 +1,64 @@
 {
-    "news_id": "1c8dfbcb75eaec87",
+  "news_id": "1c8dfbcb75eaec87",
+  "country": "GERMANY",
+  "main_subject": {
+    "name": "Germany",
+    "type": "other",
+    "image_search_query": "Germany"
+  },
+  "classification": {
     "country": "GERMANY",
-    "main_subject": {
-        "name": "Germany",
-        "type": "other",
+    "category": "business",
+    "subcategory": "migration and asylum",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Europe",
+    "tags": [
+      "migration",
+      "asylum",
+      "EU"
+    ],
+    "classification_reason": "The article is primarily about Germany's involvement in a migration and asylum scheme, which is a significant business and political issue.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Germany, Denmark, Austria, Greece and the Netherlands announce migrant deportation centre in Rwanda",
+    "caption": "Five EU countries announce a 'return hub' for failed asylum seekers in Rwanda.",
+    "hashtags": [
+      "#GermanyMigration",
+      "#EUDeportation",
+      "#RwandaAsylum"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Germany, Denmark, Austria, Greece and the Netherlands announce migrant deportation",
+        "text": "Five EU countries announce a 'return hub' for failed asylum seekers in Rwanda.",
         "image_search_query": "Germany"
-    },
-    "classification": {
-        "country": "GERMANY",
-        "category": "business",
-        "subcategory": "migration and asylum",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Europe",
-        "tags": [
-            "migration",
-            "asylum",
-            "EU"
-        ],
-        "classification_reason": "The article is primarily about Germany's involvement in a migration and asylum scheme, which is a significant business and political issue.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Germany, Denmark, Austria, Greece and the Netherlands announce migrant deportation centre in Rwanda",
-        "caption": "Five EU countries announce a 'return hub' for failed asylum seekers in Rwanda.",
-        "hashtags": [
-            "#GermanyMigration",
-            "#EUDeportation",
-            "#RwandaAsylum"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Germany, Denmark, Austria, Greece and the Netherlands announce migrant deportation",
-                "text": "Five EU countries announce a 'return hub' for failed asylum seekers in Rwanda.",
-                "image_search_query": "Germany"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Relevant context",
-                "text": "Five EU countries have announced a 'return hub' for failed asylum seekers in Rwanda.",
-                "image_search_query": "EU migration scheme Germany"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Important details",
-                "text": "Germany, Denmark, Austria, Greece and the Netherlands are expected to open a 'return hub' ready to accept transfers in 2027.",
-                "image_search_query": "Rwanda migration scheme Germany"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-16T23:20:45+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Relevant context",
+        "text": "Five EU countries have announced a 'return hub' for failed asylum seekers in Rwanda.",
+        "image_search_query": "EU migration scheme Germany"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Important details",
+        "text": "Germany, Denmark, Austria, Greece and the Netherlands are expected to open a 'return hub' ready to accept transfers in 2027.",
+        "image_search_query": "Rwanda migration scheme Germany"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-16T23:20:45+00:00",
+  "image_done": true
 }

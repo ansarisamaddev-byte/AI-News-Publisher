@@ -1,62 +1,63 @@
 {
-    "news_id": "4413d74e9bd00c16",
+  "news_id": "4413d74e9bd00c16",
+  "country": "US",
+  "main_subject": {
+    "name": "NASA's Curiosity Rover",
+    "type": "person",
+    "image_search_query": "NASA's Curiosity Rover"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "NASA's Curiosity Rover",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "space exploration",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "NASA",
+      "Curiosity Rover"
+    ],
+    "classification_reason": "The article is about NASA's Curiosity Rover, which is a significant space exploration mission.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "NASA's Curiosity Rover Makes 49 Drilling Holes on Mars",
+    "caption": "NASA's Curiosity Rover has completed its 49th drilling site on Mars, marking a significant milestone in the mission.",
+    "hashtags": [
+      "#NASA",
+      "#CuriosityRover",
+      "#MarsDrilling"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "NASA's Curiosity Rover Makes 49 Drilling Holes on Mars",
+        "text": "NASA's Curiosity Rover has completed its 49th drilling site on Mars, marking a significant milestone in the mission.",
         "image_search_query": "NASA's Curiosity Rover"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "space exploration",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "NASA",
-            "Curiosity Rover"
-        ],
-        "classification_reason": "The article is about NASA's Curiosity Rover, which is a significant space exploration mission.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "NASA's Curiosity Rover Makes 49 Drilling Holes on Mars",
-        "caption": "NASA's Curiosity Rover has completed its 49th drilling site on Mars, marking a significant milestone in the mission.",
-        "hashtags": [
-            "#NASA",
-            "#CuriosityRover",
-            "#MarsDrilling"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "NASA's Curiosity Rover Makes 49 Drilling Holes on Mars",
-                "text": "NASA's Curiosity Rover has completed its 49th drilling site on Mars, marking a significant milestone in the mission.",
-                "image_search_query": "NASA's Curiosity Rover"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "New Drilling Site",
-                "text": "The rover has reached its 49th drilling site on Mars, marking a significant milestone in the mission.",
-                "image_search_query": "NASA Curiosity Rover drilling site United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Mars Exploration",
-                "text": "The rover's 49th drilling site is part of NASA's ongoing Mars exploration program.",
-                "image_search_query": "NASA Mars exploration United States"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Science",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXpSRDBybVVfM1JMQVBQeEVVVWVZVmxfUDgxclRZd0QzRDR5ZHdscEY3NzFkSFlVdkN0ckFnczF0cmctWlZNRTZSNUhVb2g1ZldNcGZTNEp3NzItbUNqWHlHY1o0emRFSGpNXzF3RlVjYnZCUnVEUy1hNUgwTnVCeEVEQTg?oc=5",
-    "published_at": "2026-11-16T22:53:00+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "New Drilling Site",
+        "text": "The rover has reached its 49th drilling site on Mars, marking a significant milestone in the mission.",
+        "image_search_query": "NASA Curiosity Rover drilling site United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Mars Exploration",
+        "text": "The rover's 49th drilling site is part of NASA's ongoing Mars exploration program.",
+        "image_search_query": "NASA Mars exploration United States"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXpSRDBybVVfM1JMQVBQeEVVVWVZVmxfUDgxclRZd0QzRDR5ZHdscEY3NzFkSFlVdkN0ckFnczF0cmctWlZNRTZSNUhVb2g1ZldNcGZTNEp3NzItbUNqWHlHY1o0emRFSGpNXzF3RlVjYnZCUnVEUy1hNUgwTnVCeEVEQTg?oc=5",
+  "published_at": "2026-11-16T22:53:00+00:00",
+  "image_done": true
 }

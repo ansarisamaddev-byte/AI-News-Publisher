@@ -1,0 +1,73 @@
+{
+  "news_id": "4413d74e9bd00c16",
+  "title": "NASA's Curiosity Rover Makes 49 Drilling Holes on Mars",
+  "main_subject": {
+    "name": "NASA's Curiosity Rover",
+    "type": "person",
+    "image_search_query": "NASA's Curiosity Rover"
+  },
+  "category": "technology",
+  "tags": [
+    "NASA",
+    "Curiosity Rover"
+  ],
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXpSRDBybVVfM1JMQVBQeEVVVWVZVmxfUDgxclRZd0QzRDR5ZHdscEY3NzFkSFlVdkN0ckFnczF0cmctWlZNRTZSNUhVb2g1ZldNcGZTNEp3NzItbUNqWHlHY1o0emRFSGpNXzF3RlVjYnZCUnVEUy1hNUgwTnVCeEVEQTg?oc=5",
+  "published_at": "2026-11-16T22:53:00+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "NASA's Curiosity Rover Makes 49 Drilling Holes on Mars",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXpSRDBybVVfM1JMQVBQeEVVVWVZVmxfUDgxclRZd0QzRDR5ZHdscEY3NzFkSFlVdkN0ckFnczF0cmctWlZNRTZSNUhVb2g1ZldNcGZTNEp3NzItbUNqWHlHY1o0emRFSGpNXzF3RlVjYnZCUnVEUy1hNUgwTnVCeEVEQTg?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "NASA's Curiosity Rover"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "New Drilling Site",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXpSRDBybVVfM1JMQVBQeEVVVWVZVmxfUDgxclRZd0QzRDR5ZHdscEY3NzFkSFlVdkN0ckFnczF0cmctWlZNRTZSNUhVb2g1ZldNcGZTNEp3NzItbUNqWHlHY1o0emRFSGpNXzF3RlVjYnZCUnVEUy1hNUgwTnVCeEVEQTg?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "NASA Curiosity Rover drilling site United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Mars Exploration",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXpSRDBybVVfM1JMQVBQeEVVVWVZVmxfUDgxclRZd0QzRDR5ZHdscEY3NzFkSFlVdkN0ckFnczF0cmctWlZNRTZSNUhVb2g1ZldNcGZTNEp3NzItbUNqWHlHY1o0emRFSGpNXzF3RlVjYnZCUnVEUy1hNUgwTnVCeEVEQTg?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "NASA Mars exploration United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXpSRDBybVVfM1JMQVBQeEVVVWVZVmxfUDgxclRZd0QzRDR5ZHdscEY3NzFkSFlVdkN0ckFnczF0cmctWlZNRTZSNUhVb2g1ZldNcGZTNEp3NzItbUNqWHlHY1o0emRFSGpNXzF3RlVjYnZCUnVEUy1hNUgwTnVCeEVEQTg?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

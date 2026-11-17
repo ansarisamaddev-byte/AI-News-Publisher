@@ -1,0 +1,74 @@
+{
+  "news_id": "f709330c4c7d4bfc",
+  "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’",
+  "main_subject": {
+    "name": "Perseverance rover",
+    "type": "person",
+    "image_search_query": "Perseverance rover"
+  },
+  "category": "technology",
+  "tags": [
+    "robotics",
+    "Mars exploration",
+    "Perseverance rover"
+  ],
+  "source": "NASA",
+  "source_url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+  "published_at": "2026-11-16T23:12:45+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Perseverance Update: The Ghostly Rocks of ‘Idubi’",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2023_0846533367_473EBY_N0930000ZCAM10057_1100LMJ.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "article_url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Perseverance rover"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What Happened",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2023_0846533367_473EBY_N0930000ZCAM10057_1100LMJ.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "article_url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "ancient Martian crust, 'Idubi', Perseverance rover United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why It Matters",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2023_0846533367_473EBY_N0930000ZCAM10057_1100LMJ.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "article_url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "hydrated silica, hydrated silica rocks, hydrated silica deposits United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2023_0846533367_473EBY_N0930000ZCAM10057_1100LMJ.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "article_url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

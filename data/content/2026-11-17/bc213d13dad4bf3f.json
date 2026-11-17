@@ -1,63 +1,64 @@
 {
-    "news_id": "bc213d13dad4bf3f",
+  "news_id": "bc213d13dad4bf3f",
+  "country": "US",
+  "main_subject": {
+    "name": "Sunspot dynamic fibrils",
+    "type": "other",
+    "image_search_query": "Sunspot dynamic fibrils"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Sunspot dynamic fibrils",
-        "type": "other",
+    "category": "science",
+    "subcategory": "astronomy",
+    "importance_score": 1,
+    "relevance_score": 1,
+    "region": "US",
+    "tags": [
+      "astronomy",
+      "sunspots",
+      "magnetoacoustic waves"
+    ],
+    "classification_reason": "sunspot dynamic fibrils are a scientific discovery related to astronomy",
+    "selected_channels": [
+      "science-news"
+    ]
+  },
+  "content": {
+    "title": "Sunspot dynamic fibrils linked to slow magnetoacoustic waves",
+    "caption": "A concise explanation of the actual news story.",
+    "hashtags": [
+      "#astronomy",
+      "#sunspots",
+      "#magnetoacoustic waves"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Sunspot dynamic fibrils linked to slow magnetoacoustic waves",
+        "text": "A concise explanation of the actual news story.",
         "image_search_query": "Sunspot dynamic fibrils"
-    },
-    "classification": {
-        "country": "US",
-        "category": "science",
-        "subcategory": "astronomy",
-        "importance_score": 1,
-        "relevance_score": 1,
-        "region": "US",
-        "tags": [
-            "astronomy",
-            "sunspots",
-            "magnetoacoustic waves"
-        ],
-        "classification_reason": "sunspot dynamic fibrils are a scientific discovery related to astronomy",
-        "selected_channels": [
-            "science-news"
-        ]
-    },
-    "content": {
-        "title": "Sunspot dynamic fibrils linked to slow magnetoacoustic waves",
-        "caption": "A concise explanation of the actual news story.",
-        "hashtags": [
-            "#astronomy",
-            "#sunspots",
-            "#magnetoacoustic waves"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Sunspot dynamic fibrils linked to slow magnetoacoustic waves",
-                "text": "A concise explanation of the actual news story.",
-                "image_search_query": "Sunspot dynamic fibrils"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Discovery",
-                "text": "The discovery of sunspot dynamic fibrils.",
-                "image_search_query": "sunspot dynamic fibrils discovery United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Implications",
-                "text": "The implications of the discovery.",
-                "image_search_query": "sunspot dynamic fibrils implications United States"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Science",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPclBHY0prbUlsRlRIa1piOVpPbEd3RDJ1bVAwdWYzbkJ4YTdFVGJzbmlHUUpVS0pZUjBqeFpHdUhKUHp5YXcyRmJ0VjBFX2dnVldWUXVQMjR4RWxZMnFtZEFBTk91SENTZzItWTdWeFY4NXJCamFrVmJ4OGdCU3p4bXFRTDNZRjBY?oc=5",
-    "published_at": "2026-11-16T23:00:02+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Discovery",
+        "text": "The discovery of sunspot dynamic fibrils.",
+        "image_search_query": "sunspot dynamic fibrils discovery United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Implications",
+        "text": "The implications of the discovery.",
+        "image_search_query": "sunspot dynamic fibrils implications United States"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPclBHY0prbUlsRlRIa1piOVpPbEd3RDJ1bVAwdWYzbkJ4YTdFVGJzbmlHUUpVS0pZUjBqeFpHdUhKUHp5YXcyRmJ0VjBFX2dnVldWUXVQMjR4RWxZMnFtZEFBTk91SENTZzItWTdWeFY4NXJCamFrVmJ4OGdCU3p4bXFRTDNZRjBY?oc=5",
+  "published_at": "2026-11-16T23:00:02+00:00",
+  "image_done": true
 }

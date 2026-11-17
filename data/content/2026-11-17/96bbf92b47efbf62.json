@@ -1,63 +1,64 @@
 {
-    "news_id": "96bbf92b47efbf62",
+  "news_id": "96bbf92b47efbf62",
+  "country": "UK",
+  "main_subject": {
+    "name": "Met Office",
+    "type": "organization",
+    "image_search_query": "Met Office"
+  },
+  "classification": {
     "country": "UK",
-    "main_subject": {
-        "name": "Met Office",
-        "type": "organization",
+    "category": "science",
+    "subcategory": "weather",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "UK",
+    "tags": [
+      "met office",
+      "weather",
+      "snow"
+    ],
+    "classification_reason": "The Met Office is the primary subject of the article, focusing on weather predictions and warnings.",
+    "selected_channels": [
+      "science-news"
+    ]
+  },
+  "content": {
+    "title": "Met Office issues yellow snow warning",
+    "caption": "The Met Office has issued a yellow snow warning for parts of northern England and southern Scotland due to heavy snowfall.",
+    "hashtags": [
+      "#MetOffice",
+      "#SnowWarning",
+      "#WeatherForecast"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Met Office issues yellow snow warning",
+        "text": "The Met Office has issued a yellow snow warning for parts of northern England and southern Scotland due to heavy snowfall.",
         "image_search_query": "Met Office"
-    },
-    "classification": {
-        "country": "UK",
-        "category": "science",
-        "subcategory": "weather",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "UK",
-        "tags": [
-            "met office",
-            "weather",
-            "snow"
-        ],
-        "classification_reason": "The Met Office is the primary subject of the article, focusing on weather predictions and warnings.",
-        "selected_channels": [
-            "science-news"
-        ]
-    },
-    "content": {
-        "title": "Met Office issues yellow snow warning",
-        "caption": "The Met Office has issued a yellow snow warning for parts of northern England and southern Scotland due to heavy snowfall.",
-        "hashtags": [
-            "#MetOffice",
-            "#SnowWarning",
-            "#WeatherForecast"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Met Office issues yellow snow warning",
-                "text": "The Met Office has issued a yellow snow warning for parts of northern England and southern Scotland due to heavy snowfall.",
-                "image_search_query": "Met Office"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Snowfall and Weather Conditions",
-                "text": "Heavy snowfall is expected in parts of northern England and southern Scotland due to a weather front pushing north and east across the UK.",
-                "image_search_query": "heavy snowfall weather conditions United Kingdom"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Impact on Transportation",
-                "text": "A Met Office yellow warning for snow is in place, with 5-15cm expected at some locations above 300-400m elevation, affecting major routes like the A74(M), A66, and M62.",
-                "image_search_query": "Met Office transportation impact United Kingdom"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-17T00:09:54+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Snowfall and Weather Conditions",
+        "text": "Heavy snowfall is expected in parts of northern England and southern Scotland due to a weather front pushing north and east across the UK.",
+        "image_search_query": "heavy snowfall weather conditions United Kingdom"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Impact on Transportation",
+        "text": "A Met Office yellow warning for snow is in place, with 5-15cm expected at some locations above 300-400m elevation, affecting major routes like the A74(M), A66, and M62.",
+        "image_search_query": "Met Office transportation impact United Kingdom"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-17T00:09:54+00:00",
+  "image_done": true
 }

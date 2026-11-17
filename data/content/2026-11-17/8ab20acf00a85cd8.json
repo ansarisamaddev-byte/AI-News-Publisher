@@ -1,63 +1,64 @@
 {
-    "news_id": "8ab20acf00a85cd8",
+  "news_id": "8ab20acf00a85cd8",
+  "country": "US",
+  "main_subject": {
+    "name": "Logitech",
+    "type": "company",
+    "image_search_query": "Logitech"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Logitech",
-        "type": "company",
+    "category": "technology",
+    "subcategory": "gaming",
+    "importance_score": 1,
+    "relevance_score": 1,
+    "region": "US",
+    "tags": [
+      "gaming",
+      "gta",
+      "employers"
+    ],
+    "classification_reason": "Logitech is a company that is directly involved in the gaming industry, particularly in the context of GTA VI.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Logitech Adds Gaming PTO Benefit for 7,000 Employees",
+    "caption": "Logitech, a gaming company, is offering employees the day off to play video games ahead of the release of GTA VI.",
+    "hashtags": [
+      "#gta6",
+      "#gaming",
+      "#employers"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Logitech Adds Gaming PTO Benefit for 7,000 Employees",
+        "text": "Logitech, a gaming company, is offering employees the day off to play video games ahead of the release of GTA VI.",
         "image_search_query": "Logitech"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "gaming",
-        "importance_score": 1,
-        "relevance_score": 1,
-        "region": "US",
-        "tags": [
-            "gaming",
-            "gta",
-            "employers"
-        ],
-        "classification_reason": "Logitech is a company that is directly involved in the gaming industry, particularly in the context of GTA VI.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Logitech Adds Gaming PTO Benefit for 7,000 Employees",
-        "caption": "Logitech, a gaming company, is offering employees the day off to play video games ahead of the release of GTA VI.",
-        "hashtags": [
-            "#gta6",
-            "#gaming",
-            "#employers"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Logitech Adds Gaming PTO Benefit for 7,000 Employees",
-                "text": "Logitech, a gaming company, is offering employees the day off to play video games ahead of the release of GTA VI.",
-                "image_search_query": "Logitech"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "GTA VI Release",
-                "text": "GTA VI is the latest installment in the Grand Theft Auto series, set to be released soon.",
-                "image_search_query": "GTA VI GTA VI release United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Logitech's Offer",
-                "text": "Logitech is offering 7,000 employees the day off to play video games.",
-                "image_search_query": "Logitech employees GTA VI United States"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Technology",
-    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNzh1LTZ3U2xhY3NWc2c1b2d4dlZWNkEzNEw1YnRZMm1yZUNRSGkzUC1ndklkOFYtRWp2SFp4cFNEVXRwcFdTXy1NejNTNlBYU1FaY25nUVZwUWZvQXVaRzVqYzNzbG1HQXZTMHQtSjRNbkpaYlpoTUxBZXlhY0ZYZTBvMmxQcjhXOUhTZTZpck5ESjhFMkdNNENYa3VhTFpXWW83dmZsTmVpMS1BYUs0REJLa08xejZyX2c?oc=5",
-    "published_at": "2026-11-16T22:44:46+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "GTA VI Release",
+        "text": "GTA VI is the latest installment in the Grand Theft Auto series, set to be released soon.",
+        "image_search_query": "GTA VI GTA VI release United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Logitech's Offer",
+        "text": "Logitech is offering 7,000 employees the day off to play video games.",
+        "image_search_query": "Logitech employees GTA VI United States"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Technology",
+  "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNzh1LTZ3U2xhY3NWc2c1b2d4dlZWNkEzNEw1YnRZMm1yZUNRSGkzUC1ndklkOFYtRWp2SFp4cFNEVXRwcFdTXy1NejNTNlBYU1FaY25nUVZwUWZvQXVaRzVqYzNzbG1HQXZTMHQtSjRNbkpaYlpoTUxBZXlhY0ZYZTBvMmxQcjhXOUhTZTZpck5ESjhFMkdNNENYa3VhTFpXWW83dmZsTmVpMS1BYUs0REJLa08xejZyX2c?oc=5",
+  "published_at": "2026-11-16T22:44:46+00:00",
+  "image_done": true
 }

@@ -1,0 +1,81 @@
+{
+  "news_id": "fa80db282f22d2a6",
+  "title": "US Navy Aircraft Carrier USS Theodore Roosevelt Operating in Middle East",
+  "main_subject": {
+    "name": "USS Theodore Roosevelt",
+    "type": "person",
+    "image_search_query": "USS Theodore Roosevelt"
+  },
+  "category": "technology",
+  "tags": [
+    "naval"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/3-us-aircraft-carriers-operating-in-middle-east-12335914#publisher=newsstand",
+  "published_at": "2026-11-16T23:00:00+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "US Navy Aircraft Carrier USS Theodore Roosevelt Operating in Middle",
+      "image": {
+        "provider": "generated",
+        "query": "USS Theodore Roosevelt",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Deployment Details",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "xyut5ZQRDT4",
+        "photographer": "Dmitry Spravko",
+        "photographer_url": "https://unsplash.com/@kaprion?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/american-flag-on-a-private-jet-xyut5ZQRDT4?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1754958987059-3bb82e6c217c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8NXx8VVMlMjBOYXZ5JTIwYWlyY3JhZnQlMjBjYXJyaWVyJTIwZGVwbG95bWVudCUyMFVuaXRlZCUyMFN0YXRlc3xlbnwxfDF8fHwxNzk0OTIwODI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "US Navy aircraft carrier deployment United States",
+        "fallback_used": false,
+        "original_query": "US Navy aircraft carrier deployment United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Significance",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "Y9mY1aeb0P4",
+        "photographer": "Florida Memory",
+        "photographer_url": "https://unsplash.com/@myflorida?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/a-black-and-white-photo-of-two-men-in-a-car-Y9mY1aeb0P4?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1682713496896-b7d2d5f9de1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8NXx8VVMlMjBOYXZ5JTIwYWlyY3JhZnQlMjBjYXJyaWVyJTIwc2lnbmlmaWNhbmNlJTIwVW5pdGVkJTIwU3RhdGVzfGVufDF8MXx8fDE3OTQ5MjA4Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "US Navy aircraft carrier significance United States",
+        "fallback_used": false,
+        "original_query": "US Navy aircraft carrier significance United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "Bd7gNnWJBkU",
+        "photographer": "Andras Vas",
+        "photographer_url": "https://unsplash.com/@wasdrew?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/macbook-pro-turned-on-Bd7gNnWJBkU?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8bW9kZXJuJTIwdGVjaG5vbG9neSUyMGNvbXB1dGVyJTIwZGlnaXRhbHxlbnwxfDF8fHwxNzk0OTIwODMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "modern technology computer digital",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}
