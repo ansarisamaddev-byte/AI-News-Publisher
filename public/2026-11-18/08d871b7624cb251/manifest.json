@@ -1,0 +1,74 @@
+{
+  "news_id": "08d871b7624cb251",
+  "title": "Jharkhand Chief Electoral Officer Appeals for Electoral Roll Inclusion",
+  "main_subject": {
+    "name": "K. Ravi Kumar",
+    "type": "person",
+    "image_search_query": "K. Ravi Kumar"
+  },
+  "category": "business",
+  "tags": [
+    "Jharkhand",
+    "CEO",
+    "K Ravi Kumar"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-sir-final-blo-meeting-at-poll-stations-on-november-18/article71713613.ece",
+  "published_at": "2026-11-17T22:22:22+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Jharkhand Chief Electoral Officer Appeals for Electoral Roll Inclusion",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/e5e05a/article71713614.ece/alternates/LANDSCAPE_1200/20260930290L.jpg",
+        "article_url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-sir-final-blo-meeting-at-poll-stations-on-november-18/article71713613.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "K. Ravi Kumar"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Jharkhand's Final BLO-BLA-2 Meetings",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/e5e05a/article71713614.ece/alternates/LANDSCAPE_1200/20260930290L.jpg",
+        "article_url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-sir-final-blo-meeting-at-poll-stations-on-november-18/article71713613.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Jharkhand, K. Ravi Kumar India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why Include Names in Electoral Roll?",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/e5e05a/article71713614.ece/alternates/LANDSCAPE_1200/20260930290L.jpg",
+        "article_url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-sir-final-blo-meeting-at-poll-stations-on-november-18/article71713613.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "K. Ravi Kumar, Jharkhand India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/e5e05a/article71713614.ece/alternates/LANDSCAPE_1200/20260930290L.jpg",
+        "article_url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-sir-final-blo-meeting-at-poll-stations-on-november-18/article71713613.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

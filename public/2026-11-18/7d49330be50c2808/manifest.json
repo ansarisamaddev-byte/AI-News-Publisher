@@ -1,0 +1,74 @@
+{
+  "news_id": "7d49330be50c2808",
+  "title": "Harvey C. Jones Discusses Jensen Huang's Resignation and Leadership Transition at Nvidia",
+  "main_subject": {
+    "name": "Harvey C. Jones",
+    "type": "person",
+    "image_search_query": "Harvey C. Jones"
+  },
+  "category": "business",
+  "tags": [
+    "board chair",
+    "Nvidia",
+    "Jensen Huang"
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+  "published_at": "2026-11-17T22:32:50+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Harvey C. Jones Discusses Jensen Huang's Resignation and Leadership Transition",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "article_url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Harvey C. Jones"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Jensen Huang's Resignation",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "article_url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Jensen Huang Nvidia United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Leadership Transition",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "article_url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Harvey C. Jones Nvidia United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "article_url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

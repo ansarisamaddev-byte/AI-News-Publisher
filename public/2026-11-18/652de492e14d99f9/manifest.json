@@ -1,0 +1,86 @@
+{
+  "news_id": "652de492e14d99f9",
+  "title": "Todd Blanche Jailed For 27 Years In US For Trump Murder Plot",
+  "main_subject": {
+    "name": "Todd Blanche",
+    "type": "person",
+    "image_search_query": "Todd Blanche"
+  },
+  "category": "politics",
+  "tags": [
+    "politics",
+    "law enforcement",
+    "US"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/pakistani-man-jailed-for-27-years-in-us-for-trump-murder-plot-12341452#publisher=newsstand",
+  "published_at": "2026-11-17T23:05:17+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Todd Blanche Jailed For 27 Years In US For Trump",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "YAoV6UHXMGA",
+        "photographer": "Camille Brodard",
+        "photographer_url": "https://unsplash.com/@kmile_ch?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/people-walking-on-street-near-white-concrete-building-during-daytime-YAoV6UHXMGA?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1580654926350-f0b1a35952dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8N3x8VG9kZCUyMEJsYW5jaGV8ZW58MXwxfHx8MTc5NDk2MTQ1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "Todd Blanche",
+        "fallback_used": false,
+        "original_query": "Todd Blanche"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "The Plot Against Trump",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "n2GEsVv_61E",
+        "photographer": "John Cameron",
+        "photographer_url": "https://unsplash.com/@john_cameron?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/less-guns-more-glitter-poster-n2GEsVv_61E?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1531510873260-b58f90cfc715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8NXx8cGxvdCUyMGFnYWluc3QlMjBUcnVtcCUyMFVuaXRlZCUyMFN0YXRlc3xlbnwxfDF8fHwxNzk0OTYxNDYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "plot against Trump United States",
+        "fallback_used": false,
+        "original_query": "plot against Trump United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Todd Blanche's Role",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "hAJhORQHk94",
+        "photographer": "Hans",
+        "photographer_url": "https://unsplash.com/@hansphoto?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/blue-white-and-brown-map-hAJhORQHk94?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1622449589142-7757caf37fb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8Nnx8VG9kZCUyMEJsYW5jaGUlMjByb2xlJTIwVW5pdGVkJTIwU3RhdGVzfGVufDF8MXx8fDE3OTQ5NjE0NjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "Todd Blanche role United States",
+        "fallback_used": false,
+        "original_query": "Todd Blanche role United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "mxY2r31hLx4",
+        "photographer": "Jules Marvin Eguilos",
+        "photographer_url": "https://unsplash.com/@jmeguilos?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/brown-and-white-concrete-building-mxY2r31hLx4?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1582483893853-0e2b97e6b7d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8Mnx8cGFybGlhbWVudCUyMGdvdmVybm1lbnQlMjBidWlsZGluZ3xlbnwxfDF8fHwxNzk0OTYxNDY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "parliament government building",
+        "fallback_used": false,
+        "original_query": "parliament government building"
+      }
+    }
+  ]
+}

@@ -1,63 +1,64 @@
 {
-    "news_id": "7d49330be50c2808",
+  "news_id": "7d49330be50c2808",
+  "country": "US",
+  "main_subject": {
+    "name": "Harvey C. Jones",
+    "type": "person",
+    "image_search_query": "Harvey C. Jones"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Harvey C. Jones",
-        "type": "person",
+    "category": "business",
+    "subcategory": "technology",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "",
+    "tags": [
+      "board chair",
+      "Nvidia",
+      "Jensen Huang"
+    ],
+    "classification_reason": "Harvey C. Jones is the board chair of Nvidia, and the article discusses his statements about Jensen Huang's resignation and the company's leadership transition.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Harvey C. Jones Discusses Jensen Huang's Resignation and Leadership Transition at Nvidia",
+    "caption": "Harvey C. Jones, the board chair of Nvidia, discusses Jensen Huang's resignation and the company's leadership transition.",
+    "hashtags": [
+      "#Nvidia",
+      "#HarveyCJones",
+      "#JensenHuang"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Harvey C. Jones Discusses Jensen Huang's Resignation and Leadership Transition",
+        "text": "Harvey C. Jones, the board chair of Nvidia, discusses Jensen Huang's resignation and the company's leadership transition.",
         "image_search_query": "Harvey C. Jones"
-    },
-    "classification": {
-        "country": "US",
-        "category": "business",
-        "subcategory": "technology",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "",
-        "tags": [
-            "board chair",
-            "Nvidia",
-            "Jensen Huang"
-        ],
-        "classification_reason": "Harvey C. Jones is the board chair of Nvidia, and the article discusses his statements about Jensen Huang's resignation and the company's leadership transition.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Harvey C. Jones Discusses Jensen Huang's Resignation and Leadership Transition at Nvidia",
-        "caption": "Harvey C. Jones, the board chair of Nvidia, discusses Jensen Huang's resignation and the company's leadership transition.",
-        "hashtags": [
-            "#Nvidia",
-            "#HarveyCJones",
-            "#JensenHuang"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Harvey C. Jones Discusses Jensen Huang's Resignation and Leadership Transition",
-                "text": "Harvey C. Jones, the board chair of Nvidia, discusses Jensen Huang's resignation and the company's leadership transition.",
-                "image_search_query": "Harvey C. Jones"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Jensen Huang's Resignation",
-                "text": "Jensen Huang, the former CEO of Nvidia, resigned after reports of multiple affairs, including one with a former Megaspeed executive and alleged Chinese asset Alice Huang.",
-                "image_search_query": "Jensen Huang Nvidia United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Leadership Transition",
-                "text": "Harvey C. Jones, the board chair, stated that the company would not address or take questions regarding the circumstances of Jensen's resignation and the ongoing investigation.",
-                "image_search_query": "Harvey C. Jones Nvidia United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Verge",
-    "source_url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
-    "published_at": "2026-11-17T22:32:50+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Jensen Huang's Resignation",
+        "text": "Jensen Huang, the former CEO of Nvidia, resigned after reports of multiple affairs, including one with a former Megaspeed executive and alleged Chinese asset Alice Huang.",
+        "image_search_query": "Jensen Huang Nvidia United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Leadership Transition",
+        "text": "Harvey C. Jones, the board chair, stated that the company would not address or take questions regarding the circumstances of Jensen's resignation and the ongoing investigation.",
+        "image_search_query": "Harvey C. Jones Nvidia United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+  "published_at": "2026-11-17T22:32:50+00:00",
+  "image_done": true
 }

@@ -1,0 +1,74 @@
+{
+  "news_id": "20721672b7ad219a",
+  "title": "San Diego Ends Contracts with Surveillance Equipment Vendors",
+  "main_subject": {
+    "name": "San Diego",
+    "type": "place",
+    "image_search_query": "San Diego"
+  },
+  "category": "technology",
+  "tags": [
+    "surveillance",
+    "technology",
+    "city"
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+  "published_at": "2026-11-17T23:09:09+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "San Diego Ends Contracts with Surveillance Equipment Vendors",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
+        "article_url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "San Diego"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Why San Diego Ended Contracts",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
+        "article_url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "San Diego surveillance concerns United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact on Surveillance",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
+        "article_url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "San Diego surveillance cameras United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
+        "article_url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

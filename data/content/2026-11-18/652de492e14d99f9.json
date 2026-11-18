@@ -1,63 +1,64 @@
 {
-    "news_id": "652de492e14d99f9",
+  "news_id": "652de492e14d99f9",
+  "country": "US",
+  "main_subject": {
+    "name": "Todd Blanche",
+    "type": "person",
+    "image_search_query": "Todd Blanche"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Todd Blanche",
-        "type": "person",
+    "category": "politics",
+    "subcategory": "law enforcement",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "politics",
+      "law enforcement",
+      "US"
+    ],
+    "classification_reason": "Todd Blanche is the United States' top law officer, involved in the plot against Trump.",
+    "selected_channels": [
+      "politics-news"
+    ]
+  },
+  "content": {
+    "title": "Todd Blanche Jailed For 27 Years In US For Trump Murder Plot",
+    "caption": "Todd Blanche, the United States' top law officer, was jailed for 27 years in the US for the plot against President Trump.",
+    "hashtags": [
+      "#ToddBlanche",
+      "#USLawEnforcement",
+      "#TrumpPlot"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Todd Blanche Jailed For 27 Years In US For Trump",
+        "text": "Todd Blanche, the United States' top law officer, was jailed for 27 years in the US for the plot against President Trump.",
         "image_search_query": "Todd Blanche"
-    },
-    "classification": {
-        "country": "US",
-        "category": "politics",
-        "subcategory": "law enforcement",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "politics",
-            "law enforcement",
-            "US"
-        ],
-        "classification_reason": "Todd Blanche is the United States' top law officer, involved in the plot against Trump.",
-        "selected_channels": [
-            "politics-news"
-        ]
-    },
-    "content": {
-        "title": "Todd Blanche Jailed For 27 Years In US For Trump Murder Plot",
-        "caption": "Todd Blanche, the United States' top law officer, was jailed for 27 years in the US for the plot against President Trump.",
-        "hashtags": [
-            "#ToddBlanche",
-            "#USLawEnforcement",
-            "#TrumpPlot"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Todd Blanche Jailed For 27 Years In US For Trump",
-                "text": "Todd Blanche, the United States' top law officer, was jailed for 27 years in the US for the plot against President Trump.",
-                "image_search_query": "Todd Blanche"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "The Plot Against Trump",
-                "text": "The plot against President Trump involved a group of individuals who were planning to assassinate him.",
-                "image_search_query": "plot against Trump United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Todd Blanche's Role",
-                "text": "Todd Blanche, the United States' top law officer, was involved in the plot against President Trump.",
-                "image_search_query": "Todd Blanche role United States"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "NDTV",
-    "source_url": "https://www.ndtv.com/world-news/pakistani-man-jailed-for-27-years-in-us-for-trump-murder-plot-12341452#publisher=newsstand",
-    "published_at": "2026-11-17T23:05:17+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "The Plot Against Trump",
+        "text": "The plot against President Trump involved a group of individuals who were planning to assassinate him.",
+        "image_search_query": "plot against Trump United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Todd Blanche's Role",
+        "text": "Todd Blanche, the United States' top law officer, was involved in the plot against President Trump.",
+        "image_search_query": "Todd Blanche role United States"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/pakistani-man-jailed-for-27-years-in-us-for-trump-murder-plot-12341452#publisher=newsstand",
+  "published_at": "2026-11-17T23:05:17+00:00",
+  "image_done": true
 }

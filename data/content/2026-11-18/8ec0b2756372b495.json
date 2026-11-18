@@ -1,63 +1,64 @@
 {
-    "news_id": "8ec0b2756372b495",
+  "news_id": "8ec0b2756372b495",
+  "country": "US",
+  "main_subject": {
+    "name": "The GTA Vice City Aesthetic",
+    "type": "product",
+    "image_search_query": "The GTA Vice City Aesthetic"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "The GTA Vice City Aesthetic",
-        "type": "product",
+    "category": "technology",
+    "subcategory": "video games",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Miami",
+    "tags": [
+      "Grand Theft Auto",
+      "Vice City",
+      "Miami"
+    ],
+    "classification_reason": "The GTA Vice City Aesthetic is a specific product design for the Grand Theft Auto series, focusing on the Miami location.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "The GTA Vice City Aesthetic Unveiled: A New Look for Miami",
+    "caption": "The Grand Theft Auto series is set in Miami, and the Vice City Aesthetic is a unique design that captures the vibrant and bustling atmosphere of the city.",
+    "hashtags": [
+      "#GTA",
+      "#Miami",
+      "#ViceCity"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "The GTA Vice City Aesthetic Unveiled: A New Look for",
+        "text": "The Grand Theft Auto series is set in Miami, and the Vice City Aesthetic is a unique design that captures the vibrant and bustling atmosphere of the city.",
         "image_search_query": "The GTA Vice City Aesthetic"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "video games",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Miami",
-        "tags": [
-            "Grand Theft Auto",
-            "Vice City",
-            "Miami"
-        ],
-        "classification_reason": "The GTA Vice City Aesthetic is a specific product design for the Grand Theft Auto series, focusing on the Miami location.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "The GTA Vice City Aesthetic Unveiled: A New Look for Miami",
-        "caption": "The Grand Theft Auto series is set in Miami, and the Vice City Aesthetic is a unique design that captures the vibrant and bustling atmosphere of the city.",
-        "hashtags": [
-            "#GTA",
-            "#Miami",
-            "#ViceCity"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "The GTA Vice City Aesthetic Unveiled: A New Look for",
-                "text": "The Grand Theft Auto series is set in Miami, and the Vice City Aesthetic is a unique design that captures the vibrant and bustling atmosphere of the city.",
-                "image_search_query": "The GTA Vice City Aesthetic"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "The Vice City Aesthetic",
-                "text": "The Vice City Aesthetic is a specific product design for the Grand Theft Auto series, focusing on the Miami location. It features vibrant colors, iconic landmarks, and a lively atmosphere.",
-                "image_search_query": "Grand Theft Auto Vice City Miami design United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "The Design Process",
-                "text": "Years of research and development went into creating the Vice City Aesthetic. The design team worked closely with Miami's cultural experts to ensure authenticity and immersion.",
-                "image_search_query": "Grand Theft Auto Vice City design process United States"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Technology",
-    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzMyTFJ0ZXI4c3Iwbm5hTjg4ckhxWHBzZFQtUHNlcE1kdUNZYjc3WGRsbjhDMWxMQ2YyTExHcTQ3VVhJamJjQkFvWTJ5cnQwenUway1YdF95S2JuYU5fRUk3eFM0OXV4bWNTbTNvN3drckNJM1doNi0zOWFsdTNFcjVTSm1pSzVXd1V3alcxanNSSk5tQnlpZXprTEJjeXVaYlE?oc=5",
-    "published_at": "2026-11-17T23:05:35+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "The Vice City Aesthetic",
+        "text": "The Vice City Aesthetic is a specific product design for the Grand Theft Auto series, focusing on the Miami location. It features vibrant colors, iconic landmarks, and a lively atmosphere.",
+        "image_search_query": "Grand Theft Auto Vice City Miami design United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "The Design Process",
+        "text": "Years of research and development went into creating the Vice City Aesthetic. The design team worked closely with Miami's cultural experts to ensure authenticity and immersion.",
+        "image_search_query": "Grand Theft Auto Vice City design process United States"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Technology",
+  "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzMyTFJ0ZXI4c3Iwbm5hTjg4ckhxWHBzZFQtUHNlcE1kdUNZYjc3WGRsbjhDMWxMQ2YyTExHcTQ3VVhJamJjQkFvWTJ5cnQwenUway1YdF95S2JuYU5fRUk3eFM0OXV4bWNTbTNvN3drckNJM1doNi0zOWFsdTNFcjVTSm1pSzVXd1V3alcxanNSSk5tQnlpZXprTEJjeXVaYlE?oc=5",
+  "published_at": "2026-11-17T23:05:35+00:00",
+  "image_done": true
 }

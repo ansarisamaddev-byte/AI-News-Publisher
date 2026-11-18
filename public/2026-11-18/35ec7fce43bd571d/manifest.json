@@ -1,0 +1,74 @@
+{
+  "news_id": "35ec7fce43bd571d",
+  "title": "US Army Officer Arrested for Espionage Allegations",
+  "main_subject": {
+    "name": "Lt Col Brandon Carroll Tyner",
+    "type": "person",
+    "image_search_query": "Lt Col Brandon Carroll Tyner"
+  },
+  "category": "politics",
+  "tags": [
+    "espionage",
+    "national security",
+    "US Army"
+  ],
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-17T22:46:30+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "US Army Officer Arrested for Espionage Allegations",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png",
+        "article_url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Lt Col Brandon Carroll Tyner"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Details of the Arrest",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png",
+        "article_url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "details of the arrest United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Background and Allegations",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png",
+        "article_url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "background and allegations United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png",
+        "article_url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "parliament government building"
+      }
+    }
+  ]
+}
