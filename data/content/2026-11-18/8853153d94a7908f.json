@@ -1,0 +1,63 @@
+{
+    "news_id": "8853153d94a7908f",
+    "country": "US",
+    "main_subject": {
+        "name": "iFixit",
+        "type": "company",
+        "image_search_query": "iFixit"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "repairability",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US",
+        "tags": [
+            "repairability",
+            "iFixit",
+            "HomeView"
+        ],
+        "classification_reason": "The article is about iFixit's teardown of Apple's HomeView hub, focusing on the difficulty of repairing the device.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "iFixit's Apple HomeView Teardown Reveals Difficult-to-Repair Device",
+        "caption": "iFixit's teardown of Apple's HomeView hub reveals the challenges of repairing the device.",
+        "hashtags": [
+            "#iFixit",
+            "#repairability",
+            "#HomeView"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "iFixit's Apple HomeView Teardown Reveals Difficult-to-Repair Device",
+                "text": "iFixit's teardown of Apple's HomeView hub reveals the challenges of repairing the device.",
+                "image_search_query": "iFixit"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Design Challenges",
+                "text": "The HomeView's design decisions, including the use of glue and aluminum chassis, make it difficult to repair.",
+                "image_search_query": "HomeView design challenges United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Design Decisions",
+                "text": "The HomeView's aluminum chassis was turned into a heat sink, but the thermal bond between the heat shield and the logic board made separating the two a ",
+                "image_search_query": "HomeView design details United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
+    "published_at": "2026-11-17T22:25:41+00:00"
+}

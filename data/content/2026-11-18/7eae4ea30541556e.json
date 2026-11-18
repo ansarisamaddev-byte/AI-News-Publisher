@@ -1,0 +1,63 @@
+{
+    "news_id": "7eae4ea30541556e",
+    "country": "UK",
+    "main_subject": {
+        "name": "Nathan Cofnas",
+        "type": "person",
+        "image_search_query": "Nathan Cofnas"
+    },
+    "classification": {
+        "country": "UK",
+        "category": "politics",
+        "subcategory": "race relations",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Oxford, UK",
+        "tags": [
+            "race relations",
+            "Oxford University",
+            "Nathan Cofnas"
+        ],
+        "classification_reason": "The article is about a controversial event at Oxford University involving Nathan Cofnas, a race realist, and protests against his appearance.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
+        "caption": "Students oppose appearance of self-described 'race realist' who made plagiarism claims against Jason Arday",
+        "hashtags": [
+            "#NathanCofnas",
+            "#OxfordUniversity",
+            "#Protests"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel",
+                "text": "Students oppose appearance of self-described 'race realist' who made plagiarism claims against Jason Arday",
+                "image_search_query": "Nathan Cofnas"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "What happened?",
+                "text": "The Reform UK student society organised an event billed as 'An evening with Nathan Cofnas: is DEI undermining higher education?' despite opposition from students, college staff, and local politicians.",
+                "image_search_query": "Reform UK Oxford United Kingdom"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why does it matter?",
+                "text": "The event went ahead despite opposition, with students, college staff, and local politicians concerned about the appearance creating a hostile environment.",
+                "image_search_query": "Nathan Cofnas opposition United Kingdom"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Guardian",
+    "source_url": "https://www.theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday",
+    "published_at": "2026-11-17T22:50:16+00:00"
+}
