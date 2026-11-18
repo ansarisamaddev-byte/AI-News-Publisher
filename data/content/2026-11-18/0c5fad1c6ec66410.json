@@ -1,0 +1,62 @@
+{
+    "news_id": "0c5fad1c6ec66410",
+    "country": "US",
+    "main_subject": {
+        "name": "NASA",
+        "type": "organization",
+        "image_search_query": "NASA"
+    },
+    "classification": {
+        "country": "US",
+        "category": "science",
+        "subcategory": "nuclear power systems",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "USA",
+        "tags": [
+            "nuclear power systems",
+            "student contest"
+        ],
+        "classification_reason": "NASA is the primary subject of the article, focusing on a student contest related to space nuclear power systems.",
+        "selected_channels": [
+            "science-news"
+        ]
+    },
+    "content": {
+        "title": "NASA Launches Nuclear Power Systems Student Contest",
+        "caption": "NASA announces a student contest to explore space nuclear power systems.",
+        "hashtags": [
+            "#NASA",
+            "#nuclearpower",
+            "#studentcontest"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "NASA Launches Nuclear Power Systems Student Contest",
+                "text": "NASA announces a student contest to explore space nuclear power systems.",
+                "image_search_query": "NASA"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "What Happened",
+                "text": "NASA announced a student contest to explore space nuclear power systems.",
+                "image_search_query": "NASA announces student contest United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why It Matters",
+                "text": "The contest aims to inspire students to learn about space nuclear power systems.",
+                "image_search_query": "student contest inspires students United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "NASA",
+    "source_url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+    "published_at": "2026-11-17T22:02:48+00:00"
+}

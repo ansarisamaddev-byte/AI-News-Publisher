@@ -1,0 +1,64 @@
+{
+    "news_id": "3f70c47179d4906e",
+    "country": "US",
+    "main_subject": {
+        "name": "Jeff Bezos",
+        "type": "person",
+        "image_search_query": "Jeff Bezos"
+    },
+    "classification": {
+        "country": "US",
+        "category": "business",
+        "subcategory": "technology",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "Silicon Valley",
+        "tags": [
+            "Amazon",
+            "Jeff Bezos",
+            "James Bond",
+            "casting"
+        ],
+        "classification_reason": "Jeff Bezos played a significant role in casting the new James Bond film.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Jeff Bezos Says He Was 'Heavily Involved' in Casting New James Bond",
+        "caption": "Amazon founder Jeff Bezos played a significant role in casting the new James Bond film.",
+        "hashtags": [
+            "#JeffBezos",
+            "#JamesBond",
+            "#Casting"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Jeff Bezos Says He Was 'Heavily Involved' in Casting New",
+                "text": "Amazon founder Jeff Bezos played a significant role in casting the new James Bond film.",
+                "image_search_query": "Jeff Bezos"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "The Casting Process",
+                "text": "The casting process involved a tight selection process and real old-fashioned screen tests.",
+                "image_search_query": "screen tests, Amazon, casting United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "The Final Decision",
+                "text": "The final decision was made on Friday, and the actors were all extraordinarily talented.",
+                "image_search_query": "final decision, actors, talent United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+    "published_at": "2026-11-17T22:38:41+00:00"
+}

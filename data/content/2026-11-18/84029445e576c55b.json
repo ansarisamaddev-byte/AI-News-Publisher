@@ -1,0 +1,62 @@
+{
+    "news_id": "84029445e576c55b",
+    "country": "US",
+    "main_subject": {
+        "name": "US",
+        "type": "other",
+        "image_search_query": "US"
+    },
+    "classification": {
+        "country": "US",
+        "category": "health",
+        "subcategory": "measles",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US",
+        "tags": [
+            "measles",
+            "vaccination",
+            "public health"
+        ],
+        "classification_reason": "The article is primarily about the US losing its measles elimination status and the impact on the country.",
+        "selected_channels": [
+            "health-news"
+        ]
+    },
+    "content": {
+        "title": "US loses measles elimination status amid worst outbreak since 1991",
+        "caption": "The US has lost its measles elimination status, with the worst outbreak since 1991, and the loss is a deep concern for public health.",
+        "hashtags": [
+            "#MeaslesOutbreak",
+            "#VaccinationConcerns"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "US loses measles elimination status amid worst outbreak since 1991",
+                "text": "The US has lost its measles elimination status, with the worst outbreak since 1991, and the loss is a deep concern for public health.",
+                "image_search_query": "US"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "What happened?",
+                "text": "The US has lost its measles elimination status, with the worst outbreak since 1991.",
+                "image_search_query": "US measles outbreak United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why does it matter?",
+                "text": "The loss of measles-free status is a deep concern for public health.",
+                "image_search_query": "public health concerns United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Guardian",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+    "published_at": "2026-11-17T22:18:53+00:00"
+}
