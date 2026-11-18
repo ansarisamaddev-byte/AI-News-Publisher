@@ -1,0 +1,66 @@
+{
+    "news_id": "4bae7c9dd7b588be",
+    "country": "ISRAEL",
+    "main_subject": {
+        "name": "Israeli military",
+        "type": "person",
+        "image_search_query": "Israeli military"
+    },
+    "classification": {
+        "country": "ISRAEL",
+        "category": "technology",
+        "subcategory": "war",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Israel",
+        "tags": [
+            "Israeli military",
+            "Gaza",
+            "Yellow Line",
+            "Hamas",
+            "Ceasefire"
+        ],
+        "classification_reason": "The article primarily focuses on the Israeli military's operation in Gaza, which is a significant event in the ongoing conflict.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Israeli Military Launches Rare Ground Operation in Gaza Beyond Yellow Line",
+        "caption": "Israeli ground forces launch a rare operation in Gaza, targeting a 'terror tunnel' west of the Yellow Line, as Hamas condemns the incursion as a 'flagrant' ceasefire violation.",
+        "hashtags": [
+            "#IsraeliMilitary",
+            "#Gaza",
+            "#YellowLine",
+            "#Hamas"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Israeli Military Launches Rare Ground Operation in Gaza Beyond Yellow",
+                "text": "Israeli ground forces launch a rare operation in Gaza, targeting a 'terror tunnel' west of the Yellow Line, as Hamas condemns the incursion as a 'flagrant' ceasefire violation.",
+                "image_search_query": "Israeli military"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Incursion Details",
+                "text": "The operation aims to dismantle a 'terror tunnel' west of the Yellow Line, which marks the more than 60% of Gaza occupied by Israel.",
+                "image_search_query": "details of the incursion Israel"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact",
+                "text": "The operation is condemned by Hamas as a 'flagrant' ceasefire violation, with violence continuing in Gaza over the past 13 months.",
+                "image_search_query": "impact of the incursion Israel"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-18T22:34:56+00:00"
+}

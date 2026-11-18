@@ -1,0 +1,65 @@
+{
+    "news_id": "93303e1c62329d7c",
+    "country": "US",
+    "main_subject": {
+        "name": "GTA VI",
+        "type": "product",
+        "image_search_query": "GTA VI"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "video games",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US",
+        "tags": [
+            "gta",
+            "video games",
+            "inflation",
+            "prices"
+        ],
+        "classification_reason": "The main subject is the specific video game product GTA VI, which is the central focus of the article.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "GTA VI is cheaper than past versions, adjusting for inflation.",
+        "caption": "GTA VI is now cheaper than its previous versions, taking into account inflation.",
+        "hashtags": [
+            "#GTAVI",
+            "#videoGames",
+            "#inflation",
+            "#prices"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "GTA VI is cheaper than past versions, adjusting for inflation.",
+                "text": "GTA VI is now cheaper than its previous versions, taking into account inflation.",
+                "image_search_query": "GTA VI"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "How have video game prices remained steady over time?",
+                "text": "The article discusses how video game prices have remained steady over time, with GTA VI being cheaper than past versions, adjusting for inflation.",
+                "image_search_query": "video game prices United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "GTA VI Rewards For GTA+ Members",
+                "text": "GTA VI Rewards For GTA+ Members is a product that can help users get GTA 6 cheaper with its Xbox and PlayStation gift cards.",
+                "image_search_query": "GTA VI Rewards For GTA+ Members United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Technology",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ka005X1duaVM5aEFCTmEtbXIwYkFjWVVDR01Vc1IxUFJFRkVScEhmR3kxWmxBQ2hOSV9KUXlCc1cyc0ZwdGVDVXl2WUZZWXhRdzNXcGdNRmNoOGVaNDdUZzBPQ3UyN28wdGQzQUdGYw?oc=5",
+    "published_at": "2026-11-18T22:15:00+00:00"
+}

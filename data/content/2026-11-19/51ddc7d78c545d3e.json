@@ -1,0 +1,63 @@
+{
+    "news_id": "51ddc7d78c545d3e",
+    "country": "AUSTRALIA",
+    "main_subject": {
+        "name": "Bogong moths",
+        "type": "other",
+        "image_search_query": "Bogong moths"
+    },
+    "classification": {
+        "country": "AUSTRALIA",
+        "category": "science",
+        "subcategory": "magnetism and navigation",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Australia",
+        "tags": [
+            "magnetism",
+            "navigation",
+            "moths"
+        ],
+        "classification_reason": "The article is about the migratory behavior of Bogong moths, which uses the Earth's magnetic field as a compass.",
+        "selected_channels": [
+            "science-news"
+        ]
+    },
+    "content": {
+        "title": "Bogong moths navigate with a light-dependent geomagnetic inclination compass",
+        "caption": "Tiny moths use Earth's magnetic field as a compass for their massive nocturnal migration.",
+        "hashtags": [
+            "#magnetism",
+            "#navigation",
+            "#moths"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Bogong moths navigate with a light-dependent geomagnetic inclination compass",
+                "text": "Tiny moths use Earth's magnetic field as a compass for their massive nocturnal migration.",
+                "image_search_query": "Bogong moths"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Migratory behavior",
+                "text": "Bogong moths migrate from the snow-covered mountains of Australia to the coastal forests for the winter.",
+                "image_search_query": "Bogong moths migration Australia"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Magnetic field use",
+                "text": "The moths navigate using the Earth's magnetic field, which they perceive through a light-dependent geomagnetic inclination compass.",
+                "image_search_query": "Bogong moths magnetic field Australia"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Science",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ac3VzX1lWeXZOanlfdnlIbGtlYWVUeVp4MzAxR3F5MFFGU3d6a1FqZkJiSGV0c09ESDhTWHJzX1FscmNBV3d5Uk5NcXZsejVIVF83UmhEOGVtV0RBRUhr?oc=5",
+    "published_at": "2026-11-18T22:07:30+00:00"
+}

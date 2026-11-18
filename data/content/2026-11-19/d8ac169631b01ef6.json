@@ -1,0 +1,65 @@
+{
+    "news_id": "d8ac169631b01ef6",
+    "country": "US",
+    "main_subject": {
+        "name": "Nvidia",
+        "type": "company",
+        "image_search_query": "Nvidia"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "finance",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US",
+        "tags": [
+            "Nvidia",
+            "SEC",
+            "investigation",
+            "10-Q",
+            "investor relations"
+        ],
+        "classification_reason": "The article is primarily about Nvidia's decision to delay filing its 10-Q report with the SEC, which is a significant event in the company's financial reporting process.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Nvidia Declines to File 10-Q Report",
+        "caption": "Nvidia CEO Colette Kress announced the company would not be filing its quarterly results report, known as a 10-Q, with the SEC.",
+        "hashtags": [
+            "#Nvidia",
+            "#10Q",
+            "#SECInvestigation"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Nvidia Declines to File 10-Q Report",
+                "text": "Nvidia CEO Colette Kress announced the company would not be filing its quarterly results report, known as a 10-Q, with the SEC.",
+                "image_search_query": "Nvidia"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Reason for Delay",
+                "text": "Nvidia CFO-turned-interim-CEO Colette Kress announced the company would not be filing its quarterly results report, known as a 10-Q, with the SEC.",
+                "image_search_query": "Nvidia CFO Colette Kress United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact on Investor Relations",
+                "text": "The delay in filing the 10-Q report has raised concerns among investors and analysts.",
+                "image_search_query": "Impact on Investor Relations United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+    "published_at": "2026-11-18T21:57:40+00:00"
+}
