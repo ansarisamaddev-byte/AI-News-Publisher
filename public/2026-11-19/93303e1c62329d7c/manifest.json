@@ -1,0 +1,75 @@
+{
+  "news_id": "93303e1c62329d7c",
+  "title": "GTA VI is cheaper than past versions, adjusting for inflation.",
+  "main_subject": {
+    "name": "GTA VI",
+    "type": "product",
+    "image_search_query": "GTA VI"
+  },
+  "category": "technology",
+  "tags": [
+    "gta",
+    "video games",
+    "inflation",
+    "prices"
+  ],
+  "source": "Google News - Technology",
+  "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ka005X1duaVM5aEFCTmEtbXIwYkFjWVVDR01Vc1IxUFJFRkVScEhmR3kxWmxBQ2hOSV9KUXlCc1cyc0ZwdGVDVXl2WUZZWXhRdzNXcGdNRmNoOGVaNDdUZzBPQ3UyN28wdGQzQUdGYw?oc=5",
+  "published_at": "2026-11-18T22:15:00+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "GTA VI is cheaper than past versions, adjusting for inflation.",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ka005X1duaVM5aEFCTmEtbXIwYkFjWVVDR01Vc1IxUFJFRkVScEhmR3kxWmxBQ2hOSV9KUXlCc1cyc0ZwdGVDVXl2WUZZWXhRdzNXcGdNRmNoOGVaNDdUZzBPQ3UyN28wdGQzQUdGYw?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "GTA VI"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "How have video game prices remained steady over time?",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ka005X1duaVM5aEFCTmEtbXIwYkFjWVVDR01Vc1IxUFJFRkVScEhmR3kxWmxBQ2hOSV9KUXlCc1cyc0ZwdGVDVXl2WUZZWXhRdzNXcGdNRmNoOGVaNDdUZzBPQ3UyN28wdGQzQUdGYw?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "video game prices United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "GTA VI Rewards For GTA+ Members",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ka005X1duaVM5aEFCTmEtbXIwYkFjWVVDR01Vc1IxUFJFRkVScEhmR3kxWmxBQ2hOSV9KUXlCc1cyc0ZwdGVDVXl2WUZZWXhRdzNXcGdNRmNoOGVaNDdUZzBPQ3UyN28wdGQzQUdGYw?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "GTA VI Rewards For GTA+ Members United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ka005X1duaVM5aEFCTmEtbXIwYkFjWVVDR01Vc1IxUFJFRkVScEhmR3kxWmxBQ2hOSV9KUXlCc1cyc0ZwdGVDVXl2WUZZWXhRdzNXcGdNRmNoOGVaNDdUZzBPQ3UyN28wdGQzQUdGYw?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

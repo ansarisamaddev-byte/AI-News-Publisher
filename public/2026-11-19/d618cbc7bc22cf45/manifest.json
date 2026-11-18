@@ -1,0 +1,75 @@
+{
+  "news_id": "d618cbc7bc22cf45",
+  "title": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
+  "main_subject": {
+    "name": "Ursula von der Leyen",
+    "type": "person",
+    "image_search_query": "Ursula von der Leyen"
+  },
+  "category": "business",
+  "tags": [
+    "EU",
+    "Ukraine",
+    "Russia",
+    "Ukrainian president"
+  ],
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
+  "published_at": "2026-11-18T22:34:03+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "EU proposes €45bn loan for Ukraine to avert cash crisis",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/da7fa4cbbdc420d8de514a27bdb1e07b474f48b9/88_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64613c06196ff5912ca1d5ac20f0bbec",
+        "article_url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Ursula von der Leyen"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Relevant context",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/da7fa4cbbdc420d8de514a27bdb1e07b474f48b9/88_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64613c06196ff5912ca1d5ac20f0bbec",
+        "article_url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "EU, Ukraine, Russia Germany"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Important details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/da7fa4cbbdc420d8de514a27bdb1e07b474f48b9/88_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64613c06196ff5912ca1d5ac20f0bbec",
+        "article_url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Ukraine, weapons, civilian needs Germany"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/da7fa4cbbdc420d8de514a27bdb1e07b474f48b9/88_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64613c06196ff5912ca1d5ac20f0bbec",
+        "article_url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

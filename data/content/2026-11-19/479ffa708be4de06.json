@@ -1,65 +1,66 @@
 {
-    "news_id": "479ffa708be4de06",
+  "news_id": "479ffa708be4de06",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "RAW",
+    "type": "organization",
+    "image_search_query": "RAW"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "RAW",
-        "type": "organization",
+    "category": "technology",
+    "subcategory": "intelligence",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "India",
+    "tags": [
+      "intelligence",
+      "RAW",
+      "Pannun",
+      "Doval"
+    ],
+    "classification_reason": "The article is about the Indian government's refusal to serve summons to the former head of the RAW (Research and Analysis Wing) and the current head of the RAW, which is a significant event in the Indian government's internal affairs.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "India's refusal to serve summons to RAW ex-chief and Doval",
+    "caption": "India's government has refused to serve summonses to the former head of the RAW (Research and Analysis Wing) and the current head of the RAW, raising questions about the government's internal affairs.",
+    "hashtags": [
+      "#India",
+      "#RAW",
+      "#Pannun",
+      "#Doval"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "India's refusal to serve summons to RAW ex-chief and Doval",
+        "text": "India's government has refused to serve summonses to the former head of the RAW (Research and Analysis Wing) and the current head of the RAW, raising questions about the government's internal affairs.",
         "image_search_query": "RAW"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "technology",
-        "subcategory": "intelligence",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "India",
-        "tags": [
-            "intelligence",
-            "RAW",
-            "Pannun",
-            "Doval"
-        ],
-        "classification_reason": "The article is about the Indian government's refusal to serve summons to the former head of the RAW (Research and Analysis Wing) and the current head of the RAW, which is a significant event in the Indian government's internal affairs.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "India's refusal to serve summons to RAW ex-chief and Doval",
-        "caption": "India's government has refused to serve summonses to the former head of the RAW (Research and Analysis Wing) and the current head of the RAW, raising questions about the government's internal affairs.",
-        "hashtags": [
-            "#India",
-            "#RAW",
-            "#Pannun",
-            "#Doval"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "India's refusal to serve summons to RAW ex-chief and Doval",
-                "text": "India's government has refused to serve summonses to the former head of the RAW (Research and Analysis Wing) and the current head of the RAW, raising questions about the government's internal affairs.",
-                "image_search_query": "RAW"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Background",
-                "text": "The refusal to serve summonses is a significant event in the Indian government's internal affairs.",
-                "image_search_query": "India government internal affairs"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Implications",
-                "text": "The refusal to serve summonses raises questions about the government's internal affairs and the legality of the actions taken.",
-                "image_search_query": "India government internal affairs implications"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Top Stories",
-    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTRYUF9vT1F6UDBJQVZoQUx0Y1NmWERRZEJkMXBKTzNBZDFqdHFpUmZYbG1LTWllTF9Ha3NXWUVVeUFpM2xuVk8zb2tnYV9Ib1lFVTl5bHMtMVNta2RFT3FabzlVLS1SNmoySzVFLW9DQ19tTVdsVmdSbmdxcmtydV91UTlfYm94a3JnTkdHWkZtVWJ4LVpIdVBPZms3QmJOalB5Wm9CZllqVDRMX0RVT3htQklYUHdnU3JVTk1PY29jcTJEc01TaGh1Z0N1QQ?oc=5",
-    "published_at": "2026-11-18T21:48:00+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Background",
+        "text": "The refusal to serve summonses is a significant event in the Indian government's internal affairs.",
+        "image_search_query": "India government internal affairs"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Implications",
+        "text": "The refusal to serve summonses raises questions about the government's internal affairs and the legality of the actions taken.",
+        "image_search_query": "India government internal affairs implications"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Top Stories",
+  "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTRYUF9vT1F6UDBJQVZoQUx0Y1NmWERRZEJkMXBKTzNBZDFqdHFpUmZYbG1LTWllTF9Ha3NXWUVVeUFpM2xuVk8zb2tnYV9Ib1lFVTl5bHMtMVNta2RFT3FabzlVLS1SNmoySzVFLW9DQ19tTVdsVmdSbmdxcmtydV91UTlfYm94a3JnTkdHWkZtVWJ4LVpIdVBPZms3QmJOalB5Wm9CZllqVDRMX0RVT3htQklYUHdnU3JVTk1PY29jcTJEc01TaGh1Z0N1QQ?oc=5",
+  "published_at": "2026-11-18T21:48:00+00:00",
+  "image_done": true
 }
