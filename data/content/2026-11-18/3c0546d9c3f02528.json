@@ -1,68 +1,69 @@
 {
-    "news_id": "3c0546d9c3f02528",
+  "news_id": "3c0546d9c3f02528",
+  "country": "US",
+  "main_subject": {
+    "name": "Optimizely",
+    "type": "company",
+    "image_search_query": "Optimizely"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Optimizely",
-        "type": "company",
+    "category": "technology",
+    "subcategory": "malware",
+    "importance_score": 7,
+    "relevance_score": 7,
+    "region": "US",
+    "tags": [
+      "malware",
+      "Optimizely",
+      "JavaScript",
+      "cryptocurrency",
+      "payment card data",
+      "iOS exploit"
+    ],
+    "classification_reason": "malware delivery through Optimizely website personalization platform",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Malicious Code Delivered Through Optimizely",
+    "caption": "Hundreds of websites using Optimizely were infected with malware targeting cryptocurrency wallets, payment card data, and iOS exploit kits.",
+    "hashtags": [
+      "#Optimizely",
+      "#Malware",
+      "#Cryptocurrency",
+      "#PaymentCardData",
+      "#iOSExploit"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Malicious Code Delivered Through Optimizely",
+        "text": "Hundreds of websites using Optimizely were infected with malware targeting cryptocurrency wallets, payment card data, and iOS exploit kits.",
         "image_search_query": "Optimizely"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "malware",
-        "importance_score": 7,
-        "relevance_score": 7,
-        "region": "US",
-        "tags": [
-            "malware",
-            "Optimizely",
-            "JavaScript",
-            "cryptocurrency",
-            "payment card data",
-            "iOS exploit"
-        ],
-        "classification_reason": "malware delivery through Optimizely website personalization platform",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Malicious Code Delivered Through Optimizely",
-        "caption": "Hundreds of websites using Optimizely were infected with malware targeting cryptocurrency wallets, payment card data, and iOS exploit kits.",
-        "hashtags": [
-            "#Optimizely",
-            "#Malware",
-            "#Cryptocurrency",
-            "#PaymentCardData",
-            "#iOSExploit"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Malicious Code Delivered Through Optimizely",
-                "text": "Hundreds of websites using Optimizely were infected with malware targeting cryptocurrency wallets, payment card data, and iOS exploit kits.",
-                "image_search_query": "Optimizely"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Malware Delivery Mechanism",
-                "text": "Optimizely's legitimate infrastructure was used to serve malicious code through JavaScript snippets.",
-                "image_search_query": "Optimizely malware delivery mechanism United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Impact",
-                "text": "The malicious code compromised devices and delivered payloads for cryptocurrency theft, payment card data theft, and iOS exploit kits.",
-                "image_search_query": "Optimizely malware impact United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "Ars Technica",
-    "source_url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-    "published_at": "2026-11-17T22:32:16+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Malware Delivery Mechanism",
+        "text": "Optimizely's legitimate infrastructure was used to serve malicious code through JavaScript snippets.",
+        "image_search_query": "Optimizely malware delivery mechanism United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Impact",
+        "text": "The malicious code compromised devices and delivered payloads for cryptocurrency theft, payment card data theft, and iOS exploit kits.",
+        "image_search_query": "Optimizely malware impact United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+  "published_at": "2026-11-17T22:32:16+00:00",
+  "image_done": true
 }

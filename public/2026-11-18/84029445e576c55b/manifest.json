@@ -1,0 +1,74 @@
+{
+  "news_id": "84029445e576c55b",
+  "title": "US loses measles elimination status amid worst outbreak since 1991",
+  "main_subject": {
+    "name": "US",
+    "type": "other",
+    "image_search_query": "US"
+  },
+  "category": "health",
+  "tags": [
+    "measles",
+    "vaccination",
+    "public health"
+  ],
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+  "published_at": "2026-11-17T22:18:53+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "US loses measles elimination status amid worst outbreak since 1991",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/4fc167991a875ede60218c98ef9d7d0a6474d67c/1_0_3409_2727/master/3409.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c4d762ef48f2ffd452f1748b7284770",
+        "article_url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "US"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What happened?",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/4fc167991a875ede60218c98ef9d7d0a6474d67c/1_0_3409_2727/master/3409.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c4d762ef48f2ffd452f1748b7284770",
+        "article_url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "US measles outbreak United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why does it matter?",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/4fc167991a875ede60218c98ef9d7d0a6474d67c/1_0_3409_2727/master/3409.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c4d762ef48f2ffd452f1748b7284770",
+        "article_url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "public health concerns United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/4fc167991a875ede60218c98ef9d7d0a6474d67c/1_0_3409_2727/master/3409.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c4d762ef48f2ffd452f1748b7284770",
+        "article_url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "healthcare hospital medical doctor"
+      }
+    }
+  ]
+}

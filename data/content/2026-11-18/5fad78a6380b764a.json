@@ -1,65 +1,66 @@
 {
-    "news_id": "5fad78a6380b764a",
+  "news_id": "5fad78a6380b764a",
+  "country": "US",
+  "main_subject": {
+    "name": "Lt Col Brandon Carroll Tyner",
+    "type": "person",
+    "image_search_query": "Lt Col Brandon Carroll Tyner"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Lt Col Brandon Carroll Tyner",
-        "type": "person",
+    "category": "politics",
+    "subcategory": "espionage",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "espionage",
+      "spy",
+      "national security",
+      "US military"
+    ],
+    "classification_reason": "The article is primarily about a US military officer suspected of espionage and taken into custody by the US military.",
+    "selected_channels": [
+      "politics-news"
+    ]
+  },
+  "content": {
+    "title": "US Military Officer Arrested for Espionage in UK",
+    "caption": "A US soldier who was arrested in the UK on suspicion of spying for Russia has been taken into custody by the US military.",
+    "hashtags": [
+      "#Espionage",
+      "#Spy",
+      "#NationalSecurity",
+      "#USMilitary"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "US Military Officer Arrested for Espionage in UK",
+        "text": "A US soldier who was arrested in the UK on suspicion of spying for Russia has been taken into custody by the US military.",
         "image_search_query": "Lt Col Brandon Carroll Tyner"
-    },
-    "classification": {
-        "country": "US",
-        "category": "politics",
-        "subcategory": "espionage",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "espionage",
-            "spy",
-            "national security",
-            "US military"
-        ],
-        "classification_reason": "The article is primarily about a US military officer suspected of espionage and taken into custody by the US military.",
-        "selected_channels": [
-            "politics-news"
-        ]
-    },
-    "content": {
-        "title": "US Military Officer Arrested for Espionage in UK",
-        "caption": "A US soldier who was arrested in the UK on suspicion of spying for Russia has been taken into custody by the US military.",
-        "hashtags": [
-            "#Espionage",
-            "#Spy",
-            "#NationalSecurity",
-            "#USMilitary"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "US Military Officer Arrested for Espionage in UK",
-                "text": "A US soldier who was arrested in the UK on suspicion of spying for Russia has been taken into custody by the US military.",
-                "image_search_query": "Lt Col Brandon Carroll Tyner"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "What Happened",
-                "text": "Lt Col Brandon Carroll Tyner, 41, was detained by British counter-terrorism police on 10 November in Gloucestershire over allegations relating to espionage.",
-                "image_search_query": "British counter-terrorism police United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Why It Matters",
-                "text": "The arrest was part of an investigation by UK Counter Terrorism Policing, working with authorities including the US military and the FBI.",
-                "image_search_query": "investigation, UK Counter Terrorism Policing, US military, FBI United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Guardian",
-    "source_url": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
-    "published_at": "2026-11-17T23:05:43+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "What Happened",
+        "text": "Lt Col Brandon Carroll Tyner, 41, was detained by British counter-terrorism police on 10 November in Gloucestershire over allegations relating to espionage.",
+        "image_search_query": "British counter-terrorism police United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Why It Matters",
+        "text": "The arrest was part of an investigation by UK Counter Terrorism Policing, working with authorities including the US military and the FBI.",
+        "image_search_query": "investigation, UK Counter Terrorism Policing, US military, FBI United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
+  "published_at": "2026-11-17T23:05:43+00:00",
+  "image_done": true
 }

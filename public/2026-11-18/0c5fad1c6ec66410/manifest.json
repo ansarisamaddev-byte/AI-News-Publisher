@@ -1,0 +1,73 @@
+{
+  "news_id": "0c5fad1c6ec66410",
+  "title": "NASA Launches Nuclear Power Systems Student Contest",
+  "main_subject": {
+    "name": "NASA",
+    "type": "organization",
+    "image_search_query": "NASA"
+  },
+  "category": "science",
+  "tags": [
+    "nuclear power systems",
+    "student contest"
+  ],
+  "source": "NASA",
+  "source_url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+  "published_at": "2026-11-17T22:02:48+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "NASA Launches Nuclear Power Systems Student Contest",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "article_url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "NASA"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What Happened",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "article_url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "NASA announces student contest United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why It Matters",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "article_url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "student contest inspires students United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "article_url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "scientific research laboratory"
+      }
+    }
+  ]
+}

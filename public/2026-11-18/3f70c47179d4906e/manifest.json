@@ -1,0 +1,75 @@
+{
+  "news_id": "3f70c47179d4906e",
+  "title": "Jeff Bezos Says He Was 'Heavily Involved' in Casting New James Bond",
+  "main_subject": {
+    "name": "Jeff Bezos",
+    "type": "person",
+    "image_search_query": "Jeff Bezos"
+  },
+  "category": "business",
+  "tags": [
+    "Amazon",
+    "Jeff Bezos",
+    "James Bond",
+    "casting"
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+  "published_at": "2026-11-17T22:38:41+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Jeff Bezos Says He Was 'Heavily Involved' in Casting New",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bond.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+        "article_url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Jeff Bezos"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "The Casting Process",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bond.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+        "article_url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "screen tests, Amazon, casting United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "The Final Decision",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bond.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+        "article_url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "final decision, actors, talent United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bond.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+        "article_url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}
