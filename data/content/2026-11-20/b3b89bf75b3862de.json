@@ -1,0 +1,63 @@
+{
+    "news_id": "b3b89bf75b3862de",
+    "country": "US",
+    "main_subject": {
+        "name": "Amazon",
+        "type": "company",
+        "image_search_query": "Amazon"
+    },
+    "classification": {
+        "country": "US",
+        "category": "business",
+        "subcategory": "technology",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "New York City",
+        "tags": [
+            "Amazon",
+            "Delivery Protection Act",
+            "Shopping Platform"
+        ],
+        "classification_reason": "Amazon is using its shopping platform to push a political view against the Delivery Protection Act.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Amazon Uses Shopping Platform to Fight Delivery Protection Act",
+        "caption": "Amazon now uses its shopping platform to convince shoppers not to support a New York City bill.",
+        "hashtags": [
+            "#Amazon",
+            "#DeliveryProtectionAct",
+            "#ShoppingPlatform"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Amazon Uses Shopping Platform to Fight Delivery Protection Act",
+                "text": "Amazon now uses its shopping platform to convince shoppers not to support a New York City bill.",
+                "image_search_query": "Amazon"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "New York City Bill",
+                "text": "The Delivery Protection Act aims to require Amazon to directly employ third-party delivery contractors.",
+                "image_search_query": "New York City Delivery Protection Act United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Amazon's Response",
+                "text": "Amazon now uses its shopping platform to push a political view against the Delivery Protection Act.",
+                "image_search_query": "Amazon shopping platform United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+    "published_at": "2026-11-19T22:16:37+00:00"
+}

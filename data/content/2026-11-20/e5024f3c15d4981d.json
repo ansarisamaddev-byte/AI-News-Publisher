@@ -1,0 +1,63 @@
+{
+    "news_id": "e5024f3c15d4981d",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "West Bengal government",
+        "type": "organization",
+        "image_search_query": "West Bengal government"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "politics",
+        "subcategory": "government",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "West Bengal",
+        "tags": [
+            "government",
+            "politics",
+            "West Bengal"
+        ],
+        "classification_reason": "The article is about the West Bengal government's response to violence at a medical college.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "West Bengal government orders inquiry into violence at Medical College",
+        "caption": "The West Bengal government has ordered an inquiry into the violence that occurred at the Medical College in Kolkata.",
+        "hashtags": [
+            "#WestBengal",
+            "#MedicalCollege",
+            "#Violence"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "West Bengal government orders inquiry into violence at Medical College",
+                "text": "The West Bengal government has ordered an inquiry into the violence that occurred at the Medical College in Kolkata.",
+                "image_search_query": "West Bengal government"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Violence at Medical College",
+                "text": "Violence occurred at the Medical College in Kolkata on Wednesday evening.",
+                "image_search_query": "Medical College violence India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Government Response",
+                "text": "The West Bengal government has ordered an inquiry into the violence.",
+                "image_search_query": "West Bengal government response India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/west-bengal/kolkata-medical-college-tense-as-junior-doctors-gherao-principal-outsiders-attack-protesting-students/article71718707.ece",
+    "published_at": "2026-11-19T22:48:17+00:00"
+}

@@ -1,0 +1,63 @@
+{
+    "news_id": "546a244806f2026b",
+    "country": "DENMARK",
+    "main_subject": {
+        "name": "Michael Flarup",
+        "type": "person",
+        "image_search_query": "Michael Flarup"
+    },
+    "classification": {
+        "country": "DENMARK",
+        "category": "technology",
+        "subcategory": "design",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Copenhagen",
+        "tags": [
+            "design",
+            "icon design",
+            "Mac icons"
+        ],
+        "classification_reason": "The article is centered around Michael Flarup's creation of IconSwapper, a Mac utility that allows users to customize their app icons with live data.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "IconSwapper: A New Way to Customize Mac Icons with Live Data",
+        "caption": "Michael Flarup's IconSwapper app lets users replace app icons with live data, adding a whimsy to Mac desktop setups.",
+        "hashtags": [
+            "#IconSwapper",
+            "#MacIcons",
+            "#LiveData"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "IconSwapper: A New Way to Customize Mac Icons with Live",
+                "text": "Michael Flarup's IconSwapper app lets users replace app icons with live data, adding a whimsy to Mac desktop setups.",
+                "image_search_query": "Michael Flarup"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "What is IconSwapper?",
+                "text": "IconSwapper is a Mac utility that allows users to replace app icons with live data, adding a whimsy to Mac desktop setups.",
+                "image_search_query": "Mac icons, live data Denmark"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "How does IconSwapper work?",
+                "text": "IconSwapper works by drawing directly on the icons without replacing them, allowing users to use shaders, motion, and display real data.",
+                "image_search_query": "Metal shaders, real-time data Denmark"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+    "published_at": "2026-11-19T22:33:26+00:00"
+}

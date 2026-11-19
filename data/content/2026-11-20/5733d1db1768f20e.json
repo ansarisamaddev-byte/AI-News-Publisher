@@ -1,0 +1,63 @@
+{
+    "news_id": "5733d1db1768f20e",
+    "country": "AUSTRALIA",
+    "main_subject": {
+        "name": "Mark Speakman",
+        "type": "person",
+        "image_search_query": "Mark Speakman"
+    },
+    "classification": {
+        "country": "AUSTRALIA",
+        "category": "politics",
+        "subcategory": "opposition leader",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "New South Wales, Australia",
+        "tags": [
+            "opposition leader",
+            "New South Wales",
+            "Liberal Party"
+        ],
+        "classification_reason": "Mark Speakman is the central figure in the article, serving as the former New South Wales opposition leader and the subject of the resignation announcement.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Mark Speakman Resigns from Opposition Leadership",
+        "caption": "Former New South Wales opposition leader Mark Speakman announces his resignation from the leadership of the Liberal Party.",
+        "hashtags": [
+            "#MarkSpeakman",
+            "#LiberalParty",
+            "#NewSouthWales"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Mark Speakman Resigns from Opposition Leadership",
+                "text": "Former New South Wales opposition leader Mark Speakman announces his resignation from the leadership of the Liberal Party.",
+                "image_search_query": "Mark Speakman"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Resignation Announcement",
+                "text": "Mark Speakman resigns from the leadership of the Liberal Party, ending speculation about his future.",
+                "image_search_query": "Mark Speakman resigns Australia"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Background",
+                "text": "Mark Speakman served as the opposition leader and attorney general in New South Wales, known for his commitment to multiculturalism.",
+                "image_search_query": "Mark Speakman background Australia"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Guardian",
+    "source_url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
+    "published_at": "2026-11-19T22:17:09+00:00"
+}

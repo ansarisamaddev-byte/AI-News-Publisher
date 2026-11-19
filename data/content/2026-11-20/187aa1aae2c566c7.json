@@ -1,0 +1,61 @@
+{
+    "news_id": "187aa1aae2c566c7",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Bhajan Lal Sharma",
+        "type": "person",
+        "image_search_query": "Bhajan Lal Sharma"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "business",
+        "subcategory": "politics",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Rajasthan, India",
+        "tags": [
+            "politics",
+            "BJP"
+        ],
+        "classification_reason": "The article is about Bhajan Lal Sharma, a BJP politician in Rajasthan, and his political career.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Bhajan Lal Sharma Seeks to Assert Authority as BJP Chief Minister",
+        "caption": "Bhajan Lal Sharma, a BJP politician in Rajasthan, seeks to assert his authority as Chief Minister.",
+        "hashtags": [
+            "#BJP",
+            "#Rajasthan"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Bhajan Lal Sharma Seeks to Assert Authority as BJP Chief",
+                "text": "Bhajan Lal Sharma, a BJP politician in Rajasthan, seeks to assert his authority as Chief Minister.",
+                "image_search_query": "Bhajan Lal Sharma"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "BJP's Central Leadership vs. Local Authority",
+                "text": "BJP's central leadership accused Bhajan Lal Sharma of being a leader chosen by them rather than one who built a political base.",
+                "image_search_query": "BJP central leadership vs. local authority India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Bhajan Lal Sharma's Recent Accusations",
+                "text": "Bhajan Lal Sharma now accuses BJP of finishing off the entire BJP in Rajasthan.",
+                "image_search_query": "Bhajan Lal Sharma BJP accusations India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/rajasthan/as-three-year-mark-nears-bhajan-lal-sharma-seeks-to-shed-parchi-cm-tag/article71718633.ece",
+    "published_at": "2026-11-19T22:40:49+00:00"
+}

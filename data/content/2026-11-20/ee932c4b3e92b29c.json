@@ -1,0 +1,62 @@
+{
+    "news_id": "ee932c4b3e92b29c",
+    "country": "US",
+    "main_subject": {
+        "name": "Google",
+        "type": "company",
+        "image_search_query": "Google"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "quantum computing",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "",
+        "tags": [
+            "quantum computing",
+            "Google"
+        ],
+        "classification_reason": "The article is about Google's quantum chip and its performance compared to classical limits, which is a significant technological achievement.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Google's Quantum Chip Beats Classical Limits in Tests of Teamwork",
+        "caption": "Google's Willow chip demonstrates quantum supremacy by beating classical limits in contextuality tests on up to 105 qubits.",
+        "hashtags": [
+            "#Google",
+            "#QuantumComputing",
+            "#QuantumSupremacy"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Google's Quantum Chip Beats Classical Limits in Tests of Teamwork",
+                "text": "Google's Willow chip demonstrates quantum supremacy by beating classical limits in contextuality tests on up to 105 qubits.",
+                "image_search_query": "Google"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Relevant Context",
+                "text": "Google's Willow chip, a quantum computer, outperforms classical limits in contextuality tests on up to 105 qubits.",
+                "image_search_query": "Google Willow chip contextuality tests United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Important Details",
+                "text": "The Willow chip demonstrates quantum supremacy by beating classical limits in contextuality tests on up to 105 qubits.",
+                "image_search_query": "Google Willow chip quantum supremacy details United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Technology",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFk5V0Z3NE9EMkxXZlNHQnk0bndFLVo5dGs2ZGZkOUIyWjZHM3BWZ29Wc2p0Wl9MSnMtVFFzT3Rrc2JSZk9EenpESmZVdjVmbHp3RXIxaVlHUFpoai1iN0dzd0ZtNENEOGhXRDlCTXQteU1RMlFXaERiZWh6ZThkNnl3R2l6YnJQRWdlZloyOVZWejlsX3JoQXJISGlvTFo2UWFYTkNVXzZydw?oc=5",
+    "published_at": "2026-11-19T22:09:35+00:00"
+}
