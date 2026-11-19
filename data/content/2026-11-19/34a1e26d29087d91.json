@@ -1,0 +1,63 @@
+{
+    "news_id": "34a1e26d29087d91",
+    "country": "US",
+    "main_subject": {
+        "name": "Colette Kress",
+        "type": "person",
+        "image_search_query": "Colette Kress"
+    },
+    "classification": {
+        "country": "US",
+        "category": "business",
+        "subcategory": "technology",
+        "importance_score": 7,
+        "relevance_score": 7,
+        "region": "",
+        "tags": [
+            "Nvidia",
+            "CEO",
+            "catchphrase"
+        ],
+        "classification_reason": "The article is about Colette Kress, the interim CEO of Nvidia, and her catchphrase 'We’ve got this'.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Colette Kress Uses Catchphrase 'We’ve Got This' to Stabilize Nvidia",
+        "caption": "Colette Kress, the interim CEO of Nvidia, uses the catchphrase 'We’ve got this' to reassure employees and investors.",
+        "hashtags": [
+            "#ColetteKress",
+            "#NvidiaCEO",
+            "#Catchphrase"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Colette Kress Uses Catchphrase 'We’ve Got This' to Stabilize Nvidia",
+                "text": "Colette Kress, the interim CEO of Nvidia, uses the catchphrase 'We’ve got this' to reassure employees and investors.",
+                "image_search_query": "Colette Kress"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Nvidia's Situation",
+                "text": "Nvidia is facing an international scandal, its stock has taken a hit, and it's in a precarious position.",
+                "image_search_query": "Nvidia, stock, precarious position United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Colette Kress' Catchphrase",
+                "text": "Colette Kress uses the catchphrase 'We’ve got this' to reassure employees and investors.",
+                "image_search_query": "Colette Kress, catchphrase United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/guys-really-we-got-this/",
+    "published_at": "2026-11-18T22:16:23+00:00"
+}

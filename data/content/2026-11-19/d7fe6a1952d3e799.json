@@ -1,0 +1,62 @@
+{
+    "news_id": "d7fe6a1952d3e799",
+    "country": "UK",
+    "main_subject": {
+        "name": "Matthew Pennycook",
+        "type": "person",
+        "image_search_query": "Matthew Pennycook"
+    },
+    "classification": {
+        "country": "UK",
+        "category": "business",
+        "subcategory": "housing",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "England and Wales",
+        "tags": [
+            "housing reform",
+            "leasehold reform",
+            "ground rent"
+        ],
+        "classification_reason": "Matthew Pennycook is the main subject of the article, focusing on his role in the housing reform bill and leasehold reform efforts.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Leaseholders in England and Wales to have ground rent capped in 2028",
+        "caption": "The housing minister Matthew Pennycook introduces a bill to eventually ban virtually all new leasehold properties, including measures to cap charges, end the sale of new leasehold flats, and make it easier to extend and buy out leases.",
+        "hashtags": [
+            "#LeaseholdReform",
+            "#GroundRentCapping"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Leaseholders in England and Wales to have ground rent capped",
+                "text": "The housing minister Matthew Pennycook introduces a bill to eventually ban virtually all new leasehold properties, including measures to cap charges, end the sale of new leasehold flats, and make it easier to extend and",
+                "image_search_query": "Matthew Pennycook"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Leaseholders in England and Wales",
+                "text": "Leaseholders in England and Wales will have their ground rent capped in 2028.",
+                "image_search_query": "Leaseholders in England and Wales United Kingdom"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Leasehold reform measures",
+                "text": "Matthew Pennycook introduces measures to cap charges, end the sale of new leasehold flats, and make it easier to extend and buy out leases.",
+                "image_search_query": "Leasehold reform measures United Kingdom"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Guardian",
+    "source_url": "https://www.theguardian.com/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028",
+    "published_at": "2026-11-18T22:30:09+00:00"
+}

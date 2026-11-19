@@ -1,0 +1,67 @@
+{
+    "news_id": "4790e451f4fa5afc",
+    "country": "US",
+    "main_subject": {
+        "name": "Astronomers",
+        "type": "person",
+        "image_search_query": "Astronomers"
+    },
+    "classification": {
+        "country": "US",
+        "category": "science",
+        "subcategory": "astronomy",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US",
+        "tags": [
+            "astronomy",
+            "astronomers",
+            "star",
+            "companion",
+            "inspiral"
+        ],
+        "classification_reason": "The main subject is astronomers who observed a star eating its companion, which is a significant astronomical event.",
+        "selected_channels": [
+            "science-news"
+        ]
+    },
+    "content": {
+        "title": "Astronomers Witness a Star Eating Its Companion in 1st-of-Its-Kind Observation",
+        "caption": "Astronomers capture the first-ever observation of a star eating its companion, marking a significant milestone in the study of stellar evolution.",
+        "hashtags": [
+            "#astronomy",
+            "#astronomers",
+            "#star",
+            "#companion",
+            "#inspiral"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Astronomers Witness a Star Eating Its Companion in 1st-of-Its-Kind Observation",
+                "text": "Astronomers capture the first-ever observation of a star eating its companion, marking a significant milestone in the study of stellar evolution.",
+                "image_search_query": "Astronomers"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Observation Details",
+                "text": "The observation was made using NASA's data, clinching the first-of-its-kind stellar merger.",
+                "image_search_query": "astronomers data NASA United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "The Event",
+                "text": "Two stars in the Andromeda galaxy merged before astronomers' eyes, confirming an RIT astrophysicist's theory about the end of a star's life.",
+                "image_search_query": "astronomers Andromeda galaxy merger United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Science",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2NqUGNSN0hpWFFpX1ZQVGpwV2hXT1l5d1I3VEN0Tk5lcEhCekhJWDJVekNhRE5WcWNCeE8zWTVZNDFNWmNkMTlQVndZeUxmYTVWaGpaUGV5Y3RfTGRVQTRRSGRjQjVwcEMteVJyYWZTYUEwc0tjNnJFVHdSVFltUnVQSVhhazVpX1lvbWdNWWZSX1ZfZmJOQ3I3c2pfYXNYdktiZzB1by1pdjc5bW1EQlFrbEE2U3M?oc=5",
+    "published_at": "2026-11-18T22:00:00+00:00"
+}

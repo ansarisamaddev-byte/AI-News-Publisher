@@ -1,0 +1,64 @@
+{
+    "news_id": "43aaa38ea1841c95",
+    "country": "US",
+    "main_subject": {
+        "name": "Northrop Grumman",
+        "type": "company",
+        "image_search_query": "Northrop Grumman"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "space exploration",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Florida",
+        "tags": [
+            "Northrop Grumman",
+            "Cygnus",
+            "International Space Station",
+            "Space Launch Complex 40"
+        ],
+        "classification_reason": "The article is primarily about Northrop Grumman's launch of a Cygnus spacecraft to the International Space Station, which is a significant event in space exploration.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Northrop Grumman Launches Cygnus XL to International Space Station",
+        "caption": "Northrop Grumman launches Cygnus XL spacecraft to the International Space Station, marking a significant milestone in space exploration.",
+        "hashtags": [
+            "#NorthropGrumman",
+            "#CygnusXL",
+            "#InternationalSpaceStation"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Northrop Grumman Launches Cygnus XL to International Space Station",
+                "text": "Northrop Grumman launches Cygnus XL spacecraft to the International Space Station, marking a significant milestone in space exploration.",
+                "image_search_query": "Northrop Grumman"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Launch Details",
+                "text": "The Cygnus XL spacecraft, carrying approximately 11,000 pounds of cargo, is set to launch from Space Launch Complex 40 in Florida.",
+                "image_search_query": "Space Launch Complex 40 United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Mission Overview",
+                "text": "The mission, known as NASA’s Northrop Grumman Commercial Resupply Services 25, or Northrop Grumman CRS-25, is delivering science investigations, supplies, and equipment to the International Space Station.",
+                "image_search_query": "NASA Northrop Grumman Commercial Resupply Services 25 United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "NASA",
+    "source_url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+    "published_at": "2026-11-18T22:19:17+00:00"
+}
