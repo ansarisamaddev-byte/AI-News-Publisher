@@ -1,0 +1,75 @@
+{
+  "news_id": "43aaa38ea1841c95",
+  "title": "Northrop Grumman Launches Cygnus XL to International Space Station",
+  "main_subject": {
+    "name": "Northrop Grumman",
+    "type": "company",
+    "image_search_query": "Northrop Grumman"
+  },
+  "category": "technology",
+  "tags": [
+    "Northrop Grumman",
+    "Cygnus",
+    "International Space Station",
+    "Space Launch Complex 40"
+  ],
+  "source": "NASA",
+  "source_url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+  "published_at": "2026-11-18T22:19:17+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Northrop Grumman Launches Cygnus XL to International Space Station",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20260411-ph-nrg01-0009large.jpg",
+        "article_url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Northrop Grumman"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Launch Details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20260411-ph-nrg01-0009large.jpg",
+        "article_url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Space Launch Complex 40 United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Mission Overview",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20260411-ph-nrg01-0009large.jpg",
+        "article_url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "NASA Northrop Grumman Commercial Resupply Services 25 United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20260411-ph-nrg01-0009large.jpg",
+        "article_url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

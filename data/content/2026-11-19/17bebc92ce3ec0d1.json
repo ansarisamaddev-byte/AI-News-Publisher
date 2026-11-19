@@ -1,64 +1,65 @@
 {
-    "news_id": "17bebc92ce3ec0d1",
+  "news_id": "17bebc92ce3ec0d1",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "India",
+    "type": "other",
+    "image_search_query": "India"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "India",
-        "type": "other",
+    "category": "business",
+    "subcategory": "CSR",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "India",
+    "tags": [
+      "CSR",
+      "India"
+    ],
+    "classification_reason": "The article is about India's CSR spending and its gaps in various sectors.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "India’s CSR Spending Leaves Gaps in Health, Water Security, Innovation",
+    "caption": "India’s Corporate Social Responsibility (CSR) spending has left gaps in health, water security, and innovation, according to a report by Sattva Consulting and India Data Insights.",
+    "hashtags": [
+      "#CSR",
+      "#India",
+      "#Health",
+      "#WaterSecurity",
+      "#Innovation"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "India’s CSR Spending Leaves Gaps in Health, Water Security, Innovation",
+        "text": "India’s Corporate Social Responsibility (CSR) spending has left gaps in health, water security, and innovation, according to a report by Sattva Consulting and India Data Insights.",
         "image_search_query": "India"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "business",
-        "subcategory": "CSR",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "India",
-        "tags": [
-            "CSR",
-            "India"
-        ],
-        "classification_reason": "The article is about India's CSR spending and its gaps in various sectors.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "India’s CSR Spending Leaves Gaps in Health, Water Security, Innovation",
-        "caption": "India’s Corporate Social Responsibility (CSR) spending has left gaps in health, water security, and innovation, according to a report by Sattva Consulting and India Data Insights.",
-        "hashtags": [
-            "#CSR",
-            "#India",
-            "#Health",
-            "#WaterSecurity",
-            "#Innovation"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "India’s CSR Spending Leaves Gaps in Health, Water Security, Innovation",
-                "text": "India’s Corporate Social Responsibility (CSR) spending has left gaps in health, water security, and innovation, according to a report by Sattva Consulting and India Data Insights.",
-                "image_search_query": "India"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "CSR Spending Overview",
-                "text": "India’s annual CSR spending reached ₹40,794 crore in FY25, growing at 15% annually over the past decade.",
-                "image_search_query": "India CSR spending"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "CSR Spending Gaps",
-                "text": "The report found gaps in non-communicable diseases, women’s economic agency, school-to-work transition, groundwater resilience, and innovation.",
-                "image_search_query": "CSR spending gaps India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece",
-    "published_at": "2026-11-18T22:27:16+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "CSR Spending Overview",
+        "text": "India’s annual CSR spending reached ₹40,794 crore in FY25, growing at 15% annually over the past decade.",
+        "image_search_query": "India CSR spending"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "CSR Spending Gaps",
+        "text": "The report found gaps in non-communicable diseases, women’s economic agency, school-to-work transition, groundwater resilience, and innovation.",
+        "image_search_query": "CSR spending gaps India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece",
+  "published_at": "2026-11-18T22:27:16+00:00",
+  "image_done": true
 }

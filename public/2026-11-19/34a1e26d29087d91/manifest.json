@@ -1,0 +1,74 @@
+{
+  "news_id": "34a1e26d29087d91",
+  "title": "Colette Kress Uses Catchphrase 'We’ve Got This' to Stabilize Nvidia",
+  "main_subject": {
+    "name": "Colette Kress",
+    "type": "person",
+    "image_search_query": "Colette Kress"
+  },
+  "category": "business",
+  "tags": [
+    "Nvidia",
+    "CEO",
+    "catchphrase"
+  ],
+  "source": "Wired",
+  "source_url": "https://www.wired.com/story/guys-really-we-got-this/",
+  "published_at": "2026-11-18T22:16:23+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Colette Kress Uses Catchphrase 'We’ve Got This' to Stabilize Nvidia",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6afe216b809613f3f77a2770/191:100/w_1280,c_limit/Does-NVIDIA-Got-This-Business.jpg",
+        "article_url": "https://www.wired.com/story/guys-really-we-got-this/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Colette Kress"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Nvidia's Situation",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6afe216b809613f3f77a2770/191:100/w_1280,c_limit/Does-NVIDIA-Got-This-Business.jpg",
+        "article_url": "https://www.wired.com/story/guys-really-we-got-this/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Nvidia, stock, precarious position United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Colette Kress' Catchphrase",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6afe216b809613f3f77a2770/191:100/w_1280,c_limit/Does-NVIDIA-Got-This-Business.jpg",
+        "article_url": "https://www.wired.com/story/guys-really-we-got-this/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Colette Kress, catchphrase United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6afe216b809613f3f77a2770/191:100/w_1280,c_limit/Does-NVIDIA-Got-This-Business.jpg",
+        "article_url": "https://www.wired.com/story/guys-really-we-got-this/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

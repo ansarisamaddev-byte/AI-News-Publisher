@@ -1,60 +1,61 @@
 {
-    "news_id": "edb8bbc3e423211c",
+  "news_id": "edb8bbc3e423211c",
+  "country": "US",
+  "main_subject": {
+    "name": "Dave Jones",
+    "type": "person",
+    "image_search_query": "Dave Jones"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Dave Jones",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "video games",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "video game creator"
+    ],
+    "classification_reason": "Dave Jones is the co-creator of the Grand Theft Auto series, a significant figure in the video game industry.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Dave Jones Reflects on GTA6 Evolution",
+    "caption": "Grand Theft Auto VI has launched, prompting co-creator Dave Jones to reflect on the franchise's evolution.",
+    "hashtags": [
+      "#GTA6",
+      "#videoGameCreator"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Dave Jones Reflects on GTA6 Evolution",
+        "text": "Grand Theft Auto VI has launched, prompting co-creator Dave Jones to reflect on the franchise's evolution.",
         "image_search_query": "Dave Jones"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "video games",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "video game creator"
-        ],
-        "classification_reason": "Dave Jones is the co-creator of the Grand Theft Auto series, a significant figure in the video game industry.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Dave Jones Reflects on GTA6 Evolution",
-        "caption": "Grand Theft Auto VI has launched, prompting co-creator Dave Jones to reflect on the franchise's evolution.",
-        "hashtags": [
-            "#GTA6",
-            "#videoGameCreator"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Dave Jones Reflects on GTA6 Evolution",
-                "text": "Grand Theft Auto VI has launched, prompting co-creator Dave Jones to reflect on the franchise's evolution.",
-                "image_search_query": "Dave Jones"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "GTA6 Launch",
-                "text": "Grand Theft Auto VI has launched, sending players back to Vice City and testing whether Rockstar Games can follow one of the bestselling video games ever made with another cultural and commercial phenomenon.",
-                "image_search_query": "Grand Theft Auto VI United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "GTA6 Evolution",
-                "text": "GTA co-creator Dave Jones reflected on the evolution of the popular video game franchise, saying players' preference for playing criminals helped shape the direction of the original game.",
-                "image_search_query": "Dave Jones GTA6 United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Guardian Technology",
-    "source_url": "https://www.theguardian.com/games/video/2026/nov/19/more-fun-being-chased-grand-theft-auto-co-creator-reflects-on-franchises-evolution-video",
-    "published_at": "2026-11-18T22:50:26+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "GTA6 Launch",
+        "text": "Grand Theft Auto VI has launched, sending players back to Vice City and testing whether Rockstar Games can follow one of the bestselling video games ever made with another cultural and commercial phenomenon.",
+        "image_search_query": "Grand Theft Auto VI United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "GTA6 Evolution",
+        "text": "GTA co-creator Dave Jones reflected on the evolution of the popular video game franchise, saying players' preference for playing criminals helped shape the direction of the original game.",
+        "image_search_query": "Dave Jones GTA6 United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Guardian Technology",
+  "source_url": "https://www.theguardian.com/games/video/2026/nov/19/more-fun-being-chased-grand-theft-auto-co-creator-reflects-on-franchises-evolution-video",
+  "published_at": "2026-11-18T22:50:26+00:00",
+  "image_done": true
 }

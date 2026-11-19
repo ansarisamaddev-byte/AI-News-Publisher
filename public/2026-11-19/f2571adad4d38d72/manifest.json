@@ -1,0 +1,75 @@
+{
+  "news_id": "f2571adad4d38d72",
+  "title": "Palmer Luckey: Nvidia's Leadership Change and China's Reaction",
+  "main_subject": {
+    "name": "Palmer Luckey",
+    "type": "person",
+    "image_search_query": "Palmer Luckey"
+  },
+  "category": "business",
+  "tags": [
+    "Anduril",
+    "Nvidia",
+    "Jensen Huang",
+    "China"
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+  "published_at": "2026-11-18T21:31:21+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Palmer Luckey: Nvidia's Leadership Change and China's Reaction",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1728513578-e.jpg?resize=1200,800",
+        "article_url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Palmer Luckey"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Nvidia's Leadership Change",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1728513578-e.jpg?resize=1200,800",
+        "article_url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Nvidia leadership change United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Palmer Luckey's Views",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1728513578-e.jpg?resize=1200,800",
+        "article_url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Palmer Luckey views United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1728513578-e.jpg?resize=1200,800",
+        "article_url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

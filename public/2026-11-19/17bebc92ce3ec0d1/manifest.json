@@ -1,0 +1,73 @@
+{
+  "news_id": "17bebc92ce3ec0d1",
+  "title": "India’s CSR Spending Leaves Gaps in Health, Water Security, Innovation",
+  "main_subject": {
+    "name": "India",
+    "type": "other",
+    "image_search_query": "India"
+  },
+  "category": "business",
+  "tags": [
+    "CSR",
+    "India"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece",
+  "published_at": "2026-11-18T22:27:16+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "India’s CSR Spending Leaves Gaps in Health, Water Security, Innovation",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/91ij62/article71717493.ece/alternates/LANDSCAPE_1200/Corporate%20Social%20Responsibility%20CSR.jpg",
+        "article_url": "https://www.thehindu.com/news/national/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "India"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "CSR Spending Overview",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/91ij62/article71717493.ece/alternates/LANDSCAPE_1200/Corporate%20Social%20Responsibility%20CSR.jpg",
+        "article_url": "https://www.thehindu.com/news/national/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "India CSR spending"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "CSR Spending Gaps",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/91ij62/article71717493.ece/alternates/LANDSCAPE_1200/Corporate%20Social%20Responsibility%20CSR.jpg",
+        "article_url": "https://www.thehindu.com/news/national/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "CSR spending gaps India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/91ij62/article71717493.ece/alternates/LANDSCAPE_1200/Corporate%20Social%20Responsibility%20CSR.jpg",
+        "article_url": "https://www.thehindu.com/news/national/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

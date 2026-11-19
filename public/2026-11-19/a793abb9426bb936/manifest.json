@@ -1,0 +1,73 @@
+{
+  "news_id": "a793abb9426bb936",
+  "title": "Delhi High Court Orders Centre to Look into Objectionable Content",
+  "main_subject": {
+    "name": "Delhi High Court",
+    "type": "organization",
+    "image_search_query": "Delhi High Court"
+  },
+  "category": "business",
+  "tags": [
+    "legal",
+    "high court"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-asks-centre-to-look-into-objectionable-content-posted-by-police-officials-against-lawyers/article71716181.ece",
+  "published_at": "2026-11-18T21:47:04+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Delhi High Court Orders Centre to Look into Objectionable Content",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/ofvqr8/article71717536.ece/alternates/LANDSCAPE_1200/Delhi-HC-pulls-GUMFEK1OD.2.jpg.jpg",
+        "article_url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-asks-centre-to-look-into-objectionable-content-posted-by-police-officials-against-lawyers/article71716181.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Delhi High Court"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "The Case",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/ofvqr8/article71717536.ece/alternates/LANDSCAPE_1200/Delhi-HC-pulls-GUMFEK1OD.2.jpg.jpg",
+        "article_url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-asks-centre-to-look-into-objectionable-content-posted-by-police-officials-against-lawyers/article71716181.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "police officials, lawyers, social media India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "The Order",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/ofvqr8/article71717536.ece/alternates/LANDSCAPE_1200/Delhi-HC-pulls-GUMFEK1OD.2.jpg.jpg",
+        "article_url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-asks-centre-to-look-into-objectionable-content-posted-by-police-officials-against-lawyers/article71716181.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Centre, investigation, action India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/ofvqr8/article71717536.ece/alternates/LANDSCAPE_1200/Delhi-HC-pulls-GUMFEK1OD.2.jpg.jpg",
+        "article_url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-asks-centre-to-look-into-objectionable-content-posted-by-police-officials-against-lawyers/article71716181.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}
