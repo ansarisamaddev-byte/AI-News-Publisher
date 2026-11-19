@@ -1,0 +1,74 @@
+{
+  "news_id": "b898967e549fcca4",
+  "title": "ESA's Hera probe uses 'superhuman' vision to inspect NASA's asteroid crash site",
+  "main_subject": {
+    "name": "ESA",
+    "type": "organization",
+    "image_search_query": "ESA"
+  },
+  "category": "technology",
+  "tags": [
+    "ESA",
+    "Hera probe",
+    "NASA asteroid crash"
+  ],
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YRkp5aWxyTzdOcXlYZzQzN2I2a2xialVCejZOai1Bdmg4dThHXzFjcWlodktjeW94QkNGNDN2MGttMGNVMVRmbUZpRVFZOF9objFWYW5JWXZSYTFpaHJBSzRlUjlCOFJBemwxYmgwTWo2Rkk4R0E?oc=5",
+  "published_at": "2026-11-19T22:40:17+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "ESA's Hera probe uses 'superhuman' vision to inspect NASA's asteroid",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YRkp5aWxyTzdOcXlYZzQzN2I2a2xialVCejZOai1Bdmg4dThHXzFjcWlodktjeW94QkNGNDN2MGttMGNVMVRmbUZpRVFZOF9objFWYW5JWXZSYTFpaHJBSzRlUjlCOFJBemwxYmgwTWo2Rkk4R0E?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "ESA"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Relevant context",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YRkp5aWxyTzdOcXlYZzQzN2I2a2xialVCejZOai1Bdmg4dThHXzFjcWlodktjeW94QkNGNDN2MGttMGNVMVRmbUZpRVFZOF9objFWYW5JWXZSYTFpaHJBSzRlUjlCOFJBemwxYmgwTWo2Rkk4R0E?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "ESA Hera probe advanced imaging technology United Kingdom"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Important details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YRkp5aWxyTzdOcXlYZzQzN2I2a2xialVCejZOai1Bdmg4dThHXzFjcWlodktjeW94QkNGNDN2MGttMGNVMVRmbUZpRVFZOF9objFWYW5JWXZSYTFpaHJBSzRlUjlCOFJBemwxYmgwTWo2Rkk4R0E?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "ESA Hera probe colors temperatures asteroids United Kingdom"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YRkp5aWxyTzdOcXlYZzQzN2I2a2xialVCejZOai1Bdmg4dThHXzFjcWlodktjeW94QkNGNDN2MGttMGNVMVRmbUZpRVFZOF9objFWYW5JWXZSYTFpaHJBSzRlUjlCOFJBemwxYmgwTWo2Rkk4R0E?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

@@ -1,63 +1,64 @@
 {
-    "news_id": "b898967e549fcca4",
+  "news_id": "b898967e549fcca4",
+  "country": "UK",
+  "main_subject": {
+    "name": "ESA",
+    "type": "organization",
+    "image_search_query": "ESA"
+  },
+  "classification": {
     "country": "UK",
-    "main_subject": {
-        "name": "ESA",
-        "type": "organization",
+    "category": "technology",
+    "subcategory": "space exploration",
+    "importance_score": 1,
+    "relevance_score": 1,
+    "region": "UK",
+    "tags": [
+      "ESA",
+      "Hera probe",
+      "NASA asteroid crash"
+    ],
+    "classification_reason": "ESA's Hera probe uses 'superhuman' vision to inspect NASA's asteroid crash site",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "ESA's Hera probe uses 'superhuman' vision to inspect NASA's asteroid crash site",
+    "caption": "ESA's Hera probe captures the colors and temperatures of asteroids, revealing a strange new world.",
+    "hashtags": [
+      "#ESA",
+      "#HeraProbe",
+      "#NASAasteroidcrash"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "ESA's Hera probe uses 'superhuman' vision to inspect NASA's asteroid",
+        "text": "ESA's Hera probe captures the colors and temperatures of asteroids, revealing a strange new world.",
         "image_search_query": "ESA"
-    },
-    "classification": {
-        "country": "UK",
-        "category": "technology",
-        "subcategory": "space exploration",
-        "importance_score": 1,
-        "relevance_score": 1,
-        "region": "UK",
-        "tags": [
-            "ESA",
-            "Hera probe",
-            "NASA asteroid crash"
-        ],
-        "classification_reason": "ESA's Hera probe uses 'superhuman' vision to inspect NASA's asteroid crash site",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "ESA's Hera probe uses 'superhuman' vision to inspect NASA's asteroid crash site",
-        "caption": "ESA's Hera probe captures the colors and temperatures of asteroids, revealing a strange new world.",
-        "hashtags": [
-            "#ESA",
-            "#HeraProbe",
-            "#NASAasteroidcrash"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "ESA's Hera probe uses 'superhuman' vision to inspect NASA's asteroid",
-                "text": "ESA's Hera probe captures the colors and temperatures of asteroids, revealing a strange new world.",
-                "image_search_query": "ESA"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Relevant context",
-                "text": "ESA's Hera probe uses advanced imaging technology to inspect NASA's asteroid crash site.",
-                "image_search_query": "ESA Hera probe advanced imaging technology United Kingdom"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Important details",
-                "text": "Hera's cameras captured the colors and temperatures of the asteroids, revealing a strange new world.",
-                "image_search_query": "ESA Hera probe colors temperatures asteroids United Kingdom"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Science",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YRkp5aWxyTzdOcXlYZzQzN2I2a2xialVCejZOai1Bdmg4dThHXzFjcWlodktjeW94QkNGNDN2MGttMGNVMVRmbUZpRVFZOF9objFWYW5JWXZSYTFpaHJBSzRlUjlCOFJBemwxYmgwTWo2Rkk4R0E?oc=5",
-    "published_at": "2026-11-19T22:40:17+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Relevant context",
+        "text": "ESA's Hera probe uses advanced imaging technology to inspect NASA's asteroid crash site.",
+        "image_search_query": "ESA Hera probe advanced imaging technology United Kingdom"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Important details",
+        "text": "Hera's cameras captured the colors and temperatures of the asteroids, revealing a strange new world.",
+        "image_search_query": "ESA Hera probe colors temperatures asteroids United Kingdom"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YRkp5aWxyTzdOcXlYZzQzN2I2a2xialVCejZOai1Bdmg4dThHXzFjcWlodktjeW94QkNGNDN2MGttMGNVMVRmbUZpRVFZOF9objFWYW5JWXZSYTFpaHJBSzRlUjlCOFJBemwxYmgwTWo2Rkk4R0E?oc=5",
+  "published_at": "2026-11-19T22:40:17+00:00",
+  "image_done": true
 }

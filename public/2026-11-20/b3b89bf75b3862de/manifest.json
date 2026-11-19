@@ -1,0 +1,74 @@
+{
+  "news_id": "b3b89bf75b3862de",
+  "title": "Amazon Uses Shopping Platform to Fight Delivery Protection Act",
+  "main_subject": {
+    "name": "Amazon",
+    "type": "company",
+    "image_search_query": "Amazon"
+  },
+  "category": "business",
+  "tags": [
+    "Amazon",
+    "Delivery Protection Act",
+    "Shopping Platform"
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+  "published_at": "2026-11-19T22:16:37+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Amazon Uses Shopping Platform to Fight Delivery Protection Act",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg",
+        "article_url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Amazon"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "New York City Bill",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg",
+        "article_url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "New York City Delivery Protection Act United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Amazon's Response",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg",
+        "article_url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Amazon shopping platform United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg",
+        "article_url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}
