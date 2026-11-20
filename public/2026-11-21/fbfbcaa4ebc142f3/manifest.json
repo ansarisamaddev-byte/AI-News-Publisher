@@ -1,0 +1,74 @@
+{
+  "news_id": "fbfbcaa4ebc142f3",
+  "title": "Three French Police Officers Found Guilty of Racist Assault on Black Music Producer Michel Zecler",
+  "main_subject": {
+    "name": "Michel Zecler",
+    "type": "person",
+    "image_search_query": "Michel Zecler"
+  },
+  "category": "politics",
+  "tags": [
+    "racism",
+    "police brutality",
+    "violence"
+  ],
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+  "published_at": "2026-11-20T22:23:53+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Three French Police Officers Found Guilty of Racist Assault on",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/e744f4dacdb4a945886bcb2886956ca9b6a2f39e/797_1_3568_2855/master/3568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c976bda7cf4e4e1fff6580d19029c1bd",
+        "article_url": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Michel Zecler"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "The Incident",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/e744f4dacdb4a945886bcb2886956ca9b6a2f39e/797_1_3568_2855/master/3568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c976bda7cf4e4e1fff6580d19029c1bd",
+        "article_url": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "security cameras, Michel Zecler, 2020 France"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "The Officers",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/e744f4dacdb4a945886bcb2886956ca9b6a2f39e/797_1_3568_2855/master/3568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c976bda7cf4e4e1fff6580d19029c1bd",
+        "article_url": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Aurelien Lapersonne, Pierre Plantier, Philippe Tondeux France"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/e744f4dacdb4a945886bcb2886956ca9b6a2f39e/797_1_3568_2855/master/3568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c976bda7cf4e4e1fff6580d19029c1bd",
+        "article_url": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "parliament government building"
+      }
+    }
+  ]
+}

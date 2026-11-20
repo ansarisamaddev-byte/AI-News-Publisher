@@ -1,63 +1,64 @@
 {
-    "news_id": "fb730324063a16ca",
+  "news_id": "fb730324063a16ca",
+  "country": "UK",
+  "main_subject": {
+    "name": "UK-EU deal",
+    "type": "event",
+    "image_search_query": "UK-EU deal"
+  },
+  "classification": {
     "country": "UK",
-    "main_subject": {
-        "name": "UK-EU deal",
-        "type": "event",
+    "category": "business",
+    "subcategory": "trade",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "UK",
+    "tags": [
+      "UK-EU deal",
+      "trade agreement",
+      "post-Brexit relations"
+    ],
+    "classification_reason": "The article discusses a significant trade agreement between the UK and EU, which is a key business event.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "UK-EU trade deal strengthens post-Brexit ties",
+    "caption": "The UK and EU have reached a deal on food exports, emissions trading, and a youth experience scheme, strengthening post-Brexit relations.",
+    "hashtags": [
+      "#UK-EUdeal",
+      "#postBrexit",
+      "#tradeagreement"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "UK-EU trade deal strengthens post-Brexit ties",
+        "text": "The UK and EU have reached a deal on food exports, emissions trading, and a youth experience scheme, strengthening post-Brexit relations.",
         "image_search_query": "UK-EU deal"
-    },
-    "classification": {
-        "country": "UK",
-        "category": "business",
-        "subcategory": "trade",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "UK",
-        "tags": [
-            "UK-EU deal",
-            "trade agreement",
-            "post-Brexit relations"
-        ],
-        "classification_reason": "The article discusses a significant trade agreement between the UK and EU, which is a key business event.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "UK-EU trade deal strengthens post-Brexit ties",
-        "caption": "The UK and EU have reached a deal on food exports, emissions trading, and a youth experience scheme, strengthening post-Brexit relations.",
-        "hashtags": [
-            "#UK-EUdeal",
-            "#postBrexit",
-            "#tradeagreement"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "UK-EU trade deal strengthens post-Brexit ties",
-                "text": "The UK and EU have reached a deal on food exports, emissions trading, and a youth experience scheme, strengthening post-Brexit relations.",
-                "image_search_query": "UK-EU deal"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Key details",
-                "text": "The deal covers food exports, emissions trading, and a youth experience scheme, strengthening post-Brexit relations.",
-                "image_search_query": "UK-EU trade deal details United Kingdom"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Impact",
-                "text": "The deal is seen as a ",
-                "image_search_query": "UK-EU trade deal impact United Kingdom"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-20T21:43:22+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Key details",
+        "text": "The deal covers food exports, emissions trading, and a youth experience scheme, strengthening post-Brexit relations.",
+        "image_search_query": "UK-EU trade deal details United Kingdom"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Impact",
+        "text": "The deal is seen as a ",
+        "image_search_query": "UK-EU trade deal impact United Kingdom"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-20T21:43:22+00:00",
+  "image_done": true
 }

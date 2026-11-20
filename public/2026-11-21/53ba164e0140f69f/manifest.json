@@ -1,0 +1,74 @@
+{
+  "news_id": "53ba164e0140f69f",
+  "title": "Anthropic Shares Fall as Tech Market Slides",
+  "main_subject": {
+    "name": "Anthropic",
+    "type": "company",
+    "image_search_query": "Anthropic"
+  },
+  "category": "technology",
+  "tags": [
+    "AI",
+    "stock market",
+    "tech sell-off"
+  ],
+  "source": "BBC Technology",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-20T22:42:47+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Anthropic Shares Fall as Tech Market Slides",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Anthropic"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Tech Market Sell-Off",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "tech market, AI investment, market pressures United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Anthropic Shares Fall",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Anthropic, tech market, AI investment, market pressures United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

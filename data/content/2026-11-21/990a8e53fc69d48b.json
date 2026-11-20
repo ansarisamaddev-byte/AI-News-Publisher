@@ -1,63 +1,64 @@
 {
-    "news_id": "990a8e53fc69d48b",
+  "news_id": "990a8e53fc69d48b",
+  "country": "US",
+  "main_subject": {
+    "name": "Tom Brady",
+    "type": "person",
+    "image_search_query": "Tom Brady"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Tom Brady",
-        "type": "person",
+    "category": "business",
+    "subcategory": "sport",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "NFL",
+      "Tom Brady",
+      "Chelsea"
+    ],
+    "classification_reason": "Tom Brady is the central figure in the article, focusing on his investment in Chelsea.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Tom Brady Invests in Chelsea Through Clearlake Capital",
+    "caption": "American football legend Tom Brady is considering purchasing a stake in Chelsea through Clearlake Capital.",
+    "hashtags": [
+      "#TomBrady",
+      "#Chelsea",
+      "#ClearlakeCapital"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Tom Brady Invests in Chelsea Through Clearlake Capital",
+        "text": "American football legend Tom Brady is considering purchasing a stake in Chelsea through Clearlake Capital.",
         "image_search_query": "Tom Brady"
-    },
-    "classification": {
-        "country": "US",
-        "category": "business",
-        "subcategory": "sport",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "NFL",
-            "Tom Brady",
-            "Chelsea"
-        ],
-        "classification_reason": "Tom Brady is the central figure in the article, focusing on his investment in Chelsea.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Tom Brady Invests in Chelsea Through Clearlake Capital",
-        "caption": "American football legend Tom Brady is considering purchasing a stake in Chelsea through Clearlake Capital.",
-        "hashtags": [
-            "#TomBrady",
-            "#Chelsea",
-            "#ClearlakeCapital"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Tom Brady Invests in Chelsea Through Clearlake Capital",
-                "text": "American football legend Tom Brady is considering purchasing a stake in Chelsea through Clearlake Capital.",
-                "image_search_query": "Tom Brady"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Tom Brady's Investment",
-                "text": "Tom Brady is a seven-time Super Bowl winner and former NFL quarterback who is looking to invest in Chelsea through Clearlake Capital.",
-                "image_search_query": "Tom Brady investment United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Chelsea and Brady",
-                "text": "Tom Brady has a positive relationship with influential co-owner Behdad Eghbali, having been a star guest at the after-party following Chelsea's Club World Cup triumph in 2025.",
-                "image_search_query": "Chelsea Tom Brady United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-20T22:36:35+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Tom Brady's Investment",
+        "text": "Tom Brady is a seven-time Super Bowl winner and former NFL quarterback who is looking to invest in Chelsea through Clearlake Capital.",
+        "image_search_query": "Tom Brady investment United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Chelsea and Brady",
+        "text": "Tom Brady has a positive relationship with influential co-owner Behdad Eghbali, having been a star guest at the after-party following Chelsea's Club World Cup triumph in 2025.",
+        "image_search_query": "Chelsea Tom Brady United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-20T22:36:35+00:00",
+  "image_done": true
 }

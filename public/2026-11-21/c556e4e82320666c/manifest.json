@@ -1,0 +1,73 @@
+{
+  "news_id": "c556e4e82320666c",
+  "title": "BigGo Finance: Potatoes Grow at Earth-Soil Levels in Lunar Soil",
+  "main_subject": {
+    "name": "BigGo Finance",
+    "type": "company",
+    "image_search_query": "BigGo Finance"
+  },
+  "category": "technology",
+  "tags": [
+    "agriculture",
+    "moon farming"
+  ],
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15MVRFc1lwRmNhbHJFTm44TzN2d2NGX0E2aXMxM19icEI3NHVVUXNSOEQ4TmhDTVZUVFhMcHVlMW9Pck80TUwwZF9UQkNWWjF2N1AzYVJYR3JZSGZlamZQQm45aWNoWTlTRmprREUtLW9nbjFoSXc?oc=5",
+  "published_at": "2026-11-20T22:05:00+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "BigGo Finance: Potatoes Grow at Earth-Soil Levels in Lunar Soil",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15MVRFc1lwRmNhbHJFTm44TzN2d2NGX0E2aXMxM19icEI3NHVVUXNSOEQ4TmhDTVZUVFhMcHVlMW9Pck80TUwwZF9UQkNWWjF2N1AzYVJYR3JZSGZlamZQQm45aWNoWTlTRmprREUtLW9nbjFoSXc?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "BigGo Finance"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Potatoes in Lunar Soil",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15MVRFc1lwRmNhbHJFTm44TzN2d2NGX0E2aXMxM19icEI3NHVVUXNSOEQ4TmhDTVZUVFhMcHVlMW9Pck80TUwwZF9UQkNWWjF2N1AzYVJYR3JZSGZlamZQQm45aWNoWTlTRmprREUtLW9nbjFoSXc?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Potatoes in lunar soil United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Simulated Lunar Soil",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15MVRFc1lwRmNhbHJFTm44TzN2d2NGX0E2aXMxM19icEI3NHVVUXNSOEQ4TmhDTVZUVFhMcHVlMW9Pck80TUwwZF9UQkNWWjF2N1AzYVJYR3JZSGZlamZQQm45aWNoWTlTRmprREUtLW9nbjFoSXc?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Simulated lunar soil United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15MVRFc1lwRmNhbHJFTm44TzN2d2NGX0E2aXMxM19icEI3NHVVUXNSOEQ4TmhDTVZUVFhMcHVlMW9Pck80TUwwZF9UQkNWWjF2N1AzYVJYR3JZSGZlamZQQm45aWNoWTlTRmprREUtLW9nbjFoSXc?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

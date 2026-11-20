@@ -1,65 +1,66 @@
 {
-    "news_id": "66eae4612900f2e7",
+  "news_id": "66eae4612900f2e7",
+  "country": "US",
+  "main_subject": {
+    "name": "Meta",
+    "type": "company",
+    "image_search_query": "Meta"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Meta",
-        "type": "company",
+    "category": "technology",
+    "subcategory": "sustainability",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "Meta",
+      "sustainability",
+      "AI data centers",
+      "carbon emissions"
+    ],
+    "classification_reason": "Meta is a major tech company with significant environmental impact, and the article discusses its sustainability goals and emissions.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+    "caption": "Meta is rethinking its 2030 sustainability goals amid a record increase in greenhouse gas emissions from its AI data centers.",
+    "hashtags": [
+      "#Meta",
+      "#sustainability",
+      "#AIdatacenters",
+      "#carbonemissions"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Meta reconsiders 2030 net-zero goal amid record emissions from AI",
+        "text": "Meta is rethinking its 2030 sustainability goals amid a record increase in greenhouse gas emissions from its AI data centers.",
         "image_search_query": "Meta"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "sustainability",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "Meta",
-            "sustainability",
-            "AI data centers",
-            "carbon emissions"
-        ],
-        "classification_reason": "Meta is a major tech company with significant environmental impact, and the article discusses its sustainability goals and emissions.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-        "caption": "Meta is rethinking its 2030 sustainability goals amid a record increase in greenhouse gas emissions from its AI data centers.",
-        "hashtags": [
-            "#Meta",
-            "#sustainability",
-            "#AIdatacenters",
-            "#carbonemissions"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Meta reconsiders 2030 net-zero goal amid record emissions from AI",
-                "text": "Meta is rethinking its 2030 sustainability goals amid a record increase in greenhouse gas emissions from its AI data centers.",
-                "image_search_query": "Meta"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Relevant context",
-                "text": "Meta's 2026 sustainability report shows a record increase in greenhouse gas emissions from AI data centers.",
-                "image_search_query": "Meta 2026 sustainability report United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Important details",
-                "text": "Meta's 2030 emissions goal is being re-evaluated due to the company's operating environment changing faster than expected.",
-                "image_search_query": "Meta re-evaluating 2030 emissions goal United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "Ars Technica",
-    "source_url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-    "published_at": "2026-11-20T21:47:10+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Relevant context",
+        "text": "Meta's 2026 sustainability report shows a record increase in greenhouse gas emissions from AI data centers.",
+        "image_search_query": "Meta 2026 sustainability report United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Important details",
+        "text": "Meta's 2030 emissions goal is being re-evaluated due to the company's operating environment changing faster than expected.",
+        "image_search_query": "Meta re-evaluating 2030 emissions goal United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+  "published_at": "2026-11-20T21:47:10+00:00",
+  "image_done": true
 }

@@ -1,0 +1,73 @@
+{
+  "news_id": "e658fc86b9d87f23",
+  "title": "No Particular Order: The Best Analog Holiday Gifts",
+  "main_subject": {
+    "name": "No Particular Order",
+    "type": "company",
+    "image_search_query": "No Particular Order"
+  },
+  "category": "technology",
+  "tags": [
+    "digital accessories",
+    "gift ideas"
+  ],
+  "source": "The Guardian Technology",
+  "source_url": "https://www.theguardian.com/thefilter-us/2026/nov/20/best-analog-holiday-gift-ideas",
+  "published_at": "2026-11-20T20:15:38+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "No Particular Order: The Best Analog Holiday Gifts",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/39315886bd6d22fce36c1249c9ce152e0d5d9375/66_0_2359_1887/master/2359.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVzLnBuZw&enable=upscale&s=c4d1307c98c514572e62deb2c2089d0d",
+        "article_url": "https://www.theguardian.com/thefilter-us/2026/nov/20/best-analog-holiday-gift-ideas",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "No Particular Order"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Guided Watercolor Books",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/39315886bd6d22fce36c1249c9ce152e0d5d9375/66_0_2359_1887/master/2359.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVzLnBuZw&enable=upscale&s=c4d1307c98c514572e62deb2c2089d0d",
+        "article_url": "https://www.theguardian.com/thefilter-us/2026/nov/20/best-analog-holiday-gift-ideas",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "No Particular Order guided watercolor book United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Jigsaw Puzzles",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/39315886bd6d22fce36c1249c9ce152e0d5d9375/66_0_2359_1887/master/2359.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVzLnBuZw&enable=upscale&s=c4d1307c98c514572e62deb2c2089d0d",
+        "article_url": "https://www.theguardian.com/thefilter-us/2026/nov/20/best-analog-holiday-gift-ideas",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Piecework Jigsaw Puzzle United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/39315886bd6d22fce36c1249c9ce152e0d5d9375/66_0_2359_1887/master/2359.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVzLnBuZw&enable=upscale&s=c4d1307c98c514572e62deb2c2089d0d",
+        "article_url": "https://www.theguardian.com/thefilter-us/2026/nov/20/best-analog-holiday-gift-ideas",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}
