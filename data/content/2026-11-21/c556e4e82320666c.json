@@ -1,0 +1,61 @@
+{
+    "news_id": "c556e4e82320666c",
+    "country": "US",
+    "main_subject": {
+        "name": "BigGo Finance",
+        "type": "company",
+        "image_search_query": "BigGo Finance"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "agriculture",
+        "importance_score": 1,
+        "relevance_score": 1,
+        "region": "",
+        "tags": [
+            "agriculture",
+            "moon farming"
+        ],
+        "classification_reason": "The company is associated with growing potatoes in simulated lunar soil, which is a specific agricultural technology.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "BigGo Finance: Potatoes Grow at Earth-Soil Levels in Lunar Soil",
+        "caption": "BigGo Finance, a company associated with growing potatoes in simulated lunar soil, has achieved remarkable results.",
+        "hashtags": [
+            "agriculture",
+            "moon farming"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "BigGo Finance: Potatoes Grow at Earth-Soil Levels in Lunar Soil",
+                "text": "BigGo Finance, a company associated with growing potatoes in simulated lunar soil, has achieved remarkable results.",
+                "image_search_query": "BigGo Finance"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Potatoes in Lunar Soil",
+                "text": "Potatoes grown in simulated lunar soil match Earth-grown performance.",
+                "image_search_query": "Potatoes in lunar soil United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Simulated Lunar Soil",
+                "text": "The company uses 30% worm compost to create a Moon-like soil environment.",
+                "image_search_query": "Simulated lunar soil United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Science",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15MVRFc1lwRmNhbHJFTm44TzN2d2NGX0E2aXMxM19icEI3NHVVUXNSOEQ4TmhDTVZUVFhMcHVlMW9Pck80TUwwZF9UQkNWWjF2N1AzYVJYR3JZSGZlamZQQm45aWNoWTlTRmprREUtLW9nbjFoSXc?oc=5",
+    "published_at": "2026-11-20T22:05:00+00:00"
+}

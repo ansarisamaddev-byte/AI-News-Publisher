@@ -1,0 +1,61 @@
+{
+    "news_id": "e658fc86b9d87f23",
+    "country": "US",
+    "main_subject": {
+        "name": "No Particular Order",
+        "type": "company",
+        "image_search_query": "No Particular Order"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "digital accessories",
+        "importance_score": 1,
+        "relevance_score": 1,
+        "region": "",
+        "tags": [
+            "digital accessories",
+            "gift ideas"
+        ],
+        "classification_reason": "The article focuses on digital accessories and gift ideas, with No Particular Order being the main subject.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "No Particular Order: The Best Analog Holiday Gifts",
+        "caption": "Discover the perfect analog holiday gifts from No Particular Order, including guided watercolor books, jigsaw puzzles, and dating cards.",
+        "hashtags": [
+            "#NoParticularOrder",
+            "#AnalogGifts"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "No Particular Order: The Best Analog Holiday Gifts",
+                "text": "Discover the perfect analog holiday gifts from No Particular Order, including guided watercolor books, jigsaw puzzles, and dating cards.",
+                "image_search_query": "No Particular Order"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Guided Watercolor Books",
+                "text": "No Particular Order’s guided journal is the ideal companion for self-discovery, with 200 journal prompts.",
+                "image_search_query": "No Particular Order guided watercolor book United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Jigsaw Puzzles",
+                "text": "Piecework Jigsaw Puzzle is perfect for the puzzle lover, with 1,000-piece puzzles that look as pretty as the eclectic ones from Piecework.",
+                "image_search_query": "Piecework Jigsaw Puzzle United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Guardian Technology",
+    "source_url": "https://www.theguardian.com/thefilter-us/2026/nov/20/best-analog-holiday-gift-ideas",
+    "published_at": "2026-11-20T20:15:38+00:00"
+}

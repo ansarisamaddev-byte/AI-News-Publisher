@@ -1,0 +1,63 @@
+{
+    "news_id": "9fc851af85addfce",
+    "country": "US",
+    "main_subject": {
+        "name": "Nvidia",
+        "type": "company",
+        "image_search_query": "Nvidia"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "accounting",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "California",
+        "tags": [
+            "SEC",
+            "accounting",
+            "Nvidia"
+        ],
+        "classification_reason": "SEC investigation into Nvidia's accounting practices",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Nvidia Shares Sink to 52-Week Low After SEC Probe",
+        "caption": "SEC investigation into Nvidia's accounting practices causes stock price to fall.",
+        "hashtags": [
+            "#SECInvestigation",
+            "#NvidiaShares",
+            "#AccountingPractices"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Nvidia Shares Sink to 52-Week Low After SEC Probe",
+                "text": "SEC investigation into Nvidia's accounting practices causes stock price to fall.",
+                "image_search_query": "Nvidia"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "SEC Probe",
+                "text": "SEC investigation into Nvidia's accounting practices.",
+                "image_search_query": "SEC investigation Nvidia United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact",
+                "text": "SEC probe causes Nvidia's stock price to sink to 52-week low.",
+                "image_search_query": "Nvidia SEC probe impact United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Business",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZWY0ZEx3alh5MHBSXzFLb29FTzhwaER6OF9iOW5tem5FRXJUclZma0hjMDctREdfcmxERUd3dGFuZnJxeGxaNXF4eXhKclNCci00aGMwd3RkaDV1MjNGX3dVNVBPR0UwUGdLbF8yaTA2MXg4cURkYk1oeUtxTjJRa1VuQnBqQQ?oc=5",
+    "published_at": "2026-11-20T20:36:54+00:00"
+}
