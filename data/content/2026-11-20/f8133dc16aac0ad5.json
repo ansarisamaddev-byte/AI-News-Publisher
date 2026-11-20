@@ -1,0 +1,63 @@
+{
+    "news_id": "f8133dc16aac0ad5",
+    "country": "US",
+    "main_subject": {
+        "name": "Apple",
+        "type": "company",
+        "image_search_query": "Apple"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "AI and AI assistants",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US",
+        "tags": [
+            "Apple",
+            "AI",
+            "Siri"
+        ],
+        "classification_reason": "Apple is working on its own AI agent and job listing for an engineer to lead the creation of an agentic AI assistant.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Apple Launches Job Listing for AI Agent Engineer",
+        "caption": "Apple is hiring engineers to build its own AI agent, aiming to compete with other AI assistants like Meta's Muse, OpenAI's Dots, Anthropic's Duet, and Google's Tasks.",
+        "hashtags": [
+            "Apple",
+            "AI",
+            "Siri"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Apple Launches Job Listing for AI Agent Engineer",
+                "text": "Apple is hiring engineers to build its own AI agent, aiming to compete with other AI assistants like Meta's Muse, OpenAI's Dots, Anthropic's Duet, and Google's Tasks.",
+                "image_search_query": "Apple"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "What Apple is Doing",
+                "text": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services.",
+                "image_search_query": "Apple AI agent capabilities United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why It Matters",
+                "text": "Apple is planning to give Siri more agentic capabilities, as a report from Bloomberg suggests the company could add the ability to rotate and crop images in Photos, or organize Safari tabs.",
+                "image_search_query": "Apple Siri agentic capabilities United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+    "published_at": "2026-11-19T22:31:41+00:00"
+}

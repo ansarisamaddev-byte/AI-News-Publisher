@@ -1,0 +1,64 @@
+{
+    "news_id": "7c71898fc9afe734",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Basava Mantapa",
+        "type": "product",
+        "image_search_query": "Basava Mantapa"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "technology",
+        "subcategory": "book",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Karnataka",
+        "tags": [
+            "Basava Mantapa",
+            "Ravi Hanj",
+            "Veerashaiva",
+            "Lingayat"
+        ],
+        "classification_reason": "book that allegedly insults Basavanna and distorts his philosophy",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Karnataka Cabinet Confiscates Book Allegedly Insulting Basavanna",
+        "caption": "Karnataka Cabinet decides to confiscate copies of a book allegedly insulting Basavanna and distorting his philosophy.",
+        "hashtags": [
+            "#BasavaMantapa",
+            "#Confiscation",
+            "#Insults"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Karnataka Cabinet Confiscates Book Allegedly Insulting Basavanna",
+                "text": "Karnataka Cabinet decides to confiscate copies of a book allegedly insulting Basavanna and distorting his philosophy.",
+                "image_search_query": "Basava Mantapa"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Book Allegedly Insulting Basavanna",
+                "text": "A book titled 'Basava Mantapa' is alleged to insult Basavanna and distort his philosophy.",
+                "image_search_query": "Basava Mantapa book India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact on Basavanna and Lingayat Community",
+                "text": "The book is said to have hurt the sentiments of the Lingayat community and followers of Basavanna.",
+                "image_search_query": "Impact on Basavanna and Lingayat India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-okays-confiscation-of-book-that-insults-basavanna-and-distorts-his-philosophy/article71720767.ece",
+    "published_at": "2026-11-19T21:51:01+00:00"
+}
