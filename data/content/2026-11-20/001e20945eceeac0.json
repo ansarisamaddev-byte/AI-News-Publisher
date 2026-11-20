@@ -1,63 +1,64 @@
 {
-    "news_id": "001e20945eceeac0",
+  "news_id": "001e20945eceeac0",
+  "country": "US",
+  "main_subject": {
+    "name": "Meta",
+    "type": "company",
+    "image_search_query": "Meta"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Meta",
-        "type": "company",
+    "category": "technology",
+    "subcategory": "AI devices",
+    "importance_score": 8,
+    "relevance_score": 8,
+    "region": "US",
+    "tags": [
+      "AI devices",
+      "Meta",
+      "Muse Charm"
+    ],
+    "classification_reason": "The article is primarily about Meta's upcoming AI wearable device, Muse Charm, and its pricing.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Meta Plans to Charge $300 for Muse Charm, Its Upcoming AI Device",
+    "caption": "Meta has announced plans to launch its new AI wearable device, Muse Charm, which will cost $300.",
+    "hashtags": [
+      "#AIdevices",
+      "#Meta",
+      "#MuseCharm"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Meta Plans to Charge $300 for Muse Charm, Its Upcoming",
+        "text": "Meta has announced plans to launch its new AI wearable device, Muse Charm, which will cost $300.",
         "image_search_query": "Meta"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "AI devices",
-        "importance_score": 8,
-        "relevance_score": 8,
-        "region": "US",
-        "tags": [
-            "AI devices",
-            "Meta",
-            "Muse Charm"
-        ],
-        "classification_reason": "The article is primarily about Meta's upcoming AI wearable device, Muse Charm, and its pricing.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Meta Plans to Charge $300 for Muse Charm, Its Upcoming AI Device",
-        "caption": "Meta has announced plans to launch its new AI wearable device, Muse Charm, which will cost $300.",
-        "hashtags": [
-            "#AIdevices",
-            "#Meta",
-            "#MuseCharm"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Meta Plans to Charge $300 for Muse Charm, Its Upcoming",
-                "text": "Meta has announced plans to launch its new AI wearable device, Muse Charm, which will cost $300.",
-                "image_search_query": "Meta"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Muse Charm Details",
-                "text": "Muse Charm is a $300 AI wearable device that will be released by Meta.",
-                "image_search_query": "Muse Charm details United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Impact",
-                "text": "The pricing of Muse Charm is a significant step in Meta's push into the AI wearable device market.",
-                "image_search_query": "Muse Charm impact United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-    "published_at": "2026-11-19T21:58:06+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Muse Charm Details",
+        "text": "Muse Charm is a $300 AI wearable device that will be released by Meta.",
+        "image_search_query": "Muse Charm details United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Impact",
+        "text": "The pricing of Muse Charm is a significant step in Meta's push into the AI wearable device market.",
+        "image_search_query": "Muse Charm impact United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+  "published_at": "2026-11-19T21:58:06+00:00",
+  "image_done": true
 }

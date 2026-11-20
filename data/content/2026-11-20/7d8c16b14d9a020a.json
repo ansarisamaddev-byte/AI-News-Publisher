@@ -1,63 +1,64 @@
 {
-    "news_id": "7d8c16b14d9a020a",
+  "news_id": "7d8c16b14d9a020a",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Rajesh Kumar Singh",
+    "type": "person",
+    "image_search_query": "Rajesh Kumar Singh"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Rajesh Kumar Singh",
-        "type": "person",
+    "category": "politics",
+    "subcategory": "corruption",
+    "importance_score": 8,
+    "relevance_score": 8,
+    "region": "Delhi",
+    "tags": [
+      "corruption",
+      "Lokpal",
+      "Defence Secretary"
+    ],
+    "classification_reason": "The article is about a corruption complaint against a Defence Secretary, which is a significant political and legal issue.",
+    "selected_channels": [
+      "politics-news"
+    ]
+  },
+  "content": {
+    "title": "Delhi High Court Stays Lokpal Proceedings Against Defence Secretary",
+    "caption": "The Delhi High Court has stayed proceedings before the Lokpal against Defence Secretary Rajesh Kumar Singh due to a corruption complaint.",
+    "hashtags": [
+      "#DelhiHighCourt",
+      "#Lokpal",
+      "#DefenceSecretary"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Delhi High Court Stays Lokpal Proceedings Against Defence Secretary",
+        "text": "The Delhi High Court has stayed proceedings before the Lokpal against Defence Secretary Rajesh Kumar Singh due to a corruption complaint.",
         "image_search_query": "Rajesh Kumar Singh"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "politics",
-        "subcategory": "corruption",
-        "importance_score": 8,
-        "relevance_score": 8,
-        "region": "Delhi",
-        "tags": [
-            "corruption",
-            "Lokpal",
-            "Defence Secretary"
-        ],
-        "classification_reason": "The article is about a corruption complaint against a Defence Secretary, which is a significant political and legal issue.",
-        "selected_channels": [
-            "politics-news"
-        ]
-    },
-    "content": {
-        "title": "Delhi High Court Stays Lokpal Proceedings Against Defence Secretary",
-        "caption": "The Delhi High Court has stayed proceedings before the Lokpal against Defence Secretary Rajesh Kumar Singh due to a corruption complaint.",
-        "hashtags": [
-            "#DelhiHighCourt",
-            "#Lokpal",
-            "#DefenceSecretary"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Delhi High Court Stays Lokpal Proceedings Against Defence Secretary",
-                "text": "The Delhi High Court has stayed proceedings before the Lokpal against Defence Secretary Rajesh Kumar Singh due to a corruption complaint.",
-                "image_search_query": "Rajesh Kumar Singh"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Background",
-                "text": "A petition has been filed against Defence Secretary Rajesh Kumar Singh due to allegations of irregularities and corruption in recruitment and promotions at the National Productivity Council.",
-                "image_search_query": "National Productivity Council, corruption, irregularities India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Reason for Stay",
-                "text": "The High Court has stayed proceedings due to a corruption complaint, as the Lokpal's orders and notices are founded on earlier judgments that have been quashed.",
-                "image_search_query": "Lokpal, corruption, earlier judgments India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-stays-lokpal-proceedings-against-defence-secretary/article71720414.ece",
-    "published_at": "2026-11-19T21:48:24+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Background",
+        "text": "A petition has been filed against Defence Secretary Rajesh Kumar Singh due to allegations of irregularities and corruption in recruitment and promotions at the National Productivity Council.",
+        "image_search_query": "National Productivity Council, corruption, irregularities India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Reason for Stay",
+        "text": "The High Court has stayed proceedings due to a corruption complaint, as the Lokpal's orders and notices are founded on earlier judgments that have been quashed.",
+        "image_search_query": "Lokpal, corruption, earlier judgments India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-stays-lokpal-proceedings-against-defence-secretary/article71720414.ece",
+  "published_at": "2026-11-19T21:48:24+00:00",
+  "image_done": true
 }

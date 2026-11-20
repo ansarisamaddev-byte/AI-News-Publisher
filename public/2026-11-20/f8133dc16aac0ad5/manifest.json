@@ -1,0 +1,74 @@
+{
+  "news_id": "f8133dc16aac0ad5",
+  "title": "Apple Launches Job Listing for AI Agent Engineer",
+  "main_subject": {
+    "name": "Apple",
+    "type": "company",
+    "image_search_query": "Apple"
+  },
+  "category": "technology",
+  "tags": [
+    "Apple",
+    "AI",
+    "Siri"
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+  "published_at": "2026-11-19T22:31:41+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Apple Launches Job Listing for AI Agent Engineer",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
+        "article_url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Apple"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What Apple is Doing",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
+        "article_url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Apple AI agent capabilities United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why It Matters",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
+        "article_url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Apple Siri agentic capabilities United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
+        "article_url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

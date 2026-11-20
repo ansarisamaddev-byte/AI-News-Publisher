@@ -1,59 +1,60 @@
 {
-    "news_id": "38bcdab272a96272",
+  "news_id": "38bcdab272a96272",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Shikhar Agarwal",
+    "type": "person",
+    "image_search_query": "Shikhar Agarwal"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Shikhar Agarwal",
-        "type": "person",
+    "category": "business",
+    "subcategory": "corruption",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Rajasthan, India",
+    "tags": [
+      "IAS officer, corruption, IAS"
+    ],
+    "classification_reason": "The article is about an IAS officer facing corruption charges in a high-profile case.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Rajasthan High Court Declines Interim Stay in IAS Officer Corruption Probe",
+    "caption": "The Rajasthan High Court denied an interim stay in the corruption probe against IAS officer Shikhar Agarwal.",
+    "hashtags": [
+      "#IASOfficer, #CorruptionProbe, #RajasthanHighCourt"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Rajasthan High Court Declines Interim Stay in IAS Officer Corruption",
+        "text": "The Rajasthan High Court denied an interim stay in the corruption probe against IAS officer Shikhar Agarwal.",
         "image_search_query": "Shikhar Agarwal"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "business",
-        "subcategory": "corruption",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Rajasthan, India",
-        "tags": [
-            "IAS officer, corruption, IAS"
-        ],
-        "classification_reason": "The article is about an IAS officer facing corruption charges in a high-profile case.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Rajasthan High Court Declines Interim Stay in IAS Officer Corruption Probe",
-        "caption": "The Rajasthan High Court denied an interim stay in the corruption probe against IAS officer Shikhar Agarwal.",
-        "hashtags": [
-            "#IASOfficer, #CorruptionProbe, #RajasthanHighCourt"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Rajasthan High Court Declines Interim Stay in IAS Officer Corruption",
-                "text": "The Rajasthan High Court denied an interim stay in the corruption probe against IAS officer Shikhar Agarwal.",
-                "image_search_query": "Shikhar Agarwal"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Investigation Launch",
-                "text": "The Rajasthan High Court launched an investigation against IAS officer Shikhar Agarwal.",
-                "image_search_query": "Investigation, IAS officer India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Corruption Allegations",
-                "text": "The ACB has alleged that Shikhar Agarwal gave benefits such as relaxations in resort construction conditions, approvals without verification of certificates, and special concessional packages to the firm.",
-                "image_search_query": "Corruption, IAS officer India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-high-court-denies-interim-stay-in-ias-officer-corruption-probe/article71720691.ece",
-    "published_at": "2026-11-19T22:08:18+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Investigation Launch",
+        "text": "The Rajasthan High Court launched an investigation against IAS officer Shikhar Agarwal.",
+        "image_search_query": "Investigation, IAS officer India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Corruption Allegations",
+        "text": "The ACB has alleged that Shikhar Agarwal gave benefits such as relaxations in resort construction conditions, approvals without verification of certificates, and special concessional packages to the firm.",
+        "image_search_query": "Corruption, IAS officer India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-high-court-denies-interim-stay-in-ias-officer-corruption-probe/article71720691.ece",
+  "published_at": "2026-11-19T22:08:18+00:00",
+  "image_done": true
 }

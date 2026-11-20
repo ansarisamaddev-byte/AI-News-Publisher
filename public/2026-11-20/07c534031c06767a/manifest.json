@@ -1,0 +1,75 @@
+{
+  "news_id": "07c534031c06767a",
+  "title": "Thomas Markle Faces Child Sexual Abuse Material Charges",
+  "main_subject": {
+    "name": "Thomas Markle",
+    "type": "person",
+    "image_search_query": "Thomas Markle"
+  },
+  "category": "technology",
+  "tags": [
+    "child abuse",
+    "sexual abuse",
+    "child abuse material",
+    "mental competence"
+  ],
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
+  "published_at": "2026-11-19T22:05:18+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Thomas Markle Faces Child Sexual Abuse Material Charges",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/a2adfb76057620d1e7d74079ddf4e8b2f7b269d6/589_201_4067_3254/master/4067.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3368f0fe71a1421853fa74e0a8eb274f",
+        "article_url": "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Thomas Markle"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Child Sexual Abuse Material Seized",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/a2adfb76057620d1e7d74079ddf4e8b2f7b269d6/589_201_4067_3254/master/4067.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3368f0fe71a1421853fa74e0a8eb274f",
+        "article_url": "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "child sexual abuse material, storage units, Los Angeles United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Investigation and Charges",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/a2adfb76057620d1e7d74079ddf4e8b2f7b269d6/589_201_4067_3254/master/4067.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3368f0fe71a1421853fa74e0a8eb274f",
+        "article_url": "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "investigation, FBI, child sexual abuse material United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/a2adfb76057620d1e7d74079ddf4e8b2f7b269d6/589_201_4067_3254/master/4067.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3368f0fe71a1421853fa74e0a8eb274f",
+        "article_url": "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

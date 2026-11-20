@@ -1,0 +1,74 @@
+{
+  "news_id": "5aebf622386bee88",
+  "title": "Anthropic Debuts on US Stock Market, Protesters Rally in New York and San Francisco",
+  "main_subject": {
+    "name": "Anthropic",
+    "type": "company",
+    "image_search_query": "Anthropic"
+  },
+  "category": "technology",
+  "tags": [
+    "AI",
+    "stock market",
+    "protests"
+  ],
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
+  "published_at": "2026-11-19T21:52:19+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Anthropic Debuts on US Stock Market, Protesters Rally in New",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/71f9820b3e6fa3234944209ef4e179d6b83eeb67/333_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=845172603b994da30517509233cfa309",
+        "article_url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Anthropic"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Protests Against Anthropic",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/71f9820b3e6fa3234944209ef4e179d6b83eeb67/333_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=845172603b994da30517509233cfa309",
+        "article_url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "New York City, Times Square, protests United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact of Anthropic's IPO",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/71f9820b3e6fa3234944209ef4e179d6b83eeb67/333_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=845172603b994da30517509233cfa309",
+        "article_url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "protests, AI, impact United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://i.guim.co.uk/img/media/71f9820b3e6fa3234944209ef4e179d6b83eeb67/333_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=845172603b994da30517509233cfa309",
+        "article_url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

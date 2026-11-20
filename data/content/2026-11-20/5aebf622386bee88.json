@@ -1,64 +1,65 @@
 {
-    "news_id": "5aebf622386bee88",
+  "news_id": "5aebf622386bee88",
+  "country": "US",
+  "main_subject": {
+    "name": "Anthropic",
+    "type": "company",
+    "image_search_query": "Anthropic"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Anthropic",
-        "type": "company",
+    "category": "technology",
+    "subcategory": "AI",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "New York and San Francisco",
+    "tags": [
+      "AI",
+      "stock market",
+      "protests"
+    ],
+    "classification_reason": "The article is about the debut of Anthropic, an AI startup, and the protests against it.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Anthropic Debuts on US Stock Market, Protesters Rally in New York and San Francisco",
+    "caption": "The artificial intelligence startup Anthropic debuted on the US stock market at an eye-popping $2tn valuation on Thursday, raising about $81bn to continue developing its Claude family of generative AI models. Protesters from anti-AI groups rallied in front of the Nasdaq exchange at its New York City headquarters in Times Square and several were arrested.",
+    "hashtags": [
+      "#Anthropic",
+      "#AI",
+      "#StockMarket",
+      "#Protests"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Anthropic Debuts on US Stock Market, Protesters Rally in New",
+        "text": "The artificial intelligence startup Anthropic debuted on the US stock market at an eye-popping $2tn valuation on Thursday, raising about $81bn to continue developing its Claude family of generative AI models. Protesters from anti-AI groups",
         "image_search_query": "Anthropic"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "AI",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "New York and San Francisco",
-        "tags": [
-            "AI",
-            "stock market",
-            "protests"
-        ],
-        "classification_reason": "The article is about the debut of Anthropic, an AI startup, and the protests against it.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Anthropic Debuts on US Stock Market, Protesters Rally in New York and San Francisco",
-        "caption": "The artificial intelligence startup Anthropic debuted on the US stock market at an eye-popping $2tn valuation on Thursday, raising about $81bn to continue developing its Claude family of generative AI models. Protesters from anti-AI groups rallied in front of the Nasdaq exchange at its New York City headquarters in Times Square and several were arrested.",
-        "hashtags": [
-            "#Anthropic",
-            "#AI",
-            "#StockMarket",
-            "#Protests"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Anthropic Debuts on US Stock Market, Protesters Rally in New",
-                "text": "The artificial intelligence startup Anthropic debuted on the US stock market at an eye-popping $2tn valuation on Thursday, raising about $81bn to continue developing its Claude family of generative AI models. Protesters from anti-AI groups",
-                "image_search_query": "Anthropic"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Protests Against Anthropic",
-                "text": "Protesters from anti-AI groups rallied in front of the Nasdaq exchange at its New York City headquarters in Times Square and several were arrested.",
-                "image_search_query": "New York City, Times Square, protests United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Impact of Anthropic's IPO",
-                "text": "The protests against Anthropic's IPO are a reflection of growing concerns about the impact of AI on society, including affordability, national security, and environmental safety.",
-                "image_search_query": "protests, AI, impact United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Guardian",
-    "source_url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
-    "published_at": "2026-11-19T21:52:19+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Protests Against Anthropic",
+        "text": "Protesters from anti-AI groups rallied in front of the Nasdaq exchange at its New York City headquarters in Times Square and several were arrested.",
+        "image_search_query": "New York City, Times Square, protests United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Impact of Anthropic's IPO",
+        "text": "The protests against Anthropic's IPO are a reflection of growing concerns about the impact of AI on society, including affordability, national security, and environmental safety.",
+        "image_search_query": "protests, AI, impact United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
+  "published_at": "2026-11-19T21:52:19+00:00",
+  "image_done": true
 }

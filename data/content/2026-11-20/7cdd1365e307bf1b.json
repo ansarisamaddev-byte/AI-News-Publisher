@@ -1,62 +1,63 @@
 {
-    "news_id": "7cdd1365e307bf1b",
+  "news_id": "7cdd1365e307bf1b",
+  "country": "US",
+  "main_subject": {
+    "name": "Microsoft",
+    "type": "company",
+    "image_search_query": "Microsoft"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Microsoft",
-        "type": "company",
+    "category": "technology",
+    "subcategory": "software",
+    "importance_score": 8,
+    "relevance_score": 8,
+    "region": "",
+    "tags": [
+      "software",
+      "tech",
+      "outages"
+    ],
+    "classification_reason": "The article is primarily about software outages and the companies involved, with Microsoft being the central focus.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Microsoft Outages: Why Everything Seems to Be Broken",
+    "caption": "The article discusses the recent outages across various companies and organizations, with Microsoft being the central focus.",
+    "hashtags": [
+      "#MicrosoftOutages",
+      "#TechOutages"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Microsoft Outages: Why Everything Seems to Be Broken",
+        "text": "The article discusses the recent outages across various companies and organizations, with Microsoft being the central focus.",
         "image_search_query": "Microsoft"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "software",
-        "importance_score": 8,
-        "relevance_score": 8,
-        "region": "",
-        "tags": [
-            "software",
-            "tech",
-            "outages"
-        ],
-        "classification_reason": "The article is primarily about software outages and the companies involved, with Microsoft being the central focus.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Microsoft Outages: Why Everything Seems to Be Broken",
-        "caption": "The article discusses the recent outages across various companies and organizations, with Microsoft being the central focus.",
-        "hashtags": [
-            "#MicrosoftOutages",
-            "#TechOutages"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Microsoft Outages: Why Everything Seems to Be Broken",
-                "text": "The article discusses the recent outages across various companies and organizations, with Microsoft being the central focus.",
-                "image_search_query": "Microsoft"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "What Happened",
-                "text": "Microsoft, the FAA, Chase, United, the NSA, and Apple all went down within one week. Officials say none of the outages were cyberattacks, but the internet isn't buying it.",
-                "image_search_query": "FAA, Chase, United, NSA, Apple United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Why It Matters",
-                "text": "The outages are affecting various companies and organizations, with Microsoft being the central focus.",
-                "image_search_query": "Microsoft, FAA, Chase, United, NSA, Apple United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "Wired",
-    "source_url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
-    "published_at": "2026-11-19T21:57:01+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "What Happened",
+        "text": "Microsoft, the FAA, Chase, United, the NSA, and Apple all went down within one week. Officials say none of the outages were cyberattacks, but the internet isn't buying it.",
+        "image_search_query": "FAA, Chase, United, NSA, Apple United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Why It Matters",
+        "text": "The outages are affecting various companies and organizations, with Microsoft being the central focus.",
+        "image_search_query": "Microsoft, FAA, Chase, United, NSA, Apple United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "Wired",
+  "source_url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+  "published_at": "2026-11-19T21:57:01+00:00",
+  "image_done": true
 }

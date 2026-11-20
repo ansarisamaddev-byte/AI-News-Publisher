@@ -1,63 +1,64 @@
 {
-    "news_id": "b83a2a7ecb689a16",
+  "news_id": "b83a2a7ecb689a16",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Arabian Aces",
+    "type": "person",
+    "image_search_query": "Arabian Aces"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Arabian Aces",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "sports",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "India",
+    "tags": [
+      "cricket",
+      "matches",
+      "UAE Bulls"
+    ],
+    "classification_reason": "The article is about a cricket match between Arabian Aces and UAE Bulls, which is a significant event in the Indian cricket scene.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Arabian Aces vs UAE Bulls: Abu Dhabi T10 2026 Live Cricket Stream",
+    "caption": "Arabian Aces and UAE Bulls are set to face off in the Abu Dhabi T10 2026 cricket tournament. Live scores, ball-by-ball commentary, highlights, and videos are available for the matches. The event is significant in the Indian cricket scene.",
+    "hashtags": [
+      "#cricket",
+      "#matches",
+      "#UAE Bulls"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Arabian Aces vs UAE Bulls: Abu Dhabi T10 2026 Live",
+        "text": "Arabian Aces and UAE Bulls are set to face off in the Abu Dhabi T10 2026 cricket tournament. Live scores, ball-by-ball commentary, highlights, and videos are available for the matches. The event is significant in",
         "image_search_query": "Arabian Aces"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "technology",
-        "subcategory": "sports",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "India",
-        "tags": [
-            "cricket",
-            "matches",
-            "UAE Bulls"
-        ],
-        "classification_reason": "The article is about a cricket match between Arabian Aces and UAE Bulls, which is a significant event in the Indian cricket scene.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Arabian Aces vs UAE Bulls: Abu Dhabi T10 2026 Live Cricket Stream",
-        "caption": "Arabian Aces and UAE Bulls are set to face off in the Abu Dhabi T10 2026 cricket tournament. Live scores, ball-by-ball commentary, highlights, and videos are available for the matches. The event is significant in the Indian cricket scene.",
-        "hashtags": [
-            "#cricket",
-            "#matches",
-            "#UAE Bulls"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Arabian Aces vs UAE Bulls: Abu Dhabi T10 2026 Live",
-                "text": "Arabian Aces and UAE Bulls are set to face off in the Abu Dhabi T10 2026 cricket tournament. Live scores, ball-by-ball commentary, highlights, and videos are available for the matches. The event is significant in",
-                "image_search_query": "Arabian Aces"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Match Details",
-                "text": "The match is part of the Abu Dhabi T10 2026 tournament, which is significant in the Indian cricket scene.",
-                "image_search_query": "Abu Dhabi T10 2026 India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Live Stream",
-                "text": "Live scores, ball-by-ball commentary, highlights, and videos are available for the matches.",
-                "image_search_query": "live cricket stream India"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbDJjN25tRG1zQTVvdU55eU5nTnFKbWpIOGFUNEJNYkxFb2RiUXg1cVZ3M3hNS3NlLTNqeUV6SXFtOWtwTG1pRmFwWUVoSWFKWTAxNjUtRXktZzFxVXRFdlVpWGltU1hma3JILWdTR1ZGMm1CeGJUd0Q0MkpXUFRHNGZlcUFnSmNwTC1pbDN5aktZZ0xGWkxnUzNYRQ?oc=5",
-    "published_at": "2026-11-19T21:54:47+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Match Details",
+        "text": "The match is part of the Abu Dhabi T10 2026 tournament, which is significant in the Indian cricket scene.",
+        "image_search_query": "Abu Dhabi T10 2026 India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Live Stream",
+        "text": "Live scores, ball-by-ball commentary, highlights, and videos are available for the matches.",
+        "image_search_query": "live cricket stream India"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Sports",
+  "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbDJjN25tRG1zQTVvdU55eU5nTnFKbWpIOGFUNEJNYkxFb2RiUXg1cVZ3M3hNS3NlLTNqeUV6SXFtOWtwTG1pRmFwWUVoSWFKWTAxNjUtRXktZzFxVXRFdlVpWGltU1hma3JILWdTR1ZGMm1CeGJUd0Q0MkpXUFRHNGZlcUFnSmNwTC1pbDN5aktZZ0xGWkxnUzNYRQ?oc=5",
+  "published_at": "2026-11-19T21:54:47+00:00",
+  "image_done": true
 }

@@ -1,63 +1,64 @@
 {
-    "news_id": "31e886c5cec38010",
+  "news_id": "31e886c5cec38010",
+  "country": "UK",
+  "main_subject": {
+    "name": "Prince William",
+    "type": "person",
+    "image_search_query": "Prince William"
+  },
+  "classification": {
     "country": "UK",
-    "main_subject": {
-        "name": "Prince William",
-        "type": "person",
+    "category": "business",
+    "subcategory": "royal tours",
+    "importance_score": 7,
+    "relevance_score": 7,
+    "region": "UK",
+    "tags": [
+      "royal tours",
+      "Earthshot Prize",
+      "India"
+    ],
+    "classification_reason": "The article is about Prince William's royal tour to India and his involvement in the Earthshot Prize.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Prince William's Royal Tour to India and Earthshot Prize",
+    "caption": "Prince William and his wife, Catherine, visited India for the first time since the princess's cancer treatment. The visit focused on the Earthshot Prize hosted in Mumbai.",
+    "hashtags": [
+      "#PrinceWilliam",
+      "#EarthshotPrize",
+      "#IndiaTour"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Prince William's Royal Tour to India and Earthshot Prize",
+        "text": "Prince William and his wife, Catherine, visited India for the first time since the princess's cancer treatment. The visit focused on the Earthshot Prize hosted in Mumbai.",
         "image_search_query": "Prince William"
-    },
-    "classification": {
-        "country": "UK",
-        "category": "business",
-        "subcategory": "royal tours",
-        "importance_score": 7,
-        "relevance_score": 7,
-        "region": "UK",
-        "tags": [
-            "royal tours",
-            "Earthshot Prize",
-            "India"
-        ],
-        "classification_reason": "The article is about Prince William's royal tour to India and his involvement in the Earthshot Prize.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Prince William's Royal Tour to India and Earthshot Prize",
-        "caption": "Prince William and his wife, Catherine, visited India for the first time since the princess's cancer treatment. The visit focused on the Earthshot Prize hosted in Mumbai.",
-        "hashtags": [
-            "#PrinceWilliam",
-            "#EarthshotPrize",
-            "#IndiaTour"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Prince William's Royal Tour to India and Earthshot Prize",
-                "text": "Prince William and his wife, Catherine, visited India for the first time since the princess's cancer treatment. The visit focused on the Earthshot Prize hosted in Mumbai.",
-                "image_search_query": "Prince William"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Key Details",
-                "text": "Prince William and Catherine visited India for the first time since the princess's cancer treatment. The visit focused on the Earthshot Prize hosted in Mumbai.",
-                "image_search_query": "Prince William India Earthshot Prize United Kingdom"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Impact",
-                "text": "The visit focused on the Earthshot Prize hosted in Mumbai. The prince and princess met the Indian Prime Minister Narendra Modi at his residence in Delhi.",
-                "image_search_query": "Prince William Earthshot Modi United Kingdom"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/articles/cj04wzzy9yqro?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-19T22:02:06+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Key Details",
+        "text": "Prince William and Catherine visited India for the first time since the princess's cancer treatment. The visit focused on the Earthshot Prize hosted in Mumbai.",
+        "image_search_query": "Prince William India Earthshot Prize United Kingdom"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Impact",
+        "text": "The visit focused on the Earthshot Prize hosted in Mumbai. The prince and princess met the Indian Prime Minister Narendra Modi at his residence in Delhi.",
+        "image_search_query": "Prince William Earthshot Modi United Kingdom"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cj04wzzy9yqro?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-19T22:02:06+00:00",
+  "image_done": true
 }
