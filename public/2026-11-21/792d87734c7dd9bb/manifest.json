@@ -15,7 +15,7 @@
   "source": "Ars Technica",
   "source_url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
   "published_at": "2026-11-20T22:28:24+00:00",
-  "provider_default": "",
+  "provider_default": "unsplash",
   "image_count": 4,
   "images": [
     {
@@ -23,12 +23,12 @@
       "slide_number": 1,
       "heading": "FCC Orders California to Stop Enforcing Carrier of Last Resort",
       "image": {
-        "provider": "Original Article",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg",
-        "article_url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-        "query": "article featured image",
-        "fallback_used": false,
-        "original_query": "California"
+        "provider": "generated",
+        "query": "California",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
       }
     },
     {
@@ -36,12 +36,12 @@
       "slide_number": 2,
       "heading": "AT&T's Request",
       "image": {
-        "provider": "Original Article",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg",
-        "article_url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-        "query": "article featured image",
-        "fallback_used": false,
-        "original_query": "AT&T Carrier of Last Resort United States"
+        "provider": "generated",
+        "query": "AT&T Carrier of Last Resort United States",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
       }
     },
     {
@@ -49,12 +49,12 @@
       "slide_number": 3,
       "heading": "Impact",
       "image": {
-        "provider": "Original Article",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg",
-        "article_url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-        "query": "article featured image",
-        "fallback_used": false,
-        "original_query": "Impact of FCC Order United States"
+        "provider": "generated",
+        "query": "Impact of FCC Order United States",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
       }
     },
     {
@@ -62,12 +62,12 @@
       "slide_number": 4,
       "type": "source_follow",
       "image": {
-        "provider": "Original Article",
-        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg",
-        "article_url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-        "query": "article featured image",
-        "fallback_used": false,
-        "original_query": "modern technology computer digital"
+        "provider": "generated",
+        "query": "modern technology computer digital",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
       }
     }
   ]

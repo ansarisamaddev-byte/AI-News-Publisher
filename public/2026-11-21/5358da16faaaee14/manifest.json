@@ -15,7 +15,7 @@
   "source": "NDTV",
   "source_url": "https://www.ndtv.com/world-news/look-at-india-trump-targets-us-central-bank-over-high-interest-rates-12356443#publisher=newsstand",
   "published_at": "2026-11-20T19:57:30+00:00",
-  "provider_default": "",
+  "provider_default": "unsplash",
   "image_count": 4,
   "images": [
     {
@@ -23,15 +23,12 @@
       "slide_number": 1,
       "heading": "Trump Targets US Central Bank Over High Interest Rates",
       "image": {
-        "provider": "Unsplash",
-        "photo_id": "jPN_oglAjOU",
-        "photographer": "Library of Congress",
-        "photographer_url": "https://unsplash.com/@libraryofcongress?utm_source=ai_news_publisher&utm_medium=referral",
-        "source_url": "https://unsplash.com/photos/president-donald-trump-jPN_oglAjOU?utm_source=ai_news_publisher&utm_medium=referral",
-        "image_url": "https://images.unsplash.com/photo-1580128660010-fd027e1e587a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8VHJ1bXB8ZW58MXwxfHx8MTc5NTI2NTE5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "provider": "generated",
         "query": "Trump",
-        "fallback_used": false,
-        "original_query": "Trump"
+        "fallback_query": "parliament government building",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
       }
     },
     {
@@ -39,15 +36,12 @@
       "slide_number": 2,
       "heading": "Relevant context",
       "image": {
-        "provider": "Unsplash",
-        "photo_id": "T0_zDzxYvRM",
-        "photographer": "Jacob Morch",
-        "photographer_url": "https://unsplash.com/@jacobmorch?utm_source=ai_news_publisher&utm_medium=referral",
-        "source_url": "https://unsplash.com/photos/police-line-do-not-cross-stanchion-near-trees-under-blue-sky-at-daytime-T0_zDzxYvRM?utm_source=ai_news_publisher&utm_medium=referral",
-        "image_url": "https://images.unsplash.com/photo-1504163598380-5a8ea881897f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8VHJ1bXAlMjBhdCUyMFdoaXRlJTIwSG91c2UlMjBVbml0ZWQlMjBTdGF0ZXN8ZW58MXwxfHx8MTc5NTI2NTIwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+        "provider": "generated",
         "query": "Trump at White House United States",
-        "fallback_used": false,
-        "original_query": "Trump at White House United States"
+        "fallback_query": "parliament government building",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
       }
     },
     {
@@ -55,15 +49,12 @@
       "slide_number": 3,
       "heading": "Important details",
       "image": {
-        "provider": "Unsplash",
-        "photo_id": "jPN_oglAjOU",
-        "photographer": "Library of Congress",
-        "photographer_url": "https://unsplash.com/@libraryofcongress?utm_source=ai_news_publisher&utm_medium=referral",
-        "source_url": "https://unsplash.com/photos/president-donald-trump-jPN_oglAjOU?utm_source=ai_news_publisher&utm_medium=referral",
-        "image_url": "https://images.unsplash.com/photo-1580128660010-fd027e1e587a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8VHJ1bXAlMjBGZWRlcmFsJTIwUmVzZXJ2ZSUyMFVuaXRlZCUyMFN0YXRlc3xlbnwxfDF8fHwxNzk1MjY1MjA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "provider": "generated",
         "query": "Trump Federal Reserve United States",
-        "fallback_used": false,
-        "original_query": "Trump Federal Reserve United States"
+        "fallback_query": "parliament government building",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
       }
     },
     {
@@ -71,15 +62,12 @@
       "slide_number": 4,
       "type": "source_follow",
       "image": {
-        "provider": "Unsplash",
-        "photo_id": "mxY2r31hLx4",
-        "photographer": "Jules Marvin Eguilos",
-        "photographer_url": "https://unsplash.com/@jmeguilos?utm_source=ai_news_publisher&utm_medium=referral",
-        "source_url": "https://unsplash.com/photos/brown-and-white-concrete-building-mxY2r31hLx4?utm_source=ai_news_publisher&utm_medium=referral",
-        "image_url": "https://images.unsplash.com/photo-1582483893853-0e2b97e6b7d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8Mnx8cGFybGlhbWVudCUyMGdvdmVybm1lbnQlMjBidWlsZGluZ3xlbnwxfDF8fHwxNzk1MjY1MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "provider": "generated",
         "query": "parliament government building",
-        "fallback_used": false,
-        "original_query": "parliament government building"
+        "fallback_query": "parliament government building",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
       }
     }
   ]

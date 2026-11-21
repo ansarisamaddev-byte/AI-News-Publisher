@@ -1045,35 +1045,15 @@ def draw_category(draw, category, theme, y=165):
     )
 
 def draw_footer(draw, index, total, accent):
+    # The progress bar and slide counter are added by video_generator.py.
+    # Keep the original carousel footer text and its exact position.
     y = HEIGHT - 85
-
-    draw.rounded_rectangle(
-        (70, y, WIDTH - 70, y + 6),
-        radius=3,
-        fill=(255, 255, 255, 80)
-    )
-
-    progress = int((WIDTH - 140) * index / max(total, 1))
-
-    draw.rounded_rectangle(
-        (70, y, 70 + progress, y + 6),
-        radius=3,
-        fill=accent
-    )
 
     draw.text(
         (70, y + 18),
         "SWIPE FOR THE FULL STORY",
         font=font(30, "bold"),
         fill="white"
-    )
-
-    draw.text(
-        (WIDTH - 70, y + 16),
-        f"{index:02d} / {total:02d}",
-        font=font(30, "bold"),
-        fill="white",
-        anchor="ra"
     )
 
 # =========================================================
@@ -1541,7 +1521,8 @@ def generate_post(json_file):
     print(f"[DONE] {output_dir}")
     print(f"[STATUS] image_done = true")
 
-    return total
+    # Return the date/news_id folder relative to public/ for downstream tools.
+    return output_dir.relative_to(PUBLIC_DIR).as_posix()
 
 def load_json_files():
     if not CONTENT_DIR.exists():
