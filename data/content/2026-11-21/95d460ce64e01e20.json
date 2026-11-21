@@ -1,0 +1,63 @@
+{
+    "news_id": "95d460ce64e01e20",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Abhishek Banerjee",
+        "type": "person",
+        "image_search_query": "Abhishek Banerjee"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "politics",
+        "subcategory": "politics",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "West Bengal, India",
+        "tags": [
+            "politics",
+            "BJP",
+            "Trinamool Congress"
+        ],
+        "classification_reason": "The article is primarily about Abhishek Banerjee, a prominent politician in West Bengal, India.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Trinamool supporters attacked outside the police station as police questioned Abhishek Banerjee",
+        "caption": "Supporters of Trinamool gathered outside the police station in support of Abhishek Banerjee, while police questioned him.",
+        "hashtags": [
+            "#AbhishekBanerjee",
+            "#Trinamool",
+            "#BJP"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Trinamool supporters attacked outside the police station as police questioned",
+                "text": "Supporters of Trinamool gathered outside the police station in support of Abhishek Banerjee, while police questioned him.",
+                "image_search_query": "Abhishek Banerjee"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Supporters attacked",
+                "text": "Trinamool supporters attacked outside the police station while Abhishek Banerjee was questioned by police.",
+                "image_search_query": "Trinamool supporters, police station India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "BJP response",
+                "text": "BJP denied allegations of assault but claimed Trinamool supporters were inciting tensions.",
+                "image_search_query": "BJP, Trinamool Congress India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/west-bengal/trinamool-supporters-attacked-outside-the-police-station-as-police-questioned-abhishek/article71725638.ece",
+    "published_at": "2026-11-20T21:30:12+00:00"
+}

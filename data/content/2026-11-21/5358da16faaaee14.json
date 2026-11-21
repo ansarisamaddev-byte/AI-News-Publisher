@@ -1,0 +1,63 @@
+{
+    "news_id": "5358da16faaaee14",
+    "country": "US",
+    "main_subject": {
+        "name": "Trump",
+        "type": "person",
+        "image_search_query": "Trump"
+    },
+    "classification": {
+        "country": "US",
+        "category": "politics",
+        "subcategory": "president",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "USA",
+        "tags": [
+            "president",
+            "US",
+            "Trump"
+        ],
+        "classification_reason": "Trump is the central figure in the article about his remarks regarding interest rates.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Trump Targets US Central Bank Over High Interest Rates",
+        "caption": "US President Trump criticizes the Federal Reserve for high interest rates.",
+        "hashtags": [
+            "#Trump",
+            "#US",
+            "#InterestRates"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Trump Targets US Central Bank Over High Interest Rates",
+                "text": "US President Trump criticizes the Federal Reserve for high interest rates.",
+                "image_search_query": "Trump"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Relevant context",
+                "text": "Trump made the remarks during a media briefing at White House on Friday.",
+                "image_search_query": "Trump at White House United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Important details",
+                "text": "Trump criticized the Federal Reserve for high interest rates, indicating dissatisfaction with the central bank's monetary policy.",
+                "image_search_query": "Trump Federal Reserve United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "NDTV",
+    "source_url": "https://www.ndtv.com/world-news/look-at-india-trump-targets-us-central-bank-over-high-interest-rates-12356443#publisher=newsstand",
+    "published_at": "2026-11-20T19:57:30+00:00"
+}

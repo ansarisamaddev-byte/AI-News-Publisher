@@ -1,0 +1,63 @@
+{
+    "news_id": "c520d2a1ddb57e76",
+    "country": "DENMARK",
+    "main_subject": {
+        "name": "Kyivstoner",
+        "type": "person",
+        "image_search_query": "Kyivstoner"
+    },
+    "classification": {
+        "country": "DENMARK",
+        "category": "politics",
+        "subcategory": "assassination",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Denmark",
+        "tags": [
+            "assassination",
+            "Russia",
+            "Denmark"
+        ],
+        "classification_reason": "The article is about an assassination attempt against a Ukrainian-American rapper in Denmark, which is a significant political event.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Denmark Accuses Russia of Plotting to Assassinate US-Ukrainian Rapper",
+        "caption": "Denmark accuses Russian intelligence services of plotting to assassinate a Ukrainian-American rapper in Copenhagen.",
+        "hashtags": [
+            "assassination",
+            "Russia",
+            "Denmark"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Denmark Accuses Russia of Plotting to Assassinate US-Ukrainian Rapper",
+                "text": "Denmark accuses Russian intelligence services of plotting to assassinate a Ukrainian-American rapper in Copenhagen.",
+                "image_search_query": "Kyivstoner"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Assassination Attempt Details",
+                "text": "The rapper's real name is Albert Vasiliev. PET stopped individuals intending to kill him at a concert in September.",
+                "image_search_query": "assassination attempt details Denmark"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Expulsion of Russian Defence Attaché",
+                "text": "Russia's defence attaché must leave Denmark within seven days.",
+                "image_search_query": "expulsion of Russian defence attaché Denmark"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-20T21:57:07+00:00"
+}
