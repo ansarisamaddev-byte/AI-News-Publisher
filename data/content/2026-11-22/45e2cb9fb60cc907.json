@@ -1,0 +1,63 @@
+{
+    "news_id": "45e2cb9fb60cc907",
+    "country": "US",
+    "main_subject": {
+        "name": "NASA Voyager 1 Spacecraft",
+        "type": "product",
+        "image_search_query": "NASA Voyager 1 Spacecraft"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "space exploration",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US",
+        "tags": [
+            "NASA",
+            "Voyager",
+            "spacecraft"
+        ],
+        "classification_reason": "The main subject is the NASA spacecraft Voyager 1, which is a significant technological achievement in space exploration.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "NASA Voyager 1 Spacecraft Reaches Historic One Light-Day Distance Milestone",
+        "caption": "NASA's Voyager 1 spacecraft has reached a historic one light-day distance from Earth, marking a significant milestone in space exploration.",
+        "hashtags": [
+            "#NASA",
+            "#Voyager",
+            "#spacecraft"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "NASA Voyager 1 Spacecraft Reaches Historic One Light-Day Distance Milestone",
+                "text": "NASA's Voyager 1 spacecraft has reached a historic one light-day distance from Earth, marking a significant milestone in space exploration.",
+                "image_search_query": "NASA Voyager 1 Spacecraft"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Relevant Context",
+                "text": "Voyager 1 is a spacecraft launched in 1977 to explore the outer planets of the solar system.",
+                "image_search_query": "Voyager 1 spacecraft launch United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Important Details",
+                "text": "The spacecraft has traveled over 1 billion miles since its launch, reaching a distance of 1 light-day from Earth.",
+                "image_search_query": "Voyager 1 spacecraft distance United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Science",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMG5UdHpfM3BRdjhiMzlxNlczVXdXcUxyM0F6RDNKLWFKaTBoQ1MzRmxBVTdOLV9MTExXNUNDSFRVUmI2a21KeUxsLWNLWlFsaUJSbHF3VDcwbGYxT0cyRTlNVFlGNFNMWVhkZzliejJrTFdPMUZZeTlJbTl6Vk93T0tqTGNCLUNCNGpqVVJRMFpZMml4UGlscmY5QUozdw?oc=5",
+    "published_at": "2026-11-21T20:57:24+00:00"
+}

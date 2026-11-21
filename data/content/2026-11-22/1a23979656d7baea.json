@@ -1,0 +1,63 @@
+{
+    "news_id": "1a23979656d7baea",
+    "country": "UK",
+    "main_subject": {
+        "name": "David Raya",
+        "type": "person",
+        "image_search_query": "David Raya"
+    },
+    "classification": {
+        "country": "UK",
+        "category": "technology",
+        "subcategory": "sport",
+        "importance_score": 9,
+        "relevance_score": 9,
+        "region": "England",
+        "tags": [
+            "Arsenal",
+            "goalkeeper",
+            "David Raya"
+        ],
+        "classification_reason": "The article is primarily about David Raya, an Arsenal goalkeeper, and his injury.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Arsenal Goalkeeper David Raya Set to Have Scan on Shoulder Injury",
+        "caption": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
+        "hashtags": [
+            "#Arsenal",
+            "#DavidRaya",
+            "#Goalkeeper"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Arsenal Goalkeeper David Raya Set to Have Scan on Shoulder",
+                "text": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
+                "image_search_query": "David Raya"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "What Happened",
+                "text": "David Raya, Arsenal's first-choice goalkeeper, was forced to leave the pitch 70 minutes into Saturday's 2-2 draw with Newcastle, appearing to hurt his shoulder in an innocuous challenge with Magpies forward William Osula.",
+                "image_search_query": "Arsenal David Raya Newcastle injury United Kingdom"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why Does It Matter",
+                "text": "Arsenal is about to enter a gruelling period of games with or without Raya, facing Borussia Dortmund, Manchester City, Brentford, Tottenham Hotspur, and Real Madrid in the next four weeks.",
+                "image_search_query": "Arsenal games Raya injury United Kingdom"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-21T21:14:08+00:00"
+}

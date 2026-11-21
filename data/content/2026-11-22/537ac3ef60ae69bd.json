@@ -1,0 +1,63 @@
+{
+    "news_id": "537ac3ef60ae69bd",
+    "country": "US",
+    "main_subject": {
+        "name": "Virginia",
+        "type": "place",
+        "image_search_query": "Virginia"
+    },
+    "classification": {
+        "country": "US",
+        "category": "health",
+        "subcategory": "diseases",
+        "importance_score": 1,
+        "relevance_score": 1,
+        "region": "USA",
+        "tags": [
+            "measles",
+            "Virginia",
+            "measles outbreak"
+        ],
+        "classification_reason": "Virginia reports first measles death since 1978",
+        "selected_channels": [
+            "health-news"
+        ]
+    },
+    "content": {
+        "title": "Virginia Reports First Measles Death Since 1978",
+        "caption": "Virginia reports the first death from measles since 1978, highlighting the severity of the outbreak.",
+        "hashtags": [
+            "#measles",
+            "#Virginia",
+            "#measlesdeath"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Virginia Reports First Measles Death Since 1978",
+                "text": "Virginia reports the first death from measles since 1978, highlighting the severity of the outbreak.",
+                "image_search_query": "Virginia"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Relevant Context",
+                "text": "Measles is a highly contagious viral disease that can cause severe complications and death.",
+                "image_search_query": "measles outbreak in USA United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Important Details",
+                "text": "The Virginia child's death is the first since 1978, emphasizing the severity of the outbreak.",
+                "image_search_query": "measles death in Virginia United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Top Stories",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaXJqdU1xX3B6V0RuY1JkaVB0dXQyUEpubzc4Zm1uSHZRaFU2MzJHdFVMYUxvd21iR3JWTzRDVDlWdWZaSzc3bDF1SElLTzVIcEltRDc1Z1cxZzVGY1JDV0NLZGlWczk3WWNxRGVvMGhLYTBfYnRBRWVKelVsU2gzVjRHV19nOVNVTDBVQUNCUlZqQmFXaXczZ3J1V0RvbHJMXzNMUU16V2tYSFhrclo1N3p3?oc=5",
+    "published_at": "2026-11-21T21:23:59+00:00"
+}
