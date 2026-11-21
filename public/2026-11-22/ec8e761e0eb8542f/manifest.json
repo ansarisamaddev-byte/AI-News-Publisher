@@ -1,0 +1,74 @@
+{
+  "news_id": "ec8e761e0eb8542f",
+  "title": "UN Fails to Agree on Rules for Killer Robots",
+  "main_subject": {
+    "name": "The UN",
+    "type": "organization",
+    "image_search_query": "The UN"
+  },
+  "category": "business",
+  "tags": [
+    "UN",
+    "international relations",
+    "regulation"
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+  "published_at": "2026-11-21T20:03:37+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "UN Fails to Agree on Rules for Killer Robots",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0%2C11.089604074363%2C100%2C77.820791851273&w=1200",
+        "article_url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "The UN"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Negotiations Fail",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0%2C11.089604074363%2C100%2C77.820791851273&w=1200",
+        "article_url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "negotiations, UN, autonomous weapons United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact on International Relations",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0%2C11.089604074363%2C100%2C77.820791851273&w=1200",
+        "article_url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "impact, international relations, autonomous weapons United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0%2C11.089604074363%2C100%2C77.820791851273&w=1200",
+        "article_url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

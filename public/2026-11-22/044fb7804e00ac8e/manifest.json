@@ -1,0 +1,74 @@
+{
+  "news_id": "044fb7804e00ac8e",
+  "title": "A Tale of Two Nvidias",
+  "main_subject": {
+    "name": "Nvidia",
+    "type": "company",
+    "image_search_query": "Nvidia"
+  },
+  "category": "technology",
+  "tags": [
+    "AI",
+    "chip manufacturing",
+    "Nvidia"
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+  "published_at": "2026-11-21T21:07:42+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "A Tale of Two Nvidias",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+        "article_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Nvidia"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Nvidia's Latest Earnings Report",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+        "article_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Nvidia earnings report United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Push for Jensen Huang's Return",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+        "article_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Jensen Huang petition United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+        "article_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

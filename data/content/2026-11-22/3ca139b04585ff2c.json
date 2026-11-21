@@ -1,63 +1,64 @@
 {
-    "news_id": "3ca139b04585ff2c",
+  "news_id": "3ca139b04585ff2c",
+  "country": "US",
+  "main_subject": {
+    "name": "NASA",
+    "type": "organization",
+    "image_search_query": "NASA"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "NASA",
-        "type": "organization",
+    "category": "technology",
+    "subcategory": "space exploration",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "NASA",
+      "astronauts",
+      "space exploration"
+    ],
+    "classification_reason": "NASA is the central subject of the article, focusing on astronaut applications and NASA's space exploration efforts.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "NASA Accepting Applications for Astronauts",
+    "caption": "NASA is accepting applications for astronauts to join its space exploration efforts.",
+    "hashtags": [
+      "#NASA",
+      "#astronauts",
+      "#spaceexploration"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "NASA Accepting Applications for Astronauts",
+        "text": "NASA is accepting applications for astronauts to join its space exploration efforts.",
         "image_search_query": "NASA"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "space exploration",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "NASA",
-            "astronauts",
-            "space exploration"
-        ],
-        "classification_reason": "NASA is the central subject of the article, focusing on astronaut applications and NASA's space exploration efforts.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "NASA Accepting Applications for Astronauts",
-        "caption": "NASA is accepting applications for astronauts to join its space exploration efforts.",
-        "hashtags": [
-            "#NASA",
-            "#astronauts",
-            "#spaceexploration"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "NASA Accepting Applications for Astronauts",
-                "text": "NASA is accepting applications for astronauts to join its space exploration efforts.",
-                "image_search_query": "NASA"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Applications",
-                "text": "More than 8,000 people applied to be NASA astronauts last time.",
-                "image_search_query": "applications NASA astronauts United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Selection Process",
-                "text": "Just 10 were selected from the applications.",
-                "image_search_query": "NASA astronaut selection United States"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Science",
-    "source_url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNLXpyc3VWaHZ4bi10cnlGS1dOc2dpcDEzYXVCOHhEcERHUW1MQU51Z250WG9qNnJfMGxPOFNRT0xTX09OZUxTZF9yQW1UUm1qZENxZWpZMEN5YlVIX25CVWRyckZybXoyLVJIbzdVRzZXeDdha29Sa3AzZkRQTEZCd1FNdVdteUpaemxObFdaTFpuam1vZ3lpMHQ5cGVsWE9xUUdyZW9kaS1wUk04MXpnb3V0dmpkSjlHaVAyRk4tTGRyZVRocUY4M0FvV2hLYUR1aEJMVERxVEVBUkRfRWNLa1I3YmlBdWF3QjJ0NDBQVlpXQjNzQ3VhSW43S28yNnZJbDFzREgwUUZZeVZnUnQyUS0tS0Z3QTBtU3dTVDg4SjJjSVRtS1RqT3V5a0lmRW9aZmFWeHlCdFFFQWZEbDVtQV9TLWRKRXdQNHYteXhLVzZIaERpTFQyQ2ZPTEVxOTZPTFczbmd3MGhGN1pJR2VrU21WUHVBMmVybFVzN2lzVWhScjU3cWYwUzNPSV9mWmMxLW9ycEs2MC1wZ9IBnwNBVV95cUxOV3BCTDUzTUtJNVdyZHg4NEZzTl81SE1CY3ZlQi14UW5HdWE0YmFVaDZONTlhM2wwUTVBQWRvR3dkU0FtbDNFVGhXN1plRW53QmtGTEV4Z3ZZRDVMemQ5Z3Z3S05CMG9GSGlpLTQ3eGY3cXJMbFZsVmpDLXNwNlZCMWE1S3ZVbFNydDlibmp1UW11WUdZdm15TFdpV2lLY1NzV1ZDYzdNaU43UGtkOFA4TzRxanJiM0NIcG5xWkdfeHpZNEdTdkY2bjRtQ2pIN1ZrWTJYcHB0R3h0dWVMbFhhb3N2WHl1Q2FKcHVaN3pDbTN0NXdVVHY0T3Zfdmc1QnY3aHVoWDN5WGxmOS1jbXVHT1pnSml4YlpQUWROZ0lwZzM2M0FZWi1mRV8tYWxZLXVyV3lkMFRUVk5mUll2RjAwTXVGM0VBVXljaWo3VElDRENKTDlaWUNXX3gyaUNYQzVTNnAzcm5OWGdPcmRaSDE4OTVTa29Za2NhdWF1WUpnbW05VXdEbEl6RU9RdktCbHcyaDY1ZlhGek14RHdHeTBJ?oc=5",
-    "published_at": "2026-11-21T21:24:00+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Applications",
+        "text": "More than 8,000 people applied to be NASA astronauts last time.",
+        "image_search_query": "applications NASA astronauts United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Selection Process",
+        "text": "Just 10 were selected from the applications.",
+        "image_search_query": "NASA astronaut selection United States"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNLXpyc3VWaHZ4bi10cnlGS1dOc2dpcDEzYXVCOHhEcERHUW1MQU51Z250WG9qNnJfMGxPOFNRT0xTX09OZUxTZF9yQW1UUm1qZENxZWpZMEN5YlVIX25CVWRyckZybXoyLVJIbzdVRzZXeDdha29Sa3AzZkRQTEZCd1FNdVdteUpaemxObFdaTFpuam1vZ3lpMHQ5cGVsWE9xUUdyZW9kaS1wUk04MXpnb3V0dmpkSjlHaVAyRk4tTGRyZVRocUY4M0FvV2hLYUR1aEJMVERxVEVBUkRfRWNLa1I3YmlBdWF3QjJ0NDBQVlpXQjNzQ3VhSW43S28yNnZJbDFzREgwUUZZeVZnUnQyUS0tS0Z3QTBtU3dTVDg4SjJjSVRtS1RqT3V5a0lmRW9aZmFWeHlCdFFFQWZEbDVtQV9TLWRKRXdQNHYteXhLVzZIaERpTFQyQ2ZPTEVxOTZPTFczbmd3MGhGN1pJR2VrU21WUHVBMmVybFVzN2lzVWhScjU3cWYwUzNPSV9mWmMxLW9ycEs2MC1wZ9IBnwNBVV95cUxOV3BCTDUzTUtJNVdyZHg4NEZzTl81SE1CY3ZlQi14UW5HdWE0YmFVaDZONTlhM2wwUTVBQWRvR3dkU0FtbDNFVGhXN1plRW53QmtGTEV4Z3ZZRDVMemQ5Z3Z3S05CMG9GSGlpLTQ3eGY3cXJMbFZsVmpDLXNwNlZCMWE1S3ZVbFNydDlibmp1UW11WUdZdm15TFdpV2lLY1NzV1ZDYzdNaU43UGtkOFA4TzRxanJiM0NIcG5xWkdfeHpZNEdTdkY2bjRtQ2pIN1ZrWTJYcHB0R3h0dWVMbFhhb3N2WHl1Q2FKcHVaN3pDbTN0NXdVVHY0T3Zfdmc1QnY3aHVoWDN5WGxmOS1jbXVHT1pnSml4YlpQUWROZ0lwZzM2M0FZWi1mRV8tYWxZLXVyV3lkMFRUVk5mUll2RjAwTXVGM0VBVXljaWo3VElDRENKTDlaWUNXX3gyaUNYQzVTNnAzcm5OWGdPcmRaSDE4OTVTa29Za2NhdWF1WUpnbW05VXdEbEl6RU9RdktCbHcyaDY1ZlhGek14RHdHeTBJ?oc=5",
+  "published_at": "2026-11-21T21:24:00+00:00",
+  "image_done": true
 }

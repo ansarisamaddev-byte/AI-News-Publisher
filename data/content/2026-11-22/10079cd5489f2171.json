@@ -1,63 +1,64 @@
 {
-    "news_id": "10079cd5489f2171",
+  "news_id": "10079cd5489f2171",
+  "country": "UK",
+  "main_subject": {
+    "name": "Manchester City",
+    "type": "company",
+    "image_search_query": "Manchester City"
+  },
+  "classification": {
     "country": "UK",
-    "main_subject": {
-        "name": "Manchester City",
-        "type": "company",
+    "category": "business",
+    "subcategory": "sports",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "UK",
+    "tags": [
+      "Manchester City",
+      "Premier League",
+      "football"
+    ],
+    "classification_reason": "The article is about Manchester City's performance in the Premier League, which is a key business and sports story.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Manchester City's First Premier League Point in Over a Month",
+    "caption": "Manchester City earned their first Premier League point in over a month with a stunning Anderson volley against Fulham.",
+    "hashtags": [
+      "#ManchesterCity",
+      "#PremierLeague",
+      "#AndersonVolley"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Manchester City's First Premier League Point in Over a Month",
+        "text": "Manchester City earned their first Premier League point in over a month with a stunning Anderson volley against Fulham.",
         "image_search_query": "Manchester City"
-    },
-    "classification": {
-        "country": "UK",
-        "category": "business",
-        "subcategory": "sports",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "UK",
-        "tags": [
-            "Manchester City",
-            "Premier League",
-            "football"
-        ],
-        "classification_reason": "The article is about Manchester City's performance in the Premier League, which is a key business and sports story.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Manchester City's First Premier League Point in Over a Month",
-        "caption": "Manchester City earned their first Premier League point in over a month with a stunning Anderson volley against Fulham.",
-        "hashtags": [
-            "#ManchesterCity",
-            "#PremierLeague",
-            "#AndersonVolley"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Manchester City's First Premier League Point in Over a Month",
-                "text": "Manchester City earned their first Premier League point in over a month with a stunning Anderson volley against Fulham.",
-                "image_search_query": "Manchester City"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Match Report",
-                "text": "Manchester City 1-1 Fulham - Elliot Anderson's volley earns the first Premier League point in over a month.",
-                "image_search_query": "Manchester City Fulham Elliot Anderson volley United Kingdom"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Impact",
-                "text": "The victory is a significant milestone for Manchester City, who have not scored in their last month in the Premier League.",
-                "image_search_query": "Manchester City impact United Kingdom"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-21T19:59:08+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Match Report",
+        "text": "Manchester City 1-1 Fulham - Elliot Anderson's volley earns the first Premier League point in over a month.",
+        "image_search_query": "Manchester City Fulham Elliot Anderson volley United Kingdom"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Impact",
+        "text": "The victory is a significant milestone for Manchester City, who have not scored in their last month in the Premier League.",
+        "image_search_query": "Manchester City impact United Kingdom"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-21T19:59:08+00:00",
+  "image_done": true
 }
