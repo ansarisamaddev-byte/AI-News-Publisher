@@ -38,7 +38,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r youtube_uploader_requirement.txt
+          pip install -r youtube_uploader_requirements.txt
 
       - name: Restore YouTube OAuth token
         env:
@@ -52,7 +52,7 @@ jobs:
 
       - name: Upload pending videos
         env:
-          YOUTUBE_TOKEN_FILE: youtube_token.json
+          YOUTUBE_TOKEN_FILE: instanews24_token.json
           YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
           YOUTUBE_PRIVACY_STATUS: public
           MAX_YOUTUBE_UPLOADS_PER_RUN: "1"
