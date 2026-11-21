@@ -1,0 +1,77 @@
+{
+  "news_id": "71a47100a2d8b45a",
+  "title": "SpaceX Faces Funding Threat Amid Ukraine Controversy",
+  "main_subject": {
+    "name": "SpaceX",
+    "type": "company",
+    "image_search_query": "SpaceX"
+  },
+  "category": "technology",
+  "tags": [
+    "SpaceX",
+    "Starshield",
+    "Ukraine",
+    "Starlink",
+    "Starshield service",
+    "government contracts"
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+  "published_at": "2026-11-20T22:16:51+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "SpaceX Faces Funding Threat Amid Ukraine Controversy",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg",
+        "article_url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "SpaceX"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Investigation into Starshield Service",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg",
+        "article_url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Ukraine Starshield drones United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact on Government Contracts",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg",
+        "article_url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "SpaceX Starshield government contracts United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg",
+        "article_url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

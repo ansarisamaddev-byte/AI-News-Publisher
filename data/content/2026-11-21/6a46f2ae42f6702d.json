@@ -1,61 +1,62 @@
 {
-    "news_id": "6a46f2ae42f6702d",
+  "news_id": "6a46f2ae42f6702d",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Firouzja",
+    "type": "person",
+    "image_search_query": "Firouzja"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Firouzja",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "chess",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "India",
+    "tags": [
+      "chess",
+      "total chess world championship"
+    ],
+    "classification_reason": "Firouzja is the central figure in the chess world championship story.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Firouzja Wins Total Chess World Championship Tour Pilot",
+    "caption": "Firouzja, a chess prodigy, clinches the Total Chess World Championship Tour Pilot, leading Giri in the final after a heroic defense.",
+    "hashtags": [
+      "#TotalChessWorldChampionship",
+      "#FirouzjaWins"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Firouzja Wins Total Chess World Championship Tour Pilot",
+        "text": "Firouzja, a chess prodigy, clinches the Total Chess World Championship Tour Pilot, leading Giri in the final after a heroic defense.",
         "image_search_query": "Firouzja"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "technology",
-        "subcategory": "chess",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "India",
-        "tags": [
-            "chess",
-            "total chess world championship"
-        ],
-        "classification_reason": "Firouzja is the central figure in the chess world championship story.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Firouzja Wins Total Chess World Championship Tour Pilot",
-        "caption": "Firouzja, a chess prodigy, clinches the Total Chess World Championship Tour Pilot, leading Giri in the final after a heroic defense.",
-        "hashtags": [
-            "#TotalChessWorldChampionship",
-            "#FirouzjaWins"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Firouzja Wins Total Chess World Championship Tour Pilot",
-                "text": "Firouzja, a chess prodigy, clinches the Total Chess World Championship Tour Pilot, leading Giri in the final after a heroic defense.",
-                "image_search_query": "Firouzja"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Relevant Context",
-                "text": "Giri leads Firouzja in the final after a heroic defense, with Carlsen staying above 2800 in the tournament.",
-                "image_search_query": "Giri leads Firouzja in Total Chess Final India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Important Details",
-                "text": "Giri takes the lead in Total Chess Final, with Carlsen forfeiting rapid games.",
-                "image_search_query": "Giri takes early lead in Total Chess Final India"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcFo1YzB3N3FvLVdhaHI0czVxMVhVMlpKU2RLVlNIeFhUX1ZOT2dweVhsWDR6TXhYbmxaYXQ0SDJaTVM1ajk5c1dFdGxydXZmQzAzYzFIQmVORFUtTEp3ZEJEZG11UEJLaUljRVJZWDlWZmF2eGFPVF9tMC1XbVhsWlZtUURpVjZtS1cwb3p2ZWVEUHdUelZF?oc=5",
-    "published_at": "2026-11-20T21:07:00+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Relevant Context",
+        "text": "Giri leads Firouzja in the final after a heroic defense, with Carlsen staying above 2800 in the tournament.",
+        "image_search_query": "Giri leads Firouzja in Total Chess Final India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Important Details",
+        "text": "Giri takes the lead in Total Chess Final, with Carlsen forfeiting rapid games.",
+        "image_search_query": "Giri takes early lead in Total Chess Final India"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Sports",
+  "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcFo1YzB3N3FvLVdhaHI0czVxMVhVMlpKU2RLVlNIeFhUX1ZOT2dweVhsWDR6TXhYbmxaYXQ0SDJaTVM1ajk5c1dFdGxydXZmQzAzYzFIQmVORFUtTEp3ZEJEZG11UEJLaUljRVJZWDlWZmF2eGFPVF9tMC1XbVhsWlZtUURpVjZtS1cwb3p2ZWVEUHdUelZF?oc=5",
+  "published_at": "2026-11-20T21:07:00+00:00",
+  "image_done": true
 }

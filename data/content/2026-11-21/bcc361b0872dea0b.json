@@ -1,61 +1,62 @@
 {
-    "news_id": "bcc361b0872dea0b",
+  "news_id": "bcc361b0872dea0b",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Narendra Modi",
+    "type": "person",
+    "image_search_query": "Narendra Modi"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Narendra Modi",
-        "type": "person",
+    "category": "business",
+    "subcategory": "politics",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "India",
+    "tags": [
+      "politics",
+      "Narendra Modi"
+    ],
+    "classification_reason": "Prime Minister Narendra Modi is the central figure in the article.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Narendra Modi to Visit Bihar for Six-Lane Bridge Inauguration",
+    "caption": "Prime Minister Narendra Modi is scheduled to inaugurate a six-lane bridge in Bihar on November 21.",
+    "hashtags": [
+      "#NarendraModi",
+      "#BiharBridge"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Narendra Modi to Visit Bihar for Six-Lane Bridge Inauguration",
+        "text": "Prime Minister Narendra Modi is scheduled to inaugurate a six-lane bridge in Bihar on November 21.",
         "image_search_query": "Narendra Modi"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "business",
-        "subcategory": "politics",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "India",
-        "tags": [
-            "politics",
-            "Narendra Modi"
-        ],
-        "classification_reason": "Prime Minister Narendra Modi is the central figure in the article.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Narendra Modi to Visit Bihar for Six-Lane Bridge Inauguration",
-        "caption": "Prime Minister Narendra Modi is scheduled to inaugurate a six-lane bridge in Bihar on November 21.",
-        "hashtags": [
-            "#NarendraModi",
-            "#BiharBridge"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Narendra Modi to Visit Bihar for Six-Lane Bridge Inauguration",
-                "text": "Prime Minister Narendra Modi is scheduled to inaugurate a six-lane bridge in Bihar on November 21.",
-                "image_search_query": "Narendra Modi"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Inauguration of Six-Lane Bridge",
-                "text": "Narendra Modi is scheduled to inaugurate a six-lane bridge in Bihar on November 21.",
-                "image_search_query": "Inauguration of Six-Lane Bridge India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Bridge Name and Purpose",
-                "text": "The bridge is named after former Chief Minister Nitish Kumar as 'Nitish Setu'.",
-                "image_search_query": "Bridge Name and Purpose India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/bihar/pm-to-visit-bihar-to-inaugurate-a-six-lane-bridge-named-after-ex-cm-nitish/article71724413.ece",
-    "published_at": "2026-11-20T20:36:12+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Inauguration of Six-Lane Bridge",
+        "text": "Narendra Modi is scheduled to inaugurate a six-lane bridge in Bihar on November 21.",
+        "image_search_query": "Inauguration of Six-Lane Bridge India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Bridge Name and Purpose",
+        "text": "The bridge is named after former Chief Minister Nitish Kumar as 'Nitish Setu'.",
+        "image_search_query": "Bridge Name and Purpose India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/bihar/pm-to-visit-bihar-to-inaugurate-a-six-lane-bridge-named-after-ex-cm-nitish/article71724413.ece",
+  "published_at": "2026-11-20T20:36:12+00:00",
+  "image_done": true
 }

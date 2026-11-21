@@ -1,0 +1,84 @@
+{
+  "news_id": "22da5e95a711d15b",
+  "title": "India Slams Pakistan Over Indus Water Treaty",
+  "main_subject": {
+    "name": "India",
+    "type": "other",
+    "image_search_query": "India"
+  },
+  "category": "technology",
+  "tags": [
+    "Indus Waters Treaty"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/india-slams-pakistan-over-indus-water-treaty-12356777#publisher=newsstand",
+  "published_at": "2026-11-20T22:15:24+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "India Slams Pakistan Over Indus Water Treaty",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "WCgioEcEVNc",
+        "photographer": "Annie Spratt",
+        "photographer_url": "https://unsplash.com/@anniespratt?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/hawa-mahal-india-at-daytime-WCgioEcEVNc?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1524230507669-5ff97982bb5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8M3x8SW5kaWF8ZW58MXwxfHx8MTc5NTI2NTIxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "India",
+        "fallback_used": false,
+        "original_query": "India"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Indus Water Treaty",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "M19bRVCf8Xs",
+        "photographer": "Manish Patel",
+        "photographer_url": "https://unsplash.com/@manish_mk100?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/a-row-of-water-gushing-out-of-a-dam-M19bRVCf8Xs?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1647614381422-4e84d66ee1c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8SW5kdXMlMjBXYXRlciUyMFRyZWF0eSUyMEluZGlhfGVufDF8MXx8fDE3OTUyNjUyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "Indus Water Treaty India",
+        "fallback_used": false,
+        "original_query": "Indus Water Treaty India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "India's Position",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "512Mk-Z3EdA",
+        "photographer": "Devansh Bose",
+        "photographer_url": "https://unsplash.com/@baskheecho?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/a-close-up-of-the-flag-of-india-512Mk-Z3EdA?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1643603425062-29a8ca831d18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8SW5kaWElMjBJbmR1cyUyMFdhdGVycyUyMFRyZWF0eXxlbnwxfDF8fHwxNzk1MjY1MjE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "India Indus Waters Treaty",
+        "fallback_used": false,
+        "original_query": "India Indus Waters Treaty"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "Bd7gNnWJBkU",
+        "photographer": "Andras Vas",
+        "photographer_url": "https://unsplash.com/@wasdrew?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/macbook-pro-turned-on-Bd7gNnWJBkU?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8bW9kZXJuJTIwdGVjaG5vbG9neSUyMGNvbXB1dGVyJTIwZGlnaXRhbHxlbnwxfDF8fHwxNzk1MjY1MjE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "modern technology computer digital",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

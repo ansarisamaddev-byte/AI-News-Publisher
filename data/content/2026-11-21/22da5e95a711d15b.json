@@ -1,60 +1,61 @@
 {
-    "news_id": "22da5e95a711d15b",
+  "news_id": "22da5e95a711d15b",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "India",
+    "type": "other",
+    "image_search_query": "India"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "India",
-        "type": "other",
+    "category": "technology",
+    "subcategory": "water treaties",
+    "importance_score": 1,
+    "relevance_score": 1,
+    "region": "India",
+    "tags": [
+      "Indus Waters Treaty"
+    ],
+    "classification_reason": "India's stance on the Indus Waters Treaty",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "India Slams Pakistan Over Indus Water Treaty",
+    "caption": "India declares its position on the Indus Waters Treaty is 'very clear'.",
+    "hashtags": [
+      "#IndusWatersTreaty",
+      "#IndiaPakistanTensions"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "India Slams Pakistan Over Indus Water Treaty",
+        "text": "India declares its position on the Indus Waters Treaty is 'very clear'.",
         "image_search_query": "India"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "technology",
-        "subcategory": "water treaties",
-        "importance_score": 1,
-        "relevance_score": 1,
-        "region": "India",
-        "tags": [
-            "Indus Waters Treaty"
-        ],
-        "classification_reason": "India's stance on the Indus Waters Treaty",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "India Slams Pakistan Over Indus Water Treaty",
-        "caption": "India declares its position on the Indus Waters Treaty is 'very clear'.",
-        "hashtags": [
-            "#IndusWatersTreaty",
-            "#IndiaPakistanTensions"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "India Slams Pakistan Over Indus Water Treaty",
-                "text": "India declares its position on the Indus Waters Treaty is 'very clear'.",
-                "image_search_query": "India"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Indus Water Treaty",
-                "text": "The Indus Water Treaty is a treaty between India and Pakistan regarding the sharing of water resources in the Indus River system.",
-                "image_search_query": "Indus Water Treaty India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "India's Position",
-                "text": "India's stance on the Indus Waters Treaty is 'very clear', indicating a disagreement with Pakistan over water distribution.",
-                "image_search_query": "India Indus Waters Treaty"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "NDTV",
-    "source_url": "https://www.ndtv.com/india-news/india-slams-pakistan-over-indus-water-treaty-12356777#publisher=newsstand",
-    "published_at": "2026-11-20T22:15:24+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Indus Water Treaty",
+        "text": "The Indus Water Treaty is a treaty between India and Pakistan regarding the sharing of water resources in the Indus River system.",
+        "image_search_query": "Indus Water Treaty India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "India's Position",
+        "text": "India's stance on the Indus Waters Treaty is 'very clear', indicating a disagreement with Pakistan over water distribution.",
+        "image_search_query": "India Indus Waters Treaty"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/india-slams-pakistan-over-indus-water-treaty-12356777#publisher=newsstand",
+  "published_at": "2026-11-20T22:15:24+00:00",
+  "image_done": true
 }

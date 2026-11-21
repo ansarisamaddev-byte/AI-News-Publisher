@@ -1,0 +1,74 @@
+{
+  "news_id": "95d460ce64e01e20",
+  "title": "Trinamool supporters attacked outside the police station as police questioned Abhishek Banerjee",
+  "main_subject": {
+    "name": "Abhishek Banerjee",
+    "type": "person",
+    "image_search_query": "Abhishek Banerjee"
+  },
+  "category": "politics",
+  "tags": [
+    "politics",
+    "BJP",
+    "Trinamool Congress"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/west-bengal/trinamool-supporters-attacked-outside-the-police-station-as-police-questioned-abhishek/article71725638.ece",
+  "published_at": "2026-11-20T21:30:12+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Trinamool supporters attacked outside the police station as police questioned",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/69bcti/article71726050.ece/alternates/LANDSCAPE_1200/20261120468L.jpg",
+        "article_url": "https://www.thehindu.com/news/national/west-bengal/trinamool-supporters-attacked-outside-the-police-station-as-police-questioned-abhishek/article71725638.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Abhishek Banerjee"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Supporters attacked",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/69bcti/article71726050.ece/alternates/LANDSCAPE_1200/20261120468L.jpg",
+        "article_url": "https://www.thehindu.com/news/national/west-bengal/trinamool-supporters-attacked-outside-the-police-station-as-police-questioned-abhishek/article71725638.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Trinamool supporters, police station India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "BJP response",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/69bcti/article71726050.ece/alternates/LANDSCAPE_1200/20261120468L.jpg",
+        "article_url": "https://www.thehindu.com/news/national/west-bengal/trinamool-supporters-attacked-outside-the-police-station-as-police-questioned-abhishek/article71725638.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "BJP, Trinamool Congress India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/69bcti/article71726050.ece/alternates/LANDSCAPE_1200/20261120468L.jpg",
+        "article_url": "https://www.thehindu.com/news/national/west-bengal/trinamool-supporters-attacked-outside-the-police-station-as-police-questioned-abhishek/article71725638.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "parliament government building"
+      }
+    }
+  ]
+}
