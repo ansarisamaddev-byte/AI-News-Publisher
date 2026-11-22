@@ -1,0 +1,62 @@
+{
+    "news_id": "e12242fac502ef06",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Rajmohan",
+        "type": "person",
+        "image_search_query": "Rajmohan"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "business",
+        "subcategory": "education",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Tamil Nadu",
+        "tags": [
+            "education",
+            "book fair",
+            "publishers"
+        ],
+        "classification_reason": "The article is primarily about the unveiling of the logo for the Chennai International Book Fair and the inauguration of a training program for literary agents.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Rajmohan Unveils Logo for Chennai International Book Fair 2027",
+        "caption": "Minister for School Education Rajmohan introduces the logo for the fifth edition of the Chennai International Book Fair 2027.",
+        "hashtags": [
+            "#Rajmohan",
+            "#BookFair2027"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Rajmohan Unveils Logo for Chennai International Book Fair 2027",
+                "text": "Minister for School Education Rajmohan introduces the logo for the fifth edition of the Chennai International Book Fair 2027.",
+                "image_search_query": "Rajmohan"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Training Program Inaugurated",
+                "text": "The Minister inaugurates a training program for global literary agents at the Anna Centenary Library.",
+                "image_search_query": "Rajmohan Literary Agents Training Program India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "International Participation",
+                "text": "The upcoming CIBF 2027 is expected to have publishers, authors, and translators from more than 110 countries participating.",
+                "image_search_query": "Rajmohan International Participation India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/tamil-nadu/chennai-international-book-fair-2027-to-be-held-from-january-16-to-18/article71728191.ece",
+    "published_at": "2026-11-21T19:38:00+00:00"
+}

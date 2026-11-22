@@ -1,0 +1,63 @@
+{
+    "news_id": "19dc9e83067d7012",
+    "country": "UK",
+    "main_subject": {
+        "name": "Barnham",
+        "type": "place",
+        "image_search_query": "Barnham"
+    },
+    "classification": {
+        "country": "UK",
+        "category": "technology",
+        "subcategory": "social",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Suffolk, UK",
+        "tags": [
+            "village",
+            "independence",
+            "migrant housing"
+        ],
+        "classification_reason": "The article is about a village in Suffolk, UK, voting to 'leave the UK' over plans to house asylum seekers.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Village Votes to 'Leave UK' Over Migrant Plan",
+        "caption": "Barnham villagers vote overwhelmingly to 'leave the UK' in protest at plans to house asylum seekers at RAF Barnham.",
+        "hashtags": [
+            "#Barnham",
+            "#independence",
+            "#migranthousing"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Village Votes to 'Leave UK' Over Migrant Plan",
+                "text": "Barnham villagers vote overwhelmingly to 'leave the UK' in protest at plans to house asylum seekers at RAF Barnham.",
+                "image_search_query": "Barnham"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "What Happened",
+                "text": "Barnham villagers voted overwhelmingly to 'leave the UK' in protest at plans to house asylum seekers at RAF Barnham.",
+                "image_search_query": "village vote, Barnham, Suffolk, UK United Kingdom"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why It Matters",
+                "text": "The village's vote to 'leave the UK' over plans to house asylum seekers at RAF Barnham is a significant protest against the government's plans.",
+                "image_search_query": "village protest, Barnham, Suffolk, UK United Kingdom"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/news/articles/cvze71y6g85yo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-21T19:51:08+00:00"
+}

@@ -1,0 +1,62 @@
+{
+    "news_id": "56fd87af93b2c7e3",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Residents",
+        "type": "person",
+        "image_search_query": "Residents"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "business",
+        "subcategory": "transportation",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Chennai",
+        "tags": [
+            "residents",
+            "Melmaruvathur",
+            "railway"
+        ],
+        "classification_reason": "The article is about residents' demands for train stops at Melmaruvathur, a significant transportation hub in Chennai.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Residents Demand Halts for Long-Distance Trains at Melmaruvathur",
+        "caption": "Residents in several villages around Melmaruvathur, a spiritual and commercial hub, demand stops for long-distance trains, including Vande Bharat and Amrit Bharat, at the Melmaruvathur Railway Station.",
+        "hashtags": [
+            "#Melmaruvathur",
+            "#ResidentsDemand"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Residents Demand Halts for Long-Distance Trains at Melmaruvathur",
+                "text": "Residents in several villages around Melmaruvathur, a spiritual and commercial hub, demand stops for long-distance trains, including Vande Bharat and Amrit Bharat, at the Melmaruvathur Railway Station.",
+                "image_search_query": "Residents"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Resident Petitions",
+                "text": "The residents of several villages around Melmaruvathur, including Seyyur, Sithamur, Lathur, and Maduranthakam, have petitioned the Southern Railway to add stoppages for mail and express trains at the Melmaruvathur Railway Station.",
+                "image_search_query": "Residents petition Southern Railway India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Resident Demands",
+                "text": "Residents in several villages around Melmaruvathur, including Seyyur, Sithamur, Lathur, and Maduranthakam, have demanded stops for long-distance trains, including Vande Bharat and Amrit Bharat, at the Melmaruvathur Railway Station.",
+                "image_search_query": "Residents Melmaruvathur railway station India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/cities/chennai/residents-demand-halts-for-more-long-distance-trains-at-melmaruvathur/article71728074.ece",
+    "published_at": "2026-11-21T19:26:17+00:00"
+}

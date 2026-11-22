@@ -1,0 +1,67 @@
+{
+    "news_id": "ef1d3e74f36563cf",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "TVK",
+        "type": "company",
+        "image_search_query": "TVK"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "technology",
+        "subcategory": "politics",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Coimbatore",
+        "tags": [
+            "politics",
+            "dam issue",
+            "Mekedatu",
+            "Congress",
+            "AIADMK"
+        ],
+        "classification_reason": "The article discusses the political situation in Coimbatore related to the TVK company and the Mekedatu dam issue.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "TVK seeks help from Centre, Congress to remain in power",
+        "caption": "TVK, a company in Coimbatore, is seeking support from the Union government and the Congress to stay in power.",
+        "hashtags": [
+            "#TVK",
+            "#Coimbatore",
+            "#Mekedatu",
+            "#Congress",
+            "#AIADMK"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "TVK seeks help from Centre, Congress to remain in power",
+                "text": "TVK, a company in Coimbatore, is seeking support from the Union government and the Congress to stay in power.",
+                "image_search_query": "TVK"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Mekedatu Dam Issue",
+                "text": "The Mekedatu dam issue is a significant political issue in Coimbatore.",
+                "image_search_query": "Mekedatu dam Coimbatore India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "TVK's Political Situation",
+                "text": "TVK is facing political challenges in Coimbatore.",
+                "image_search_query": "TVK political situation Coimbatore India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/cities/Coimbatore/tvk-is-seeking-help-of-centre-congress-to-remain-in-power-says-former-minister/article71728480.ece",
+    "published_at": "2026-11-21T19:37:49+00:00"
+}

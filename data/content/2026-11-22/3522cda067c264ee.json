@@ -1,0 +1,64 @@
+{
+    "news_id": "3522cda067c264ee",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Tamil Nadu Postal Circle",
+        "type": "place",
+        "image_search_query": "Tamil Nadu Postal Circle"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "business",
+        "subcategory": "postal operations",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Tamil Nadu",
+        "tags": [
+            "postal operations",
+            "administrative efficiency",
+            "service delivery",
+            "employment opportunities"
+        ],
+        "classification_reason": "The article focuses on the Tamil Nadu Postal Circle's restructuring and redistribution of posts, which is a significant business and administrative issue affecting postal operations and employment.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Tamil Nadu Postal Circle Faces Post-Redistribution Concerns",
+        "caption": "The Tamil Nadu Postal Circle is facing concerns over the redistribution of posts, impacting administrative efficiency, service delivery, and employment opportunities.",
+        "hashtags": [
+            "#TamilNaduPostRedistribution",
+            "#PostalOperations",
+            "#AdministrativeEfficiency"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Tamil Nadu Postal Circle Faces Post-Redistribution Concerns",
+                "text": "The Tamil Nadu Postal Circle is facing concerns over the redistribution of posts, impacting administrative efficiency, service delivery, and employment opportunities.",
+                "image_search_query": "Tamil Nadu Postal Circle"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Redistribution of Posts",
+                "text": "The Tamil Nadu Postal Circle is experiencing the redistribution of posts, impacting administrative efficiency, service delivery, and employment opportunities.",
+                "image_search_query": "Redistribution of Posts India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact on Tamil Nadu Circle",
+                "text": "The Tamil Nadu Postal Circle is losing supervisory positions and operational staff, affecting administrative structure, management, and service delivery.",
+                "image_search_query": "Impact on Tamil Nadu Circle India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/cities/chennai/diversion-of-sanctioned-posts-raises-concerns-over-postal-operations-in-tamil-nadu/article71728462.ece",
+    "published_at": "2026-11-21T19:42:03+00:00"
+}
