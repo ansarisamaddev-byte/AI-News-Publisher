@@ -1,0 +1,63 @@
+{
+    "news_id": "5b2e638b59d25561",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Fifa",
+        "type": "organization",
+        "image_search_query": "Fifa"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "business",
+        "subcategory": "sports",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "INDIA",
+        "tags": [
+            "Fifa",
+            "World Cup",
+            "football"
+        ],
+        "classification_reason": "The article is about FIFA's decision to confirm the UK bid for hosting the 2035 Women's World Cup.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Fifa to Confirm UK Bid for 2035 Women's World Cup",
+        "caption": "Fifa has confirmed the UK bid for hosting the 2035 Women's World Cup, with England, Northern Ireland, Scotland, and Wales as the co-hosts.",
+        "hashtags": [
+            "#Fifa",
+            "#WorldCup",
+            "#Women'sWorldCup"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Fifa to Confirm UK Bid for 2035 Women's World Cup",
+                "text": "Fifa has confirmed the UK bid for hosting the 2035 Women's World Cup, with England, Northern Ireland, Scotland, and Wales as the co-hosts.",
+                "image_search_query": "Fifa"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Co-hosts for 2035 Women's World Cup",
+                "text": "England, Northern Ireland, Scotland, and Wales are the co-hosts for the 2035 Women's World Cup, with 104 matches and 48 teams over 39 days.",
+                "image_search_query": "co-hosts, 2035 Women's World Cup, matches India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Proposed Venues for 2035 Women's World Cup",
+                "text": "Proposed venues for the 2035 Women's World Cup include 14 venues in England, one in Northern Ireland, two in Scotland, and two in Wales.",
+                "image_search_query": "venues, 2035 Women's World Cup, England India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-22T21:44:37+00:00"
+}

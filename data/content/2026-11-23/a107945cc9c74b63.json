@@ -1,0 +1,61 @@
+{
+    "news_id": "a107945cc9c74b63",
+    "country": "US",
+    "main_subject": {
+        "name": "Miley Cyrus",
+        "type": "person",
+        "image_search_query": "Miley Cyrus"
+    },
+    "classification": {
+        "country": "US",
+        "category": "business",
+        "subcategory": "celebrity",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "",
+        "tags": [
+            "celebrity",
+            "Miley Cyrus"
+        ],
+        "classification_reason": "Miley Cyrus is the central figure in the news story.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Miley Cyrus Marries Maxx Morando in California Ceremony",
+        "caption": "Miley Cyrus, 33, marries Maxx Morando, 28, during a ceremony in Palm Springs, California.",
+        "hashtags": [
+            "#MileyCyrus",
+            "#MaxxMorando"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Miley Cyrus Marries Maxx Morando in California Ceremony",
+                "text": "Miley Cyrus, 33, marries Maxx Morando, 28, during a ceremony in Palm Springs, California.",
+                "image_search_query": "Miley Cyrus"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Relevant Context",
+                "text": "Miley Cyrus and Maxx Morando have been together for four years and were engaged in 2025.",
+                "image_search_query": "Miley Cyrus engagement United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Important Details",
+                "text": "Miley Cyrus wore a white silk dress designed by Anthony Vaccarello for Saint Laurent, while Maxx Morando wore a black suit from the same fashion house.",
+                "image_search_query": "Miley Cyrus Maxx Morando fashion United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-22T21:22:40+00:00"
+}

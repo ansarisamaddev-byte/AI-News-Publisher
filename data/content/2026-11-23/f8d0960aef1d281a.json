@@ -1,0 +1,61 @@
+{
+    "news_id": "f8d0960aef1d281a",
+    "country": "UK",
+    "main_subject": {
+        "name": "Hera",
+        "type": "company",
+        "image_search_query": "Hera"
+    },
+    "classification": {
+        "country": "UK",
+        "category": "technology",
+        "subcategory": "space exploration",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "UK",
+        "tags": [
+            "ESA",
+            "Hera Spacecraft"
+        ],
+        "classification_reason": "Hera spacecraft is a key component in the ESA's mission to study asteroids",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Hera Spacecraft Reveals First Images of Didymos and Dimorphos",
+        "caption": "ESA's Hera spacecraft captures the colors and temperatures of the asteroids Didymos and Dimorphos.",
+        "hashtags": [
+            "#ESA",
+            "#HeraSpacecraft"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Hera Spacecraft Reveals First Images of Didymos and Dimorphos",
+                "text": "ESA's Hera spacecraft captures the colors and temperatures of the asteroids Didymos and Dimorphos.",
+                "image_search_query": "Hera"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "ESA's Mission to Study Asteroids",
+                "text": "ESA's Hera spacecraft is part of the mission to study asteroids, including Didymos and Dimorphos.",
+                "image_search_query": "ESA mission to study asteroids United Kingdom"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "First Images of Didymos and Dimorphos",
+                "text": "ESA's Hera spacecraft captured the first images of Didymos and Dimorphos, providing valuable data for further analysis.",
+                "image_search_query": "First images of Didymos and Dimorphos by Hera United Kingdom"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Science",
+    "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYWFUSnpPQWRRLTROdFNLdzExb09BckJPcElSdkw3S1dsXzdIQ0tuMzJyS3ZsVzlfQUEzVmZTQVpJMkF4OUJwaFJXMTJqTjBaVEx0Z3lRQkNDd0xIVXUtWEx2QWtTNVdDd0VaYU1XaDcxNzktd2xNYVpFQlloNmN5UDhQRmlRM01rMkl2eGppYnJ3c3pMUlNWanAwMURLbW00LXM1alpWZ2VzYzRaN0QxYVJ6cGotSnkxbFVmM3Z1c0pXaVpiYndQOUx5UzZ1Q3h0Ty1qY0I1R0R6M3JPTmJj?oc=5",
+    "published_at": "2026-11-22T20:13:44+00:00"
+}

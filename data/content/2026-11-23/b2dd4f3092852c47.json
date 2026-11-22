@@ -1,0 +1,63 @@
+{
+    "news_id": "b2dd4f3092852c47",
+    "country": "UK",
+    "main_subject": {
+        "name": "Manchester United",
+        "type": "team",
+        "image_search_query": "Manchester United"
+    },
+    "classification": {
+        "country": "UK",
+        "category": "sports",
+        "subcategory": "football",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Manchester, England",
+        "tags": [
+            "Manchester United",
+            "football",
+            "Red Devils"
+        ],
+        "classification_reason": "The article is centered around Manchester United's performance in the Premier League and their defeat at Anfield.",
+        "selected_channels": [
+            "sports-news"
+        ]
+    },
+    "content": {
+        "title": "Manchester United's 4-0 Defeat at Anfield",
+        "caption": "Manchester United struggled against Liverpool, conceding four goals in a 4-0 defeat.",
+        "hashtags": [
+            "#ManchesterUnited",
+            "#Anfield",
+            "#Liverpool"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Manchester United's 4-0 Defeat at Anfield",
+                "text": "Manchester United struggled against Liverpool, conceding four goals in a 4-0 defeat.",
+                "image_search_query": "Manchester United"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Match Details",
+                "text": "Manchester United faced Liverpool at Anfield, losing 4-0.",
+                "image_search_query": "Anfield, Liverpool, Manchester United United Kingdom"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Performance Analysis",
+                "text": "Manchester United struggled defensively, conceding four goals.",
+                "image_search_query": "Manchester United, Liverpool, Anfield, defensive United Kingdom"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-22T21:36:00+00:00"
+}
