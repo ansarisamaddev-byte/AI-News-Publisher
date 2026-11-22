@@ -1,0 +1,73 @@
+{
+  "news_id": "f8d0960aef1d281a",
+  "title": "Hera Spacecraft Reveals First Images of Didymos and Dimorphos",
+  "main_subject": {
+    "name": "Hera",
+    "type": "company",
+    "image_search_query": "Hera"
+  },
+  "category": "technology",
+  "tags": [
+    "ESA",
+    "Hera Spacecraft"
+  ],
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYWFUSnpPQWRRLTROdFNLdzExb09BckJPcElSdkw3S1dsXzdIQ0tuMzJyS3ZsVzlfQUEzVmZTQVpJMkF4OUJwaFJXMTJqTjBaVEx0Z3lRQkNDd0xIVXUtWEx2QWtTNVdDd0VaYU1XaDcxNzktd2xNYVpFQlloNmN5UDhQRmlRM01rMkl2eGppYnJ3c3pMUlNWanAwMURLbW00LXM1alpWZ2VzYzRaN0QxYVJ6cGotSnkxbFVmM3Z1c0pXaVpiYndQOUx5UzZ1Q3h0Ty1qY0I1R0R6M3JPTmJj?oc=5",
+  "published_at": "2026-11-22T20:13:44+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Hera Spacecraft Reveals First Images of Didymos and Dimorphos",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYWFUSnpPQWRRLTROdFNLdzExb09BckJPcElSdkw3S1dsXzdIQ0tuMzJyS3ZsVzlfQUEzVmZTQVpJMkF4OUJwaFJXMTJqTjBaVEx0Z3lRQkNDd0xIVXUtWEx2QWtTNVdDd0VaYU1XaDcxNzktd2xNYVpFQlloNmN5UDhQRmlRM01rMkl2eGppYnJ3c3pMUlNWanAwMURLbW00LXM1alpWZ2VzYzRaN0QxYVJ6cGotSnkxbFVmM3Z1c0pXaVpiYndQOUx5UzZ1Q3h0Ty1qY0I1R0R6M3JPTmJj?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Hera"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "ESA's Mission to Study Asteroids",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYWFUSnpPQWRRLTROdFNLdzExb09BckJPcElSdkw3S1dsXzdIQ0tuMzJyS3ZsVzlfQUEzVmZTQVpJMkF4OUJwaFJXMTJqTjBaVEx0Z3lRQkNDd0xIVXUtWEx2QWtTNVdDd0VaYU1XaDcxNzktd2xNYVpFQlloNmN5UDhQRmlRM01rMkl2eGppYnJ3c3pMUlNWanAwMURLbW00LXM1alpWZ2VzYzRaN0QxYVJ6cGotSnkxbFVmM3Z1c0pXaVpiYndQOUx5UzZ1Q3h0Ty1qY0I1R0R6M3JPTmJj?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "ESA mission to study asteroids United Kingdom"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "First Images of Didymos and Dimorphos",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYWFUSnpPQWRRLTROdFNLdzExb09BckJPcElSdkw3S1dsXzdIQ0tuMzJyS3ZsVzlfQUEzVmZTQVpJMkF4OUJwaFJXMTJqTjBaVEx0Z3lRQkNDd0xIVXUtWEx2QWtTNVdDd0VaYU1XaDcxNzktd2xNYVpFQlloNmN5UDhQRmlRM01rMkl2eGppYnJ3c3pMUlNWanAwMURLbW00LXM1alpWZ2VzYzRaN0QxYVJ6cGotSnkxbFVmM3Z1c0pXaVpiYndQOUx5UzZ1Q3h0Ty1qY0I1R0R6M3JPTmJj?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "First images of Didymos and Dimorphos by Hera United Kingdom"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYWFUSnpPQWRRLTROdFNLdzExb09BckJPcElSdkw3S1dsXzdIQ0tuMzJyS3ZsVzlfQUEzVmZTQVpJMkF4OUJwaFJXMTJqTjBaVEx0Z3lRQkNDd0xIVXUtWEx2QWtTNVdDd0VaYU1XaDcxNzktd2xNYVpFQlloNmN5UDhQRmlRM01rMkl2eGppYnJ3c3pMUlNWanAwMURLbW00LXM1alpWZ2VzYzRaN0QxYVJ6cGotSnkxbFVmM3Z1c0pXaVpiYndQOUx5UzZ1Q3h0Ty1qY0I1R0R6M3JPTmJj?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "news_id": "57687c50f57b9652",
+  "title": "You Can See Everything: The Documentary About Elizabeth Holmes",
+  "main_subject": {
+    "name": "You Can See Everything",
+    "type": "product",
+    "image_search_query": "You Can See Everything"
+  },
+  "category": "technology",
+  "tags": [
+    "documentary",
+    "indie film",
+    "Nathan Fielder",
+    "Lance Oppenheim"
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+  "published_at": "2026-11-22T21:42:48+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "You Can See Everything: The Documentary About Elizabeth Holmes",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+        "article_url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "You Can See Everything"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "The Documentary",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+        "article_url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "documentary about Elizabeth Holmes United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "The Box Office",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+        "article_url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "documentary box office United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+        "article_url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

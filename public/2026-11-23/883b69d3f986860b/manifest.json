@@ -1,0 +1,75 @@
+{
+  "news_id": "883b69d3f986860b",
+  "title": "Jakub Pachocki Discusses AI Development Limits and Perplexity",
+  "main_subject": {
+    "name": "Jakub Pachocki",
+    "type": "person",
+    "image_search_query": "Jakub Pachocki"
+  },
+  "category": "technology",
+  "tags": [
+    "AI",
+    "perplexity",
+    "OpenAI",
+    "GPT-4"
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+  "published_at": "2026-11-22T21:14:07+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Jakub Pachocki Discusses AI Development Limits and Perplexity",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+        "article_url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Jakub Pachocki"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "GPT-4 and Perplexity",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+        "article_url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "GPT-4, chain-of-thought reasoning United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Perplexity and AI Progress",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+        "article_url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "perplexity, GPT-4, chain-of-thought reasoning United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+        "article_url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

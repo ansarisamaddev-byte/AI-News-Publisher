@@ -1,65 +1,66 @@
 {
-    "news_id": "57687c50f57b9652",
+  "news_id": "57687c50f57b9652",
+  "country": "US",
+  "main_subject": {
+    "name": "You Can See Everything",
+    "type": "product",
+    "image_search_query": "You Can See Everything"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "You Can See Everything",
-        "type": "product",
+    "category": "technology",
+    "subcategory": "documentary",
+    "importance_score": 8,
+    "relevance_score": 8,
+    "region": "USA",
+    "tags": [
+      "documentary",
+      "indie film",
+      "Nathan Fielder",
+      "Lance Oppenheim"
+    ],
+    "classification_reason": "The article is about a documentary film directed by Nathan Fielder and Lance Oppenheim, focusing on Elizabeth Holmes, the founder of Theranos.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "You Can See Everything: The Documentary About Elizabeth Holmes",
+    "caption": "A documentary about Elizabeth Holmes, the founder of Theranos, has made more than $100 million worldwide.",
+    "hashtags": [
+      "#documentary",
+      "#theranos",
+      "#nathanfielder",
+      "#lanceoppenheim"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "You Can See Everything: The Documentary About Elizabeth Holmes",
+        "text": "A documentary about Elizabeth Holmes, the founder of Theranos, has made more than $100 million worldwide.",
         "image_search_query": "You Can See Everything"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "documentary",
-        "importance_score": 8,
-        "relevance_score": 8,
-        "region": "USA",
-        "tags": [
-            "documentary",
-            "indie film",
-            "Nathan Fielder",
-            "Lance Oppenheim"
-        ],
-        "classification_reason": "The article is about a documentary film directed by Nathan Fielder and Lance Oppenheim, focusing on Elizabeth Holmes, the founder of Theranos.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "You Can See Everything: The Documentary About Elizabeth Holmes",
-        "caption": "A documentary about Elizabeth Holmes, the founder of Theranos, has made more than $100 million worldwide.",
-        "hashtags": [
-            "#documentary",
-            "#theranos",
-            "#nathanfielder",
-            "#lanceoppenheim"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "You Can See Everything: The Documentary About Elizabeth Holmes",
-                "text": "A documentary about Elizabeth Holmes, the founder of Theranos, has made more than $100 million worldwide.",
-                "image_search_query": "You Can See Everything"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "The Documentary",
-                "text": "The documentary, directed by Nathan Fielder and Lance Oppenheim, focuses on Elizabeth Holmes, the founder of Theranos.",
-                "image_search_query": "documentary about Elizabeth Holmes United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "The Box Office",
-                "text": "The documentary has grossed over $100 million worldwide, with almost all of the box office coming from U.S. audiences.",
-                "image_search_query": "documentary box office United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
-    "published_at": "2026-11-22T21:42:48+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "The Documentary",
+        "text": "The documentary, directed by Nathan Fielder and Lance Oppenheim, focuses on Elizabeth Holmes, the founder of Theranos.",
+        "image_search_query": "documentary about Elizabeth Holmes United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "The Box Office",
+        "text": "The documentary has grossed over $100 million worldwide, with almost all of the box office coming from U.S. audiences.",
+        "image_search_query": "documentary box office United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+  "published_at": "2026-11-22T21:42:48+00:00",
+  "image_done": true
 }

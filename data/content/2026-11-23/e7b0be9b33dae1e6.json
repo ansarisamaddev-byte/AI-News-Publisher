@@ -1,63 +1,64 @@
 {
-    "news_id": "e7b0be9b33dae1e6",
+  "news_id": "e7b0be9b33dae1e6",
+  "country": "US",
+  "main_subject": {
+    "name": "Jay Clayton",
+    "type": "person",
+    "image_search_query": "Jay Clayton"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Jay Clayton",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "intelligence",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "",
+    "tags": [
+      "intelligence",
+      "national",
+      "US"
+    ],
+    "classification_reason": "Jay Clayton is the US director of national intelligence, and the article focuses on his comments about Trump's characterization of Putin.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Jay Clayton: Trump's 'Friend' Label for Putin is 'Completely Appropriate'",
+    "caption": "Jay Clayton, the US director of national intelligence, says he trusts Donald Trump 'completely' after Trump called Putin 'a friend' during their recent meeting in China.",
+    "hashtags": [
+      "#JayClayton",
+      "#NationalIntelligence",
+      "#TrumpFriend"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Jay Clayton: Trump's 'Friend' Label for Putin is 'Completely Appropriate'",
+        "text": "Jay Clayton, the US director of national intelligence, says he trusts Donald Trump 'completely' after Trump called Putin 'a friend' during their recent meeting in China.",
         "image_search_query": "Jay Clayton"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "intelligence",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "",
-        "tags": [
-            "intelligence",
-            "national",
-            "US"
-        ],
-        "classification_reason": "Jay Clayton is the US director of national intelligence, and the article focuses on his comments about Trump's characterization of Putin.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Jay Clayton: Trump's 'Friend' Label for Putin is 'Completely Appropriate'",
-        "caption": "Jay Clayton, the US director of national intelligence, says he trusts Donald Trump 'completely' after Trump called Putin 'a friend' during their recent meeting in China.",
-        "hashtags": [
-            "#JayClayton",
-            "#NationalIntelligence",
-            "#TrumpFriend"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Jay Clayton: Trump's 'Friend' Label for Putin is 'Completely Appropriate'",
-                "text": "Jay Clayton, the US director of national intelligence, says he trusts Donald Trump 'completely' after Trump called Putin 'a friend' during their recent meeting in China.",
-                "image_search_query": "Jay Clayton"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Trump's Characterization",
-                "text": "Jay Clayton says he trusts Donald Trump 'completely' after Trump called Putin 'a friend' during their recent meeting in China.",
-                "image_search_query": "Trump, Putin, national intelligence United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Clayton's Comments",
-                "text": "Clayton says he trusts Trump 'completely' after Trump called Putin 'a friend' during their recent meeting in China.",
-                "image_search_query": "Jay Clayton, Trump, Putin United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Guardian",
-    "source_url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
-    "published_at": "2026-11-22T20:55:33+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Trump's Characterization",
+        "text": "Jay Clayton says he trusts Donald Trump 'completely' after Trump called Putin 'a friend' during their recent meeting in China.",
+        "image_search_query": "Trump, Putin, national intelligence United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Clayton's Comments",
+        "text": "Clayton says he trusts Trump 'completely' after Trump called Putin 'a friend' during their recent meeting in China.",
+        "image_search_query": "Jay Clayton, Trump, Putin United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+  "published_at": "2026-11-22T20:55:33+00:00",
+  "image_done": true
 }

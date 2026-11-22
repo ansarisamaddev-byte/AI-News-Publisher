@@ -1,61 +1,62 @@
 {
-    "news_id": "2cb8e8acf57c20bc",
+  "news_id": "2cb8e8acf57c20bc",
+  "country": "US",
+  "main_subject": {
+    "name": "Apple (AAPL)",
+    "type": "company",
+    "image_search_query": "Apple (AAPL)"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Apple (AAPL)",
-        "type": "company",
+    "category": "technology",
+    "subcategory": "AI",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "AI",
+      "Apple"
+    ],
+    "classification_reason": "Apple is the central subject of the article and the main focus of the news.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Apple (AAPL) Developing AI Agent to Compete with Meta",
+    "caption": "Apple is reportedly working on an AI agent that can code and use apps, challenging Meta’s AI chief.",
+    "hashtags": [
+      "#AI",
+      "#Apple"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Apple (AAPL) Developing AI Agent to Compete with Meta",
+        "text": "Apple is reportedly working on an AI agent that can code and use apps, challenging Meta’s AI chief.",
         "image_search_query": "Apple (AAPL)"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "AI",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "AI",
-            "Apple"
-        ],
-        "classification_reason": "Apple is the central subject of the article and the main focus of the news.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Apple (AAPL) Developing AI Agent to Compete with Meta",
-        "caption": "Apple is reportedly working on an AI agent that can code and use apps, challenging Meta’s AI chief.",
-        "hashtags": [
-            "#AI",
-            "#Apple"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Apple (AAPL) Developing AI Agent to Compete with Meta",
-                "text": "Apple is reportedly working on an AI agent that can code and use apps, challenging Meta’s AI chief.",
-                "image_search_query": "Apple (AAPL)"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Meta’s AI Chief Digging at Apple",
-                "text": "Meta’s AI chief, Alexandr Wang, takes a dig at Apple, challenging the iPhone maker.",
-                "image_search_query": "Meta’s AI chief dig at Apple United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Apple’s AI Agent Strategy",
-                "text": "Apple is reportedly working on an AI agent to compete with Meta’s AI rivals.",
-                "image_search_query": "Apple’s AI agent strategy United States"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Top Stories",
-    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkZLdmwyWGlObEo1YVNleUhDTEtRYlFmSUd5TUkwUUNOcm4wUi1ubVJGS2UwTjFtVWZoNHI0OUhELUNlTURHNmlCdVhrbVVUQmppRXk3OVJqX051VkpSOGZYeWlnVlc3aHRSeUZjYU02Y21uR0s3LWd4d3AzNjBEQ0MxZ2E1WE5qOWdya1VoZFd3b0VwTlNSQ0NzdE9BUQ?oc=5",
-    "published_at": "2026-11-22T20:06:14+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Meta’s AI Chief Digging at Apple",
+        "text": "Meta’s AI chief, Alexandr Wang, takes a dig at Apple, challenging the iPhone maker.",
+        "image_search_query": "Meta’s AI chief dig at Apple United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Apple’s AI Agent Strategy",
+        "text": "Apple is reportedly working on an AI agent to compete with Meta’s AI rivals.",
+        "image_search_query": "Apple’s AI agent strategy United States"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Top Stories",
+  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkZLdmwyWGlObEo1YVNleUhDTEtRYlFmSUd5TUkwUUNOcm4wUi1ubVJGS2UwTjFtVWZoNHI0OUhELUNlTURHNmlCdVhrbVVUQmppRXk3OVJqX051VkpSOGZYeWlnVlc3aHRSeUZjYU02Y21uR0s3LWd4d3AzNjBEQ0MxZ2E1WE5qOWdya1VoZFd3b0VwTlNSQ0NzdE9BUQ?oc=5",
+  "published_at": "2026-11-22T20:06:14+00:00",
+  "image_done": true
 }
