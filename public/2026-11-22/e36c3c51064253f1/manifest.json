@@ -1,0 +1,74 @@
+{
+  "news_id": "e36c3c51064253f1",
+  "title": "Young Indians (Yi) Chennai Chapter Organizes Child Safety Summit",
+  "main_subject": {
+    "name": "Yi Chennai Chapter",
+    "type": "organization",
+    "image_search_query": "Yi Chennai Chapter"
+  },
+  "category": "business",
+  "tags": [
+    "child safety",
+    "awareness",
+    "ambassadors"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/chennai/young-indians-hold-child-safety-summit-in-maduravoyal/article71728860.ece",
+  "published_at": "2026-11-21T19:27:31+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Young Indians (Yi) Chennai Chapter Organizes Child Safety Summit",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/news/cities/chennai/9nsn5a/article71728847.ece/alternates/LANDSCAPE_1200/Image%201.jpeg",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/young-indians-hold-child-safety-summit-in-maduravoyal/article71728860.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Yi Chennai Chapter"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Event Details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/news/cities/chennai/9nsn5a/article71728847.ece/alternates/LANDSCAPE_1200/Image%201.jpeg",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/young-indians-hold-child-safety-summit-in-maduravoyal/article71728860.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Dayasadan Agarwal Vidyalaya, Maduravoyal India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Programme",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/news/cities/chennai/9nsn5a/article71728847.ece/alternates/LANDSCAPE_1200/Image%201.jpeg",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/young-indians-hold-child-safety-summit-in-maduravoyal/article71728860.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Muktha Foundation, Bengaluru India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/news/cities/chennai/9nsn5a/article71728847.ece/alternates/LANDSCAPE_1200/Image%201.jpeg",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/young-indians-hold-child-safety-summit-in-maduravoyal/article71728860.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

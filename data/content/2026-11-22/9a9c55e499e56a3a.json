@@ -1,63 +1,64 @@
 {
-    "news_id": "9a9c55e499e56a3a",
+  "news_id": "9a9c55e499e56a3a",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "K. Ashok Vardhan Shetty",
+    "type": "person",
+    "image_search_query": "K. Ashok Vardhan Shetty"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "K. Ashok Vardhan Shetty",
-        "type": "person",
+    "category": "business",
+    "subcategory": "politics",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Tamil Nadu",
+    "tags": [
+      "Tamil Nadu",
+      "politics",
+      "IAS officer"
+    ],
+    "classification_reason": "The article is about a specific person's political involvement and decision-making in Tamil Nadu.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "K. Ashok Vardhan Shetty: Dissolution of Justice Kurian Panel in Tamil Nadu",
+    "caption": "A retired IAS officer who was a member of the committee on Union-State relations in Tamil Nadu, K. Ashok Vardhan Shetty, has stated that neither he nor the panel’s head, Justice Kurian Joseph, was informed prior to its dissolution.",
+    "hashtags": [
+      "#KAshokVardhanShetty",
+      "#TamilNaduPolitics",
+      "#IASOfficer"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "K. Ashok Vardhan Shetty: Dissolution of Justice Kurian Panel in",
+        "text": "A retired IAS officer who was a member of the committee on Union-State relations in Tamil Nadu, K. Ashok Vardhan Shetty, has stated that neither he nor the panel’s head, Justice Kurian Joseph, was informed",
         "image_search_query": "K. Ashok Vardhan Shetty"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "business",
-        "subcategory": "politics",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Tamil Nadu",
-        "tags": [
-            "Tamil Nadu",
-            "politics",
-            "IAS officer"
-        ],
-        "classification_reason": "The article is about a specific person's political involvement and decision-making in Tamil Nadu.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "K. Ashok Vardhan Shetty: Dissolution of Justice Kurian Panel in Tamil Nadu",
-        "caption": "A retired IAS officer who was a member of the committee on Union-State relations in Tamil Nadu, K. Ashok Vardhan Shetty, has stated that neither he nor the panel’s head, Justice Kurian Joseph, was informed prior to its dissolution.",
-        "hashtags": [
-            "#KAshokVardhanShetty",
-            "#TamilNaduPolitics",
-            "#IASOfficer"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "K. Ashok Vardhan Shetty: Dissolution of Justice Kurian Panel in",
-                "text": "A retired IAS officer who was a member of the committee on Union-State relations in Tamil Nadu, K. Ashok Vardhan Shetty, has stated that neither he nor the panel’s head, Justice Kurian Joseph, was informed",
-                "image_search_query": "K. Ashok Vardhan Shetty"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Context",
-                "text": "The government dissolved the Justice Kurian panel in Tamil Nadu without informing its members, including K. Ashok Vardhan Shetty and Justice Kurian Joseph.",
-                "image_search_query": "Justice Kurian panel dissolution India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Details",
-                "text": "K. Ashok Vardhan Shetty was a member of the committee on Union-State relations in Tamil Nadu, and he was informed about the dissolution of the panel.",
-                "image_search_query": "K. Ashok Vardhan Shetty details India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-gave-no-advance-notice-on-justice-kurian-panels-dissolution-member/article71728899.ece",
-    "published_at": "2026-11-21T19:36:40+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Context",
+        "text": "The government dissolved the Justice Kurian panel in Tamil Nadu without informing its members, including K. Ashok Vardhan Shetty and Justice Kurian Joseph.",
+        "image_search_query": "Justice Kurian panel dissolution India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Details",
+        "text": "K. Ashok Vardhan Shetty was a member of the committee on Union-State relations in Tamil Nadu, and he was informed about the dissolution of the panel.",
+        "image_search_query": "K. Ashok Vardhan Shetty details India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-gave-no-advance-notice-on-justice-kurian-panels-dissolution-member/article71728899.ece",
+  "published_at": "2026-11-21T19:36:40+00:00",
+  "image_done": true
 }

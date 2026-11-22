@@ -1,0 +1,75 @@
+{
+  "news_id": "3522cda067c264ee",
+  "title": "Tamil Nadu Postal Circle Faces Post-Redistribution Concerns",
+  "main_subject": {
+    "name": "Tamil Nadu Postal Circle",
+    "type": "place",
+    "image_search_query": "Tamil Nadu Postal Circle"
+  },
+  "category": "business",
+  "tags": [
+    "postal operations",
+    "administrative efficiency",
+    "service delivery",
+    "employment opportunities"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/chennai/diversion-of-sanctioned-posts-raises-concerns-over-postal-operations-in-tamil-nadu/article71728462.ece",
+  "published_at": "2026-11-21T19:42:03+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Tamil Nadu Postal Circle Faces Post-Redistribution Concerns",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/diversion-of-sanctioned-posts-raises-concerns-over-postal-operations-in-tamil-nadu/article71728462.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Tamil Nadu Postal Circle"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Redistribution of Posts",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/diversion-of-sanctioned-posts-raises-concerns-over-postal-operations-in-tamil-nadu/article71728462.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Redistribution of Posts India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact on Tamil Nadu Circle",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/diversion-of-sanctioned-posts-raises-concerns-over-postal-operations-in-tamil-nadu/article71728462.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Impact on Tamil Nadu Circle India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/diversion-of-sanctioned-posts-raises-concerns-over-postal-operations-in-tamil-nadu/article71728462.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

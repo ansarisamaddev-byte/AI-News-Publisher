@@ -1,0 +1,74 @@
+{
+  "news_id": "56fd87af93b2c7e3",
+  "title": "Residents Demand Halts for Long-Distance Trains at Melmaruvathur",
+  "main_subject": {
+    "name": "Residents",
+    "type": "person",
+    "image_search_query": "Residents"
+  },
+  "category": "business",
+  "tags": [
+    "residents",
+    "Melmaruvathur",
+    "railway"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/chennai/residents-demand-halts-for-more-long-distance-trains-at-melmaruvathur/article71728074.ece",
+  "published_at": "2026-11-21T19:26:17+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Residents Demand Halts for Long-Distance Trains at Melmaruvathur",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/1ba9yp/article71729448.ece/alternates/LANDSCAPE_1200/VEDGN_2-6-2015_15-33-4_MARUVATHUR4.JPG",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/residents-demand-halts-for-more-long-distance-trains-at-melmaruvathur/article71728074.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Residents"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Resident Petitions",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/1ba9yp/article71729448.ece/alternates/LANDSCAPE_1200/VEDGN_2-6-2015_15-33-4_MARUVATHUR4.JPG",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/residents-demand-halts-for-more-long-distance-trains-at-melmaruvathur/article71728074.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Residents petition Southern Railway India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Resident Demands",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/1ba9yp/article71729448.ece/alternates/LANDSCAPE_1200/VEDGN_2-6-2015_15-33-4_MARUVATHUR4.JPG",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/residents-demand-halts-for-more-long-distance-trains-at-melmaruvathur/article71728074.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Residents Melmaruvathur railway station India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/1ba9yp/article71729448.ece/alternates/LANDSCAPE_1200/VEDGN_2-6-2015_15-33-4_MARUVATHUR4.JPG",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/residents-demand-halts-for-more-long-distance-trains-at-melmaruvathur/article71728074.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

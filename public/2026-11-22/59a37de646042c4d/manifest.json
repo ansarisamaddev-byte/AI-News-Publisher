@@ -1,0 +1,73 @@
+{
+  "news_id": "59a37de646042c4d",
+  "title": "Justice S. Rajeswaran: Inspiring Younger Generation with Tamil Literary Works",
+  "main_subject": {
+    "name": "Justice S. Rajeswaran",
+    "type": "person",
+    "image_search_query": "Justice S. Rajeswaran"
+  },
+  "category": "business",
+  "tags": [
+    "judicial",
+    "Justice S. Rajeswaran"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/chennai/literary-works-on-tamil-worldview-guide-youth-towards-ethics-and-integrity/article71728404.ece",
+  "published_at": "2026-11-21T19:21:20+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Justice S. Rajeswaran: Inspiring Younger Generation with Tamil Literary Works",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/4h9ezq/article71729233.ece/alternates/LANDSCAPE_1200/BVR_5146.JPG",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/literary-works-on-tamil-worldview-guide-youth-towards-ethics-and-integrity/article71728404.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Justice S. Rajeswaran"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Inspiring Younger Generation",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/4h9ezq/article71729233.ece/alternates/LANDSCAPE_1200/BVR_5146.JPG",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/literary-works-on-tamil-worldview-guide-youth-towards-ethics-and-integrity/article71728404.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Inspiring Younger Generation India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Tamil Literary Works",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/4h9ezq/article71729233.ece/alternates/LANDSCAPE_1200/BVR_5146.JPG",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/literary-works-on-tamil-worldview-guide-youth-towards-ethics-and-integrity/article71728404.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Tamil Literary Works India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/4h9ezq/article71729233.ece/alternates/LANDSCAPE_1200/BVR_5146.JPG",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/literary-works-on-tamil-worldview-guide-youth-towards-ethics-and-integrity/article71728404.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

@@ -1,63 +1,64 @@
 {
-    "news_id": "e36c3c51064253f1",
+  "news_id": "e36c3c51064253f1",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Yi Chennai Chapter",
+    "type": "organization",
+    "image_search_query": "Yi Chennai Chapter"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Yi Chennai Chapter",
-        "type": "organization",
+    "category": "business",
+    "subcategory": "child safety awareness",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Maduravoyal, Chennai",
+    "tags": [
+      "child safety",
+      "awareness",
+      "ambassadors"
+    ],
+    "classification_reason": "organization focused on child safety awareness",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Young Indians (Yi) Chennai Chapter Organizes Child Safety Summit",
+    "caption": "A child safety summit organized by the Young Indians (Yi) Chennai Chapter in Maduravoyal, Chennai.",
+    "hashtags": [
+      "#childsafety",
+      "#awareness",
+      "#ambassadors"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Young Indians (Yi) Chennai Chapter Organizes Child Safety Summit",
+        "text": "A child safety summit organized by the Young Indians (Yi) Chennai Chapter in Maduravoyal, Chennai.",
         "image_search_query": "Yi Chennai Chapter"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "business",
-        "subcategory": "child safety awareness",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Maduravoyal, Chennai",
-        "tags": [
-            "child safety",
-            "awareness",
-            "ambassadors"
-        ],
-        "classification_reason": "organization focused on child safety awareness",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Young Indians (Yi) Chennai Chapter Organizes Child Safety Summit",
-        "caption": "A child safety summit organized by the Young Indians (Yi) Chennai Chapter in Maduravoyal, Chennai.",
-        "hashtags": [
-            "#childsafety",
-            "#awareness",
-            "#ambassadors"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Young Indians (Yi) Chennai Chapter Organizes Child Safety Summit",
-                "text": "A child safety summit organized by the Young Indians (Yi) Chennai Chapter in Maduravoyal, Chennai.",
-                "image_search_query": "Yi Chennai Chapter"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Event Details",
-                "text": "The event was held on Saturday, November 21, 2026, at Dayasadan Agarwal Vidyalaya, Maduravoyal.",
-                "image_search_query": "Dayasadan Agarwal Vidyalaya, Maduravoyal India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Programme",
-                "text": "A train-the-trainer programme was conducted by Muktha Foundation, Bengaluru, involving teachers from more than 15 schools in Chennai.",
-                "image_search_query": "Muktha Foundation, Bengaluru India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/cities/chennai/young-indians-hold-child-safety-summit-in-maduravoyal/article71728860.ece",
-    "published_at": "2026-11-21T19:27:31+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Event Details",
+        "text": "The event was held on Saturday, November 21, 2026, at Dayasadan Agarwal Vidyalaya, Maduravoyal.",
+        "image_search_query": "Dayasadan Agarwal Vidyalaya, Maduravoyal India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Programme",
+        "text": "A train-the-trainer programme was conducted by Muktha Foundation, Bengaluru, involving teachers from more than 15 schools in Chennai.",
+        "image_search_query": "Muktha Foundation, Bengaluru India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/chennai/young-indians-hold-child-safety-summit-in-maduravoyal/article71728860.ece",
+  "published_at": "2026-11-21T19:27:31+00:00",
+  "image_done": true
 }

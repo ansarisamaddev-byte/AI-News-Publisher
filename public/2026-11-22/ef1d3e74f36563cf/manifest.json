@@ -1,0 +1,76 @@
+{
+  "news_id": "ef1d3e74f36563cf",
+  "title": "TVK seeks help from Centre, Congress to remain in power",
+  "main_subject": {
+    "name": "TVK",
+    "type": "company",
+    "image_search_query": "TVK"
+  },
+  "category": "technology",
+  "tags": [
+    "politics",
+    "dam issue",
+    "Mekedatu",
+    "Congress",
+    "AIADMK"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/Coimbatore/tvk-is-seeking-help-of-centre-congress-to-remain-in-power-says-former-minister/article71728480.ece",
+  "published_at": "2026-11-21T19:37:49+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "TVK seeks help from Centre, Congress to remain in power",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/Coimbatore/tvk-is-seeking-help-of-centre-congress-to-remain-in-power-says-former-minister/article71728480.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "TVK"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Mekedatu Dam Issue",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/Coimbatore/tvk-is-seeking-help-of-centre-congress-to-remain-in-power-says-former-minister/article71728480.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Mekedatu dam Coimbatore India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "TVK's Political Situation",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/Coimbatore/tvk-is-seeking-help-of-centre-congress-to-remain-in-power-says-former-minister/article71728480.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "TVK political situation Coimbatore India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/Coimbatore/tvk-is-seeking-help-of-centre-congress-to-remain-in-power-says-former-minister/article71728480.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

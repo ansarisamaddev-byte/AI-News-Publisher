@@ -1,0 +1,74 @@
+{
+  "news_id": "9a9c55e499e56a3a",
+  "title": "K. Ashok Vardhan Shetty: Dissolution of Justice Kurian Panel in Tamil Nadu",
+  "main_subject": {
+    "name": "K. Ashok Vardhan Shetty",
+    "type": "person",
+    "image_search_query": "K. Ashok Vardhan Shetty"
+  },
+  "category": "business",
+  "tags": [
+    "Tamil Nadu",
+    "politics",
+    "IAS officer"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-gave-no-advance-notice-on-justice-kurian-panels-dissolution-member/article71728899.ece",
+  "published_at": "2026-11-21T19:36:40+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "K. Ashok Vardhan Shetty: Dissolution of Justice Kurian Panel in",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-gave-no-advance-notice-on-justice-kurian-panels-dissolution-member/article71728899.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "K. Ashok Vardhan Shetty"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Context",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-gave-no-advance-notice-on-justice-kurian-panels-dissolution-member/article71728899.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Justice Kurian panel dissolution India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-gave-no-advance-notice-on-justice-kurian-panels-dissolution-member/article71728899.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "K. Ashok Vardhan Shetty details India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-gave-no-advance-notice-on-justice-kurian-panels-dissolution-member/article71728899.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

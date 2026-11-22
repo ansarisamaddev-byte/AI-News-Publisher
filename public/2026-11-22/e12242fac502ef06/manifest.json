@@ -1,0 +1,74 @@
+{
+  "news_id": "e12242fac502ef06",
+  "title": "Rajmohan Unveils Logo for Chennai International Book Fair 2027",
+  "main_subject": {
+    "name": "Rajmohan",
+    "type": "person",
+    "image_search_query": "Rajmohan"
+  },
+  "category": "business",
+  "tags": [
+    "education",
+    "book fair",
+    "publishers"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/chennai-international-book-fair-2027-to-be-held-from-january-16-to-18/article71728191.ece",
+  "published_at": "2026-11-21T19:38:00+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Rajmohan Unveils Logo for Chennai International Book Fair 2027",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/pqvbhn/article71728416.ece/alternates/LANDSCAPE_1200/BVR_5210.JPG",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/chennai-international-book-fair-2027-to-be-held-from-january-16-to-18/article71728191.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Rajmohan"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Training Program Inaugurated",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/pqvbhn/article71728416.ece/alternates/LANDSCAPE_1200/BVR_5210.JPG",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/chennai-international-book-fair-2027-to-be-held-from-january-16-to-18/article71728191.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Rajmohan Literary Agents Training Program India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "International Participation",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/pqvbhn/article71728416.ece/alternates/LANDSCAPE_1200/BVR_5210.JPG",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/chennai-international-book-fair-2027-to-be-held-from-january-16-to-18/article71728191.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Rajmohan International Participation India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/pqvbhn/article71728416.ece/alternates/LANDSCAPE_1200/BVR_5210.JPG",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/chennai-international-book-fair-2027-to-be-held-from-january-16-to-18/article71728191.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}
