@@ -58,5 +58,7 @@
   "source": "Google News - Science",
   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15MVRFc1lwRmNhbHJFTm44TzN2d2NGX0E2aXMxM19icEI3NHVVUXNSOEQ4TmhDTVZUVFhMcHVlMW9Pck80TUwwZF9UQkNWWjF2N1AzYVJYR3JZSGZlamZQQm45aWNoWTlTRmprREUtLW9nbjFoSXc?oc=5",
   "published_at": "2026-11-20T22:05:00+00:00",
-  "image_done": true
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-21/c556e4e82320666c/video.mp4"
 }

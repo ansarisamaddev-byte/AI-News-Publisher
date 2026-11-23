@@ -1,0 +1,75 @@
+{
+  "news_id": "ff62a6d0a83feae4",
+  "title": "Google Rolls Out New Search Homepage with AI Chat History and No Search Button",
+  "main_subject": {
+    "name": "Google",
+    "type": "company",
+    "image_search_query": "Google"
+  },
+  "category": "technology",
+  "tags": [
+    "Google",
+    "search",
+    "AI",
+    "homepage"
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+  "published_at": "2026-11-20T21:58:29+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Google Rolls Out New Search Homepage with AI Chat History",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
+        "article_url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Google"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What Happened",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
+        "article_url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Google search homepage redesign United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why It Matters",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
+        "article_url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Google search AI tools United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
+        "article_url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}
