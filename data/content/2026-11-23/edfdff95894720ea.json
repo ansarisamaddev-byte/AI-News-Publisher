@@ -1,63 +1,64 @@
 {
-    "news_id": "edfdff95894720ea",
+  "news_id": "edfdff95894720ea",
+  "country": "TURKEY",
+  "main_subject": {
+    "name": "Murat Kurum",
+    "type": "person",
+    "image_search_query": "Murat Kurum"
+  },
+  "classification": {
     "country": "TURKEY",
-    "main_subject": {
-        "name": "Murat Kurum",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "climate change",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Antalya, Turkey",
+    "tags": [
+      "climate change",
+      "coping",
+      "united nations"
+    ],
+    "classification_reason": "The article is about the COP31 talks in Antalya, Turkey, and the main subject is the COP President Murat Kurum.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "COP31 Talks Fail as EU Rejects Fossil Fuel Phase-Out",
+    "caption": "COP31 talks in Antalya, Turkey, fail to achieve consensus on climate action, with the EU rejecting any language on a fossil fuel phase-out.",
+    "hashtags": [
+      "#COP31",
+      "#ClimateAction",
+      "#FossilFuelPhaseOut"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "COP31 Talks Fail as EU Rejects Fossil Fuel Phase-Out",
+        "text": "COP31 talks in Antalya, Turkey, fail to achieve consensus on climate action, with the EU rejecting any language on a fossil fuel phase-out.",
         "image_search_query": "Murat Kurum"
-    },
-    "classification": {
-        "country": "TURKEY",
-        "category": "technology",
-        "subcategory": "climate change",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Antalya, Turkey",
-        "tags": [
-            "climate change",
-            "coping",
-            "united nations"
-        ],
-        "classification_reason": "The article is about the COP31 talks in Antalya, Turkey, and the main subject is the COP President Murat Kurum.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "COP31 Talks Fail as EU Rejects Fossil Fuel Phase-Out",
-        "caption": "COP31 talks in Antalya, Turkey, fail to achieve consensus on climate action, with the EU rejecting any language on a fossil fuel phase-out.",
-        "hashtags": [
-            "#COP31",
-            "#ClimateAction",
-            "#FossilFuelPhaseOut"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "COP31 Talks Fail as EU Rejects Fossil Fuel Phase-Out",
-                "text": "COP31 talks in Antalya, Turkey, fail to achieve consensus on climate action, with the EU rejecting any language on a fossil fuel phase-out.",
-                "image_search_query": "Murat Kurum"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "EU Rejects Fossil Fuel Phase-Out",
-                "text": "The European Union (EU) rejects any language on a fossil fuel phase-out, leading to a failure in the COP31 talks in Antalya, Turkey.",
-                "image_search_query": "EU fossil fuel phase-out Turkey"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Impact on Climate Action",
-                "text": "The failure to include any explicit language on a fossil fuel phase-out impacts the ability to achieve a consensus on future climate action.",
-                "image_search_query": "COP31 Antalya Turkey"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/international/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
-    "published_at": "2026-11-22T19:35:46+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "EU Rejects Fossil Fuel Phase-Out",
+        "text": "The European Union (EU) rejects any language on a fossil fuel phase-out, leading to a failure in the COP31 talks in Antalya, Turkey.",
+        "image_search_query": "EU fossil fuel phase-out Turkey"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Impact on Climate Action",
+        "text": "The failure to include any explicit language on a fossil fuel phase-out impacts the ability to achieve a consensus on future climate action.",
+        "image_search_query": "COP31 Antalya Turkey"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/international/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
+  "published_at": "2026-11-22T19:35:46+00:00",
+  "image_done": true
 }

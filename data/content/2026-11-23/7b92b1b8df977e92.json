@@ -1,63 +1,64 @@
 {
-    "news_id": "7b92b1b8df977e92",
+  "news_id": "7b92b1b8df977e92",
+  "country": "US",
+  "main_subject": {
+    "name": "GTA 6",
+    "type": "product",
+    "image_search_query": "GTA 6"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "GTA 6",
-        "type": "product",
+    "category": "technology",
+    "subcategory": "video games",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "",
+    "tags": [
+      "video game",
+      "GTA",
+      "Xbox Series S"
+    ],
+    "classification_reason": "GTA 6 is the main subject of the news article.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "GTA 6 on Xbox Series S: How Well It Actually Runs",
+    "caption": "GTA 6 is a video game that has been tested on the Xbox Series S, and the results are discussed in this article.",
+    "hashtags": [
+      "#GTA6",
+      "#XboxSeriesS",
+      "#GTA"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "GTA 6 on Xbox Series S: How Well It Actually",
+        "text": "GTA 6 is a video game that has been tested on the Xbox Series S, and the results are discussed in this article.",
         "image_search_query": "GTA 6"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "video games",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "",
-        "tags": [
-            "video game",
-            "GTA",
-            "Xbox Series S"
-        ],
-        "classification_reason": "GTA 6 is the main subject of the news article.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "GTA 6 on Xbox Series S: How Well It Actually Runs",
-        "caption": "GTA 6 is a video game that has been tested on the Xbox Series S, and the results are discussed in this article.",
-        "hashtags": [
-            "#GTA6",
-            "#XboxSeriesS",
-            "#GTA"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "GTA 6 on Xbox Series S: How Well It Actually",
-                "text": "GTA 6 is a video game that has been tested on the Xbox Series S, and the results are discussed in this article.",
-                "image_search_query": "GTA 6"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Test Results",
-                "text": "The Xbox Series S was used to test the performance of GTA 6.",
-                "image_search_query": "GTA 6 performance test United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Performance",
-                "text": "The results show that GTA 6 runs smoothly on the Xbox Series S.",
-                "image_search_query": "GTA 6 performance details United States"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Technology",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5weWZnSU1NaXVSOFhMNEtzUFJrTFgtZzVqX2psczFBY1pxcTRGekhqVWdsRDJUQjJMbGJtR1Frc01qT19zREZRQzNlWU5sYXdhc0dSazJRaGNtM3QweXREbndPV2xHUDRSbzFpY1dycDl6UUtwcG1PcDlPc3E?oc=5",
-    "published_at": "2026-11-22T19:50:07+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Test Results",
+        "text": "The Xbox Series S was used to test the performance of GTA 6.",
+        "image_search_query": "GTA 6 performance test United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Performance",
+        "text": "The results show that GTA 6 runs smoothly on the Xbox Series S.",
+        "image_search_query": "GTA 6 performance details United States"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Technology",
+  "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5weWZnSU1NaXVSOFhMNEtzUFJrTFgtZzVqX2psczFBY1pxcTRGekhqVWdsRDJUQjJMbGJtR1Frc01qT19zREZRQzNlWU5sYXdhc0dSazJRaGNtM3QweXREbndPV2xHUDRSbzFpY1dycDl6UUtwcG1PcDlPc3E?oc=5",
+  "published_at": "2026-11-22T19:50:07+00:00",
+  "image_done": true
 }

@@ -1,67 +1,68 @@
 {
-    "news_id": "b2a536695a4097ee",
+  "news_id": "b2a536695a4097ee",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "India",
+    "type": "other",
+    "image_search_query": "India"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "India",
-        "type": "other",
+    "category": "business",
+    "subcategory": "oil and gas",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "India",
+    "tags": [
+      "oil",
+      "gas",
+      "inflation",
+      "underperformance",
+      "government spending"
+    ],
+    "classification_reason": "The article focuses on the Indian economy, particularly the oil and gas sectors, and their impact on inflation and government spending.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "India’s Oil and Gas Sectors Underperforming",
+    "caption": "India’s oil and gas sectors are underperforming, contributing to high inflation and dependence on imported fuel.",
+    "hashtags": [
+      "#India",
+      "#Oil",
+      "#Gas",
+      "#Inflation",
+      "#GovernmentSpending"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "India’s Oil and Gas Sectors Underperforming",
+        "text": "India’s oil and gas sectors are underperforming, contributing to high inflation and dependence on imported fuel.",
         "image_search_query": "India"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "business",
-        "subcategory": "oil and gas",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "India",
-        "tags": [
-            "oil",
-            "gas",
-            "inflation",
-            "underperformance",
-            "government spending"
-        ],
-        "classification_reason": "The article focuses on the Indian economy, particularly the oil and gas sectors, and their impact on inflation and government spending.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "India’s Oil and Gas Sectors Underperforming",
-        "caption": "India’s oil and gas sectors are underperforming, contributing to high inflation and dependence on imported fuel.",
-        "hashtags": [
-            "#India",
-            "#Oil",
-            "#Gas",
-            "#Inflation",
-            "#GovernmentSpending"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "India’s Oil and Gas Sectors Underperforming",
-                "text": "India’s oil and gas sectors are underperforming, contributing to high inflation and dependence on imported fuel.",
-                "image_search_query": "India"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "The Low Base Effect",
-                "text": "The low base effect in the oil and gas sectors is due to the festive season starting at different points every year.",
-                "image_search_query": "India oil and gas sectors low base effect"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "The Oil and Gas Sectors’ Performance",
-                "text": "The crude oil sector contracted by 4.1%, and the natural gas sector contracted by 7.6%.",
-                "image_search_query": "India oil and gas sectors performance"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/opinion/editorial/core-accountability/article71731259.ece",
-    "published_at": "2026-11-22T19:39:58+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "The Low Base Effect",
+        "text": "The low base effect in the oil and gas sectors is due to the festive season starting at different points every year.",
+        "image_search_query": "India oil and gas sectors low base effect"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "The Oil and Gas Sectors’ Performance",
+        "text": "The crude oil sector contracted by 4.1%, and the natural gas sector contracted by 7.6%.",
+        "image_search_query": "India oil and gas sectors performance"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/opinion/editorial/core-accountability/article71731259.ece",
+  "published_at": "2026-11-22T19:39:58+00:00",
+  "image_done": true
 }

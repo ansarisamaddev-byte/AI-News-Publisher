@@ -1,62 +1,63 @@
 {
-    "news_id": "c13a81afa064072f",
+  "news_id": "c13a81afa064072f",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Maharashtra SP leader",
+    "type": "person",
+    "image_search_query": "Maharashtra SP leader"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Maharashtra SP leader",
-        "type": "person",
+    "category": "politics",
+    "subcategory": "politics",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Maharashtra, India",
+    "tags": [
+      "politics",
+      "sp leader"
+    ],
+    "classification_reason": "The article is about a Maharashtra SP leader's reaction to an assault case.",
+    "selected_channels": [
+      "politics-news"
+    ]
+  },
+  "content": {
+    "title": "Maharashtra SP Leader Calls for Age Change in Juvenile Law",
+    "caption": "A Maharashtra SP leader urges to lower the juvenile age threshold to 15 and emphasizes the need for stricter action against such incidents.",
+    "hashtags": [
+      "#SPLeader",
+      "#JuvenileLaw",
+      "#AgeChange"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Maharashtra SP Leader Calls for Age Change in Juvenile Law",
+        "text": "A Maharashtra SP leader urges to lower the juvenile age threshold to 15 and emphasizes the need for stricter action against such incidents.",
         "image_search_query": "Maharashtra SP leader"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "politics",
-        "subcategory": "politics",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Maharashtra, India",
-        "tags": [
-            "politics",
-            "sp leader"
-        ],
-        "classification_reason": "The article is about a Maharashtra SP leader's reaction to an assault case.",
-        "selected_channels": [
-            "politics-news"
-        ]
-    },
-    "content": {
-        "title": "Maharashtra SP Leader Calls for Age Change in Juvenile Law",
-        "caption": "A Maharashtra SP leader urges to lower the juvenile age threshold to 15 and emphasizes the need for stricter action against such incidents.",
-        "hashtags": [
-            "#SPLeader",
-            "#JuvenileLaw",
-            "#AgeChange"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Maharashtra SP Leader Calls for Age Change in Juvenile Law",
-                "text": "A Maharashtra SP leader urges to lower the juvenile age threshold to 15 and emphasizes the need for stricter action against such incidents.",
-                "image_search_query": "Maharashtra SP leader"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Incident Details",
-                "text": "A couple was assaulted at a garden in Kurla by a group of minors.",
-                "image_search_query": "assault incident details India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Political Reaction",
-                "text": "Various political parties condemned the assault and called for stricter action.",
-                "image_search_query": "political reaction to assault India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/maharashtra/six-sent-to-juvenile-home-after-mumbai-assault-maharashtra-sp-leader-seeks-age-change/article71730888.ece",
-    "published_at": "2026-11-22T19:34:02+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Incident Details",
+        "text": "A couple was assaulted at a garden in Kurla by a group of minors.",
+        "image_search_query": "assault incident details India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Political Reaction",
+        "text": "Various political parties condemned the assault and called for stricter action.",
+        "image_search_query": "political reaction to assault India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/maharashtra/six-sent-to-juvenile-home-after-mumbai-assault-maharashtra-sp-leader-seeks-age-change/article71730888.ece",
+  "published_at": "2026-11-22T19:34:02+00:00",
+  "image_done": true
 }

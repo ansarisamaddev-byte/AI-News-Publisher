@@ -1,61 +1,62 @@
 {
-    "news_id": "88cebbfa4953f39b",
+  "news_id": "88cebbfa4953f39b",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Kaiga nuclear unit-1",
+    "type": "place",
+    "image_search_query": "Kaiga nuclear unit-1"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Kaiga nuclear unit-1",
-        "type": "place",
+    "category": "technology",
+    "subcategory": "nuclear",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Kaiga, Karnataka",
+    "tags": [
+      "nuclear power"
+    ],
+    "classification_reason": "The article is about a nuclear power plant in Kaiga, Karnataka, India.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Kaiga nuclear unit-1 attains criticality again, gets a second life",
+    "caption": "India's Kaiga nuclear power plant reaches criticality for the second time, marking a significant milestone in its operational history.",
+    "hashtags": [
+      "#KaigaNuclear",
+      "#Criticality",
+      "#SecondLife"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Kaiga nuclear unit-1 attains criticality again, gets a second life",
+        "text": "India's Kaiga nuclear power plant reaches criticality for the second time, marking a significant milestone in its operational history.",
         "image_search_query": "Kaiga nuclear unit-1"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "technology",
-        "subcategory": "nuclear",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Kaiga, Karnataka",
-        "tags": [
-            "nuclear power"
-        ],
-        "classification_reason": "The article is about a nuclear power plant in Kaiga, Karnataka, India.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Kaiga nuclear unit-1 attains criticality again, gets a second life",
-        "caption": "India's Kaiga nuclear power plant reaches criticality for the second time, marking a significant milestone in its operational history.",
-        "hashtags": [
-            "#KaigaNuclear",
-            "#Criticality",
-            "#SecondLife"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Kaiga nuclear unit-1 attains criticality again, gets a second life",
-                "text": "India's Kaiga nuclear power plant reaches criticality for the second time, marking a significant milestone in its operational history.",
-                "image_search_query": "Kaiga nuclear unit-1"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Reaching Criticality",
-                "text": "Kaiga nuclear unit-1, located in Kaiga, Karnataka, India, has achieved criticality for the second time.",
-                "image_search_query": "Kaiga nuclear unit-1 in Kaiga, Karnataka, India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Significant Milestone",
-                "text": "This achievement marks a significant milestone in the operational history of Kaiga nuclear power plant.",
-                "image_search_query": "Kaiga nuclear power plant in Kaiga, Karnataka, India"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Business",
-    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUS1jYVZENF9NcklhUm94RWs1cGF0YlM0MnJLRUUtNmZIRmVLMXpTd0FHZHZnb09YVXVjVEZQajNNSFpJTS1hYmdYcDN1WnBaemNPd1JfSWJHa3NwMDJ6MDBmX0ZMcm9HOUNjbVZYSkVtVTdKZE5mNE9ycnhWYjBwMHlFUEdDWGVVbnFuMUlFdmJSeUwzelVnWjV3emZmSG1zcHBsTjVjdnBadjBDaVZSV2xObkFoRXRfQ3VBRk9NdjlrMnY4ZUFCN0E5cTZuZw?oc=5",
-    "published_at": "2026-11-22T19:45:00+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Reaching Criticality",
+        "text": "Kaiga nuclear unit-1, located in Kaiga, Karnataka, India, has achieved criticality for the second time.",
+        "image_search_query": "Kaiga nuclear unit-1 in Kaiga, Karnataka, India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Significant Milestone",
+        "text": "This achievement marks a significant milestone in the operational history of Kaiga nuclear power plant.",
+        "image_search_query": "Kaiga nuclear power plant in Kaiga, Karnataka, India"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Business",
+  "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUS1jYVZENF9NcklhUm94RWs1cGF0YlM0MnJLRUUtNmZIRmVLMXpTd0FHZHZnb09YVXVjVEZQajNNSFpJTS1hYmdYcDN1WnBaemNPd1JfSWJHa3NwMDJ6MDBmX0ZMcm9HOUNjbVZYSkVtVTdKZE5mNE9ycnhWYjBwMHlFUEdDWGVVbnFuMUlFdmJSeUwzelVnWjV3emZmSG1zcHBsTjVjdnBadjBDaVZSV2xObkFoRXRfQ3VBRk9NdjlrMnY4ZUFCN0E5cTZuZw?oc=5",
+  "published_at": "2026-11-22T19:45:00+00:00",
+  "image_done": true
 }

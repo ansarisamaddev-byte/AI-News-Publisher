@@ -1,0 +1,74 @@
+{
+  "news_id": "e23b4b6e87d4d4ae",
+  "title": "Stray Cow Kicks Down 83-Year-Old in Tambaram",
+  "main_subject": {
+    "name": "Loganathan",
+    "type": "person",
+    "image_search_query": "Loganathan"
+  },
+  "category": "business",
+  "tags": [
+    "personal injury",
+    "accident",
+    "viral incident"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/chennai/stray-cattle-knocks-down-senior-citizen-near-tambaram/article71731366.ece",
+  "published_at": "2026-11-22T19:39:13+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Stray Cow Kicks Down 83-Year-Old in Tambaram",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/stray-cattle-knocks-down-senior-citizen-near-tambaram/article71731366.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Loganathan"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Incident Details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/stray-cattle-knocks-down-senior-citizen-near-tambaram/article71731366.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "stray cow Tambaram incident India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/stray-cattle-knocks-down-senior-citizen-near-tambaram/article71731366.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "stray cow Tambaram impact India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+        "article_url": "https://www.thehindu.com/news/cities/chennai/stray-cattle-knocks-down-senior-citizen-near-tambaram/article71731366.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}
