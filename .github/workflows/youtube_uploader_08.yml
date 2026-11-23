@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "14 6 * * *"
 
+  workflow_dispatch:
+
 permissions:
   contents: write
 concurrency:
