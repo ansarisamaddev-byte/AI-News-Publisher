@@ -1,0 +1,15 @@
+name: Upload YouTube Videos (01:00 IST)
+
+on:
+  schedule:
+    - cron: "30 19 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  call-uploader:
+    uses: ./.github/workflows/youtube_uploader.yml
+    with:
+      dry_run: false
+    secrets: inherit
