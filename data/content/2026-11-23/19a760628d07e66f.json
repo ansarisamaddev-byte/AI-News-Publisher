@@ -1,0 +1,61 @@
+{
+    "news_id": "19a760628d07e66f",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Takshashila University",
+        "type": "organization",
+        "image_search_query": "Takshashila University"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "education",
+        "subcategory": "university",
+        "importance_score": 1,
+        "relevance_score": 1,
+        "region": "Tamil Nadu",
+        "tags": [
+            "education",
+            "university"
+        ],
+        "classification_reason": "The article is about a university and its convocation event.",
+        "selected_channels": [
+            "education-news"
+        ]
+    },
+    "content": {
+        "title": "Takshashila University Confers Honorary Doctorates",
+        "caption": "Takshashila University awards honorary doctorates to authors and singers.",
+        "hashtags": [
+            "#TakshashilaUniversity",
+            "#HonoraryDoctorates"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Takshashila University Confers Honorary Doctorates",
+                "text": "Takshashila University awards honorary doctorates to authors and singers.",
+                "image_search_query": "Takshashila University"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Event Details",
+                "text": "Takshashila University held its second convocation at Ongur in Tindivanam.",
+                "image_search_query": "Takshashila University convocation India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Awarded Honorary Doctorates",
+                "text": "Takshashila University conferred honorary doctorates on Tamil author S. Ramakrishnan and playback singer K.S. Chithra.",
+                "image_search_query": "Takshashila University honorary doctorates India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/tamil-nadu/takshashila-university-confers-honorary-doctorates-on-author-s-ramakrishnan-and-playback-singer-ks-chithra/article71731261.ece",
+    "published_at": "2026-11-22T19:41:33+00:00"
+}

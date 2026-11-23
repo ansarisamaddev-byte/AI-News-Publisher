@@ -1,0 +1,62 @@
+{
+    "news_id": "55669b50128c7027",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Aakasamlo Oka Tara",
+        "type": "product",
+        "image_search_query": "Aakasamlo Oka Tara"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "entertainment",
+        "subcategory": "film",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Telugu",
+        "tags": [
+            "Aakasamlo Oka Tara",
+            "Telugu film",
+            "Dulquer Salmaan"
+        ],
+        "classification_reason": "The article is about a Telugu film directed by Arun Gopy, starring Dulquer Salmaan, and its box office performance.",
+        "selected_channels": [
+            "entertainment-news"
+        ]
+    },
+    "content": {
+        "title": "Aakasamlo Oka Tara Struggles To Take Off at the Box Office",
+        "caption": "Aakasamlo Oka Tara, a Telugu film starring Dulquer Salmaan, has struggled to gain traction in the box office.",
+        "hashtags": [
+            "#AakasamloOkaTara",
+            "#DulquerSalmaan"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Aakasamlo Oka Tara Struggles To Take Off at the Box",
+                "text": "Aakasamlo Oka Tara, a Telugu film starring Dulquer Salmaan, has struggled to gain traction in the box office.",
+                "image_search_query": "Aakasamlo Oka Tara"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Aakasamlo Oka Tara",
+                "text": "Aakasamlo Oka Tara is a Telugu film directed by Arun Gopy, starring Dulquer Salmaan.",
+                "image_search_query": "Aakasamlo Oka Tara Telugu film India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Box Office Performance",
+                "text": "The film has struggled to gain traction in the box office, with strong growth on Day 2 but nearly matching 'Sita Ramam' opening.",
+                "image_search_query": "Aakasamlo Oka Tara box office growth India"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Entertainment",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSW5XYWRBUjBnbU5HYjFzMHpTcUZXb0R5MnNtWTg4cHhIRVI4QjgtLWVkeXVUeFk3b0FrTE85eGlGNWdDc21DMWRwaWdjX21yb3NxYXBqUGNHYXROaklvaG0xa3k1TGs1UldxZmZyZGdCVEl5Z0NQcXZpSG9ZWjFibUFXSEFuemZmdFd5N3h3?oc=5",
+    "published_at": "2026-11-22T20:05:53+00:00"
+}
