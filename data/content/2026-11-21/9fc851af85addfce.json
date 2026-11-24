@@ -62,5 +62,9 @@
   "published_at": "2026-11-20T20:36:54+00:00",
   "image_done": true,
   "video_done": true,
-  "video_path": "2026-11-21/9fc851af85addfce/video.mp4"
+  "video_path": "2026-11-21/9fc851af85addfce/video.mp4",
+  "youtube_done": true,
+  "youtube_video_id": "H8X0Ni6zdZc",
+  "youtube_url": "https://www.youtube.com/watch?v=H8X0Ni6zdZc",
+  "youtube_uploaded_at": "2026-11-24T02:54:34.462148+00:00"
 }
