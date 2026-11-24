@@ -1,0 +1,63 @@
+{
+    "news_id": "29645fac81099260",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Guru Nanak Jayanti",
+        "type": "event",
+        "image_search_query": "Guru Nanak Jayanti"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "business",
+        "subcategory": "stock markets",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "India",
+        "tags": [
+            "Guru Nanak Jayanti",
+            "stock markets",
+            "India"
+        ],
+        "classification_reason": "The article is about a holiday affecting stock markets in India.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Guru Nanak Jayanti: Stock Markets Shut for NSE, BSE",
+        "caption": "Guru Nanak Jayanti, a significant religious holiday in India, has affected stock markets across the country.",
+        "hashtags": [
+            "#GuruNanakJayanti",
+            "#StockMarkets",
+            "#India"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Guru Nanak Jayanti: Stock Markets Shut for NSE, BSE",
+                "text": "Guru Nanak Jayanti, a significant religious holiday in India, has affected stock markets across the country.",
+                "image_search_query": "Guru Nanak Jayanti"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Impact on Stock Markets",
+                "text": "Stock markets across India will be closed on Guru Nanak Jayanti.",
+                "image_search_query": "stock markets closed India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why Stock Markets are Closed",
+                "text": "Guru Nanak Jayanti is a significant religious holiday that affects stock markets.",
+                "image_search_query": "religious holiday impact India"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "NDTV",
+    "source_url": "https://www.ndtv.com/business-news/stock-market-holiday-november-24-nse-nifty-bse-sensex-shut-for-guru-nanak-jayanti-are-banks-closed-12368491#publisher=newsstand",
+    "published_at": "2026-11-24T01:19:14+00:00"
+}

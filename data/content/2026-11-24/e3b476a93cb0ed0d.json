@@ -1,0 +1,62 @@
+{
+    "news_id": "e3b476a93cb0ed0d",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Nature Asia",
+        "type": "company",
+        "image_search_query": "Nature Asia"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "science",
+        "subcategory": "biotechnology",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "India",
+        "tags": [
+            "biotechnology",
+            "plant-based drugs"
+        ],
+        "classification_reason": "Nature Asia is the publisher of the article, focusing on biotechnology and plant-based drug production.",
+        "selected_channels": [
+            "science-news"
+        ]
+    },
+    "content": {
+        "title": "Nature Asia Publishes Study on Plant-Based Drug Production",
+        "caption": "Nature Asia, a leading scientific publisher, has published a groundbreaking study on the use of plants to produce anticancer drugs.",
+        "hashtags": [
+            "#NatureAsia",
+            "#PlantBasedDrugs",
+            "#Biotechnology"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Nature Asia Publishes Study on Plant-Based Drug Production",
+                "text": "Nature Asia, a leading scientific publisher, has published a groundbreaking study on the use of plants to produce anticancer drugs.",
+                "image_search_query": "Nature Asia"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Study Overview",
+                "text": "The study explores the potential of tobacco plants to produce paclitaxel, a critical anticancer drug.",
+                "image_search_query": "tobacco plants, paclitaxel, anticancer drug India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Biological Process",
+                "text": "Researchers have mapped the full biosynthetic pathway of Taxol, revealing the complex chemical processes involved.",
+                "image_search_query": "Taxol biosynthesis, Taxol pathway India"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Science",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MQlZqeXBXOWIzRDI5cFdnWXVHcm82VkdvaG15dFFtUzRjSXhSR2V5bHZQLVpkWnBURmx5TTYtNjVydFZ1WTdJU2I0dHd6QmQzU3lCaW1zQThUaFRVNjR3Q3hYQkRLZ1Z6SmxUYkRR?oc=5",
+    "published_at": "2026-11-24T01:06:17+00:00"
+}

@@ -1,0 +1,62 @@
+{
+    "news_id": "f8e298cdc3baa074",
+    "country": "US",
+    "main_subject": {
+        "name": "Jensen Huang",
+        "type": "person",
+        "image_search_query": "Jensen Huang"
+    },
+    "classification": {
+        "country": "US",
+        "category": "business",
+        "subcategory": "technology",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "California",
+        "tags": [
+            "CEO",
+            "Nvidia",
+            "Jensen Huang"
+        ],
+        "classification_reason": "The article is primarily about Jensen Huang's return to Nvidia as CEO and the reactions of employees.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Jensen Huang Returns to Nvidia as CEO",
+        "caption": "Jensen Huang, the former CEO of Nvidia, returns to the company as its new CEO.",
+        "hashtags": [
+            "#JensenHuang",
+            "#NvidiaCEO"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Jensen Huang Returns to Nvidia as CEO",
+                "text": "Jensen Huang, the former CEO of Nvidia, returns to the company as its new CEO.",
+                "image_search_query": "Jensen Huang"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Reactions of Employees",
+                "text": "Employees at Nvidia reacted differently to Jensen Huang's return as CEO.",
+                "image_search_query": "employees at Nvidia United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact on Nvidia",
+                "text": "The return of Jensen Huang has significant implications for Nvidia.",
+                "image_search_query": "impact on Nvidia United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+    "published_at": "2026-11-24T01:35:38+00:00"
+}
