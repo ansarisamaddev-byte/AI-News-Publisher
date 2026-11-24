@@ -60,5 +60,7 @@
   "source": "BBC News",
   "source_url": "https://www.bbc.co.uk/news/articles/cvze71y6g85yo?at_medium=RSS&at_campaign=rss",
   "published_at": "2026-11-21T19:51:08+00:00",
-  "image_done": true
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-22/19dc9e83067d7012/video.mp4"
 }
