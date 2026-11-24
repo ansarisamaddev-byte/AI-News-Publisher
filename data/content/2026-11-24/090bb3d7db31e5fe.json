@@ -1,68 +1,71 @@
 {
-    "news_id": "090bb3d7db31e5fe",
+  "news_id": "090bb3d7db31e5fe",
+  "country": "UK",
+  "main_subject": {
+    "name": "Nvidia",
+    "type": "company",
+    "image_search_query": "Nvidia"
+  },
+  "classification": {
     "country": "UK",
-    "main_subject": {
-        "name": "Nvidia",
-        "type": "company",
+    "category": "technology",
+    "subcategory": "technology",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "UK",
+    "tags": [
+      "Nvidia",
+      "Jensen Huang",
+      "Nvidia CEO",
+      "Nvidia Board",
+      "Nvidia Market Value",
+      "Russian GPS Jamming"
+    ],
+    "classification_reason": "The article is primarily about Nvidia, its CEO Jensen Huang, and the company's market value, with a focus on the UK context.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Nvidia's Jensen Huang Returns to Hot Seat, Market Value Soars",
+    "caption": "Nvidia's chief executive Jensen Huang returns to the company's leadership, boosting its market value.",
+    "hashtags": [
+      "#Nvidia",
+      "#JensenHuang",
+      "#NvidiaCEO",
+      "#NvidiaMarketValue",
+      "#RussianGPSJamming"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Nvidia's Jensen Huang Returns to Hot Seat, Market Value Soars",
+        "text": "Nvidia's chief executive Jensen Huang returns to the company's leadership, boosting its market value.",
         "image_search_query": "Nvidia"
-    },
-    "classification": {
-        "country": "UK",
-        "category": "technology",
-        "subcategory": "technology",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "UK",
-        "tags": [
-            "Nvidia",
-            "Jensen Huang",
-            "Nvidia CEO",
-            "Nvidia Board",
-            "Nvidia Market Value",
-            "Russian GPS Jamming"
-        ],
-        "classification_reason": "The article is primarily about Nvidia, its CEO Jensen Huang, and the company's market value, with a focus on the UK context.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Nvidia's Jensen Huang Returns to Hot Seat, Market Value Soars",
-        "caption": "Nvidia's chief executive Jensen Huang returns to the company's leadership, boosting its market value.",
-        "hashtags": [
-            "#Nvidia",
-            "#JensenHuang",
-            "#NvidiaCEO",
-            "#NvidiaMarketValue",
-            "#RussianGPSJamming"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Nvidia's Jensen Huang Returns to Hot Seat, Market Value Soars",
-                "text": "Nvidia's chief executive Jensen Huang returns to the company's leadership, boosting its market value.",
-                "image_search_query": "Nvidia"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Market Value Soars",
-                "text": "Nvidia's market value soars as Jensen Huang returns to the company's leadership.",
-                "image_search_query": "Nvidia Market Value United Kingdom"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Jensen Huang's Return",
-                "text": "Jensen Huang's return to the company's leadership is a major focus, boosting its market value.",
-                "image_search_query": "Jensen Huang Return United Kingdom"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/articles/c69vwg0kxvy9o?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-24T01:08:32+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Market Value Soars",
+        "text": "Nvidia's market value soars as Jensen Huang returns to the company's leadership.",
+        "image_search_query": "Nvidia Market Value United Kingdom"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Jensen Huang's Return",
+        "text": "Jensen Huang's return to the company's leadership is a major focus, boosting its market value.",
+        "image_search_query": "Jensen Huang Return United Kingdom"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/c69vwg0kxvy9o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-24T01:08:32+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-24/090bb3d7db31e5fe/video.mp4"
 }

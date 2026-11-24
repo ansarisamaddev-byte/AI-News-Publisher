@@ -1,0 +1,74 @@
+{
+  "news_id": "f8e298cdc3baa074",
+  "title": "Jensen Huang Returns to Nvidia as CEO",
+  "main_subject": {
+    "name": "Jensen Huang",
+    "type": "person",
+    "image_search_query": "Jensen Huang"
+  },
+  "category": "business",
+  "tags": [
+    "CEO",
+    "Nvidia",
+    "Jensen Huang"
+  ],
+  "source": "Wired",
+  "source_url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+  "published_at": "2026-11-24T01:35:38+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Jensen Huang Returns to Nvidia as CEO",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6b0489fe20864bfc4bb456b5/191:100/w_1280,c_limit/Jensen-Huang-Tells-Nvidia-Employees-Business-2300373740.jpg",
+        "article_url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Jensen Huang"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Reactions of Employees",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6b0489fe20864bfc4bb456b5/191:100/w_1280,c_limit/Jensen-Huang-Tells-Nvidia-Employees-Business-2300373740.jpg",
+        "article_url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "employees at Nvidia United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact on Nvidia",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6b0489fe20864bfc4bb456b5/191:100/w_1280,c_limit/Jensen-Huang-Tells-Nvidia-Employees-Business-2300373740.jpg",
+        "article_url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "impact on Nvidia United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6b0489fe20864bfc4bb456b5/191:100/w_1280,c_limit/Jensen-Huang-Tells-Nvidia-Employees-Business-2300373740.jpg",
+        "article_url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

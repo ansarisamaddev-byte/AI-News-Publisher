@@ -1,62 +1,65 @@
 {
-    "news_id": "a2f312f659ba0f85",
+  "news_id": "a2f312f659ba0f85",
+  "country": "CHINA",
+  "main_subject": {
+    "name": "Zhu Yangzhu",
+    "type": "person",
+    "image_search_query": "Zhu Yangzhu"
+  },
+  "classification": {
     "country": "CHINA",
-    "main_subject": {
-        "name": "Zhu Yangzhu",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "astronaut",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "China",
+    "tags": [
+      "astronaut",
+      "China"
+    ],
+    "classification_reason": "Zhu Yangzhu is the main subject of the article.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Zhu Yangzhu to Carry Out Year-Long In-Orbit Stay Experiment",
+    "caption": "Chinese astronaut Zhu Yangzhu will conduct a year-long mission in space.",
+    "hashtags": [
+      "#astronaut",
+      "#space",
+      "#China"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Zhu Yangzhu to Carry Out Year-Long In-Orbit Stay Experiment",
+        "text": "Chinese astronaut Zhu Yangzhu will conduct a year-long mission in space.",
         "image_search_query": "Zhu Yangzhu"
-    },
-    "classification": {
-        "country": "CHINA",
-        "category": "technology",
-        "subcategory": "astronaut",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "China",
-        "tags": [
-            "astronaut",
-            "China"
-        ],
-        "classification_reason": "Zhu Yangzhu is the main subject of the article.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Zhu Yangzhu to Carry Out Year-Long In-Orbit Stay Experiment",
-        "caption": "Chinese astronaut Zhu Yangzhu will conduct a year-long mission in space.",
-        "hashtags": [
-            "#astronaut",
-            "#space",
-            "#China"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Zhu Yangzhu to Carry Out Year-Long In-Orbit Stay Experiment",
-                "text": "Chinese astronaut Zhu Yangzhu will conduct a year-long mission in space.",
-                "image_search_query": "Zhu Yangzhu"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "What Happened",
-                "text": "Zhu Yangzhu, a Chinese astronaut, will be the first to conduct a year-long mission in space.",
-                "image_search_query": "astronaut conducting mission China"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Why It Matters",
-                "text": "This mission will provide valuable data on the effects of long-term space travel on the human body.",
-                "image_search_query": "astronaut conducting mission in space China"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Science",
-    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoNWhPbDRGU2NvNE16b3I2RFZMYVRKMlh0ZVJSbXRwNlc5OVRfdlEtdmdQVk1VNHJhV2xBazZVaFVIVUVac1UtZ0lZejNMTU9SdXltcVlxX1RQYlVIWHJsNWVB?oc=5",
-    "published_at": "2026-11-24T01:27:00+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "What Happened",
+        "text": "Zhu Yangzhu, a Chinese astronaut, will be the first to conduct a year-long mission in space.",
+        "image_search_query": "astronaut conducting mission China"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Why It Matters",
+        "text": "This mission will provide valuable data on the effects of long-term space travel on the human body.",
+        "image_search_query": "astronaut conducting mission in space China"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoNWhPbDRGU2NvNE16b3I2RFZMYVRKMlh0ZVJSbXRwNlc5OVRfdlEtdmdQVk1VNHJhV2xBazZVaFVIVUVac1UtZ0lZejNMTU9SdXltcVlxX1RQYlVIWHJsNWVB?oc=5",
+  "published_at": "2026-11-24T01:27:00+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-24/a2f312f659ba0f85/video.mp4"
 }

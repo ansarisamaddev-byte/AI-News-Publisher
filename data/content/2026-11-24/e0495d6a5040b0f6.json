@@ -1,61 +1,64 @@
 {
-    "news_id": "e0495d6a5040b0f6",
+  "news_id": "e0495d6a5040b0f6",
+  "country": "US",
+  "main_subject": {
+    "name": "Jensen Huang",
+    "type": "person",
+    "image_search_query": "Jensen Huang"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Jensen Huang",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "CEO",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "CEO",
+      "Nvidia"
+    ],
+    "classification_reason": "Jensen Huang is the central figure in the news about Nvidia's CEO change.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Jensen Huang Returns as CEO of Nvidia",
+    "caption": "Jensen Huang, the CEO of Nvidia, returns to the company's headquarters after being reinstated by the board.",
+    "hashtags": [
+      "#JensenHuang",
+      "#NvidiaCEO"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Jensen Huang Returns as CEO of Nvidia",
+        "text": "Jensen Huang, the CEO of Nvidia, returns to the company's headquarters after being reinstated by the board.",
         "image_search_query": "Jensen Huang"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "CEO",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "CEO",
-            "Nvidia"
-        ],
-        "classification_reason": "Jensen Huang is the central figure in the news about Nvidia's CEO change.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Jensen Huang Returns as CEO of Nvidia",
-        "caption": "Jensen Huang, the CEO of Nvidia, returns to the company's headquarters after being reinstated by the board.",
-        "hashtags": [
-            "#JensenHuang",
-            "#NvidiaCEO"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Jensen Huang Returns as CEO of Nvidia",
-                "text": "Jensen Huang, the CEO of Nvidia, returns to the company's headquarters after being reinstated by the board.",
-                "image_search_query": "Jensen Huang"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Reinstatement of Jensen Huang",
-                "text": "Jensen Huang, the CEO of Nvidia, was reinstated by the board after being removed from the position.",
-                "image_search_query": "Jensen Huang Nvidia board United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Impact of Jensen Huang's Return",
-                "text": "The reinstatement of Jensen Huang has sparked a mix of cheers and applause at Nvidia's headquarters.",
-                "image_search_query": "Jensen Huang Nvidia reaction United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-24T01:21:41+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Reinstatement of Jensen Huang",
+        "text": "Jensen Huang, the CEO of Nvidia, was reinstated by the board after being removed from the position.",
+        "image_search_query": "Jensen Huang Nvidia board United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Impact of Jensen Huang's Return",
+        "text": "The reinstatement of Jensen Huang has sparked a mix of cheers and applause at Nvidia's headquarters.",
+        "image_search_query": "Jensen Huang Nvidia reaction United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-24T01:21:41+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-24/e0495d6a5040b0f6/video.mp4"
 }

@@ -1,0 +1,74 @@
+{
+  "news_id": "99763a98a405eb6f",
+  "title": "Diljit Dosanjh Arrested for Stealing Phones at Concert",
+  "main_subject": {
+    "name": "Diljit Dosanjh",
+    "type": "person",
+    "image_search_query": "Diljit Dosanjh"
+  },
+  "category": "business",
+  "tags": [
+    "technology",
+    "business",
+    "sports"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/delhi-gangs-rs-20-000-ahmedabad-trip-gold-passes-diljit-dosanjhs-concert-to-steal-phones-12368540#publisher=newsstand",
+  "published_at": "2026-11-24T01:54:40+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Diljit Dosanjh Arrested for Stealing Phones at Concert",
+      "image": {
+        "provider": "generated",
+        "query": "Diljit Dosanjh",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Incident Details",
+      "image": {
+        "provider": "generated",
+        "query": "Diljit Dosanjh concert India",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact",
+      "image": {
+        "provider": "generated",
+        "query": "Diljit Dosanjh phones India",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "business finance corporate office",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}
