@@ -1,0 +1,74 @@
+{
+  "news_id": "b5b11d97b7a49329",
+  "title": "Anant Singh's Grand Wedding Preparations in Bihar",
+  "main_subject": {
+    "name": "Anant Singh",
+    "type": "person",
+    "image_search_query": "Anant Singh"
+  },
+  "category": "business",
+  "tags": [
+    "wedding preparations",
+    "Anant Singh",
+    "Nadawan village"
+  ],
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/helipad-royal-horse-race-stage-set-for-anant-singh-s-daughter-s-wedding-in-mokama-101795488090339.html",
+  "published_at": "2026-11-24T02:42:00+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Anant Singh's Grand Wedding Preparations in Bihar",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/ddd_1795489692282_gRp9_1795489692558_rdzL_bdd70529-d843-4c24-af01-7f412ca2a3c1_wXab.jpg",
+        "article_url": "https://www.hindustantimes.com/india-news/helipad-royal-horse-race-stage-set-for-anant-singh-s-daughter-s-wedding-in-mokama-101795488090339.html",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Anant Singh"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Preparations for the Wedding",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/ddd_1795489692282_gRp9_1795489692558_rdzL_bdd70529-d843-4c24-af01-7f412ca2a3c1_wXab.jpg",
+        "article_url": "https://www.hindustantimes.com/india-news/helipad-royal-horse-race-stage-set-for-anant-singh-s-daughter-s-wedding-in-mokama-101795488090339.html",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Anant Singh Nadawan village wedding preparations India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Helipad and Horse Races",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/ddd_1795489692282_gRp9_1795489692558_rdzL_bdd70529-d843-4c24-af01-7f412ca2a3c1_wXab.jpg",
+        "article_url": "https://www.hindustantimes.com/india-news/helipad-royal-horse-race-stage-set-for-anant-singh-s-daughter-s-wedding-in-mokama-101795488090339.html",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Anant Singh helipad horse races India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/ddd_1795489692282_gRp9_1795489692558_rdzL_bdd70529-d843-4c24-af01-7f412ca2a3c1_wXab.jpg",
+        "article_url": "https://www.hindustantimes.com/india-news/helipad-royal-horse-race-stage-set-for-anant-singh-s-daughter-s-wedding-in-mokama-101795488090339.html",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

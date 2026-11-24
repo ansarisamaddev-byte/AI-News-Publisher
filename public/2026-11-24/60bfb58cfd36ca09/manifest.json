@@ -1,0 +1,73 @@
+{
+  "news_id": "60bfb58cfd36ca09",
+  "title": "India's $60 Billion Pharma Industry Eyes $130 Billion by 2030: What's Driving Growth",
+  "main_subject": {
+    "name": "India",
+    "type": "other",
+    "image_search_query": "India"
+  },
+  "category": "business",
+  "tags": [
+    "technology",
+    "business"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/business-news/cphi-india-2026-60-billion-pharma-industry-eyes-130-billion-by-2030-whats-driving-growth-12368481#publisher=newsstand",
+  "published_at": "2026-11-24T01:15:02+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "India's $60 Billion Pharma Industry Eyes $130 Billion by 2030:",
+      "image": {
+        "provider": "generated",
+        "query": "India",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What's Driving Growth",
+      "image": {
+        "provider": "generated",
+        "query": "India pharmaceutical industry exports",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Key Details",
+      "image": {
+        "provider": "generated",
+        "query": "India pharmaceutical industry growth",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "business finance corporate office",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

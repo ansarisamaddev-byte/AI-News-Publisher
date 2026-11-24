@@ -1,0 +1,74 @@
+{
+  "news_id": "29645fac81099260",
+  "title": "Guru Nanak Jayanti: Stock Markets Shut for NSE, BSE",
+  "main_subject": {
+    "name": "Guru Nanak Jayanti",
+    "type": "event",
+    "image_search_query": "Guru Nanak Jayanti"
+  },
+  "category": "business",
+  "tags": [
+    "Guru Nanak Jayanti",
+    "stock markets",
+    "India"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/business-news/stock-market-holiday-november-24-nse-nifty-bse-sensex-shut-for-guru-nanak-jayanti-are-banks-closed-12368491#publisher=newsstand",
+  "published_at": "2026-11-24T01:19:14+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Guru Nanak Jayanti: Stock Markets Shut for NSE, BSE",
+      "image": {
+        "provider": "generated",
+        "query": "Guru Nanak Jayanti",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Impact on Stock Markets",
+      "image": {
+        "provider": "generated",
+        "query": "stock markets closed India",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why Stock Markets are Closed",
+      "image": {
+        "provider": "generated",
+        "query": "religious holiday impact India",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "business finance corporate office",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

@@ -1,60 +1,63 @@
 {
-    "news_id": "edfc12b3119ff4c6",
+  "news_id": "edfc12b3119ff4c6",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Delhi Pollution Control Committee (DPCC)",
+    "type": "organization",
+    "image_search_query": "Delhi Pollution Control Committee (DPCC)"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Delhi Pollution Control Committee (DPCC)",
-        "type": "organization",
+    "category": "technology",
+    "subcategory": "environmental",
+    "importance_score": 1,
+    "relevance_score": 1,
+    "region": "Delhi, India",
+    "tags": [
+      "environmental regulation"
+    ],
+    "classification_reason": "The article discusses pollution control measures for the Yamuna river in Delhi, which is a significant environmental issue.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Delhi Pollution Control Committee (DPCC) Tightens Pollution Norms for Yamuna River",
+    "caption": "The Delhi Pollution Control Committee (DPCC) has introduced stricter pollution control measures for the Yamuna river in Delhi, aiming to improve water quality and prevent environmental pollution.",
+    "hashtags": [
+      "#DelhiDPCC",
+      "#YamunaCleanUp"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Delhi Pollution Control Committee (DPCC) Tightens Pollution Norms for Yamuna",
+        "text": "The Delhi Pollution Control Committee (DPCC) has introduced stricter pollution control measures for the Yamuna river in Delhi, aiming to improve water quality and prevent environmental pollution.",
         "image_search_query": "Delhi Pollution Control Committee (DPCC)"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "technology",
-        "subcategory": "environmental",
-        "importance_score": 1,
-        "relevance_score": 1,
-        "region": "Delhi, India",
-        "tags": [
-            "environmental regulation"
-        ],
-        "classification_reason": "The article discusses pollution control measures for the Yamuna river in Delhi, which is a significant environmental issue.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Delhi Pollution Control Committee (DPCC) Tightens Pollution Norms for Yamuna River",
-        "caption": "The Delhi Pollution Control Committee (DPCC) has introduced stricter pollution control measures for the Yamuna river in Delhi, aiming to improve water quality and prevent environmental pollution.",
-        "hashtags": [
-            "#DelhiDPCC",
-            "#YamunaCleanUp"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Delhi Pollution Control Committee (DPCC) Tightens Pollution Norms for Yamuna",
-                "text": "The Delhi Pollution Control Committee (DPCC) has introduced stricter pollution control measures for the Yamuna river in Delhi, aiming to improve water quality and prevent environmental pollution.",
-                "image_search_query": "Delhi Pollution Control Committee (DPCC)"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Yamuna River Pollution",
-                "text": "The Yamuna river in Delhi is facing severe pollution issues, with the Delhi Pollution Control Committee (DPCC) introducing stricter regulations.",
-                "image_search_query": "Yamuna River pollution India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "DPCC Measures",
-                "text": "The DPCC has tightened pollution control measures for dairy farms, gaushalas, dhobi ghats, and laundry units, aiming to improve water quality and prevent environmental pollution.",
-                "image_search_query": "DPCC measures for Yamuna river India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "Hindustan Times",
-    "source_url": "https://www.hindustantimes.com/india-news/yamuna-clean-up-dairy-farms-dhobi-ghats-now-face-tighter-pollution-norms-as-delhi-steps-up-drive-to-clean-the-yamuna-dpcc-101795486922253.html",
-    "published_at": "2026-11-24T02:38:13+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Yamuna River Pollution",
+        "text": "The Yamuna river in Delhi is facing severe pollution issues, with the Delhi Pollution Control Committee (DPCC) introducing stricter regulations.",
+        "image_search_query": "Yamuna River pollution India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "DPCC Measures",
+        "text": "The DPCC has tightened pollution control measures for dairy farms, gaushalas, dhobi ghats, and laundry units, aiming to improve water quality and prevent environmental pollution.",
+        "image_search_query": "DPCC measures for Yamuna river India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/yamuna-clean-up-dairy-farms-dhobi-ghats-now-face-tighter-pollution-norms-as-delhi-steps-up-drive-to-clean-the-yamuna-dpcc-101795486922253.html",
+  "published_at": "2026-11-24T02:38:13+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-24/edfc12b3119ff4c6/video.mp4"
 }

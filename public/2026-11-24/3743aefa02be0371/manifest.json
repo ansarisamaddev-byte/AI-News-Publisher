@@ -1,0 +1,74 @@
+{
+  "news_id": "3743aefa02be0371",
+  "title": "NVIDIA LIVE: Jensen Huang Reinstated as President, CEO and Board Director",
+  "main_subject": {
+    "name": "Jensen Huang",
+    "type": "person",
+    "image_search_query": "Jensen Huang"
+  },
+  "category": "technology",
+  "tags": [
+    "CEO",
+    "NVIDIA",
+    "Jensen Huang"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/nvidia-board-reinstates-jensen-huang-president-ceo-board-director-live-updates-live-updates-nvidia-stock-jumps-30-after-jensen-huang-returns-as-ceo-12367017#publisher=newsstand",
+  "published_at": "2026-11-24T02:39:30+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "NVIDIA LIVE: Jensen Huang Reinstated as President, CEO and Board",
+      "image": {
+        "provider": "generated",
+        "query": "Jensen Huang",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Reinstatement Details",
+      "image": {
+        "provider": "generated",
+        "query": "NVIDIA Board reinstatement United States",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact on NVIDIA",
+      "image": {
+        "provider": "generated",
+        "query": "NVIDIA stock jump United States",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "modern technology computer digital",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

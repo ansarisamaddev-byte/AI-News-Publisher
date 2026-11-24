@@ -1,60 +1,63 @@
 {
-    "news_id": "cc74fef0e9f337ce",
+  "news_id": "cc74fef0e9f337ce",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "CBI",
+    "type": "organization",
+    "image_search_query": "CBI"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "CBI",
-        "type": "organization",
+    "category": "politics",
+    "subcategory": "Red Notices",
+    "importance_score": 1,
+    "relevance_score": 1,
+    "region": "India",
+    "tags": [
+      "Red Notices"
+    ],
+    "classification_reason": "Red Notice against Ashish Kumar",
+    "selected_channels": [
+      "politics-news"
+    ]
+  },
+  "content": {
+    "title": "CBI Secures Deportation of Haryana Murder Accused from Kazakhstan",
+    "caption": "CBI successfully deported a Haryana murder accused from Kazakhstan.",
+    "hashtags": [
+      "#RedNotice",
+      "#CBIDeportation"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "CBI Secures Deportation of Haryana Murder Accused from Kazakhstan",
+        "text": "CBI successfully deported a Haryana murder accused from Kazakhstan.",
         "image_search_query": "CBI"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "politics",
-        "subcategory": "Red Notices",
-        "importance_score": 1,
-        "relevance_score": 1,
-        "region": "India",
-        "tags": [
-            "Red Notices"
-        ],
-        "classification_reason": "Red Notice against Ashish Kumar",
-        "selected_channels": [
-            "politics-news"
-        ]
-    },
-    "content": {
-        "title": "CBI Secures Deportation of Haryana Murder Accused from Kazakhstan",
-        "caption": "CBI successfully deported a Haryana murder accused from Kazakhstan.",
-        "hashtags": [
-            "#RedNotice",
-            "#CBIDeportation"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "CBI Secures Deportation of Haryana Murder Accused from Kazakhstan",
-                "text": "CBI successfully deported a Haryana murder accused from Kazakhstan.",
-                "image_search_query": "CBI"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Red Notice",
-                "text": "A Red Notice was published in September 2026 against Ashish Kumar through INTERPOL channels, CBI said.",
-                "image_search_query": "Ashish Kumar INTERPOL INTERPOL channels India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Deportation Details",
-                "text": "The CBI secured the deportation of the Haryana murder accused from Kazakhstan.",
-                "image_search_query": "CBI Kazakhstan murder accused deportation India"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "NDTV",
-    "source_url": "https://www.ndtv.com/india-news/cbi-secures-deportation-of-haryana-murder-accused-from-kazakhstan-12368507#publisher=newsstand",
-    "published_at": "2026-11-24T01:31:11+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Red Notice",
+        "text": "A Red Notice was published in September 2026 against Ashish Kumar through INTERPOL channels, CBI said.",
+        "image_search_query": "Ashish Kumar INTERPOL INTERPOL channels India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Deportation Details",
+        "text": "The CBI secured the deportation of the Haryana murder accused from Kazakhstan.",
+        "image_search_query": "CBI Kazakhstan murder accused deportation India"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/cbi-secures-deportation-of-haryana-murder-accused-from-kazakhstan-12368507#publisher=newsstand",
+  "published_at": "2026-11-24T01:31:11+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-24/cc74fef0e9f337ce/video.mp4"
 }

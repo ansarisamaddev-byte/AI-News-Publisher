@@ -1,0 +1,74 @@
+{
+  "news_id": "25f0df489b86e8f0",
+  "title": "Israeli Minister Approves Flydubai Flights",
+  "main_subject": {
+    "name": "Miri Regev",
+    "type": "person",
+    "image_search_query": "Miri Regev"
+  },
+  "category": "business",
+  "tags": [
+    "Israeli Minister",
+    "Miri Regev",
+    "Flydubai"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/israeli-ministry-approves-resumption-of-flydubai-flights-after-attack-12368533#publisher=newsstand",
+  "published_at": "2026-11-24T01:51:16+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Israeli Minister Approves Flydubai Flights",
+      "image": {
+        "provider": "generated",
+        "query": "Miri Regev",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Background",
+      "image": {
+        "provider": "generated",
+        "query": "Flydubai Middle East aviation Israel",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact",
+      "image": {
+        "provider": "generated",
+        "query": "Middle East economy connectivity Israel",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "business finance corporate office",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

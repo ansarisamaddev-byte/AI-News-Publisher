@@ -1,61 +1,64 @@
 {
-    "news_id": "60bfb58cfd36ca09",
+  "news_id": "60bfb58cfd36ca09",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "India",
+    "type": "other",
+    "image_search_query": "India"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "India",
-        "type": "other",
+    "category": "business",
+    "subcategory": "technology",
+    "importance_score": 1,
+    "relevance_score": 1,
+    "region": "INDIA",
+    "tags": [
+      "technology",
+      "business"
+    ],
+    "classification_reason": "India's $60 Billion Pharma Industry Eyes $130 Billion by 2030",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "India's $60 Billion Pharma Industry Eyes $130 Billion by 2030: What's Driving Growth",
+    "caption": "India's $60 billion pharmaceutical industry aims to reach $130 billion by 2030, driven by expanding exports.",
+    "hashtags": [
+      "#PharmaGrowth",
+      "#IndiaGrowth"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "India's $60 Billion Pharma Industry Eyes $130 Billion by 2030:",
+        "text": "India's $60 billion pharmaceutical industry aims to reach $130 billion by 2030, driven by expanding exports.",
         "image_search_query": "India"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "business",
-        "subcategory": "technology",
-        "importance_score": 1,
-        "relevance_score": 1,
-        "region": "INDIA",
-        "tags": [
-            "technology",
-            "business"
-        ],
-        "classification_reason": "India's $60 Billion Pharma Industry Eyes $130 Billion by 2030",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "India's $60 Billion Pharma Industry Eyes $130 Billion by 2030: What's Driving Growth",
-        "caption": "India's $60 billion pharmaceutical industry aims to reach $130 billion by 2030, driven by expanding exports.",
-        "hashtags": [
-            "#PharmaGrowth",
-            "#IndiaGrowth"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "India's $60 Billion Pharma Industry Eyes $130 Billion by 2030:",
-                "text": "India's $60 billion pharmaceutical industry aims to reach $130 billion by 2030, driven by expanding exports.",
-                "image_search_query": "India"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "What's Driving Growth",
-                "text": "The industry aims to expand exports to drive growth.",
-                "image_search_query": "India pharmaceutical industry exports"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Key Details",
-                "text": "The industry aims to reach $130 billion by 2030, driven by expanding exports.",
-                "image_search_query": "India pharmaceutical industry growth"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "NDTV",
-    "source_url": "https://www.ndtv.com/business-news/cphi-india-2026-60-billion-pharma-industry-eyes-130-billion-by-2030-whats-driving-growth-12368481#publisher=newsstand",
-    "published_at": "2026-11-24T01:15:02+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "What's Driving Growth",
+        "text": "The industry aims to expand exports to drive growth.",
+        "image_search_query": "India pharmaceutical industry exports"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Key Details",
+        "text": "The industry aims to reach $130 billion by 2030, driven by expanding exports.",
+        "image_search_query": "India pharmaceutical industry growth"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/business-news/cphi-india-2026-60-billion-pharma-industry-eyes-130-billion-by-2030-whats-driving-growth-12368481#publisher=newsstand",
+  "published_at": "2026-11-24T01:15:02+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-24/60bfb58cfd36ca09/video.mp4"
 }

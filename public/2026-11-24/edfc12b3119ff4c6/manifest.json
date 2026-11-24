@@ -1,0 +1,72 @@
+{
+  "news_id": "edfc12b3119ff4c6",
+  "title": "Delhi Pollution Control Committee (DPCC) Tightens Pollution Norms for Yamuna River",
+  "main_subject": {
+    "name": "Delhi Pollution Control Committee (DPCC)",
+    "type": "organization",
+    "image_search_query": "Delhi Pollution Control Committee (DPCC)"
+  },
+  "category": "technology",
+  "tags": [
+    "environmental regulation"
+  ],
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/yamuna-clean-up-dairy-farms-dhobi-ghats-now-face-tighter-pollution-norms-as-delhi-steps-up-drive-to-clean-the-yamuna-dpcc-101795486922253.html",
+  "published_at": "2026-11-24T02:38:13+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Delhi Pollution Control Committee (DPCC) Tightens Pollution Norms for Yamuna",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/The-polluted-Yamuna-near-Kalindi-Kunj---Sunil-Ghos_1795487649588_vvJL_1795487649725_YPDg_7cadb04a-bdbf-4672-ad62-19474993650f_BAZa.jpg",
+        "article_url": "https://www.hindustantimes.com/india-news/yamuna-clean-up-dairy-farms-dhobi-ghats-now-face-tighter-pollution-norms-as-delhi-steps-up-drive-to-clean-the-yamuna-dpcc-101795486922253.html",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Delhi Pollution Control Committee (DPCC)"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Yamuna River Pollution",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/The-polluted-Yamuna-near-Kalindi-Kunj---Sunil-Ghos_1795487649588_vvJL_1795487649725_YPDg_7cadb04a-bdbf-4672-ad62-19474993650f_BAZa.jpg",
+        "article_url": "https://www.hindustantimes.com/india-news/yamuna-clean-up-dairy-farms-dhobi-ghats-now-face-tighter-pollution-norms-as-delhi-steps-up-drive-to-clean-the-yamuna-dpcc-101795486922253.html",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Yamuna River pollution India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "DPCC Measures",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/The-polluted-Yamuna-near-Kalindi-Kunj---Sunil-Ghos_1795487649588_vvJL_1795487649725_YPDg_7cadb04a-bdbf-4672-ad62-19474993650f_BAZa.jpg",
+        "article_url": "https://www.hindustantimes.com/india-news/yamuna-clean-up-dairy-farms-dhobi-ghats-now-face-tighter-pollution-norms-as-delhi-steps-up-drive-to-clean-the-yamuna-dpcc-101795486922253.html",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "DPCC measures for Yamuna river India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.hindustantimes.com/ht-img/img/2026/11/24/1600x900/logo/The-polluted-Yamuna-near-Kalindi-Kunj---Sunil-Ghos_1795487649588_vvJL_1795487649725_YPDg_7cadb04a-bdbf-4672-ad62-19474993650f_BAZa.jpg",
+        "article_url": "https://www.hindustantimes.com/india-news/yamuna-clean-up-dairy-farms-dhobi-ghats-now-face-tighter-pollution-norms-as-delhi-steps-up-drive-to-clean-the-yamuna-dpcc-101795486922253.html",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

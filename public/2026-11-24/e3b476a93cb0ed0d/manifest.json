@@ -1,0 +1,73 @@
+{
+  "news_id": "e3b476a93cb0ed0d",
+  "title": "Nature Asia Publishes Study on Plant-Based Drug Production",
+  "main_subject": {
+    "name": "Nature Asia",
+    "type": "company",
+    "image_search_query": "Nature Asia"
+  },
+  "category": "science",
+  "tags": [
+    "biotechnology",
+    "plant-based drugs"
+  ],
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MQlZqeXBXOWIzRDI5cFdnWXVHcm82VkdvaG15dFFtUzRjSXhSR2V5bHZQLVpkWnBURmx5TTYtNjVydFZ1WTdJU2I0dHd6QmQzU3lCaW1zQThUaFRVNjR3Q3hYQkRLZ1Z6SmxUYkRR?oc=5",
+  "published_at": "2026-11-24T01:06:17+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Nature Asia Publishes Study on Plant-Based Drug Production",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MQlZqeXBXOWIzRDI5cFdnWXVHcm82VkdvaG15dFFtUzRjSXhSR2V5bHZQLVpkWnBURmx5TTYtNjVydFZ1WTdJU2I0dHd6QmQzU3lCaW1zQThUaFRVNjR3Q3hYQkRLZ1Z6SmxUYkRR?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Nature Asia"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Study Overview",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MQlZqeXBXOWIzRDI5cFdnWXVHcm82VkdvaG15dFFtUzRjSXhSR2V5bHZQLVpkWnBURmx5TTYtNjVydFZ1WTdJU2I0dHd6QmQzU3lCaW1zQThUaFRVNjR3Q3hYQkRLZ1Z6SmxUYkRR?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "tobacco plants, paclitaxel, anticancer drug India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Biological Process",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MQlZqeXBXOWIzRDI5cFdnWXVHcm82VkdvaG15dFFtUzRjSXhSR2V5bHZQLVpkWnBURmx5TTYtNjVydFZ1WTdJU2I0dHd6QmQzU3lCaW1zQThUaFRVNjR3Q3hYQkRLZ1Z6SmxUYkRR?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Taxol biosynthesis, Taxol pathway India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MQlZqeXBXOWIzRDI5cFdnWXVHcm82VkdvaG15dFFtUzRjSXhSR2V5bHZQLVpkWnBURmx5TTYtNjVydFZ1WTdJU2I0dHd6QmQzU3lCaW1zQThUaFRVNjR3Q3hYQkRLZ1Z6SmxUYkRR?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "scientific research laboratory"
+      }
+    }
+  ]
+}
