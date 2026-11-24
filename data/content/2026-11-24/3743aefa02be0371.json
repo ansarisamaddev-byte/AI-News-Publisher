@@ -1,63 +1,64 @@
 {
-    "news_id": "3743aefa02be0371",
+  "news_id": "3743aefa02be0371",
+  "country": "US",
+  "main_subject": {
+    "name": "Jensen Huang",
+    "type": "person",
+    "image_search_query": "Jensen Huang"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Jensen Huang",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "CEO",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "CEO",
+      "NVIDIA",
+      "Jensen Huang"
+    ],
+    "classification_reason": "Jensen Huang is the central figure in the article about NVIDIA reinstating him as CEO.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "NVIDIA LIVE: Jensen Huang Reinstated as President, CEO and Board Director",
+    "caption": "Jensen Huang is now the President, CEO and Board Director of NVIDIA.",
+    "hashtags": [
+      "#NVIDIA",
+      "#JensenHuang",
+      "#CEO"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "NVIDIA LIVE: Jensen Huang Reinstated as President, CEO and Board",
+        "text": "Jensen Huang is now the President, CEO and Board Director of NVIDIA.",
         "image_search_query": "Jensen Huang"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "CEO",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "CEO",
-            "NVIDIA",
-            "Jensen Huang"
-        ],
-        "classification_reason": "Jensen Huang is the central figure in the article about NVIDIA reinstating him as CEO.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "NVIDIA LIVE: Jensen Huang Reinstated as President, CEO and Board Director",
-        "caption": "Jensen Huang is now the President, CEO and Board Director of NVIDIA.",
-        "hashtags": [
-            "#NVIDIA",
-            "#JensenHuang",
-            "#CEO"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "NVIDIA LIVE: Jensen Huang Reinstated as President, CEO and Board",
-                "text": "Jensen Huang is now the President, CEO and Board Director of NVIDIA.",
-                "image_search_query": "Jensen Huang"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Reinstatement Details",
-                "text": "NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director.",
-                "image_search_query": "NVIDIA Board reinstatement United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Impact on NVIDIA",
-                "text": "NVIDIA stock jumps 30% after Jensen Huang's reinstatement.",
-                "image_search_query": "NVIDIA stock jump United States"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "NDTV",
-    "source_url": "https://www.ndtv.com/world-news/nvidia-board-reinstates-jensen-huang-president-ceo-board-director-live-updates-live-updates-nvidia-stock-jumps-30-after-jensen-huang-returns-as-ceo-12367017#publisher=newsstand",
-    "published_at": "2026-11-24T02:39:30+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Reinstatement Details",
+        "text": "NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director.",
+        "image_search_query": "NVIDIA Board reinstatement United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Impact on NVIDIA",
+        "text": "NVIDIA stock jumps 30% after Jensen Huang's reinstatement.",
+        "image_search_query": "NVIDIA stock jump United States"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/nvidia-board-reinstates-jensen-huang-president-ceo-board-director-live-updates-live-updates-nvidia-stock-jumps-30-after-jensen-huang-returns-as-ceo-12367017#publisher=newsstand",
+  "published_at": "2026-11-24T02:39:30+00:00",
+  "image_done": true
 }

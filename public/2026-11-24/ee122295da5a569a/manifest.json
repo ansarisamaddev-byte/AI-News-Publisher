@@ -1,0 +1,74 @@
+{
+  "news_id": "ee122295da5a569a",
+  "title": "Maharashtra Government Sets Up Seven-Member Committee to Frame Air Ambulance SOPs",
+  "main_subject": {
+    "name": "Pratap Sarnaik",
+    "type": "person",
+    "image_search_query": "Pratap Sarnaik"
+  },
+  "category": "business",
+  "tags": [
+    "transportation",
+    "government",
+    "committee"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/maharashtra/seven-member-committee-appointed-to-frame-air-ambulance-sops/article71737056.ece",
+  "published_at": "2026-11-24T02:18:16+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Maharashtra Government Sets Up Seven-Member Committee to Frame Air Ambulance",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/hy0b6o/article71737057.ece/alternates/LANDSCAPE_1200/BVR_4545.JPG",
+        "article_url": "https://www.thehindu.com/news/national/maharashtra/seven-member-committee-appointed-to-frame-air-ambulance-sops/article71737056.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Pratap Sarnaik"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Committee Formation",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/hy0b6o/article71737057.ece/alternates/LANDSCAPE_1200/BVR_4545.JPG",
+        "article_url": "https://www.thehindu.com/news/national/maharashtra/seven-member-committee-appointed-to-frame-air-ambulance-sops/article71737056.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "committee, Pratap Sarnaik India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Committee Members",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/hy0b6o/article71737057.ece/alternates/LANDSCAPE_1200/BVR_4545.JPG",
+        "article_url": "https://www.thehindu.com/news/national/maharashtra/seven-member-committee-appointed-to-frame-air-ambulance-sops/article71737056.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "committee members, Pratap Sarnaik India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/hy0b6o/article71737057.ece/alternates/LANDSCAPE_1200/BVR_4545.JPG",
+        "article_url": "https://www.thehindu.com/news/national/maharashtra/seven-member-committee-appointed-to-frame-air-ambulance-sops/article71737056.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

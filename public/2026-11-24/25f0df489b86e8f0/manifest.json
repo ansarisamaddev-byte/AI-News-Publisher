@@ -1,0 +1,86 @@
+{
+  "news_id": "25f0df489b86e8f0",
+  "title": "Israeli Minister Approves Flydubai Flights",
+  "main_subject": {
+    "name": "Miri Regev",
+    "type": "person",
+    "image_search_query": "Miri Regev"
+  },
+  "category": "business",
+  "tags": [
+    "Israeli Minister",
+    "Miri Regev",
+    "Flydubai"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/israeli-ministry-approves-resumption-of-flydubai-flights-after-attack-12368533#publisher=newsstand",
+  "published_at": "2026-11-24T01:51:16+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Israeli Minister Approves Flydubai Flights",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "wUbtxuZ5uiw",
+        "photographer": "sporlab",
+        "photographer_url": "https://unsplash.com/@sporlab?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/woman-wearing-orange-volleyball-wUbtxuZ5uiw?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/flagged/photo-1568407477318-e20ccfaa2b36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8NHx8TWlyaSUyMFJlZ2V2fGVufDF8MXx8fDE3OTU0OTE2MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "Miri Regev",
+        "fallback_used": false,
+        "original_query": "Miri Regev"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Background",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "alw-CwGFmwQ",
+        "photographer": "Muhammad Faiz Zulkeflee",
+        "photographer_url": "https://unsplash.com/@fzeo?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/two-businessmen-looking-at-phone-in-office-alw-CwGFmwQ?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1577415124269-fc1140a69e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8YnVzaW5lc3MlMjBmaW5hbmNlJTIwY29ycG9yYXRlJTIwb2ZmaWNlfGVufDF8MXx8fDE3OTU0OTE2MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "business finance corporate office",
+        "fallback_used": true,
+        "original_query": "Flydubai Middle East aviation Israel"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "d-xE0NF6nJw",
+        "photographer": "INHYEOK PARK",
+        "photographer_url": "https://unsplash.com/@travelershigh?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/golden-domed-building-with-tiered-gardens-overlooking-city-and-harbor-d-xE0NF6nJw?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1758555835979-a154432f4caa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8OHx8TWlkZGxlJTIwRWFzdCUyMGVjb25vbXklMjBjb25uZWN0aXZpdHklMjBJc3JhZWx8ZW58MXwxfHx8MTc5NTQ5MTYxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "Middle East economy connectivity Israel",
+        "fallback_used": false,
+        "original_query": "Middle East economy connectivity Israel"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "alw-CwGFmwQ",
+        "photographer": "Muhammad Faiz Zulkeflee",
+        "photographer_url": "https://unsplash.com/@fzeo?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/two-businessmen-looking-at-phone-in-office-alw-CwGFmwQ?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1577415124269-fc1140a69e91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8YnVzaW5lc3MlMjBmaW5hbmNlJTIwY29ycG9yYXRlJTIwb2ZmaWNlfGVufDF8MXx8fDE3OTU0OTE2MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "business finance corporate office",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

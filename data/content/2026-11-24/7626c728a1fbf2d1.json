@@ -1,60 +1,61 @@
 {
-    "news_id": "7626c728a1fbf2d1",
+  "news_id": "7626c728a1fbf2d1",
+  "country": "NEPAL",
+  "main_subject": {
+    "name": "Nepal",
+    "type": "place",
+    "image_search_query": "Nepal"
+  },
+  "classification": {
     "country": "NEPAL",
-    "main_subject": {
-        "name": "Nepal",
-        "type": "place",
+    "category": "technology",
+    "subcategory": "earthquake",
+    "importance_score": 1,
+    "relevance_score": 1,
+    "region": "Nepal",
+    "tags": [
+      "earthquake"
+    ],
+    "classification_reason": "earthquake hit Nepal",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "5.3 Magnitude Earthquake Hits Nepal",
+    "caption": "A 5.3 magnitude earthquake hit Nepal, with tremors felt across India, Bhutan, and China.",
+    "hashtags": [
+      "#earthquake",
+      "#Nepal"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "5.3 Magnitude Earthquake Hits Nepal",
+        "text": "A 5.3 magnitude earthquake hit Nepal, with tremors felt across India, Bhutan, and China.",
         "image_search_query": "Nepal"
-    },
-    "classification": {
-        "country": "NEPAL",
-        "category": "technology",
-        "subcategory": "earthquake",
-        "importance_score": 1,
-        "relevance_score": 1,
-        "region": "Nepal",
-        "tags": [
-            "earthquake"
-        ],
-        "classification_reason": "earthquake hit Nepal",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "5.3 Magnitude Earthquake Hits Nepal",
-        "caption": "A 5.3 magnitude earthquake hit Nepal, with tremors felt across India, Bhutan, and China.",
-        "hashtags": [
-            "#earthquake",
-            "#Nepal"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "5.3 Magnitude Earthquake Hits Nepal",
-                "text": "A 5.3 magnitude earthquake hit Nepal, with tremors felt across India, Bhutan, and China.",
-                "image_search_query": "Nepal"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "What Happened",
-                "text": "A 5.3 magnitude earthquake struck Nepal, causing significant tremors that were felt across neighboring countries.",
-                "image_search_query": "5.3 Nepal earthquake context"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Why It Matters",
-                "text": "The earthquake was the strongest in Nepal's recorded history, with tremors felt across India, Bhutan, and China.",
-                "image_search_query": "5.3 Nepal earthquake details"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "NDTV",
-    "source_url": "https://www.ndtv.com/world-news/5-3-magnitude-earthquake-hits-nepal-tremors-felt-across-india-bhutan-china-12368620#publisher=newsstand",
-    "published_at": "2026-11-24T02:37:37+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "What Happened",
+        "text": "A 5.3 magnitude earthquake struck Nepal, causing significant tremors that were felt across neighboring countries.",
+        "image_search_query": "5.3 Nepal earthquake context"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Why It Matters",
+        "text": "The earthquake was the strongest in Nepal's recorded history, with tremors felt across India, Bhutan, and China.",
+        "image_search_query": "5.3 Nepal earthquake details"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/5-3-magnitude-earthquake-hits-nepal-tremors-felt-across-india-bhutan-china-12368620#publisher=newsstand",
+  "published_at": "2026-11-24T02:37:37+00:00",
+  "image_done": true
 }

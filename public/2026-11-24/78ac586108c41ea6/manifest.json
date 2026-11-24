@@ -1,0 +1,74 @@
+{
+  "news_id": "78ac586108c41ea6",
+  "title": "Collector Files Complaint Against Tamilaga Vettri Kazhagam MLA",
+  "main_subject": {
+    "name": "C. Arul Vignesh",
+    "type": "person",
+    "image_search_query": "C. Arul Vignesh"
+  },
+  "category": "politics",
+  "tags": [
+    "MLA",
+    "harassment",
+    "prohibition"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/collector-files-complaint-against-kallakurichi-tvk-mla/article71736185.ece",
+  "published_at": "2026-11-24T02:30:22+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Collector Files Complaint Against Tamilaga Vettri Kazhagam MLA",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/f353a0/article71737038.ece/alternates/LANDSCAPE_1200/KALLAKURICHI-MLA-1.JPG",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/collector-files-complaint-against-kallakurichi-tvk-mla/article71736185.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "C. Arul Vignesh"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Complaint Details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/f353a0/article71737038.ece/alternates/LANDSCAPE_1200/KALLAKURICHI-MLA-1.JPG",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/collector-files-complaint-against-kallakurichi-tvk-mla/article71736185.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Tamilaga Vettri Kazhagam MLA C. Arul Vignesh India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Implications",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/f353a0/article71737038.ece/alternates/LANDSCAPE_1200/KALLAKURICHI-MLA-1.JPG",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/collector-files-complaint-against-kallakurichi-tvk-mla/article71736185.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Tamil Nadu Prohibition of Harassment of Women Act India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/f353a0/article71737038.ece/alternates/LANDSCAPE_1200/KALLAKURICHI-MLA-1.JPG",
+        "article_url": "https://www.thehindu.com/news/national/tamil-nadu/collector-files-complaint-against-kallakurichi-tvk-mla/article71736185.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "parliament government building"
+      }
+    }
+  ]
+}

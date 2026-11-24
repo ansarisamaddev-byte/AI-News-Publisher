@@ -1,0 +1,84 @@
+{
+  "news_id": "7626c728a1fbf2d1",
+  "title": "5.3 Magnitude Earthquake Hits Nepal",
+  "main_subject": {
+    "name": "Nepal",
+    "type": "place",
+    "image_search_query": "Nepal"
+  },
+  "category": "technology",
+  "tags": [
+    "earthquake"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/5-3-magnitude-earthquake-hits-nepal-tremors-felt-across-india-bhutan-china-12368620#publisher=newsstand",
+  "published_at": "2026-11-24T02:37:37+00:00",
+  "provider_default": "",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "5.3 Magnitude Earthquake Hits Nepal",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "xyE1p1rG04U",
+        "photographer": "Giuseppe Mondì",
+        "photographer_url": "https://unsplash.com/@masinutoscana?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/houses-overlooking-mountain-range-xyE1p1rG04U?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1518002054494-3a6f94352e9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8TmVwYWx8ZW58MXwxfHx8MTc5NTQ5MTY2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "Nepal",
+        "fallback_used": false,
+        "original_query": "Nepal"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What Happened",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "KDxqDDmzqHE",
+        "photographer": "Pritush Munankarmi",
+        "photographer_url": "https://unsplash.com/@pritush?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/aerial-view-of-city-during-daytime-KDxqDDmzqHE?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1589791933711-d68aae51e609?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8NS4zJTIwTmVwYWwlMjBlYXJ0aHF1YWtlJTIwY29udGV4dHxlbnwxfDF8fHwxNzk1NDkxNjcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "5.3 Nepal earthquake context",
+        "fallback_used": false,
+        "original_query": "5.3 Nepal earthquake context"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why It Matters",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "DeBweFuTFWM",
+        "photographer": "Vickey Goh",
+        "photographer_url": "https://unsplash.com/@vickeyey?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/woman-looking-down-by-the-window-of-bricked-wall-building-DeBweFuTFWM?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1523409841963-3a0e947ca782?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8NHx8NS4zJTIwTmVwYWwlMjBlYXJ0aHF1YWtlJTIwZGV0YWlsc3xlbnwxfDF8fHwxNzk1NDkxNjcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "5.3 Nepal earthquake details",
+        "fallback_used": false,
+        "original_query": "5.3 Nepal earthquake details"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Unsplash",
+        "photo_id": "Bd7gNnWJBkU",
+        "photographer": "Andras Vas",
+        "photographer_url": "https://unsplash.com/@wasdrew?utm_source=ai_news_publisher&utm_medium=referral",
+        "source_url": "https://unsplash.com/photos/macbook-pro-turned-on-Bd7gNnWJBkU?utm_source=ai_news_publisher&utm_medium=referral",
+        "image_url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTIzNjMwfDB8MXxzZWFyY2h8MXx8bW9kZXJuJTIwdGVjaG5vbG9neSUyMGNvbXB1dGVyJTIwZGlnaXRhbHxlbnwxfDF8fHwxNzk1NDkxNjM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "query": "modern technology computer digital",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

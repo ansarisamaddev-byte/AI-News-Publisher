@@ -1,62 +1,63 @@
 {
-    "news_id": "99763a98a405eb6f",
+  "news_id": "99763a98a405eb6f",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Diljit Dosanjh",
+    "type": "person",
+    "image_search_query": "Diljit Dosanjh"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Diljit Dosanjh",
-        "type": "person",
+    "category": "business",
+    "subcategory": "technology",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "New Delhi",
+    "tags": [
+      "technology",
+      "business",
+      "sports"
+    ],
+    "classification_reason": "Diljit Dosanjh is a prominent sports personality involved in the incident.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Diljit Dosanjh Arrested for Stealing Phones at Concert",
+    "caption": "Diljit Dosanjh, a sports celebrity, is arrested for stealing phones at a concert.",
+    "hashtags": [
+      "#DiljitDosanjh",
+      "#SportsBusiness"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Diljit Dosanjh Arrested for Stealing Phones at Concert",
+        "text": "Diljit Dosanjh, a sports celebrity, is arrested for stealing phones at a concert.",
         "image_search_query": "Diljit Dosanjh"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "business",
-        "subcategory": "technology",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "New Delhi",
-        "tags": [
-            "technology",
-            "business",
-            "sports"
-        ],
-        "classification_reason": "Diljit Dosanjh is a prominent sports personality involved in the incident.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Diljit Dosanjh Arrested for Stealing Phones at Concert",
-        "caption": "Diljit Dosanjh, a sports celebrity, is arrested for stealing phones at a concert.",
-        "hashtags": [
-            "#DiljitDosanjh",
-            "#SportsBusiness"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Diljit Dosanjh Arrested for Stealing Phones at Concert",
-                "text": "Diljit Dosanjh, a sports celebrity, is arrested for stealing phones at a concert.",
-                "image_search_query": "Diljit Dosanjh"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Incident Details",
-                "text": "Diljit Dosanjh, a sports celebrity, was arrested for stealing phones at a concert.",
-                "image_search_query": "Diljit Dosanjh concert India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Impact",
-                "text": "The incident has significant implications for the sports industry.",
-                "image_search_query": "Diljit Dosanjh phones India"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "NDTV",
-    "source_url": "https://www.ndtv.com/india-news/delhi-gangs-rs-20-000-ahmedabad-trip-gold-passes-diljit-dosanjhs-concert-to-steal-phones-12368540#publisher=newsstand",
-    "published_at": "2026-11-24T01:54:40+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Incident Details",
+        "text": "Diljit Dosanjh, a sports celebrity, was arrested for stealing phones at a concert.",
+        "image_search_query": "Diljit Dosanjh concert India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Impact",
+        "text": "The incident has significant implications for the sports industry.",
+        "image_search_query": "Diljit Dosanjh phones India"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/delhi-gangs-rs-20-000-ahmedabad-trip-gold-passes-diljit-dosanjhs-concert-to-steal-phones-12368540#publisher=newsstand",
+  "published_at": "2026-11-24T01:54:40+00:00",
+  "image_done": true
 }

@@ -1,63 +1,64 @@
 {
-    "news_id": "ee122295da5a569a",
+  "news_id": "ee122295da5a569a",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Pratap Sarnaik",
+    "type": "person",
+    "image_search_query": "Pratap Sarnaik"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Pratap Sarnaik",
-        "type": "person",
+    "category": "business",
+    "subcategory": "transportation",
+    "importance_score": 8,
+    "relevance_score": 8,
+    "region": "Maharashtra, India",
+    "tags": [
+      "transportation",
+      "government",
+      "committee"
+    ],
+    "classification_reason": "The article is about a government transportation minister setting up a committee to frame air ambulance SOPs.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Maharashtra Government Sets Up Seven-Member Committee to Frame Air Ambulance SOPs",
+    "caption": "The Maharashtra government has appointed a seven-member committee to develop standard operating procedures for air ambulances and new ambulance services in the state.",
+    "hashtags": [
+      "#Maharashtra",
+      "#AmbulanceSOPs",
+      "#Transportation"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Maharashtra Government Sets Up Seven-Member Committee to Frame Air Ambulance",
+        "text": "The Maharashtra government has appointed a seven-member committee to develop standard operating procedures for air ambulances and new ambulance services in the state.",
         "image_search_query": "Pratap Sarnaik"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "business",
-        "subcategory": "transportation",
-        "importance_score": 8,
-        "relevance_score": 8,
-        "region": "Maharashtra, India",
-        "tags": [
-            "transportation",
-            "government",
-            "committee"
-        ],
-        "classification_reason": "The article is about a government transportation minister setting up a committee to frame air ambulance SOPs.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Maharashtra Government Sets Up Seven-Member Committee to Frame Air Ambulance SOPs",
-        "caption": "The Maharashtra government has appointed a seven-member committee to develop standard operating procedures for air ambulances and new ambulance services in the state.",
-        "hashtags": [
-            "#Maharashtra",
-            "#AmbulanceSOPs",
-            "#Transportation"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Maharashtra Government Sets Up Seven-Member Committee to Frame Air Ambulance",
-                "text": "The Maharashtra government has appointed a seven-member committee to develop standard operating procedures for air ambulances and new ambulance services in the state.",
-                "image_search_query": "Pratap Sarnaik"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Committee Formation",
-                "text": "The committee was formed by the Maharashtra government to develop SOPs for air ambulances and new ambulance services.",
-                "image_search_query": "committee, Pratap Sarnaik India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Committee Members",
-                "text": "The committee comprises seven members, including the Transport Minister Pratap Sarnaik, Additional Commissioner of Police (Traffic) Mokshada Patil, and other officials from transport, public health, and police departments.",
-                "image_search_query": "committee members, Pratap Sarnaik India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/maharashtra/seven-member-committee-appointed-to-frame-air-ambulance-sops/article71737056.ece",
-    "published_at": "2026-11-24T02:18:16+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Committee Formation",
+        "text": "The committee was formed by the Maharashtra government to develop SOPs for air ambulances and new ambulance services.",
+        "image_search_query": "committee, Pratap Sarnaik India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Committee Members",
+        "text": "The committee comprises seven members, including the Transport Minister Pratap Sarnaik, Additional Commissioner of Police (Traffic) Mokshada Patil, and other officials from transport, public health, and police departments.",
+        "image_search_query": "committee members, Pratap Sarnaik India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/maharashtra/seven-member-committee-appointed-to-frame-air-ambulance-sops/article71737056.ece",
+  "published_at": "2026-11-24T02:18:16+00:00",
+  "image_done": true
 }

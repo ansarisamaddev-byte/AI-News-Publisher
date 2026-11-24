@@ -1,63 +1,64 @@
 {
-    "news_id": "25f0df489b86e8f0",
+  "news_id": "25f0df489b86e8f0",
+  "country": "ISRAEL",
+  "main_subject": {
+    "name": "Miri Regev",
+    "type": "person",
+    "image_search_query": "Miri Regev"
+  },
+  "classification": {
     "country": "ISRAEL",
-    "main_subject": {
-        "name": "Miri Regev",
-        "type": "person",
+    "category": "business",
+    "subcategory": "transport",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Israel",
+    "tags": [
+      "Israeli Minister",
+      "Miri Regev",
+      "Flydubai"
+    ],
+    "classification_reason": "Miri Regev is the Israeli Minister responsible for the airline industry, and Flydubai is a significant airline in the region.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Israeli Minister Approves Flydubai Flights",
+    "caption": "Miri Regev, Israel's transport minister, approves the return of Flydubai flights.",
+    "hashtags": [
+      "#IsraeliMinister",
+      "#Flydubai",
+      "#MiriRegev"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Israeli Minister Approves Flydubai Flights",
+        "text": "Miri Regev, Israel's transport minister, approves the return of Flydubai flights.",
         "image_search_query": "Miri Regev"
-    },
-    "classification": {
-        "country": "ISRAEL",
-        "category": "business",
-        "subcategory": "transport",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Israel",
-        "tags": [
-            "Israeli Minister",
-            "Miri Regev",
-            "Flydubai"
-        ],
-        "classification_reason": "Miri Regev is the Israeli Minister responsible for the airline industry, and Flydubai is a significant airline in the region.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Israeli Minister Approves Flydubai Flights",
-        "caption": "Miri Regev, Israel's transport minister, approves the return of Flydubai flights.",
-        "hashtags": [
-            "#IsraeliMinister",
-            "#Flydubai",
-            "#MiriRegev"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Israeli Minister Approves Flydubai Flights",
-                "text": "Miri Regev, Israel's transport minister, approves the return of Flydubai flights.",
-                "image_search_query": "Miri Regev"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Background",
-                "text": "Flydubai is a major airline in the Middle East, and its return to service is significant for the region's aviation industry.",
-                "image_search_query": "Flydubai Middle East aviation Israel"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Impact",
-                "text": "The approval of Flydubai flights is expected to boost the economy and improve connectivity in the Middle East.",
-                "image_search_query": "Middle East economy connectivity Israel"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "NDTV",
-    "source_url": "https://www.ndtv.com/world-news/israeli-ministry-approves-resumption-of-flydubai-flights-after-attack-12368533#publisher=newsstand",
-    "published_at": "2026-11-24T01:51:16+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Background",
+        "text": "Flydubai is a major airline in the Middle East, and its return to service is significant for the region's aviation industry.",
+        "image_search_query": "Flydubai Middle East aviation Israel"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Impact",
+        "text": "The approval of Flydubai flights is expected to boost the economy and improve connectivity in the Middle East.",
+        "image_search_query": "Middle East economy connectivity Israel"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/israeli-ministry-approves-resumption-of-flydubai-flights-after-attack-12368533#publisher=newsstand",
+  "published_at": "2026-11-24T01:51:16+00:00",
+  "image_done": true
 }
