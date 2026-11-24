@@ -1,0 +1,63 @@
+{
+    "news_id": "f79395fbd89e93fa",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Saurav Das",
+        "type": "person",
+        "image_search_query": "Saurav Das"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "business",
+        "subcategory": "technology",
+        "importance_score": 1,
+        "relevance_score": 1,
+        "region": "Delhi, India",
+        "tags": [
+            "allegation",
+            "airport",
+            "technology"
+        ],
+        "classification_reason": "Saurav Das is the central figure in the news story.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Saurav Das Alleges He Was Stopped From Flying To UK At Delhi Airport",
+        "caption": "Saurav Das claims he was denied entry to the UK at the Delhi airport.",
+        "hashtags": [
+            "#allegation",
+            "#airport",
+            "#technology"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Saurav Das Alleges He Was Stopped From Flying To UK",
+                "text": "Saurav Das claims he was denied entry to the UK at the Delhi airport.",
+                "image_search_query": "Saurav Das"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Relevant Context",
+                "text": "The incident occurred at the immigration counter at the Delhi airport.",
+                "image_search_query": "Saurav Das Delhi airport immigration India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Important Details",
+                "text": "Das claims he was stopped and denied entry to the UK.",
+                "image_search_query": "Saurav Das denied entry UK India"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "NDTV",
+    "source_url": "https://www.ndtv.com/india-news/cjps-saurav-das-alleges-he-was-stopped-from-flying-to-uk-at-delhi-airport-12368482#publisher=newsstand",
+    "published_at": "2026-11-24T01:15:35+00:00"
+}
