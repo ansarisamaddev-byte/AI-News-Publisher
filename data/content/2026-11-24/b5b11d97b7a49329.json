@@ -1,0 +1,63 @@
+{
+    "news_id": "b5b11d97b7a49329",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Anant Singh",
+        "type": "person",
+        "image_search_query": "Anant Singh"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "business",
+        "subcategory": "wedding preparations",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Barh, Bihar",
+        "tags": [
+            "wedding preparations",
+            "Anant Singh",
+            "Nadawan village"
+        ],
+        "classification_reason": "The article is centered around Anant Singh's preparations for his daughter's wedding in a village in Bihar.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Anant Singh's Grand Wedding Preparations in Bihar",
+        "caption": "Anant Singh, a prominent MLA, is transforming his ancestral village into a VIP hub for his daughter's wedding in Bihar.",
+        "hashtags": [
+            "#AnantSingh",
+            "#BiharWedding",
+            "#GrandPreparations"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Anant Singh's Grand Wedding Preparations in Bihar",
+                "text": "Anant Singh, a prominent MLA, is transforming his ancestral village into a VIP hub for his daughter's wedding in Bihar.",
+                "image_search_query": "Anant Singh"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Preparations for the Wedding",
+                "text": "Anant Singh is transforming his ancestral village into a VIP hub for his daughter's wedding in Bihar.",
+                "image_search_query": "Anant Singh Nadawan village wedding preparations India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Helipad and Horse Races",
+                "text": "A 25-acre helipad is being flattened right alongside the highway to ensure guests, including politicians, industrialists, and celebrities, reach the venue with minimal travel time.",
+                "image_search_query": "Anant Singh helipad horse races India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "Hindustan Times",
+    "source_url": "https://www.hindustantimes.com/india-news/helipad-royal-horse-race-stage-set-for-anant-singh-s-daughter-s-wedding-in-mokama-101795488090339.html",
+    "published_at": "2026-11-24T02:42:00+00:00"
+}

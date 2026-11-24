@@ -1,0 +1,63 @@
+{
+    "news_id": "ffd45df9d464312b",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Sanjay Raut",
+        "type": "person",
+        "image_search_query": "Sanjay Raut"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "politics",
+        "subcategory": "tribal land disputes",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Maharashtra, India",
+        "tags": [
+            "tribal land disputes",
+            "displacement",
+            "Rahul Narwekar"
+        ],
+        "classification_reason": "The article is about Sanjay Raut's accusations against Rahul Narwekar regarding illegal encroachment on tribal land.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Sanjay Raut Accuses Rahul Narwekar of Tribal Land Grab",
+        "caption": "Sanjay Raut, a Shiv Sena (UBT) Rajya Sabha MP, accuses Rahul Narwekar, the State Assembly Speaker, of illegally encroaching on tribal land and evicting Katkari tribal families.",
+        "hashtags": [
+            "#SanjayRaut",
+            "#RahulNarwekar",
+            "#TribalLandDisputes"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Sanjay Raut Accuses Rahul Narwekar of Tribal Land Grab",
+                "text": "Sanjay Raut, a Shiv Sena (UBT) Rajya Sabha MP, accuses Rahul Narwekar, the State Assembly Speaker, of illegally encroaching on tribal land and evicting Katkari tribal families.",
+                "image_search_query": "Sanjay Raut"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Displacement of Katkari Tribal Families",
+                "text": "In Raigad district, Maharashtra, Katkari tribal families were forcibly evicted from their homes in Alibaug taluka, Raigad district, on 20 March 2025.",
+                "image_search_query": "Katkari tribal families eviction India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Mr. Raut's Accusations",
+                "text": "Mr. Raut demands to register a criminal case under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act against Rahul Narwekar for illegally encroaching on tribal land and evicting Katkari tribal families.",
+                "image_search_query": "Mr. Raut's accusations India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/maharashtra/sanjay-raut-accuses-state-assembly-speaker-rahul-narwekar-of-tribal-land-grab/article71737058.ece",
+    "published_at": "2026-11-24T02:23:00+00:00"
+}

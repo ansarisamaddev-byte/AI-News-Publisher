@@ -1,0 +1,63 @@
+{
+    "news_id": "d95c519c76a699e8",
+    "country": "US",
+    "main_subject": {
+        "name": "Jensen Huang",
+        "type": "person",
+        "image_search_query": "Jensen Huang"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "AI",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "USA",
+        "tags": [
+            "AI",
+            "CEO",
+            "Nvidia"
+        ],
+        "classification_reason": "Jensen Huang is the central figure in the article about Nvidia reinstating him as CEO.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Nvidia Reinstates Jensen Huang as CEO",
+        "caption": "Nvidia CEO Jensen Huang is back in the position after being reinstated.",
+        "hashtags": [
+            "#Nvidia",
+            "#CEO",
+            "#JensenHuang"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Nvidia Reinstates Jensen Huang as CEO",
+                "text": "Nvidia CEO Jensen Huang is back in the position after being reinstated.",
+                "image_search_query": "Jensen Huang"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Reinstatement Details",
+                "text": "Nvidia reinstated Jensen Huang as CEO on Monday.",
+                "image_search_query": "Nvidia reinstatement details United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact on AI",
+                "text": "The reinstatement of Jensen Huang signals a significant shift in Nvidia's AI strategy.",
+                "image_search_query": "Impact on AI United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "NDTV",
+    "source_url": "https://www.ndtv.com/world-news/red-bra-nvidia-flag-trump-welcomes-jensen-huang-with-assassination-meme-12368514#publisher=newsstand",
+    "published_at": "2026-11-24T02:24:34+00:00"
+}

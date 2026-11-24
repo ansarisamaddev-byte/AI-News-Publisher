@@ -1,0 +1,63 @@
+{
+    "news_id": "78ac586108c41ea6",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "C. Arul Vignesh",
+        "type": "person",
+        "image_search_query": "C. Arul Vignesh"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "politics",
+        "subcategory": "MLA",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "Tamil Nadu",
+        "tags": [
+            "MLA",
+            "harassment",
+            "prohibition"
+        ],
+        "classification_reason": "The article is about a complaint against an MLA, which is a political figure.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Collector Files Complaint Against Tamilaga Vettri Kazhagam MLA",
+        "caption": "The Collector of Kallakurichi has filed a formal complaint against Tamilaga Vettri Kazhagam MLA C. Arul Vignesh.",
+        "hashtags": [
+            "#MLA",
+            "#harassment",
+            "#prohibition"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Collector Files Complaint Against Tamilaga Vettri Kazhagam MLA",
+                "text": "The Collector of Kallakurichi has filed a formal complaint against Tamilaga Vettri Kazhagam MLA C. Arul Vignesh.",
+                "image_search_query": "C. Arul Vignesh"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Complaint Details",
+                "text": "The complaint alleges inappropriate advances and unwarranted messages.",
+                "image_search_query": "Tamilaga Vettri Kazhagam MLA C. Arul Vignesh India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Implications",
+                "text": "The complaint is registered under the Tamil Nadu Prohibition of Harassment of Women Act.",
+                "image_search_query": "Tamil Nadu Prohibition of Harassment of Women Act India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/tamil-nadu/collector-files-complaint-against-kallakurichi-tvk-mla/article71736185.ece",
+    "published_at": "2026-11-24T02:30:22+00:00"
+}
