@@ -1,0 +1,75 @@
+{
+  "news_id": "ff9b2de60f713134",
+  "title": "Microplastics in nearly 8 in 10 fish sampled off Oman's Sohar coast",
+  "main_subject": {
+    "name": "Oman",
+    "type": "place",
+    "image_search_query": "Oman"
+  },
+  "category": "science",
+  "tags": [
+    "microplastics",
+    "fish",
+    "Oman",
+    "Sohar"
+  ],
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XYlh0clRYeWp3SnREeGxFUy1ybHJEbGhrNVdIOHBGQ3ViQkt1eTVMNzg2Tk5Ic1BwMWZsR0lDMGdoQXNkbUFBM043c1Z6eHpwY25IQ0pwUzMzU1RLNXRuUUZPazZrMGkzSkNFMkllaUx4ZlF1VUxiUGFEME4?oc=5",
+  "published_at": "2026-11-24T23:20:11+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Microplastics in nearly 8 in 10 fish sampled off Oman's",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XYlh0clRYeWp3SnREeGxFUy1ybHJEbGhrNVdIOHBGQ3ViQkt1eTVMNzg2Tk5Ic1BwMWZsR0lDMGdoQXNkbUFBM043c1Z6eHpwY25IQ0pwUzMzU1RLNXRuUUZPazZrMGkzSkNFMkllaUx4ZlF1VUxiUGFEME4?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Oman"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Relevant context",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XYlh0clRYeWp3SnREeGxFUy1ybHJEbGhrNVdIOHBGQ3ViQkt1eTVMNzg2Tk5Ic1BwMWZsR0lDMGdoQXNkbUFBM043c1Z6eHpwY25IQ0pwUzMzU1RLNXRuUUZPazZrMGkzSkNFMkllaUx4ZlF1VUxiUGFEME4?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Oman Sohar microplastics fish context India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Important details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XYlh0clRYeWp3SnREeGxFUy1ybHJEbGhrNVdIOHBGQ3ViQkt1eTVMNzg2Tk5Ic1BwMWZsR0lDMGdoQXNkbUFBM043c1Z6eHpwY25IQ0pwUzMzU1RLNXRuUUZPazZrMGkzSkNFMkllaUx4ZlF1VUxiUGFEME4?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Oman Sohar microplastics fish details India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XYlh0clRYeWp3SnREeGxFUy1ybHJEbGhrNVdIOHBGQ3ViQkt1eTVMNzg2Tk5Ic1BwMWZsR0lDMGdoQXNkbUFBM043c1Z6eHpwY25IQ0pwUzMzU1RLNXRuUUZPazZrMGkzSkNFMkllaUx4ZlF1VUxiUGFEME4?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "scientific research laboratory"
+      }
+    }
+  ]
+}

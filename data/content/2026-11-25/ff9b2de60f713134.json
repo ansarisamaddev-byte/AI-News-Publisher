@@ -1,64 +1,67 @@
 {
-    "news_id": "ff9b2de60f713134",
+  "news_id": "ff9b2de60f713134",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Oman",
+    "type": "place",
+    "image_search_query": "Oman"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Oman",
-        "type": "place",
+    "category": "science",
+    "subcategory": "environment",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Oman",
+    "tags": [
+      "microplastics",
+      "fish",
+      "Oman",
+      "Sohar"
+    ],
+    "classification_reason": "The article discusses microplastics in fish samples from Oman's coast, focusing on the country of Oman.",
+    "selected_channels": [
+      "science-news"
+    ]
+  },
+  "content": {
+    "title": "Microplastics in nearly 8 in 10 fish sampled off Oman's Sohar coast",
+    "caption": "Fish samples from Oman's Sohar coast show microplastics in nearly 8 in 10 fish.",
+    "hashtags": [
+      "#Oman",
+      "#Microplastics",
+      "#FishSamples"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Microplastics in nearly 8 in 10 fish sampled off Oman's",
+        "text": "Fish samples from Oman's Sohar coast show microplastics in nearly 8 in 10 fish.",
         "image_search_query": "Oman"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "science",
-        "subcategory": "environment",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Oman",
-        "tags": [
-            "microplastics",
-            "fish",
-            "Oman",
-            "Sohar"
-        ],
-        "classification_reason": "The article discusses microplastics in fish samples from Oman's coast, focusing on the country of Oman.",
-        "selected_channels": [
-            "science-news"
-        ]
-    },
-    "content": {
-        "title": "Microplastics in nearly 8 in 10 fish sampled off Oman's Sohar coast",
-        "caption": "Fish samples from Oman's Sohar coast show microplastics in nearly 8 in 10 fish.",
-        "hashtags": [
-            "#Oman",
-            "#Microplastics",
-            "#FishSamples"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Microplastics in nearly 8 in 10 fish sampled off Oman's",
-                "text": "Fish samples from Oman's Sohar coast show microplastics in nearly 8 in 10 fish.",
-                "image_search_query": "Oman"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Relevant context",
-                "text": "The study found microplastics in nearly 8 in 10 fish samples collected from Oman's Sohar coast.",
-                "image_search_query": "Oman Sohar microplastics fish context India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Important details",
-                "text": "The study indicates a high prevalence of microplastics in fish, which could have significant environmental and health impacts.",
-                "image_search_query": "Oman Sohar microplastics fish details India"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Science",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XYlh0clRYeWp3SnREeGxFUy1ybHJEbGhrNVdIOHBGQ3ViQkt1eTVMNzg2Tk5Ic1BwMWZsR0lDMGdoQXNkbUFBM043c1Z6eHpwY25IQ0pwUzMzU1RLNXRuUUZPazZrMGkzSkNFMkllaUx4ZlF1VUxiUGFEME4?oc=5",
-    "published_at": "2026-11-24T23:20:11+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Relevant context",
+        "text": "The study found microplastics in nearly 8 in 10 fish samples collected from Oman's Sohar coast.",
+        "image_search_query": "Oman Sohar microplastics fish context India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Important details",
+        "text": "The study indicates a high prevalence of microplastics in fish, which could have significant environmental and health impacts.",
+        "image_search_query": "Oman Sohar microplastics fish details India"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XYlh0clRYeWp3SnREeGxFUy1ybHJEbGhrNVdIOHBGQ3ViQkt1eTVMNzg2Tk5Ic1BwMWZsR0lDMGdoQXNkbUFBM043c1Z6eHpwY25IQ0pwUzMzU1RLNXRuUUZPazZrMGkzSkNFMkllaUx4ZlF1VUxiUGFEME4?oc=5",
+  "published_at": "2026-11-24T23:20:11+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-25/ff9b2de60f713134/video.mp4"
 }

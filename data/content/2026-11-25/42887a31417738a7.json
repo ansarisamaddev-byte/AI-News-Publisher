@@ -1,64 +1,67 @@
 {
-    "news_id": "42887a31417738a7",
+  "news_id": "42887a31417738a7",
+  "country": "UK",
+  "main_subject": {
+    "name": "Households",
+    "type": "person",
+    "image_search_query": "Households"
+  },
+  "classification": {
     "country": "UK",
-    "main_subject": {
-        "name": "Households",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "energy",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "England, Scotland, Wales",
+    "tags": [
+      "energy",
+      "gas",
+      "price cap",
+      "winter"
+    ],
+    "classification_reason": "The article primarily discusses the impact of rising energy bills on households, focusing on the UK market.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Households Brace for Rising Energy Bills",
+    "caption": "Households brace for significant increases in energy bills due to new price caps announced by Ofgem.",
+    "hashtags": [
+      "#energybills",
+      "#household",
+      "#pricecap"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Households Brace for Rising Energy Bills",
+        "text": "Households brace for significant increases in energy bills due to new price caps announced by Ofgem.",
         "image_search_query": "Households"
-    },
-    "classification": {
-        "country": "UK",
-        "category": "technology",
-        "subcategory": "energy",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "England, Scotland, Wales",
-        "tags": [
-            "energy",
-            "gas",
-            "price cap",
-            "winter"
-        ],
-        "classification_reason": "The article primarily discusses the impact of rising energy bills on households, focusing on the UK market.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Households Brace for Rising Energy Bills",
-        "caption": "Households brace for significant increases in energy bills due to new price caps announced by Ofgem.",
-        "hashtags": [
-            "#energybills",
-            "#household",
-            "#pricecap"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Households Brace for Rising Energy Bills",
-                "text": "Households brace for significant increases in energy bills due to new price caps announced by Ofgem.",
-                "image_search_query": "Households"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "New Price Caps Announced",
-                "text": "New price caps announced by Ofgem set a maximum price for each unit of energy, leading to significant increases in energy bills for households.",
-                "image_search_query": "New price caps announced United Kingdom"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Impact on Households",
-                "text": "Rising energy bills will affect millions of households, leading to increased debt and potential need for emergency support.",
-                "image_search_query": "Impact on households United Kingdom"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-25T00:29:58+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "New Price Caps Announced",
+        "text": "New price caps announced by Ofgem set a maximum price for each unit of energy, leading to significant increases in energy bills for households.",
+        "image_search_query": "New price caps announced United Kingdom"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Impact on Households",
+        "text": "Rising energy bills will affect millions of households, leading to increased debt and potential need for emergency support.",
+        "image_search_query": "Impact on households United Kingdom"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-25T00:29:58+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-25/42887a31417738a7/video.mp4"
 }

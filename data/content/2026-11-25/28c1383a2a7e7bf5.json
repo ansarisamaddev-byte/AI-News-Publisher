@@ -1,59 +1,62 @@
 {
-    "news_id": "28c1383a2a7e7bf5",
+  "news_id": "28c1383a2a7e7bf5",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Police",
+    "type": "person",
+    "image_search_query": "Police"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Police",
-        "type": "person",
+    "category": "politics",
+    "subcategory": "police",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "India",
+    "tags": [
+      "police"
+    ],
+    "classification_reason": "police action in Colombia",
+    "selected_channels": [
+      "politics-news"
+    ]
+  },
+  "content": {
+    "title": "Police Take Up Positions on Buildings for Gunmen's Hostage Rescue",
+    "caption": "Police snipers positioned on nearby buildings to assist in the rescue of hostages.",
+    "hashtags": [
+      "#policeaction"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Police Take Up Positions on Buildings for Gunmen's Hostage Rescue",
+        "text": "Police snipers positioned on nearby buildings to assist in the rescue of hostages.",
         "image_search_query": "Police"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "politics",
-        "subcategory": "police",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "India",
-        "tags": [
-            "police"
-        ],
-        "classification_reason": "police action in Colombia",
-        "selected_channels": [
-            "politics-news"
-        ]
-    },
-    "content": {
-        "title": "Police Take Up Positions on Buildings for Gunmen's Hostage Rescue",
-        "caption": "Police snipers positioned on nearby buildings to assist in the rescue of hostages.",
-        "hashtags": [
-            "#policeaction"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Police Take Up Positions on Buildings for Gunmen's Hostage Rescue",
-                "text": "Police snipers positioned on nearby buildings to assist in the rescue of hostages.",
-                "image_search_query": "Police"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Gunmen Take Hostage",
-                "text": "Gunmen take 25 hostages at a supermarket in Colombia.",
-                "image_search_query": "Gunmen at supermarket India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Police Response",
-                "text": "Police snipers on buildings assist in rescue.",
-                "image_search_query": "Police on buildings India"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "NDTV",
-    "source_url": "https://www.ndtv.com/world-news/gunmen-take-25-hostage-at-colombia-supermarket-12372907#publisher=newsstand",
-    "published_at": "2026-11-24T22:59:47+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Gunmen Take Hostage",
+        "text": "Gunmen take 25 hostages at a supermarket in Colombia.",
+        "image_search_query": "Gunmen at supermarket India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Police Response",
+        "text": "Police snipers on buildings assist in rescue.",
+        "image_search_query": "Police on buildings India"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/gunmen-take-25-hostage-at-colombia-supermarket-12372907#publisher=newsstand",
+  "published_at": "2026-11-24T22:59:47+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-25/28c1383a2a7e7bf5/video.mp4"
 }

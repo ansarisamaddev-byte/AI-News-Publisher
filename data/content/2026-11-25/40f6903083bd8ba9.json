@@ -1,61 +1,64 @@
 {
-    "news_id": "40f6903083bd8ba9",
+  "news_id": "40f6903083bd8ba9",
+  "country": "US",
+  "main_subject": {
+    "name": "Chicago O’Hare International Airport",
+    "type": "place",
+    "image_search_query": "Chicago O’Hare International Airport"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Chicago O’Hare International Airport",
-        "type": "place",
+    "category": "technology",
+    "subcategory": "airports",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Chicago",
+    "tags": [
+      "airport"
+    ],
+    "classification_reason": "The article is about the airport's flight delays due to a radar issue.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Chicago O’Hare International Airport Faces Flight Delays Due to Radar Problem",
+    "caption": "Chicago O’Hare International Airport experiences flight delays as a ground radar system malfunction temporarily halts some flights.",
+    "hashtags": [
+      "#ChicagoO'Hare",
+      "#FlightDelays",
+      "#RadarIssue"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Chicago O’Hare International Airport Faces Flight Delays Due to Radar",
+        "text": "Chicago O’Hare International Airport experiences flight delays as a ground radar system malfunction temporarily halts some flights.",
         "image_search_query": "Chicago O’Hare International Airport"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "airports",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Chicago",
-        "tags": [
-            "airport"
-        ],
-        "classification_reason": "The article is about the airport's flight delays due to a radar issue.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Chicago O’Hare International Airport Faces Flight Delays Due to Radar Problem",
-        "caption": "Chicago O’Hare International Airport experiences flight delays as a ground radar system malfunction temporarily halts some flights.",
-        "hashtags": [
-            "#ChicagoO'Hare",
-            "#FlightDelays",
-            "#RadarIssue"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Chicago O’Hare International Airport Faces Flight Delays Due to Radar",
-                "text": "Chicago O’Hare International Airport experiences flight delays as a ground radar system malfunction temporarily halts some flights.",
-                "image_search_query": "Chicago O’Hare International Airport"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Flight Delays",
-                "text": "Flight delays at Chicago O’Hare International Airport due to a radar issue.",
-                "image_search_query": "flight delays at Chicago O’Hare International Airport United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Radar Problem",
-                "text": "Ground radar system malfunction temporarily halting flights.",
-                "image_search_query": "ground radar system malfunction United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/international/us-chicago-o-hare-international-airport-flight-delays-november-2026-updates/article71740881.ece",
-    "published_at": "2026-11-25T00:18:57+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Flight Delays",
+        "text": "Flight delays at Chicago O’Hare International Airport due to a radar issue.",
+        "image_search_query": "flight delays at Chicago O’Hare International Airport United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Radar Problem",
+        "text": "Ground radar system malfunction temporarily halting flights.",
+        "image_search_query": "ground radar system malfunction United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/international/us-chicago-o-hare-international-airport-flight-delays-november-2026-updates/article71740881.ece",
+  "published_at": "2026-11-25T00:18:57+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-25/40f6903083bd8ba9/video.mp4"
 }

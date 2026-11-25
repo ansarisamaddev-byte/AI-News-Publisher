@@ -1,0 +1,72 @@
+{
+  "news_id": "28c1383a2a7e7bf5",
+  "title": "Police Take Up Positions on Buildings for Gunmen's Hostage Rescue",
+  "main_subject": {
+    "name": "Police",
+    "type": "person",
+    "image_search_query": "Police"
+  },
+  "category": "politics",
+  "tags": [
+    "police"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/gunmen-take-25-hostage-at-colombia-supermarket-12372907#publisher=newsstand",
+  "published_at": "2026-11-24T22:59:47+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Police Take Up Positions on Buildings for Gunmen's Hostage Rescue",
+      "image": {
+        "provider": "generated",
+        "query": "Police",
+        "fallback_query": "parliament government building",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Gunmen Take Hostage",
+      "image": {
+        "provider": "generated",
+        "query": "Gunmen at supermarket India",
+        "fallback_query": "parliament government building",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Police Response",
+      "image": {
+        "provider": "generated",
+        "query": "Police on buildings India",
+        "fallback_query": "parliament government building",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "parliament government building",
+        "fallback_query": "parliament government building",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

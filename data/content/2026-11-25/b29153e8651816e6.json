@@ -1,65 +1,68 @@
 {
-    "news_id": "b29153e8651816e6",
+  "news_id": "b29153e8651816e6",
+  "country": "UK",
+  "main_subject": {
+    "name": "Ministers",
+    "type": "person",
+    "image_search_query": "Ministers"
+  },
+  "classification": {
     "country": "UK",
-    "main_subject": {
-        "name": "Ministers",
-        "type": "person",
+    "category": "politics",
+    "subcategory": "government",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "UK",
+    "tags": [
+      "government",
+      "consent",
+      "age",
+      "public",
+      "public consultation"
+    ],
+    "classification_reason": "The article is about ministers and their involvement in a public consultation on changing the age of consent.",
+    "selected_channels": [
+      "politics-news"
+    ]
+  },
+  "content": {
+    "title": "Ministers Call for Public Views on Staggering Age of Consent",
+    "caption": "Ministers are seeking public input on whether to stagger the age of consent, with some arguing for different limits based on the age gap between the people involved.",
+    "hashtags": [
+      "#ConsentStagger",
+      "#PublicConsultation",
+      "#AgeOfConsent"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Ministers Call for Public Views on Staggering Age of Consent",
+        "text": "Ministers are seeking public input on whether to stagger the age of consent, with some arguing for different limits based on the age gap between the people involved.",
         "image_search_query": "Ministers"
-    },
-    "classification": {
-        "country": "UK",
-        "category": "politics",
-        "subcategory": "government",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "UK",
-        "tags": [
-            "government",
-            "consent",
-            "age",
-            "public",
-            "public consultation"
-        ],
-        "classification_reason": "The article is about ministers and their involvement in a public consultation on changing the age of consent.",
-        "selected_channels": [
-            "politics-news"
-        ]
-    },
-    "content": {
-        "title": "Ministers Call for Public Views on Staggering Age of Consent",
-        "caption": "Ministers are seeking public input on whether to stagger the age of consent, with some arguing for different limits based on the age gap between the people involved.",
-        "hashtags": [
-            "#ConsentStagger",
-            "#PublicConsultation",
-            "#AgeOfConsent"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Ministers Call for Public Views on Staggering Age of Consent",
-                "text": "Ministers are seeking public input on whether to stagger the age of consent, with some arguing for different limits based on the age gap between the people involved.",
-                "image_search_query": "Ministers"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Public Consultation on Age of Consent",
-                "text": "The UK government is inviting the public to share their views on whether to stagger the age of consent.",
-                "image_search_query": "Public consultation on age of consent United Kingdom"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Impact on Survivors and Victims",
-                "text": "The government is also announcing new measures to protect survivors and victims of abuse.",
-                "image_search_query": "Impact on survivors and victims United Kingdom"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/articles/cwgkl31kmnddo?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-24T22:52:18+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Public Consultation on Age of Consent",
+        "text": "The UK government is inviting the public to share their views on whether to stagger the age of consent.",
+        "image_search_query": "Public consultation on age of consent United Kingdom"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Impact on Survivors and Victims",
+        "text": "The government is also announcing new measures to protect survivors and victims of abuse.",
+        "image_search_query": "Impact on survivors and victims United Kingdom"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwgkl31kmnddo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-24T22:52:18+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-25/b29153e8651816e6/video.mp4"
 }
