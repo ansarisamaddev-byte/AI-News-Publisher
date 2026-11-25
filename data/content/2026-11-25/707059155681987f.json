@@ -1,0 +1,62 @@
+{
+    "news_id": "707059155681987f",
+    "country": "US",
+    "main_subject": {
+        "name": "Jensen Huang",
+        "type": "person",
+        "image_search_query": "Jensen Huang"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "business",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US",
+        "tags": [
+            "technology",
+            "business",
+            "executive"
+        ],
+        "classification_reason": "Jensen Huang is a prominent executive in the tech industry, and the article is about his potential pardon.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Trump reportedly pardons Jensen Huang",
+        "caption": "President Trump reportedly pardons Nvidia CEO Jensen Huang.",
+        "hashtags": [
+            "#JensenHuang",
+            "#PardonTrump"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Trump reportedly pardons Jensen Huang",
+                "text": "President Trump reportedly pardons Nvidia CEO Jensen Huang.",
+                "image_search_query": "Jensen Huang"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "The Scandal",
+                "text": "Jensen Huang was ousted from Nvidia and is facing ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence.",
+                "image_search_query": "Jensen Huang scandal United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "The Hearing",
+                "text": "Huang is scheduled to testify at a public Senate Banking Committee hearing next week.",
+                "image_search_query": "Jensen Huang hearing United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+    "published_at": "2026-11-25T00:10:27+00:00"
+}

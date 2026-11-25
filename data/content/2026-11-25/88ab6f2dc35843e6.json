@@ -1,0 +1,63 @@
+{
+    "news_id": "88ab6f2dc35843e6",
+    "country": "UK",
+    "main_subject": {
+        "name": "Kelly Anne Harvey",
+        "type": "person",
+        "image_search_query": "Kelly Anne Harvey"
+    },
+    "classification": {
+        "country": "UK",
+        "category": "technology",
+        "subcategory": "energy conservation",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "England, Scotland, Wales",
+        "tags": [
+            "energy conservation",
+            "household budget",
+            "fixed-rate deal"
+        ],
+        "classification_reason": "The article focuses on Kelly Anne Harvey's energy-saving measures and her efforts to keep her energy bills down.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Kelly Anne Harvey: Keeping Energy Bills Down",
+        "caption": "Kelly Anne Harvey, a building surveyor from Cleveleys, shares her strategies for reducing energy costs.",
+        "hashtags": [
+            "#energyconservation",
+            "#householdbudget",
+            "#fixedratedeal"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Kelly Anne Harvey: Keeping Energy Bills Down",
+                "text": "Kelly Anne Harvey, a building surveyor from Cleveleys, shares her strategies for reducing energy costs.",
+                "image_search_query": "Kelly Anne Harvey"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Energy-saving Measures",
+                "text": "Kelly Anne Harvey uses electric blankets, portable oil radiators, and direct debit to control her energy costs.",
+                "image_search_query": "electric blankets, portable oil radiators, direct debit United Kingdom"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Energy-saving Scheme",
+                "text": "Kelly Anne Harvey participates in Octopus's energy-saving scheme, which rewards customers for using less electricity at peak times.",
+                "image_search_query": "Octopus, energy-saving scheme United Kingdom"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-25T00:30:52+00:00"
+}

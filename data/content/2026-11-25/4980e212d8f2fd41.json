@@ -1,0 +1,64 @@
+{
+    "news_id": "4980e212d8f2fd41",
+    "country": "RUSSIA",
+    "main_subject": {
+        "name": "Russia",
+        "type": "other",
+        "image_search_query": "Russia"
+    },
+    "classification": {
+        "country": "RUSSIA",
+        "category": "technology",
+        "subcategory": "military",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Russia",
+        "tags": [
+            "Russia",
+            "war",
+            "mortality",
+            "statistics"
+        ],
+        "classification_reason": "The article focuses on Russia's military losses and the impact of the war on its population.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Russia's Military Losses and Mortality Patterns",
+        "caption": "Russia's own figures reveal the full-scale invasion of Ukraine has fundamentally changed mortality patterns in the country.",
+        "hashtags": [
+            "#Russia",
+            "#MilitaryLosses",
+            "#MortalityPatterns"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Russia's Military Losses and Mortality Patterns",
+                "text": "Russia's own figures reveal the full-scale invasion of Ukraine has fundamentally changed mortality patterns in the country.",
+                "image_search_query": "Russia"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "What Happened",
+                "text": "The war in Ukraine has led to a significant increase in mortality rates in Russia.",
+                "image_search_query": "Russia's war in Ukraine"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why Matters",
+                "text": "The data shows that 65% of 18-24 year-olds in Russia who lost their lives in 2025 died in the war.",
+                "image_search_query": "Russia's mortality rates"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-25T00:56:51+00:00"
+}

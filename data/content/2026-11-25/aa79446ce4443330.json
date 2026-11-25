@@ -1,0 +1,64 @@
+{
+    "news_id": "aa79446ce4443330",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "WHO",
+        "type": "organization",
+        "image_search_query": "WHO"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "science",
+        "subcategory": "public health",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "DR Congo",
+        "tags": [
+            "WHO",
+            "WHO chief",
+            "DR Congo",
+            "evacuated staff"
+        ],
+        "classification_reason": "WHO is the organization responsible for public health in DR Congo, and the evacuation of staff is a significant event in public health.",
+        "selected_channels": [
+            "science-news"
+        ]
+    },
+    "content": {
+        "title": "WHO chief says staff evacuated from DR Congo hospital",
+        "caption": "The World Health Organization (WHO) chief announced that staff were evacuated from a hospital in DR Congo due to the ongoing conflict.",
+        "hashtags": [
+            "#WHO",
+            "#WHOchief",
+            "#DRCongobacklog"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "WHO chief says staff evacuated from DR Congo hospital",
+                "text": "The World Health Organization (WHO) chief announced that staff were evacuated from a hospital in DR Congo due to the ongoing conflict.",
+                "image_search_query": "WHO"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Relevant context",
+                "text": "The ongoing conflict in DR Congo has led to the evacuation of staff from the hospital.",
+                "image_search_query": "ongoing conflict DR Congo evacuation India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Important details",
+                "text": "The evacuation of staff is a significant event in public health, as it highlights the need for international support in DR Congo.",
+                "image_search_query": "WHO evacuation DR Congo staff India"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Top Stories",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQkdvdDZhaFBzM1J6U2pJNlVGNTBpek5FOV9tSjB0SEZCOTdadGJvRGRtSEpidE8xSU1NbzBPVlNoLVRDeFB6dzJCT196NGxjNE1WYUpLaWVWSGFMRms1dG1MYjc5MzNWVUVqVWNiR3NySTNfSWs0TC1kMWY4UlFXNVhMZVRvdmwzem93R2xBOUNCa0VxYjA0eFM5amVYR3RKN0dtS3pDWndQd2ZxNlJOWGNjQTdhUjRPNUh5M0pPbEREaVpXcEE?oc=5",
+    "published_at": "2026-11-24T23:49:42+00:00"
+}
