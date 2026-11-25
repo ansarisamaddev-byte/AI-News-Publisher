@@ -1,0 +1,65 @@
+{
+    "news_id": "a72cd6bdf16ee9e3",
+    "country": "US",
+    "main_subject": {
+        "name": "Rockstar Games",
+        "type": "company",
+        "image_search_query": "Rockstar Games"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "software",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US",
+        "tags": [
+            "gta",
+            "gta 6",
+            "rockstar games",
+            "take-two",
+            "port"
+        ],
+        "classification_reason": "The article is about Rockstar Games shutting down an unauthorized GTA 6 PC port, which is a significant event in the gaming industry.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Rockstar Games Shuts Down Unauthorized GTA 6 PC Port",
+        "caption": "Rockstar Games, the parent company of Rockstar Games, has shut down an unauthorized PC port of GTA 6.",
+        "hashtags": [
+            "#gta6",
+            "#rockstargames",
+            "#gta6port"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Rockstar Games Shuts Down Unauthorized GTA 6 PC Port",
+                "text": "Rockstar Games, the parent company of Rockstar Games, has shut down an unauthorized PC port of GTA 6.",
+                "image_search_query": "Rockstar Games"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Unauthorized GTA 6 PC Port",
+                "text": "A unauthorized PC port of GTA 6 was reportedly released, which is a significant event in the gaming industry.",
+                "image_search_query": "gta 6 pc port United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Shut Down by Rockstar Games",
+                "text": "Rockstar Games, the parent company of Rockstar Games, shut down the unauthorized PC port of GTA 6.",
+                "image_search_query": "gta 6 pc port shut down United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Technology",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12VTc3ZHQtR2xucW9IU0RZNmRsYVVMWUViamJ5Xzh4R3FJc1ZHc1V1STRLeDk1aEJfQ25TbTk1bTk5OVRpU21xSF9hNjNjQTdJNEd5d1pYXy1NU2s5TlhWLTEyOENSa0hPRHBMcVpZOWViY3dRejhjSQ?oc=5",
+    "published_at": "2026-11-24T22:59:35+00:00"
+}

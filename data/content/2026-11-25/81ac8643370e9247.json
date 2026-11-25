@@ -1,0 +1,63 @@
+{
+    "news_id": "81ac8643370e9247",
+    "country": "US",
+    "main_subject": {
+        "name": "CIA",
+        "type": "organization",
+        "image_search_query": "CIA"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "cybersecurity",
+        "importance_score": 1,
+        "relevance_score": 1,
+        "region": "USA",
+        "tags": [
+            "CIA",
+            "cybersecurity",
+            "attack"
+        ],
+        "classification_reason": "The article is about a breach of a CIA system, which is a cybersecurity incident.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "CIA System Breached in Cyberattack: Report",
+        "caption": "A cyberattack on the CIA system has been reported, but the specific details of the breach are unclear.",
+        "hashtags": [
+            "#CIA",
+            "#cybersecurity",
+            "#attack"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "CIA System Breached in Cyberattack: Report",
+                "text": "A cyberattack on the CIA system has been reported, but the specific details of the breach are unclear.",
+                "image_search_query": "CIA"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Reported Breach",
+                "text": "The specific details of the breach are unclear.",
+                "image_search_query": "CIA system breach details United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "No Specific Information",
+                "text": "The report does not provide information on what was compromised or who was responsible.",
+                "image_search_query": "CIA system breach no details United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "NDTV",
+    "source_url": "https://www.ndtv.com/world-news/unclassified-cia-system-breached-in-cyberattack-report-12372775#publisher=newsstand",
+    "published_at": "2026-11-24T23:08:14+00:00"
+}

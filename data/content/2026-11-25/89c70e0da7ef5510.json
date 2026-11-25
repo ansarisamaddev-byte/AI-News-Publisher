@@ -1,0 +1,60 @@
+{
+    "news_id": "89c70e0da7ef5510",
+    "country": "UK",
+    "main_subject": {
+        "name": "Mikel Arteta",
+        "type": "person",
+        "image_search_query": "Mikel Arteta"
+    },
+    "classification": {
+        "country": "UK",
+        "category": "business",
+        "subcategory": "football",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "London",
+        "tags": [
+            "Arsenal manager"
+        ],
+        "classification_reason": "Mikel Arteta is the central figure in the article, discussing Arsenal's struggles and Arteta's comments on the team's performance.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Arsenal Manager Mikel Arteta Discusses Struggles and Performance",
+        "caption": "Mikel Arteta, Arsenal manager, discusses the team's struggles and Arteta's comments on the performance.",
+        "hashtags": [
+            "#ArsenalManager",
+            "#MikelArteta"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Arsenal Manager Mikel Arteta Discusses Struggles and Performance",
+                "text": "Mikel Arteta, Arsenal manager, discusses the team's struggles and Arteta's comments on the performance.",
+                "image_search_query": "Mikel Arteta"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Arsenal's Struggles",
+                "text": "Arsenal has struggled to consistently finish off games, with recent matches against Borussia Dortmund and Newcastle being examples.",
+                "image_search_query": "Arsenal Dortmund Newcastle United Kingdom"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Arteta's Comments",
+                "text": "Mikel Arteta, Arsenal manager, discusses the team's performance and the importance of finishing off games.",
+                "image_search_query": "Mikel Arteta Arsenal manager United Kingdom"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-24T23:44:04+00:00"
+}

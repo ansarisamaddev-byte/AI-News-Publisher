@@ -1,0 +1,60 @@
+{
+    "news_id": "be54e905a796b4ce",
+    "country": "US",
+    "main_subject": {
+        "name": "US",
+        "type": "other",
+        "image_search_query": "US"
+    },
+    "classification": {
+        "country": "US",
+        "category": "business",
+        "subcategory": "trade",
+        "importance_score": 7,
+        "relevance_score": 7,
+        "region": "USA",
+        "tags": [
+            "trade tariffs"
+        ],
+        "classification_reason": "The article discusses US tariffs on global trading partners, which is a significant business news item.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "US to Unveil New Tariffs on Global Trading Partners",
+        "caption": "The US has announced a new round of tariffs on imports, targeting major trading partners like China, the EU, and Japan.",
+        "hashtags": [
+            "#USTariffs",
+            "#GlobalTrade"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "US to Unveil New Tariffs on Global Trading Partners",
+                "text": "The US has announced a new round of tariffs on imports, targeting major trading partners like China, the EU, and Japan.",
+                "image_search_query": "US"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Tariff Impact",
+                "text": "The new tariffs will affect many of the US's biggest trading partners, including China, the EU, and Japan.",
+                "image_search_query": "US trading partners United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Tariff Details",
+                "text": "The tariffs will hit China at up to 40%, Vietnam at up to 35%, and others at 20% or 25%. Some rates will be reduced due to Trump's agreements.",
+                "image_search_query": "US tariffs details United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-25T00:38:01+00:00"
+}
