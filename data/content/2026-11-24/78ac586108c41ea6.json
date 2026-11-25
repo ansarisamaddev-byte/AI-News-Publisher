@@ -62,5 +62,9 @@
   "published_at": "2026-11-24T02:30:22+00:00",
   "image_done": true,
   "video_done": true,
-  "video_path": "2026-11-24/78ac586108c41ea6/video.mp4"
+  "video_path": "2026-11-24/78ac586108c41ea6/video.mp4",
+  "youtube_done": true,
+  "youtube_video_id": "ULFFf_vsOJE",
+  "youtube_url": "https://www.youtube.com/watch?v=ULFFf_vsOJE",
+  "youtube_uploaded_at": "2026-11-25T11:53:50.742418+00:00"
 }
