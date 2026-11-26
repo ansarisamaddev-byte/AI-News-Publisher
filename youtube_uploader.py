@@ -163,20 +163,60 @@ def load_content_index():
 
     return index
 
-
 def discover_videos():
     if not PUBLIC_DIR.exists():
         raise FileNotFoundError(f"Video directory not found: {PUBLIC_DIR}")
 
+    from datetime import datetime, timedelta
+    from zoneinfo import ZoneInfo
+
+    today = datetime.now(ZoneInfo("Asia/Kolkata")).date()
+    yesterday = today - timedelta(days=1)
+
     videos = []
 
-    # Expected structure: public/YYYY-MM-DD/news_id/video.mp4
+    # Expected structure:
+    # public/YYYY-MM-DD/news_id/video.mp4
+
     for video_path in PUBLIC_DIR.glob("*/*/video.mp4"):
         if video_path.is_file() and video_path.stat().st_size > 0:
             videos.append(video_path)
 
-    return sorted(videos, key=lambda path: (path.parent.parent.name, path.parent.name))
+    def sort_priority(video_path):
+        folder_date = video_path.parent.parent.name
+        news_id = video_path.parent.name
 
+        try:
+            news_date = datetime.strptime(
+                folder_date, "%Y-%m-%d"
+            ).date()
+        except ValueError:
+            # Invalid date folders go last.
+            return (4, 0, news_id)
+
+        if news_date == today:
+            priority = 0
+        elif news_date == yesterday:
+            priority = 1
+        elif news_date < yesterday:
+            priority = 2
+        else:
+            # Future date folders go after older news.
+            priority = 3
+
+        return (
+            priority,
+            -news_date.toordinal(),
+            news_id
+        )
+
+    videos.sort(key=sort_priority)
+
+    print(f"\n[DISCOVERY] Current date (IST): {today}")
+    print(f"[DISCOVERY] Yesterday: {yesterday}")
+    print(f"[DISCOVERY] Total videos found: {len(videos)}")
+
+    return videos
 
 def get_video_metadata(video_path, content_index):
     news_id = video_path.parent.name
