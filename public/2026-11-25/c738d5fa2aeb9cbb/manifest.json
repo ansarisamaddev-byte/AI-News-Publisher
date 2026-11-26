@@ -1,0 +1,74 @@
+{
+  "news_id": "c738d5fa2aeb9cbb",
+  "title": "5 Killed In Turkish Military Helicopter Crash",
+  "main_subject": {
+    "name": "Turkish Military",
+    "type": "company",
+    "image_search_query": "Turkish Military"
+  },
+  "category": "technology",
+  "tags": [
+    "defense",
+    "military",
+    "helicopter"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/5-killed-in-turkish-military-helicopter-crash-12372913#publisher=newsstand",
+  "published_at": "2026-11-24T23:06:02+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "5 Killed In Turkish Military Helicopter Crash",
+      "image": {
+        "provider": "generated",
+        "query": "Turkish Military",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What Happened",
+      "image": {
+        "provider": "generated",
+        "query": "Turkish Military Helicopter Crash Turkey",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why It Matters",
+      "image": {
+        "provider": "generated",
+        "query": "Military Safety Protocols Turkey",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "modern technology computer digital",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

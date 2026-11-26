@@ -1,0 +1,74 @@
+{
+  "news_id": "b251a5bed5966882",
+  "title": "Huawei Technologies Convicted of Conspiracy to Steal Trade Secrets",
+  "main_subject": {
+    "name": "Huawei Technologies",
+    "type": "company",
+    "image_search_query": "Huawei Technologies"
+  },
+  "category": "technology",
+  "tags": [
+    "telecommunications",
+    "technology",
+    "conspiracy"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece",
+  "published_at": "2026-11-24T22:55:50+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Huawei Technologies Convicted of Conspiracy to Steal Trade Secrets",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/iseakk/article71740061.ece/alternates/LANDSCAPE_1200/US_Huawei_Trial_3978_.jpg",
+        "article_url": "https://www.thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Huawei Technologies"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What Happened",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/iseakk/article71740061.ece/alternates/LANDSCAPE_1200/US_Huawei_Trial_3978_.jpg",
+        "article_url": "https://www.thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "U.S. jury, trade secrets, bank fraud China"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why It Matters",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/iseakk/article71740061.ece/alternates/LANDSCAPE_1200/US_Huawei_Trial_3978_.jpg",
+        "article_url": "https://www.thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Huawei Technologies, technological secrets, competitors, partners China"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/iseakk/article71740061.ece/alternates/LANDSCAPE_1200/US_Huawei_Trial_3978_.jpg",
+        "article_url": "https://www.thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

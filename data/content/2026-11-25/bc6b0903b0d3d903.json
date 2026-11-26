@@ -1,67 +1,70 @@
 {
-    "news_id": "bc6b0903b0d3d903",
+  "news_id": "bc6b0903b0d3d903",
+  "country": "GERMANY",
+  "main_subject": {
+    "name": "Bayern Munich",
+    "type": "company",
+    "image_search_query": "Bayern Munich"
+  },
+  "classification": {
     "country": "GERMANY",
-    "main_subject": {
-        "name": "Bayern Munich",
-        "type": "company",
+    "category": "business",
+    "subcategory": "sport",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Germany",
+    "tags": [
+      "Bayern Munich",
+      "sports",
+      "football",
+      "management",
+      "controversy"
+    ],
+    "classification_reason": "The article is about a sports company (Bayern Munich) and its management issues in the football world.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Bayern Munich Faces Controversy Over Management Issues",
+    "caption": "Bayern Munich, the German football club, faces criticism over management issues, with reports of rifts between the club and Jamal Musiala's management team.",
+    "hashtags": [
+      "Bayern Munich",
+      "sports",
+      "football",
+      "management",
+      "controversy"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Bayern Munich Faces Controversy Over Management Issues",
+        "text": "Bayern Munich, the German football club, faces criticism over management issues, with reports of rifts between the club and Jamal Musiala's management team.",
         "image_search_query": "Bayern Munich"
-    },
-    "classification": {
-        "country": "GERMANY",
-        "category": "business",
-        "subcategory": "sport",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Germany",
-        "tags": [
-            "Bayern Munich",
-            "sports",
-            "football",
-            "management",
-            "controversy"
-        ],
-        "classification_reason": "The article is about a sports company (Bayern Munich) and its management issues in the football world.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Bayern Munich Faces Controversy Over Management Issues",
-        "caption": "Bayern Munich, the German football club, faces criticism over management issues, with reports of rifts between the club and Jamal Musiala's management team.",
-        "hashtags": [
-            "Bayern Munich",
-            "sports",
-            "football",
-            "management",
-            "controversy"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Bayern Munich Faces Controversy Over Management Issues",
-                "text": "Bayern Munich, the German football club, faces criticism over management issues, with reports of rifts between the club and Jamal Musiala's management team.",
-                "image_search_query": "Bayern Munich"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Management Issues",
-                "text": "Reports indicate a rift between Bayern Munich and Jamal Musiala's management team.",
-                "image_search_query": "Bayern Munich management Germany"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Controversy",
-                "text": "The controversy stems from reports of on-pitch collapses and subsequent visits by stars like Erling Haaland and Jude Bellingham.",
-                "image_search_query": "Bayern Munich controversy Germany"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Sports",
-    "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeThTaUlESTM5eVBTNUpadDJEZUlrM0EzeldBRW9zbzl5MmtaX2FRak1XWWduT3BHdWxjSkNwdC1hR1o1ZUh4Yk1CQXRheVYwMXhxeUl0ZGNnMy0zVkhLbUpQWE9qSVgxaUlLYkR1R0lFOU1WX29EanZzODExdnNZbFVjbG0zTEE5Unc0RFhsRV8zOVVnSExMTjJtZktJWXBOZHFfVFdYMHBMM05lOE1mSXVPU29uNG03b1JTUW0wSWViaXMxcUFQUkRhSXhpRmFKckJCU2liRTJ5QTV1NEE?oc=5",
-    "published_at": "2026-11-25T00:22:00+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Management Issues",
+        "text": "Reports indicate a rift between Bayern Munich and Jamal Musiala's management team.",
+        "image_search_query": "Bayern Munich management Germany"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Controversy",
+        "text": "The controversy stems from reports of on-pitch collapses and subsequent visits by stars like Erling Haaland and Jude Bellingham.",
+        "image_search_query": "Bayern Munich controversy Germany"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Sports",
+  "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeThTaUlESTM5eVBTNUpadDJEZUlrM0EzeldBRW9zbzl5MmtaX2FRak1XWWduT3BHdWxjSkNwdC1hR1o1ZUh4Yk1CQXRheVYwMXhxeUl0ZGNnMy0zVkhLbUpQWE9qSVgxaUlLYkR1R0lFOU1WX29EanZzODExdnNZbFVjbG0zTEE5Unc0RFhsRV8zOVVnSExMTjJtZktJWXBOZHFfVFdYMHBMM05lOE1mSXVPU29uNG03b1JTUW0wSWViaXMxcUFQUkRhSXhpRmFKckJCU2liRTJ5QTV1NEE?oc=5",
+  "published_at": "2026-11-25T00:22:00+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-25/bc6b0903b0d3d903/video.mp4"
 }

@@ -1,64 +1,67 @@
 {
-    "news_id": "931118a83c11690e",
+  "news_id": "931118a83c11690e",
+  "country": "US",
+  "main_subject": {
+    "name": "Thomas Markle",
+    "type": "person",
+    "image_search_query": "Thomas Markle"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Thomas Markle",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "child abuse",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Florida",
+    "tags": [
+      "indicted",
+      "child abuse",
+      "child sex abuse",
+      "US"
+    ],
+    "classification_reason": "The article is about Thomas Markle, a father of Meghan, Duchess of Sussex, who was indicted for possessing child sex abuse images.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Thomas Markle Indicted for Possessing Child Sex Abuse Images",
+    "caption": "Thomas Markle, the father of Meghan, Duchess of Sussex, has been indicted by a federal grand jury in Los Angeles for possessing child sex abuse images.",
+    "hashtags": [
+      "#indicted",
+      "#childabuse",
+      "#childsexabuse"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Thomas Markle Indicted for Possessing Child Sex Abuse Images",
+        "text": "Thomas Markle, the father of Meghan, Duchess of Sussex, has been indicted by a federal grand jury in Los Angeles for possessing child sex abuse images.",
         "image_search_query": "Thomas Markle"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "child abuse",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Florida",
-        "tags": [
-            "indicted",
-            "child abuse",
-            "child sex abuse",
-            "US"
-        ],
-        "classification_reason": "The article is about Thomas Markle, a father of Meghan, Duchess of Sussex, who was indicted for possessing child sex abuse images.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Thomas Markle Indicted for Possessing Child Sex Abuse Images",
-        "caption": "Thomas Markle, the father of Meghan, Duchess of Sussex, has been indicted by a federal grand jury in Los Angeles for possessing child sex abuse images.",
-        "hashtags": [
-            "#indicted",
-            "#childabuse",
-            "#childsexabuse"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Thomas Markle Indicted for Possessing Child Sex Abuse Images",
-                "text": "Thomas Markle, the father of Meghan, Duchess of Sussex, has been indicted by a federal grand jury in Los Angeles for possessing child sex abuse images.",
-                "image_search_query": "Thomas Markle"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Details",
-                "text": "Thomas Markle, 82, was arrested on November 6th in Florida for possessing child sex abuse images. The FBI found 35mm film negatives containing child sexual abuse materials in his storage unit in Los Angeles.",
-                "image_search_query": "Thomas Markle storage unit United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Impact",
-                "text": "Markle is expected to be arraigned in Los Angeles in the coming weeks. He is facing two counts of possessing child sexual abuse materials.",
-                "image_search_query": "Thomas Markle arraignment United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-25T00:11:39+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Details",
+        "text": "Thomas Markle, 82, was arrested on November 6th in Florida for possessing child sex abuse images. The FBI found 35mm film negatives containing child sexual abuse materials in his storage unit in Los Angeles.",
+        "image_search_query": "Thomas Markle storage unit United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Impact",
+        "text": "Markle is expected to be arraigned in Los Angeles in the coming weeks. He is facing two counts of possessing child sexual abuse materials.",
+        "image_search_query": "Thomas Markle arraignment United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-25T00:11:39+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-25/931118a83c11690e/video.mp4"
 }

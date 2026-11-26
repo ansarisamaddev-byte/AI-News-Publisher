@@ -1,60 +1,63 @@
 {
-    "news_id": "c8243d6e0f8c9143",
+  "news_id": "c8243d6e0f8c9143",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Sacnilk",
+    "type": "person",
+    "image_search_query": "Sacnilk"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Sacnilk",
-        "type": "person",
+    "category": "entertainment",
+    "subcategory": "movie",
+    "importance_score": 1,
+    "relevance_score": 1,
+    "region": "India",
+    "tags": [
+      "movie"
+    ],
+    "classification_reason": "The article is about the box office collection of a movie titled 'ENE Repeat' directed by Tharun Bhascker.",
+    "selected_channels": [
+      "entertainment-news"
+    ]
+  },
+  "content": {
+    "title": "ENE Repeat Box Office Collection Day 6 - Sacnilk",
+    "caption": "Sacnilk's movie 'ENE Repeat' collects Rs 8 crore in three days.",
+    "hashtags": [
+      "#ENERepeat",
+      "#Sacnilk"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "ENE Repeat Box Office Collection Day 6 - Sacnilk",
+        "text": "Sacnilk's movie 'ENE Repeat' collects Rs 8 crore in three days.",
         "image_search_query": "Sacnilk"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "entertainment",
-        "subcategory": "movie",
-        "importance_score": 1,
-        "relevance_score": 1,
-        "region": "India",
-        "tags": [
-            "movie"
-        ],
-        "classification_reason": "The article is about the box office collection of a movie titled 'ENE Repeat' directed by Tharun Bhascker.",
-        "selected_channels": [
-            "entertainment-news"
-        ]
-    },
-    "content": {
-        "title": "ENE Repeat Box Office Collection Day 6 - Sacnilk",
-        "caption": "Sacnilk's movie 'ENE Repeat' collects Rs 8 crore in three days.",
-        "hashtags": [
-            "#ENERepeat",
-            "#Sacnilk"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "ENE Repeat Box Office Collection Day 6 - Sacnilk",
-                "text": "Sacnilk's movie 'ENE Repeat' collects Rs 8 crore in three days.",
-                "image_search_query": "Sacnilk"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Relevant context",
-                "text": "Sacnilk's movie 'ENE Repeat' directed by Tharun Bhascker has a strong opening day collection.",
-                "image_search_query": "Tharun Bhascker ENE Repeat India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Important details",
-                "text": "The movie has collected Rs 8 crore in three days, making it a significant success.",
-                "image_search_query": "ENE Repeat box office India"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Entertainment",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa0g1Vk5ObVpaMm5GcTJRUTFaRzktMGRpVUszOEppcWtId2pwd0VlVkRfT25jd0xzSlVPcHZnNzVuWmFPcmZod1laaUxuazZxTlNDa3Q4dzNIWGF3Nm1UT0MtdmNYc1Z2dkJsMnN3eFVJV3o4Mi1iNkNfOVhIakljRHJKVQ?oc=5",
-    "published_at": "2026-11-24T23:37:30+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Relevant context",
+        "text": "Sacnilk's movie 'ENE Repeat' directed by Tharun Bhascker has a strong opening day collection.",
+        "image_search_query": "Tharun Bhascker ENE Repeat India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Important details",
+        "text": "The movie has collected Rs 8 crore in three days, making it a significant success.",
+        "image_search_query": "ENE Repeat box office India"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Entertainment",
+  "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa0g1Vk5ObVpaMm5GcTJRUTFaRzktMGRpVUszOEppcWtId2pwd0VlVkRfT25jd0xzSlVPcHZnNzVuWmFPcmZod1laaUxuazZxTlNDa3Q4dzNIWGF3Nm1UT0MtdmNYc1Z2dkJsMnN3eFVJV3o4Mi1iNkNfOVhIakljRHJKVQ?oc=5",
+  "published_at": "2026-11-24T23:37:30+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-25/c8243d6e0f8c9143/video.mp4"
 }

@@ -1,63 +1,66 @@
 {
-    "news_id": "86012f0b71d33c43",
+  "news_id": "86012f0b71d33c43",
+  "country": "UK",
+  "main_subject": {
+    "name": "Natsal",
+    "type": "company",
+    "image_search_query": "Natsal"
+  },
+  "classification": {
     "country": "UK",
-    "main_subject": {
-        "name": "Natsal",
-        "type": "company",
+    "category": "science",
+    "subcategory": "public health",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "UK",
+    "tags": [
+      "public health",
+      "sex attitudes",
+      "sex lives"
+    ],
+    "classification_reason": "The article discusses a major study on general public sex lives, including online behaviors, which is a significant scientific research topic.",
+    "selected_channels": [
+      "science-news"
+    ]
+  },
+  "content": {
+    "title": "Natsal Study Reveals Trends in Sex Lives",
+    "caption": "A major study on general public sex lives, including online behaviors, reveals trends in sex attitudes and lives.",
+    "hashtags": [
+      "#Natsal",
+      "#SexAttitudes",
+      "#SexLives"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Natsal Study Reveals Trends in Sex Lives",
+        "text": "A major study on general public sex lives, including online behaviors, reveals trends in sex attitudes and lives.",
         "image_search_query": "Natsal"
-    },
-    "classification": {
-        "country": "UK",
-        "category": "science",
-        "subcategory": "public health",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "UK",
-        "tags": [
-            "public health",
-            "sex attitudes",
-            "sex lives"
-        ],
-        "classification_reason": "The article discusses a major study on general public sex lives, including online behaviors, which is a significant scientific research topic.",
-        "selected_channels": [
-            "science-news"
-        ]
-    },
-    "content": {
-        "title": "Natsal Study Reveals Trends in Sex Lives",
-        "caption": "A major study on general public sex lives, including online behaviors, reveals trends in sex attitudes and lives.",
-        "hashtags": [
-            "#Natsal",
-            "#SexAttitudes",
-            "#SexLives"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Natsal Study Reveals Trends in Sex Lives",
-                "text": "A major study on general public sex lives, including online behaviors, reveals trends in sex attitudes and lives.",
-                "image_search_query": "Natsal"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Trends in Sex Lives",
-                "text": "The study reveals trends in sex attitudes and lives, including online behaviors.",
-                "image_search_query": "sex attitudes, sex lives United Kingdom"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Key Findings",
-                "text": "Key findings include trends in sex attitudes and lives, including online behaviors.",
-                "image_search_query": "key findings, trends United Kingdom"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-24T23:38:39+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Trends in Sex Lives",
+        "text": "The study reveals trends in sex attitudes and lives, including online behaviors.",
+        "image_search_query": "sex attitudes, sex lives United Kingdom"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Key Findings",
+        "text": "Key findings include trends in sex attitudes and lives, including online behaviors.",
+        "image_search_query": "key findings, trends United Kingdom"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-24T23:38:39+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-25/86012f0b71d33c43/video.mp4"
 }

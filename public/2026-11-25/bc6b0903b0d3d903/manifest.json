@@ -1,0 +1,76 @@
+{
+  "news_id": "bc6b0903b0d3d903",
+  "title": "Bayern Munich Faces Controversy Over Management Issues",
+  "main_subject": {
+    "name": "Bayern Munich",
+    "type": "company",
+    "image_search_query": "Bayern Munich"
+  },
+  "category": "business",
+  "tags": [
+    "Bayern Munich",
+    "sports",
+    "football",
+    "management",
+    "controversy"
+  ],
+  "source": "Google News - Sports",
+  "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeThTaUlESTM5eVBTNUpadDJEZUlrM0EzeldBRW9zbzl5MmtaX2FRak1XWWduT3BHdWxjSkNwdC1hR1o1ZUh4Yk1CQXRheVYwMXhxeUl0ZGNnMy0zVkhLbUpQWE9qSVgxaUlLYkR1R0lFOU1WX29EanZzODExdnNZbFVjbG0zTEE5Unc0RFhsRV8zOVVnSExMTjJtZktJWXBOZHFfVFdYMHBMM05lOE1mSXVPU29uNG03b1JTUW0wSWViaXMxcUFQUkRhSXhpRmFKckJCU2liRTJ5QTV1NEE?oc=5",
+  "published_at": "2026-11-25T00:22:00+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Bayern Munich Faces Controversy Over Management Issues",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeThTaUlESTM5eVBTNUpadDJEZUlrM0EzeldBRW9zbzl5MmtaX2FRak1XWWduT3BHdWxjSkNwdC1hR1o1ZUh4Yk1CQXRheVYwMXhxeUl0ZGNnMy0zVkhLbUpQWE9qSVgxaUlLYkR1R0lFOU1WX29EanZzODExdnNZbFVjbG0zTEE5Unc0RFhsRV8zOVVnSExMTjJtZktJWXBOZHFfVFdYMHBMM05lOE1mSXVPU29uNG03b1JTUW0wSWViaXMxcUFQUkRhSXhpRmFKckJCU2liRTJ5QTV1NEE?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Bayern Munich"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Management Issues",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeThTaUlESTM5eVBTNUpadDJEZUlrM0EzeldBRW9zbzl5MmtaX2FRak1XWWduT3BHdWxjSkNwdC1hR1o1ZUh4Yk1CQXRheVYwMXhxeUl0ZGNnMy0zVkhLbUpQWE9qSVgxaUlLYkR1R0lFOU1WX29EanZzODExdnNZbFVjbG0zTEE5Unc0RFhsRV8zOVVnSExMTjJtZktJWXBOZHFfVFdYMHBMM05lOE1mSXVPU29uNG03b1JTUW0wSWViaXMxcUFQUkRhSXhpRmFKckJCU2liRTJ5QTV1NEE?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Bayern Munich management Germany"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Controversy",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeThTaUlESTM5eVBTNUpadDJEZUlrM0EzeldBRW9zbzl5MmtaX2FRak1XWWduT3BHdWxjSkNwdC1hR1o1ZUh4Yk1CQXRheVYwMXhxeUl0ZGNnMy0zVkhLbUpQWE9qSVgxaUlLYkR1R0lFOU1WX29EanZzODExdnNZbFVjbG0zTEE5Unc0RFhsRV8zOVVnSExMTjJtZktJWXBOZHFfVFdYMHBMM05lOE1mSXVPU29uNG03b1JTUW0wSWViaXMxcUFQUkRhSXhpRmFKckJCU2liRTJ5QTV1NEE?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Bayern Munich controversy Germany"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeThTaUlESTM5eVBTNUpadDJEZUlrM0EzeldBRW9zbzl5MmtaX2FRak1XWWduT3BHdWxjSkNwdC1hR1o1ZUh4Yk1CQXRheVYwMXhxeUl0ZGNnMy0zVkhLbUpQWE9qSVgxaUlLYkR1R0lFOU1WX29EanZzODExdnNZbFVjbG0zTEE5Unc0RFhsRV8zOVVnSExMTjJtZktJWXBOZHFfVFdYMHBMM05lOE1mSXVPU29uNG03b1JTUW0wSWViaXMxcUFQUkRhSXhpRmFKckJCU2liRTJ5QTV1NEE?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

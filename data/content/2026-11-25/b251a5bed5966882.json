@@ -1,63 +1,66 @@
 {
-    "news_id": "b251a5bed5966882",
+  "news_id": "b251a5bed5966882",
+  "country": "CHINA",
+  "main_subject": {
+    "name": "Huawei Technologies",
+    "type": "company",
+    "image_search_query": "Huawei Technologies"
+  },
+  "classification": {
     "country": "CHINA",
-    "main_subject": {
-        "name": "Huawei Technologies",
-        "type": "company",
+    "category": "technology",
+    "subcategory": "telecommunications",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "China",
+    "tags": [
+      "telecommunications",
+      "technology",
+      "conspiracy"
+    ],
+    "classification_reason": "Huawei is a major telecommunications company accused of stealing trade secrets and engaging in racketeering.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Huawei Technologies Convicted of Conspiracy to Steal Trade Secrets",
+    "caption": "Chinese tech giant Huawei Technologies is found guilty of conspiracy to steal trade secrets and bank fraud.",
+    "hashtags": [
+      "#Huawei",
+      "#TradeSecrets",
+      "#Conspiracy"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Huawei Technologies Convicted of Conspiracy to Steal Trade Secrets",
+        "text": "Chinese tech giant Huawei Technologies is found guilty of conspiracy to steal trade secrets and bank fraud.",
         "image_search_query": "Huawei Technologies"
-    },
-    "classification": {
-        "country": "CHINA",
-        "category": "technology",
-        "subcategory": "telecommunications",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "China",
-        "tags": [
-            "telecommunications",
-            "technology",
-            "conspiracy"
-        ],
-        "classification_reason": "Huawei is a major telecommunications company accused of stealing trade secrets and engaging in racketeering.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Huawei Technologies Convicted of Conspiracy to Steal Trade Secrets",
-        "caption": "Chinese tech giant Huawei Technologies is found guilty of conspiracy to steal trade secrets and bank fraud.",
-        "hashtags": [
-            "#Huawei",
-            "#TradeSecrets",
-            "#Conspiracy"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Huawei Technologies Convicted of Conspiracy to Steal Trade Secrets",
-                "text": "Chinese tech giant Huawei Technologies is found guilty of conspiracy to steal trade secrets and bank fraud.",
-                "image_search_query": "Huawei Technologies"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "What Happened",
-                "text": "A U.S. jury convicted Huawei Technologies on Tuesday of conspiracy to steal trade secrets and bank fraud.",
-                "image_search_query": "U.S. jury, trade secrets, bank fraud China"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Why It Matters",
-                "text": "Huawei Technologies was accused of repeatedly stealing technological secrets from competitors and partners in the U.S. and elsewhere.",
-                "image_search_query": "Huawei Technologies, technological secrets, competitors, partners China"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece",
-    "published_at": "2026-11-24T22:55:50+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "What Happened",
+        "text": "A U.S. jury convicted Huawei Technologies on Tuesday of conspiracy to steal trade secrets and bank fraud.",
+        "image_search_query": "U.S. jury, trade secrets, bank fraud China"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Why It Matters",
+        "text": "Huawei Technologies was accused of repeatedly stealing technological secrets from competitors and partners in the U.S. and elsewhere.",
+        "image_search_query": "Huawei Technologies, technological secrets, competitors, partners China"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece",
+  "published_at": "2026-11-24T22:55:50+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-25/b251a5bed5966882/video.mp4"
 }

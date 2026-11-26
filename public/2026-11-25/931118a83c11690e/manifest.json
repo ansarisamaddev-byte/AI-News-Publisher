@@ -1,0 +1,75 @@
+{
+  "news_id": "931118a83c11690e",
+  "title": "Thomas Markle Indicted for Possessing Child Sex Abuse Images",
+  "main_subject": {
+    "name": "Thomas Markle",
+    "type": "person",
+    "image_search_query": "Thomas Markle"
+  },
+  "category": "technology",
+  "tags": [
+    "indicted",
+    "child abuse",
+    "child sex abuse",
+    "US"
+  ],
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-25T00:11:39+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Thomas Markle Indicted for Possessing Child Sex Abuse Images",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png",
+        "article_url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Thomas Markle"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png",
+        "article_url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Thomas Markle storage unit United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png",
+        "article_url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Thomas Markle arraignment United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png",
+        "article_url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}
