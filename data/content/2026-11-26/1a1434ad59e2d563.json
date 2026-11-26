@@ -1,0 +1,64 @@
+{
+    "news_id": "1a1434ad59e2d563",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Highway Authority",
+        "type": "organization",
+        "image_search_query": "Highway Authority"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "technology",
+        "subcategory": "road safety",
+        "importance_score": 1,
+        "relevance_score": 1,
+        "region": "India",
+        "tags": [
+            "road safety",
+            "highway",
+            "accidents",
+            "breakdowns"
+        ],
+        "classification_reason": "The article discusses a plan by the Highway Authority aimed at improving road safety and providing timely assistance to users.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Highway Authority's New Plan to Help Motorists After Accidents, Breakdowns",
+        "caption": "The Highway Authority has introduced a new plan to enhance road safety and ensure quick assistance to motorists after accidents and breakdowns.",
+        "hashtags": [
+            "#RoadSafety",
+            "#HighwaySafety",
+            "#MotoristsAssistance"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Highway Authority's New Plan to Help Motorists After Accidents, Breakdowns",
+                "text": "The Highway Authority has introduced a new plan to enhance road safety and ensure quick assistance to motorists after accidents and breakdowns.",
+                "image_search_query": "Highway Authority"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Accident and Breakdown Assistance",
+                "text": "The plan aims to ensure quick and effective assistance to motorists after accidents and breakdowns.",
+                "image_search_query": "Road safety initiative India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Road Safety Enhancement",
+                "text": "The Highway Authority is focusing on strengthening road safety measures to prevent accidents and breakdowns.",
+                "image_search_query": "Road safety measures India"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "NDTV",
+    "source_url": "https://www.ndtv.com/india-news/highway-authoritys-new-plan-to-help-motorists-after-accidents-breakdowns-12378050#publisher=newsstand",
+    "published_at": "2026-11-26T00:27:23+00:00"
+}

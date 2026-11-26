@@ -1,0 +1,63 @@
+{
+    "news_id": "cd522dfcea3ba21b",
+    "country": "UK",
+    "main_subject": {
+        "name": "Met Office",
+        "type": "organization",
+        "image_search_query": "Met Office"
+    },
+    "classification": {
+        "country": "UK",
+        "category": "science",
+        "subcategory": "climate change",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "UK",
+        "tags": [
+            "climate change",
+            "Met Office",
+            "UK seasons"
+        ],
+        "classification_reason": "The article is about the Met Office's analysis of UK seasons and climate change, focusing on the impact of changing seasons on wildlife, agriculture, and weather patterns.",
+        "selected_channels": [
+            "science-news"
+        ]
+    },
+    "content": {
+        "title": "Met Office: UK Seasons Changing with Fewer Winter Frosts and More Hot Summer Days",
+        "caption": "The Met Office reports that the UK's seasons are shifting with fewer winter frosts and more hot summer days, affecting wildlife, agriculture, and weather patterns.",
+        "hashtags": [
+            "#MetOffice",
+            "#UKSeasons",
+            "#ClimateChange"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Met Office: UK Seasons Changing with Fewer Winter Frosts and",
+                "text": "The Met Office reports that the UK's seasons are shifting with fewer winter frosts and more hot summer days, affecting wildlife, agriculture, and weather patterns.",
+                "image_search_query": "Met Office"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Impact on Wildlife",
+                "text": "The Met Office notes that the changing seasons are affecting wildlife, leading to shifts in migration patterns and breeding times.",
+                "image_search_query": "Met Office wildlife impact United Kingdom"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Agricultural Impact",
+                "text": "The Met Office reports that the changing seasons are affecting agriculture, with some farmers growing different crops and experiencing challenges in planting and harvesting.",
+                "image_search_query": "Met Office agricultural impact United Kingdom"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-26T00:08:07+00:00"
+}

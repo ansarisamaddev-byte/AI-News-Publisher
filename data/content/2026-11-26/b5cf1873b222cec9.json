@@ -1,0 +1,61 @@
+{
+    "news_id": "b5cf1873b222cec9",
+    "country": "FRANCE",
+    "main_subject": {
+        "name": "France",
+        "type": "place",
+        "image_search_query": "France"
+    },
+    "classification": {
+        "country": "FRANCE",
+        "category": "politics",
+        "subcategory": "presidential election",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "",
+        "tags": [
+            "presidential election",
+            "France"
+        ],
+        "classification_reason": "The article is about the French presidential election and the political landscape leading up to it.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "France's Political Mainstream Faces Wipe-Out at Presidential Election",
+        "caption": "The article discusses the political landscape leading up to the French presidential election, focusing on the dominance of hard-right and hard-left candidates and the lack of a clear alternative.",
+        "hashtags": [
+            "#FrenchPresidentialElection",
+            "#France"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "France's Political Mainstream Faces Wipe-Out at Presidential Election",
+                "text": "The article discusses the political landscape leading up to the French presidential election, focusing on the dominance of hard-right and hard-left candidates and the lack of a clear alternative.",
+                "image_search_query": "France"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Dominance of Hard-Right and Hard-Left Candidates",
+                "text": "Marine Le Pen and Jean-Luc Mélenchon dominate the polls, with no clear alternative to their dominance.",
+                "image_search_query": "Dominance of hard-right and hard-left candidates France"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Lack of Clear Alternative",
+                "text": "The lack of a clear alternative to Le Pen and Mélenchon is due to personal rivalries, lack of preparation, and differing political visions.",
+                "image_search_query": "Lack of clear alternative France"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-26T00:23:27+00:00"
+}

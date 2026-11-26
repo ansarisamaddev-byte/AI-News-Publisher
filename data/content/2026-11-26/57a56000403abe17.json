@@ -1,0 +1,64 @@
+{
+    "news_id": "57a56000403abe17",
+    "country": "US",
+    "main_subject": {
+        "name": "Doug Wilson",
+        "type": "person",
+        "image_search_query": "Doug Wilson"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "religious",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US",
+        "tags": [
+            "religious",
+            "conservative",
+            "women's suffrage",
+            "Christian nationalism"
+        ],
+        "classification_reason": "The article is primarily about Doug Wilson, a conservative pastor who advocates for women's rights to be repealed and for the 19th Amendment to be overturned.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Doug Wilson: Pastor Advocates for Women's Rights to Be Repealed",
+        "caption": "Doug Wilson, a conservative pastor, advocates for women's rights to be repealed and for the 19th Amendment to be overturned.",
+        "hashtags": [
+            "#DougWilson",
+            "#WomenRights",
+            "#ConservativeReligion"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Doug Wilson: Pastor Advocates for Women's Rights to Be Repealed",
+                "text": "Doug Wilson, a conservative pastor, advocates for women's rights to be repealed and for the 19th Amendment to be overturned.",
+                "image_search_query": "Doug Wilson"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Advocacy for Women's Rights",
+                "text": "Doug Wilson, a conservative pastor, has been advocating for women's rights to be repealed and for the 19th Amendment to be overturned.",
+                "image_search_query": "conservative religious advocacy United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact on Women's Rights",
+                "text": "The advocacy has had a significant impact on women's rights, with some conservative Christians pushing for the removal of women's suffrage.",
+                "image_search_query": "conservative religious activism United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-26T00:24:25+00:00"
+}

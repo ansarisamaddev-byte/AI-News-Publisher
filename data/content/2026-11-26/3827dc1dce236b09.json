@@ -1,0 +1,63 @@
+{
+    "news_id": "3827dc1dce236b09",
+    "country": "US",
+    "main_subject": {
+        "name": "New York",
+        "type": "place",
+        "image_search_query": "New York"
+    },
+    "classification": {
+        "country": "US",
+        "category": "business",
+        "subcategory": "events",
+        "importance_score": 1,
+        "relevance_score": 1,
+        "region": "New York",
+        "tags": [
+            "New York",
+            "Thanksgiving Day Parade",
+            "Macy's"
+        ],
+        "classification_reason": "The article is about New York postponing the Macy's Thanksgiving Day Parade.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "New York Postpones Macy's Thanksgiving Day Parade",
+        "caption": "New York has delayed the iconic Macy's Thanksgiving Day Parade to Saturday.",
+        "hashtags": [
+            "#NewYork",
+            "#ThanksgivingDayParade",
+            "#Macy's"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "New York Postpones Macy's Thanksgiving Day Parade",
+                "text": "New York has delayed the iconic Macy's Thanksgiving Day Parade to Saturday.",
+                "image_search_query": "New York"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Relevant Context",
+                "text": "The postponement is the first time the parade has been delayed in 100 years.",
+                "image_search_query": "Thanksgiving Day Parade delay United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Important Details",
+                "text": "The delay is due to severe weather conditions.",
+                "image_search_query": "New York weather conditions United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "NDTV",
+    "source_url": "https://www.ndtv.com/world-news/new-york-thanksgiving-day-parade-postponed-over-storm-for-1st-time-in-100-years-12378016#publisher=newsstand",
+    "published_at": "2026-11-26T00:00:16+00:00"
+}
