@@ -1,0 +1,63 @@
+{
+    "news_id": "7a5b33e565eac424",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Ahmedabad Man",
+        "type": "person",
+        "image_search_query": "Ahmedabad Man"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "politics",
+        "subcategory": "crime",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "Ahmedabad",
+        "tags": [
+            "Ahmedabad",
+            "crime",
+            "politics"
+        ],
+        "classification_reason": "The article is about a crime committed by a person in Ahmedabad.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Ahmedabad Man Arrested For Allegedly Setting Car On Fire",
+        "caption": "A man in Ahmedabad was arrested for allegedly setting a company owner's car on fire using an inflammable liquid.",
+        "hashtags": [
+            "#Ahmedabad",
+            "#Crime",
+            "#Politics"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Ahmedabad Man Arrested For Allegedly Setting Car On Fire",
+                "text": "A man in Ahmedabad was arrested for allegedly setting a company owner's car on fire using an inflammable liquid.",
+                "image_search_query": "Ahmedabad Man"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Relevant Context",
+                "text": "The police said that the accused allegedly set the company owner's car on fire using an inflammable liquid.",
+                "image_search_query": "Ahmedabad Man Car Fire India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Important Details",
+                "text": "The incident occurred in Ahmedabad, where the accused was arrested for allegedly setting a car on fire using an inflammable liquid.",
+                "image_search_query": "Ahmedabad Man Car Fire Inflammable Liquid India"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "NDTV",
+    "source_url": "https://www.ndtv.com/ahmedabad-news/ahmedabad-man-arrested-for-allegedly-setting-car-on-fire-12377897#publisher=newsstand",
+    "published_at": "2026-11-25T22:20:04+00:00"
+}

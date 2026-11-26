@@ -1,0 +1,63 @@
+{
+    "news_id": "ab02070d10068c99",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Delhi Hospital Staffers",
+        "type": "person",
+        "image_search_query": "Delhi Hospital Staffers"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "business",
+        "subcategory": "healthcare",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Delhi",
+        "tags": [
+            "hospital",
+            "staff",
+            "injuries",
+            "road rage"
+        ],
+        "classification_reason": "The article focuses on two hospital staff members who sustained injuries in a road rage incident.",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "Two Delhi Hospital Staffers Sustain Head Injuries In Road Rage",
+        "caption": "Two Delhi hospital staff members sustained head injuries in a road rage incident.",
+        "hashtags": [
+            "#DelhiHospital",
+            "#RoadRageInjuries"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Two Delhi Hospital Staffers Sustain Head Injuries In Road Rage",
+                "text": "Two Delhi hospital staff members sustained head injuries in a road rage incident.",
+                "image_search_query": "Delhi Hospital Staffers"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Incident Details",
+                "text": "The incident occurred in Safdarjung Hospital, Delhi, following a minor collision.",
+                "image_search_query": "Safdarjung Hospital incident India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Injuries and Consequences",
+                "text": "The two men were assaulted with a baseball bat and a hammer, sustaining head injuries.",
+                "image_search_query": "Injuries from road rage India"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "NDTV",
+    "source_url": "https://www.ndtv.com/delhi-news/2-safdarjung-hospital-staffers-sustain-head-injuries-in-road-rage-in-delhi-case-filed-12377927#publisher=newsstand",
+    "published_at": "2026-11-25T22:48:09+00:00"
+}

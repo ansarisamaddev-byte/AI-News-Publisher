@@ -1,0 +1,63 @@
+{
+    "news_id": "1b9c2e642bcce1db",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Extreme daily rainfall",
+        "type": "product",
+        "image_search_query": "Extreme daily rainfall"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "science",
+        "subcategory": "climate change",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US Southeast and East Coast",
+        "tags": [
+            "climate change",
+            "rainfall",
+            "high emissions"
+        ],
+        "classification_reason": "The article discusses the potential increase in extreme daily rainfall due to high emissions, focusing on specific regions.",
+        "selected_channels": [
+            "science-news"
+        ]
+    },
+    "content": {
+        "title": "Extreme daily rainfall over land could rise by about 41% by 2100 under high emissions",
+        "caption": "A high-resolution climate model predicts a significant increase in extreme daily rainfall over land, particularly in the US Southeast and East Coast regions.",
+        "hashtags": [
+            "#climatechange",
+            "#rainfall",
+            "#highemissions"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Extreme daily rainfall over land could rise by about 41%",
+                "text": "A high-resolution climate model predicts a significant increase in extreme daily rainfall over land, particularly in the US Southeast and East Coast regions.",
+                "image_search_query": "Extreme daily rainfall"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "The prediction",
+                "text": "A high-resolution climate model predicts that extreme daily rainfall over land could increase by about 41% by 2100 under high emissions.",
+                "image_search_query": "US Southeast and East Coast regions India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Implications",
+                "text": "The prediction has significant implications for the US Southeast and East Coast regions, where rainfall patterns are already affected by climate change.",
+                "image_search_query": "regions affected by climate change India"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Science",
+    "source_url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQR0htTXdOM2YzQTRhVGd2clo2UXM5MFVaRUlYaWs1WkJjMjZCWmlqLTBBTm9RR1dmRlUtTnYyZjlwVzhNZ1hYOTB5bGU4eW5Bd3JaS0xiSTVqb19LYXZaUXlDbVlLZVZWUzA2Q3pieVpid1Y1UTFSOXBwaTBBY0g1dUNVUmpnRjdUUkxQRmhubUxONTBUOVRRVU5Oa1A4cFJGaFBtak9uUzNPS2NMNlpuTEd6UW83NW9ibnA0WVlSbmpZRWx3MTVvRjVTczhZZ0JnUllZUldMd2s4M3dmU0g5VFlSN2h1WlQ1N0wzNVQ1b1RONE1rWEpDTWJYMjFWSWdoSmVrdFRpSldzZTJRSzdaeXhQNFJiRkhVU0xnUjFGaWw2QU1BdU5ZYzFzd0pkdTlXdjJiRks2dXYxc1R6Z2JqTTdydHFZMkhoeEZFV01aQlhXOVhBVXFBczN3RS11QQ?oc=5",
+    "published_at": "2026-11-25T22:19:49+00:00"
+}

@@ -1,0 +1,63 @@
+{
+    "news_id": "610a8dba03b4f860",
+    "country": "US",
+    "main_subject": {
+        "name": "Hera",
+        "type": "company",
+        "image_search_query": "Hera"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "space exploration",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Florida",
+        "tags": [
+            "spacecraft",
+            "astronomy",
+            "near-Earth asteroid"
+        ],
+        "classification_reason": "Hera spacecraft is the primary subject of the article, focusing on its mission to study the aftermath of the DART asteroid deflection experiment.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Hera spacecraft returns to study DART impact on Dimorphos",
+        "caption": "The European Space Agency's Hera spacecraft has arrived at the double asteroid system, where it will study the aftermath of the DART asteroid deflection experiment.",
+        "hashtags": [
+            "#Hera",
+            "#DART",
+            "#Dimorphos"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Hera spacecraft returns to study DART impact on Dimorphos",
+                "text": "The European Space Agency's Hera spacecraft has arrived at the double asteroid system, where it will study the aftermath of the DART asteroid deflection experiment.",
+                "image_search_query": "Hera"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "DART experiment",
+                "text": "NASA's DART mission sent a small spacecraft on a suicide mission to show how humanity might deflect an asteroid on a collision course with Earth.",
+                "image_search_query": "NASA DART spacecraft United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Hera's arrival",
+                "text": "Hera's arrival at the double asteroid system was delayed due to the launch pad in Florida, but it is now on track to study the aftermath of the DART asteroid deflection experiment.",
+                "image_search_query": "Hera spacecraft arriving at Didymos system United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "Ars Technica",
+    "source_url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+    "published_at": "2026-11-25T22:36:45+00:00"
+}
