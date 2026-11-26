@@ -1,0 +1,74 @@
+{
+  "news_id": "ba84c8b326bc7e33",
+  "title": "West Bengal Higher Education Minister Suggests Indian Attire for University Convocation",
+  "main_subject": {
+    "name": "West Bengal Higher Education Minister Jagannath Chattopadhyay",
+    "type": "person",
+    "image_search_query": "West Bengal Higher Education Minister Jagannath Chattopadhyay"
+  },
+  "category": "business",
+  "tags": [
+    "education",
+    "uniforms",
+    "Indian attire"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/west-bengal/uttariya-instead-of-robes-west-bengal-government-suggests-universities-to-adopt-indian-attire-in-convocations/article71742913.ece",
+  "published_at": "2026-11-25T22:31:27+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "West Bengal Higher Education Minister Suggests Indian Attire for University",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/3so90y/article71745224.ece/alternates/LANDSCAPE_1200/JIPMER_Convocation_9.jpg",
+        "article_url": "https://www.thehindu.com/news/national/west-bengal/uttariya-instead-of-robes-west-bengal-government-suggests-universities-to-adopt-indian-attire-in-convocations/article71742913.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "West Bengal Higher Education Minister Jagannath Chattopadhyay"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Context",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/3so90y/article71745224.ece/alternates/LANDSCAPE_1200/JIPMER_Convocation_9.jpg",
+        "article_url": "https://www.thehindu.com/news/national/west-bengal/uttariya-instead-of-robes-west-bengal-government-suggests-universities-to-adopt-indian-attire-in-convocations/article71742913.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Uttariya, handloom fabrics, convocation India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/3so90y/article71745224.ece/alternates/LANDSCAPE_1200/JIPMER_Convocation_9.jpg",
+        "article_url": "https://www.thehindu.com/news/national/west-bengal/uttariya-instead-of-robes-west-bengal-government-suggests-universities-to-adopt-indian-attire-in-convocations/article71742913.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Jalpaiguri Government Engineering College, Uttariya, academic gown India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/3so90y/article71745224.ece/alternates/LANDSCAPE_1200/JIPMER_Convocation_9.jpg",
+        "article_url": "https://www.thehindu.com/news/national/west-bengal/uttariya-instead-of-robes-west-bengal-government-suggests-universities-to-adopt-indian-attire-in-convocations/article71742913.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

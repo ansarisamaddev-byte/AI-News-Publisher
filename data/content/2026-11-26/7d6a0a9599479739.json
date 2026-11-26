@@ -1,63 +1,66 @@
 {
-    "news_id": "7d6a0a9599479739",
+  "news_id": "7d6a0a9599479739",
+  "country": "NORTH KOREA",
+  "main_subject": {
+    "name": "Kim Jong Un",
+    "type": "person",
+    "image_search_query": "Kim Jong Un"
+  },
+  "classification": {
     "country": "NORTH KOREA",
-    "main_subject": {
-        "name": "Kim Jong Un",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "nuclear weapons",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "North Korea",
+    "tags": [
+      "North Korea",
+      "Kim Jong Un",
+      "nuclear weapons"
+    ],
+    "classification_reason": "Kim Jong Un is the central figure in the article about North Korea's nuclear weapons policy.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Kim Jong Un Calls For Diversified Use Of Tactical Nuclear Weapons",
+    "caption": "North Korean leader Kim Jong Un advocates for the diversification of tactical nuclear weapons.",
+    "hashtags": [
+      "#KimJongUn",
+      "#NorthKorea",
+      "#NuclearWeapons"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Kim Jong Un Calls For Diversified Use Of Tactical Nuclear",
+        "text": "North Korean leader Kim Jong Un advocates for the diversification of tactical nuclear weapons.",
         "image_search_query": "Kim Jong Un"
-    },
-    "classification": {
-        "country": "NORTH KOREA",
-        "category": "technology",
-        "subcategory": "nuclear weapons",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "North Korea",
-        "tags": [
-            "North Korea",
-            "Kim Jong Un",
-            "nuclear weapons"
-        ],
-        "classification_reason": "Kim Jong Un is the central figure in the article about North Korea's nuclear weapons policy.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Kim Jong Un Calls For Diversified Use Of Tactical Nuclear Weapons",
-        "caption": "North Korean leader Kim Jong Un advocates for the diversification of tactical nuclear weapons.",
-        "hashtags": [
-            "#KimJongUn",
-            "#NorthKorea",
-            "#NuclearWeapons"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Kim Jong Un Calls For Diversified Use Of Tactical Nuclear",
-                "text": "North Korean leader Kim Jong Un advocates for the diversification of tactical nuclear weapons.",
-                "image_search_query": "Kim Jong Un"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "North Korea's Nuclear Policy",
-                "text": "North Korea has been developing a diverse range of nuclear weapons.",
-                "image_search_query": "North Korea nuclear weapons development"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Kim Jong Un's Call for Diversification",
-                "text": "Kim Jong Un advocates for the diversification of tactical nuclear weapons to enhance strategic flexibility.",
-                "image_search_query": "Kim Jong Un diversification tactical nuclear weapons North Korea"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "NDTV",
-    "source_url": "https://www.ndtv.com/world-news/kim-jong-un-calls-for-diversified-use-of-tactical-nuclear-weapons-12377953#publisher=newsstand",
-    "published_at": "2026-11-25T23:04:12+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "North Korea's Nuclear Policy",
+        "text": "North Korea has been developing a diverse range of nuclear weapons.",
+        "image_search_query": "North Korea nuclear weapons development"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Kim Jong Un's Call for Diversification",
+        "text": "Kim Jong Un advocates for the diversification of tactical nuclear weapons to enhance strategic flexibility.",
+        "image_search_query": "Kim Jong Un diversification tactical nuclear weapons North Korea"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/kim-jong-un-calls-for-diversified-use-of-tactical-nuclear-weapons-12377953#publisher=newsstand",
+  "published_at": "2026-11-25T23:04:12+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-26/7d6a0a9599479739/video.mp4"
 }

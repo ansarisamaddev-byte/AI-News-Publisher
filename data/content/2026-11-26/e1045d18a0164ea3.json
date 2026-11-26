@@ -1,61 +1,64 @@
 {
-    "news_id": "e1045d18a0164ea3",
+  "news_id": "e1045d18a0164ea3",
+  "country": "EGYPT",
+  "main_subject": {
+    "name": "Cairo",
+    "type": "place",
+    "image_search_query": "Cairo"
+  },
+  "classification": {
     "country": "EGYPT",
-    "main_subject": {
-        "name": "Cairo",
-        "type": "place",
+    "category": "business",
+    "subcategory": "accidents",
+    "importance_score": 1,
+    "relevance_score": 1,
+    "region": "Egypt",
+    "tags": [
+      "accidents",
+      "fire"
+    ],
+    "classification_reason": "The article discusses a fire incident in Cairo, Egypt.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "30 Killed In Fire In Cairo's Densely Populated Area",
+    "caption": "A massive fire kills at least 30 people in Cairo, Egypt.",
+    "hashtags": [
+      "#CairoFire",
+      "#EgyptianAccidents"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "30 Killed In Fire In Cairo's Densely Populated Area",
+        "text": "A massive fire kills at least 30 people in Cairo, Egypt.",
         "image_search_query": "Cairo"
-    },
-    "classification": {
-        "country": "EGYPT",
-        "category": "business",
-        "subcategory": "accidents",
-        "importance_score": 1,
-        "relevance_score": 1,
-        "region": "Egypt",
-        "tags": [
-            "accidents",
-            "fire"
-        ],
-        "classification_reason": "The article discusses a fire incident in Cairo, Egypt.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "30 Killed In Fire In Cairo's Densely Populated Area",
-        "caption": "A massive fire kills at least 30 people in Cairo, Egypt.",
-        "hashtags": [
-            "#CairoFire",
-            "#EgyptianAccidents"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "30 Killed In Fire In Cairo's Densely Populated Area",
-                "text": "A massive fire kills at least 30 people in Cairo, Egypt.",
-                "image_search_query": "Cairo"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Relevant context",
-                "text": "A fuel tanker crash ignites a massive fire in Cairo, Egypt.",
-                "image_search_query": "fuel tanker crash, Cairo, Egypt"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Important details",
-                "text": "The fire killed at least 30 people in a densely populated area.",
-                "image_search_query": "30 killed, fuel tanker crash, Cairo, Egypt"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Top Stories",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVZJSnJTeXFqMWREUWJGNE13bHZJR1dILUZRRVNybXZ0UzVzQXM0VXJwYWNzbGkzOHlOMjQwemRSTFZvNmZ1LTA0OUxXZU14QTFlblhHTkZjbm45enNDajZSallMRUZpbUpRS1hiZV9zQThVYjhqMmRyS0llVVdTZm9EbF8yN0VtLUNFaHVadzVCZFlMOGc?oc=5",
-    "published_at": "2026-11-25T23:23:37+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Relevant context",
+        "text": "A fuel tanker crash ignites a massive fire in Cairo, Egypt.",
+        "image_search_query": "fuel tanker crash, Cairo, Egypt"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Important details",
+        "text": "The fire killed at least 30 people in a densely populated area.",
+        "image_search_query": "30 killed, fuel tanker crash, Cairo, Egypt"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Top Stories",
+  "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVZJSnJTeXFqMWREUWJGNE13bHZJR1dILUZRRVNybXZ0UzVzQXM0VXJwYWNzbGkzOHlOMjQwemRSTFZvNmZ1LTA0OUxXZU14QTFlblhHTkZjbm45enNDajZSallMRUZpbUpRS1hiZV9zQThVYjhqMmRyS0llVVdTZm9EbF8yN0VtLUNFaHVadzVCZFlMOGc?oc=5",
+  "published_at": "2026-11-25T23:23:37+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-26/e1045d18a0164ea3/video.mp4"
 }

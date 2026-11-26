@@ -1,0 +1,74 @@
+{
+  "news_id": "b32bc50d37ef55df",
+  "title": "Fire Safety Crisis in Wang Fuk Court",
+  "main_subject": {
+    "name": "Mrs Lau",
+    "type": "person",
+    "image_search_query": "Mrs Lau"
+  },
+  "category": "technology",
+  "tags": [
+    "fire safety",
+    "Hong Kong",
+    "residents"
+  ],
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-25T23:26:50+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Fire Safety Crisis in Wang Fuk Court",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b16/live/b6eddfc0-e8c5-11f1-ac76-db9e97f93d67.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Mrs Lau"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Fire Safety Issues",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b16/live/b6eddfc0-e8c5-11f1-ac76-db9e97f93d67.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Wang Fuk Court Hong Kong"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Fire Safety Failures",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b16/live/b6eddfc0-e8c5-11f1-ac76-db9e97f93d67.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "fire safety failures Hong Kong"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b16/live/b6eddfc0-e8c5-11f1-ac76-db9e97f93d67.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

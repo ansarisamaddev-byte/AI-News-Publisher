@@ -1,0 +1,73 @@
+{
+  "news_id": "e1045d18a0164ea3",
+  "title": "30 Killed In Fire In Cairo's Densely Populated Area",
+  "main_subject": {
+    "name": "Cairo",
+    "type": "place",
+    "image_search_query": "Cairo"
+  },
+  "category": "business",
+  "tags": [
+    "accidents",
+    "fire"
+  ],
+  "source": "Google News - Top Stories",
+  "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVZJSnJTeXFqMWREUWJGNE13bHZJR1dILUZRRVNybXZ0UzVzQXM0VXJwYWNzbGkzOHlOMjQwemRSTFZvNmZ1LTA0OUxXZU14QTFlblhHTkZjbm45enNDajZSallMRUZpbUpRS1hiZV9zQThVYjhqMmRyS0llVVdTZm9EbF8yN0VtLUNFaHVadzVCZFlMOGc?oc=5",
+  "published_at": "2026-11-25T23:23:37+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "30 Killed In Fire In Cairo's Densely Populated Area",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVZJSnJTeXFqMWREUWJGNE13bHZJR1dILUZRRVNybXZ0UzVzQXM0VXJwYWNzbGkzOHlOMjQwemRSTFZvNmZ1LTA0OUxXZU14QTFlblhHTkZjbm45enNDajZSallMRUZpbUpRS1hiZV9zQThVYjhqMmRyS0llVVdTZm9EbF8yN0VtLUNFaHVadzVCZFlMOGc?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Cairo"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Relevant context",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVZJSnJTeXFqMWREUWJGNE13bHZJR1dILUZRRVNybXZ0UzVzQXM0VXJwYWNzbGkzOHlOMjQwemRSTFZvNmZ1LTA0OUxXZU14QTFlblhHTkZjbm45enNDajZSallMRUZpbUpRS1hiZV9zQThVYjhqMmRyS0llVVdTZm9EbF8yN0VtLUNFaHVadzVCZFlMOGc?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "fuel tanker crash, Cairo, Egypt"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Important details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVZJSnJTeXFqMWREUWJGNE13bHZJR1dILUZRRVNybXZ0UzVzQXM0VXJwYWNzbGkzOHlOMjQwemRSTFZvNmZ1LTA0OUxXZU14QTFlblhHTkZjbm45enNDajZSallMRUZpbUpRS1hiZV9zQThVYjhqMmRyS0llVVdTZm9EbF8yN0VtLUNFaHVadzVCZFlMOGc?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "30 killed, fuel tanker crash, Cairo, Egypt"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVZJSnJTeXFqMWREUWJGNE13bHZJR1dILUZRRVNybXZ0UzVzQXM0VXJwYWNzbGkzOHlOMjQwemRSTFZvNmZ1LTA0OUxXZU14QTFlblhHTkZjbm45enNDajZSallMRUZpbUpRS1hiZV9zQThVYjhqMmRyS0llVVdTZm9EbF8yN0VtLUNFaHVadzVCZFlMOGc?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "news_id": "66b2b813d4503f0c",
+  "title": "Red-light-mediated transcriptional reprogramming associated with specialized metabolite accumulation in Eryngium foetidum L. in vitro culture",
+  "main_subject": {
+    "name": "Eryngium foetidum L.",
+    "type": "other",
+    "image_search_query": "Eryngium foetidum L."
+  },
+  "category": "science",
+  "tags": [
+    "plant",
+    "metabolism",
+    "in vitro",
+    "transcriptional reprogramming"
+  ],
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VOG1LeXJMMU53MHNISzFrcEljMTVvVUpRUTRteXBuaHYzb0xNM1BDaS1zYXRsNDNFMGpsOEg3UGZ2NlNrN1FvWGtVdy1OeWs5VlE2TklxZnBiMjlvdkFYUTNGRGM?oc=5",
+  "published_at": "2026-11-25T22:30:00+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Red-light-mediated transcriptional reprogramming associated with specialized metabolite accumulation in Eryngium",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VOG1LeXJMMU53MHNISzFrcEljMTVvVUpRUTRteXBuaHYzb0xNM1BDaS1zYXRsNDNFMGpsOEg3UGZ2NlNrN1FvWGtVdy1OeWs5VlE2TklxZnBiMjlvdkFYUTNGRGM?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Eryngium foetidum L."
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "In vitro Culture",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VOG1LeXJMMU53MHNISzFrcEljMTVvVUpRUTRteXBuaHYzb0xNM1BDaS1zYXRsNDNFMGpsOEg3UGZ2NlNrN1FvWGtVdy1OeWs5VlE2TklxZnBiMjlvdkFYUTNGRGM?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Eryngium foetidum L. in vitro culture India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Red-Light-Mediated Transcriptional Reprogramming",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VOG1LeXJMMU53MHNISzFrcEljMTVvVUpRUTRteXBuaHYzb0xNM1BDaS1zYXRsNDNFMGpsOEg3UGZ2NlNrN1FvWGtVdy1OeWs5VlE2TklxZnBiMjlvdkFYUTNGRGM?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Red-light-mediated transcriptional reprogramming India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VOG1LeXJMMU53MHNISzFrcEljMTVvVUpRUTRteXBuaHYzb0xNM1BDaS1zYXRsNDNFMGpsOEg3UGZ2NlNrN1FvWGtVdy1OeWs5VlE2TklxZnBiMjlvdkFYUTNGRGM?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "scientific research laboratory"
+      }
+    }
+  ]
+}

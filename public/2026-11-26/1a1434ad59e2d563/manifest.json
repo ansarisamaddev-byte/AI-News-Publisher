@@ -1,0 +1,75 @@
+{
+  "news_id": "1a1434ad59e2d563",
+  "title": "Highway Authority's New Plan to Help Motorists After Accidents, Breakdowns",
+  "main_subject": {
+    "name": "Highway Authority",
+    "type": "organization",
+    "image_search_query": "Highway Authority"
+  },
+  "category": "technology",
+  "tags": [
+    "road safety",
+    "highway",
+    "accidents",
+    "breakdowns"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/highway-authoritys-new-plan-to-help-motorists-after-accidents-breakdowns-12378050#publisher=newsstand",
+  "published_at": "2026-11-26T00:27:23+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Highway Authority's New Plan to Help Motorists After Accidents, Breakdowns",
+      "image": {
+        "provider": "generated",
+        "query": "Highway Authority",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Accident and Breakdown Assistance",
+      "image": {
+        "provider": "generated",
+        "query": "Road safety initiative India",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Road Safety Enhancement",
+      "image": {
+        "provider": "generated",
+        "query": "Road safety measures India",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "modern technology computer digital",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

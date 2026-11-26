@@ -1,61 +1,64 @@
 {
-    "news_id": "dafc5bb3fdb73791",
+  "news_id": "dafc5bb3fdb73791",
+  "country": "US",
+  "main_subject": {
+    "name": "Bitcoin",
+    "type": "other",
+    "image_search_query": "Bitcoin"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Bitcoin",
-        "type": "other",
+    "category": "technology",
+    "subcategory": "cryptocurrency",
+    "importance_score": 1,
+    "relevance_score": 1,
+    "region": "US",
+    "tags": [
+      "cryptocurrency",
+      "Bitcoin"
+    ],
+    "classification_reason": "The article is about Bitcoin's recovery from various market shocks.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Bitcoin recovers after hot US inflation data",
+    "caption": "Bitcoin rebounds after hitting low due to ETF outflows, AI rout, and US economic data.",
+    "hashtags": [
+      "#Bitcoin",
+      "#cryptocurrency"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Bitcoin recovers after hot US inflation data",
+        "text": "Bitcoin rebounds after hitting low due to ETF outflows, AI rout, and US economic data.",
         "image_search_query": "Bitcoin"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "cryptocurrency",
-        "importance_score": 1,
-        "relevance_score": 1,
-        "region": "US",
-        "tags": [
-            "cryptocurrency",
-            "Bitcoin"
-        ],
-        "classification_reason": "The article is about Bitcoin's recovery from various market shocks.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Bitcoin recovers after hot US inflation data",
-        "caption": "Bitcoin rebounds after hitting low due to ETF outflows, AI rout, and US economic data.",
-        "hashtags": [
-            "#Bitcoin",
-            "#cryptocurrency"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Bitcoin recovers after hot US inflation data",
-                "text": "Bitcoin rebounds after hitting low due to ETF outflows, AI rout, and US economic data.",
-                "image_search_query": "Bitcoin"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Relevant context",
-                "text": "Bitcoin falls below $58,000 after hot US inflation data.",
-                "image_search_query": "Bitcoin falls below $58,000 United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Key details",
-                "text": "Bitcoin retreats toward $59,000 as gold loses ground in dollars but holds up against BTC.",
-                "image_search_query": "Bitcoin retreats toward $59,000 United States"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Business",
-    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTBkMG93STB0WlRoTFVSa0dNSGltWXg4OWxUa2pXYVREaElrMmRXSlJUUnlJMkZKR2djT0UzRVNLT3ZJb3dCbzUxcFdZTGt6bTVySmt4bGdfelV5N1FWZGllNUNNMFVYUkdhelNsRWZDWUZyUlB2Qlg1VERWMHNpaDN0Z0lfbFE0ZW0zS0czbG9TOXBMalB5OVg5dzZnaEoyekRhUlJRVDZIdnhXdWtDVFZFVXUzZw?oc=5",
-    "published_at": "2026-11-25T23:49:32+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Relevant context",
+        "text": "Bitcoin falls below $58,000 after hot US inflation data.",
+        "image_search_query": "Bitcoin falls below $58,000 United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Key details",
+        "text": "Bitcoin retreats toward $59,000 as gold loses ground in dollars but holds up against BTC.",
+        "image_search_query": "Bitcoin retreats toward $59,000 United States"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Business",
+  "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTBkMG93STB0WlRoTFVSa0dNSGltWXg4OWxUa2pXYVREaElrMmRXSlJUUnlJMkZKR2djT0UzRVNLT3ZJb3dCbzUxcFdZTGt6bTVySmt4bGdfelV5N1FWZGllNUNNMFVYUkdhelNsRWZDWUZyUlB2Qlg1VERWMHNpaDN0Z0lfbFE0ZW0zS0czbG9TOXBMalB5OVg5dzZnaEoyekRhUlJRVDZIdnhXdWtDVFZFVXUzZw?oc=5",
+  "published_at": "2026-11-25T23:49:32+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-26/dafc5bb3fdb73791/video.mp4"
 }

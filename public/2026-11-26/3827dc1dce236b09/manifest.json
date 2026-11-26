@@ -1,0 +1,74 @@
+{
+  "news_id": "3827dc1dce236b09",
+  "title": "New York Postpones Macy's Thanksgiving Day Parade",
+  "main_subject": {
+    "name": "New York",
+    "type": "place",
+    "image_search_query": "New York"
+  },
+  "category": "business",
+  "tags": [
+    "New York",
+    "Thanksgiving Day Parade",
+    "Macy's"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/new-york-thanksgiving-day-parade-postponed-over-storm-for-1st-time-in-100-years-12378016#publisher=newsstand",
+  "published_at": "2026-11-26T00:00:16+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "New York Postpones Macy's Thanksgiving Day Parade",
+      "image": {
+        "provider": "generated",
+        "query": "New York",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Relevant Context",
+      "image": {
+        "provider": "generated",
+        "query": "Thanksgiving Day Parade delay United States",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Important Details",
+      "image": {
+        "provider": "generated",
+        "query": "New York weather conditions United States",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "business finance corporate office",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

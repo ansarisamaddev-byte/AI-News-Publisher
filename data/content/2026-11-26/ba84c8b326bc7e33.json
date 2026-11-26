@@ -1,63 +1,66 @@
 {
-    "news_id": "ba84c8b326bc7e33",
+  "news_id": "ba84c8b326bc7e33",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "West Bengal Higher Education Minister Jagannath Chattopadhyay",
+    "type": "person",
+    "image_search_query": "West Bengal Higher Education Minister Jagannath Chattopadhyay"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "West Bengal Higher Education Minister Jagannath Chattopadhyay",
-        "type": "person",
+    "category": "business",
+    "subcategory": "education",
+    "importance_score": 7,
+    "relevance_score": 7,
+    "region": "West Bengal, India",
+    "tags": [
+      "education",
+      "uniforms",
+      "Indian attire"
+    ],
+    "classification_reason": "The article is about a minister's suggestion for universities to adopt Indian attire during convocation ceremonies, which is a significant change in the education system.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "West Bengal Higher Education Minister Suggests Indian Attire for University Convocation",
+    "caption": "West Bengal Higher Education Minister Jagannath Chattopadhyay suggests universities to adopt Indian attire such as Uttariya and handloom fabrics during convocation ceremonies.",
+    "hashtags": [
+      "#IndianAttire",
+      "#WestBengalEducation",
+      "#UniversityConvocation"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "West Bengal Higher Education Minister Suggests Indian Attire for University",
+        "text": "West Bengal Higher Education Minister Jagannath Chattopadhyay suggests universities to adopt Indian attire such as Uttariya and handloom fabrics during convocation ceremonies.",
         "image_search_query": "West Bengal Higher Education Minister Jagannath Chattopadhyay"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "business",
-        "subcategory": "education",
-        "importance_score": 7,
-        "relevance_score": 7,
-        "region": "West Bengal, India",
-        "tags": [
-            "education",
-            "uniforms",
-            "Indian attire"
-        ],
-        "classification_reason": "The article is about a minister's suggestion for universities to adopt Indian attire during convocation ceremonies, which is a significant change in the education system.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "West Bengal Higher Education Minister Suggests Indian Attire for University Convocation",
-        "caption": "West Bengal Higher Education Minister Jagannath Chattopadhyay suggests universities to adopt Indian attire such as Uttariya and handloom fabrics during convocation ceremonies.",
-        "hashtags": [
-            "#IndianAttire",
-            "#WestBengalEducation",
-            "#UniversityConvocation"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "West Bengal Higher Education Minister Suggests Indian Attire for University",
-                "text": "West Bengal Higher Education Minister Jagannath Chattopadhyay suggests universities to adopt Indian attire such as Uttariya and handloom fabrics during convocation ceremonies.",
-                "image_search_query": "West Bengal Higher Education Minister Jagannath Chattopadhyay"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Context",
-                "text": "The West Bengal Higher Education Department has advised all State-aided universities to adopt Indian attire such as Uttariya and clothes made of handloom fabric during convocation ceremonies.",
-                "image_search_query": "Uttariya, handloom fabrics, convocation India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Details",
-                "text": "The development also came days after the Jalpaiguri Government Engineering College replaced the conventional academic gown with a traditional Uttariya.",
-                "image_search_query": "Jalpaiguri Government Engineering College, Uttariya, academic gown India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/west-bengal/uttariya-instead-of-robes-west-bengal-government-suggests-universities-to-adopt-indian-attire-in-convocations/article71742913.ece",
-    "published_at": "2026-11-25T22:31:27+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Context",
+        "text": "The West Bengal Higher Education Department has advised all State-aided universities to adopt Indian attire such as Uttariya and clothes made of handloom fabric during convocation ceremonies.",
+        "image_search_query": "Uttariya, handloom fabrics, convocation India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Details",
+        "text": "The development also came days after the Jalpaiguri Government Engineering College replaced the conventional academic gown with a traditional Uttariya.",
+        "image_search_query": "Jalpaiguri Government Engineering College, Uttariya, academic gown India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/west-bengal/uttariya-instead-of-robes-west-bengal-government-suggests-universities-to-adopt-indian-attire-in-convocations/article71742913.ece",
+  "published_at": "2026-11-25T22:31:27+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-26/ba84c8b326bc7e33/video.mp4"
 }

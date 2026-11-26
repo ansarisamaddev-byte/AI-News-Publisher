@@ -1,0 +1,75 @@
+{
+  "news_id": "57a56000403abe17",
+  "title": "Doug Wilson: Pastor Advocates for Women's Rights to Be Repealed",
+  "main_subject": {
+    "name": "Doug Wilson",
+    "type": "person",
+    "image_search_query": "Doug Wilson"
+  },
+  "category": "technology",
+  "tags": [
+    "religious",
+    "conservative",
+    "women's suffrage",
+    "Christian nationalism"
+  ],
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-26T00:24:25+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Doug Wilson: Pastor Advocates for Women's Rights to Be Repealed",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce47/live/503203d0-e995-11f1-99b6-a35a62fa4264.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Doug Wilson"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Advocacy for Women's Rights",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce47/live/503203d0-e995-11f1-99b6-a35a62fa4264.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "conservative religious advocacy United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact on Women's Rights",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce47/live/503203d0-e995-11f1-99b6-a35a62fa4264.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "conservative religious activism United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce47/live/503203d0-e995-11f1-99b6-a35a62fa4264.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

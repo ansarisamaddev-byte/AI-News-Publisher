@@ -1,64 +1,67 @@
 {
-    "news_id": "66b2b813d4503f0c",
+  "news_id": "66b2b813d4503f0c",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Eryngium foetidum L.",
+    "type": "other",
+    "image_search_query": "Eryngium foetidum L."
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Eryngium foetidum L.",
-        "type": "other",
+    "category": "science",
+    "subcategory": "plant biology",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "India",
+    "tags": [
+      "plant",
+      "metabolism",
+      "in vitro",
+      "transcriptional reprogramming"
+    ],
+    "classification_reason": "The article discusses a plant species (Eryngium foetidum L.) and its in vitro culture, focusing on red-light-mediated transcriptional reprogramming and specialized metabolite accumulation.",
+    "selected_channels": [
+      "science-news"
+    ]
+  },
+  "content": {
+    "title": "Red-light-mediated transcriptional reprogramming associated with specialized metabolite accumulation in Eryngium foetidum L. in vitro culture",
+    "caption": "A plant species (Eryngium foetidum L.) in vitro culture shows red-light-mediated transcriptional reprogramming and specialized metabolite accumulation.",
+    "hashtags": [
+      "#PlantScience",
+      "#Metabolism",
+      "#InVitroCulture"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Red-light-mediated transcriptional reprogramming associated with specialized metabolite accumulation in Eryngium",
+        "text": "A plant species (Eryngium foetidum L.) in vitro culture shows red-light-mediated transcriptional reprogramming and specialized metabolite accumulation.",
         "image_search_query": "Eryngium foetidum L."
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "science",
-        "subcategory": "plant biology",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "India",
-        "tags": [
-            "plant",
-            "metabolism",
-            "in vitro",
-            "transcriptional reprogramming"
-        ],
-        "classification_reason": "The article discusses a plant species (Eryngium foetidum L.) and its in vitro culture, focusing on red-light-mediated transcriptional reprogramming and specialized metabolite accumulation.",
-        "selected_channels": [
-            "science-news"
-        ]
-    },
-    "content": {
-        "title": "Red-light-mediated transcriptional reprogramming associated with specialized metabolite accumulation in Eryngium foetidum L. in vitro culture",
-        "caption": "A plant species (Eryngium foetidum L.) in vitro culture shows red-light-mediated transcriptional reprogramming and specialized metabolite accumulation.",
-        "hashtags": [
-            "#PlantScience",
-            "#Metabolism",
-            "#InVitroCulture"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Red-light-mediated transcriptional reprogramming associated with specialized metabolite accumulation in Eryngium",
-                "text": "A plant species (Eryngium foetidum L.) in vitro culture shows red-light-mediated transcriptional reprogramming and specialized metabolite accumulation.",
-                "image_search_query": "Eryngium foetidum L."
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "In vitro Culture",
-                "text": "The plant species (Eryngium foetidum L.) is grown in an in vitro culture environment.",
-                "image_search_query": "Eryngium foetidum L. in vitro culture India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Red-Light-Mediated Transcriptional Reprogramming",
-                "text": "Red-light exposure triggers transcriptional reprogramming in the plant.",
-                "image_search_query": "Red-light-mediated transcriptional reprogramming India"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Science",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VOG1LeXJMMU53MHNISzFrcEljMTVvVUpRUTRteXBuaHYzb0xNM1BDaS1zYXRsNDNFMGpsOEg3UGZ2NlNrN1FvWGtVdy1OeWs5VlE2TklxZnBiMjlvdkFYUTNGRGM?oc=5",
-    "published_at": "2026-11-25T22:30:00+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "In vitro Culture",
+        "text": "The plant species (Eryngium foetidum L.) is grown in an in vitro culture environment.",
+        "image_search_query": "Eryngium foetidum L. in vitro culture India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Red-Light-Mediated Transcriptional Reprogramming",
+        "text": "Red-light exposure triggers transcriptional reprogramming in the plant.",
+        "image_search_query": "Red-light-mediated transcriptional reprogramming India"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VOG1LeXJMMU53MHNISzFrcEljMTVvVUpRUTRteXBuaHYzb0xNM1BDaS1zYXRsNDNFMGpsOEg3UGZ2NlNrN1FvWGtVdy1OeWs5VlE2TklxZnBiMjlvdkFYUTNGRGM?oc=5",
+  "published_at": "2026-11-25T22:30:00+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-26/66b2b813d4503f0c/video.mp4"
 }

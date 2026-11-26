@@ -1,0 +1,73 @@
+{
+  "news_id": "dafc5bb3fdb73791",
+  "title": "Bitcoin recovers after hot US inflation data",
+  "main_subject": {
+    "name": "Bitcoin",
+    "type": "other",
+    "image_search_query": "Bitcoin"
+  },
+  "category": "technology",
+  "tags": [
+    "cryptocurrency",
+    "Bitcoin"
+  ],
+  "source": "Google News - Business",
+  "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTBkMG93STB0WlRoTFVSa0dNSGltWXg4OWxUa2pXYVREaElrMmRXSlJUUnlJMkZKR2djT0UzRVNLT3ZJb3dCbzUxcFdZTGt6bTVySmt4bGdfelV5N1FWZGllNUNNMFVYUkdhelNsRWZDWUZyUlB2Qlg1VERWMHNpaDN0Z0lfbFE0ZW0zS0czbG9TOXBMalB5OVg5dzZnaEoyekRhUlJRVDZIdnhXdWtDVFZFVXUzZw?oc=5",
+  "published_at": "2026-11-25T23:49:32+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Bitcoin recovers after hot US inflation data",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTBkMG93STB0WlRoTFVSa0dNSGltWXg4OWxUa2pXYVREaElrMmRXSlJUUnlJMkZKR2djT0UzRVNLT3ZJb3dCbzUxcFdZTGt6bTVySmt4bGdfelV5N1FWZGllNUNNMFVYUkdhelNsRWZDWUZyUlB2Qlg1VERWMHNpaDN0Z0lfbFE0ZW0zS0czbG9TOXBMalB5OVg5dzZnaEoyekRhUlJRVDZIdnhXdWtDVFZFVXUzZw?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Bitcoin"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Relevant context",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTBkMG93STB0WlRoTFVSa0dNSGltWXg4OWxUa2pXYVREaElrMmRXSlJUUnlJMkZKR2djT0UzRVNLT3ZJb3dCbzUxcFdZTGt6bTVySmt4bGdfelV5N1FWZGllNUNNMFVYUkdhelNsRWZDWUZyUlB2Qlg1VERWMHNpaDN0Z0lfbFE0ZW0zS0czbG9TOXBMalB5OVg5dzZnaEoyekRhUlJRVDZIdnhXdWtDVFZFVXUzZw?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Bitcoin falls below $58,000 United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Key details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTBkMG93STB0WlRoTFVSa0dNSGltWXg4OWxUa2pXYVREaElrMmRXSlJUUnlJMkZKR2djT0UzRVNLT3ZJb3dCbzUxcFdZTGt6bTVySmt4bGdfelV5N1FWZGllNUNNMFVYUkdhelNsRWZDWUZyUlB2Qlg1VERWMHNpaDN0Z0lfbFE0ZW0zS0czbG9TOXBMalB5OVg5dzZnaEoyekRhUlJRVDZIdnhXdWtDVFZFVXUzZw?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Bitcoin retreats toward $59,000 United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTBkMG93STB0WlRoTFVSa0dNSGltWXg4OWxUa2pXYVREaElrMmRXSlJUUnlJMkZKR2djT0UzRVNLT3ZJb3dCbzUxcFdZTGt6bTVySmt4bGdfelV5N1FWZGllNUNNMFVYUkdhelNsRWZDWUZyUlB2Qlg1VERWMHNpaDN0Z0lfbFE0ZW0zS0czbG9TOXBMalB5OVg5dzZnaEoyekRhUlJRVDZIdnhXdWtDVFZFVXUzZw?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

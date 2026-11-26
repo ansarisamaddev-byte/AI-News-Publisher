@@ -1,0 +1,74 @@
+{
+  "news_id": "7d6a0a9599479739",
+  "title": "Kim Jong Un Calls For Diversified Use Of Tactical Nuclear Weapons",
+  "main_subject": {
+    "name": "Kim Jong Un",
+    "type": "person",
+    "image_search_query": "Kim Jong Un"
+  },
+  "category": "technology",
+  "tags": [
+    "North Korea",
+    "Kim Jong Un",
+    "nuclear weapons"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/kim-jong-un-calls-for-diversified-use-of-tactical-nuclear-weapons-12377953#publisher=newsstand",
+  "published_at": "2026-11-25T23:04:12+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Kim Jong Un Calls For Diversified Use Of Tactical Nuclear",
+      "image": {
+        "provider": "generated",
+        "query": "Kim Jong Un",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "North Korea's Nuclear Policy",
+      "image": {
+        "provider": "generated",
+        "query": "North Korea nuclear weapons development",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Kim Jong Un's Call for Diversification",
+      "image": {
+        "provider": "generated",
+        "query": "Kim Jong Un diversification tactical nuclear weapons North Korea",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "modern technology computer digital",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

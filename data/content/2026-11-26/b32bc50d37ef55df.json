@@ -1,62 +1,65 @@
 {
-    "news_id": "b32bc50d37ef55df",
+  "news_id": "b32bc50d37ef55df",
+  "country": "HONG KONG",
+  "main_subject": {
+    "name": "Mrs Lau",
+    "type": "person",
+    "image_search_query": "Mrs Lau"
+  },
+  "classification": {
     "country": "HONG KONG",
-    "main_subject": {
-        "name": "Mrs Lau",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "fire safety",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Hong Kong",
+    "tags": [
+      "fire safety",
+      "Hong Kong",
+      "residents"
+    ],
+    "classification_reason": "The article is centered around the fire safety issues faced by residents in Wang Fuk Court, a residential complex in Hong Kong.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Fire Safety Crisis in Wang Fuk Court",
+    "caption": "A year after the deadliest fire in Hong Kong, families are still waiting for justice.",
+    "hashtags": [
+      "#FireSafety",
+      "#HongKongFire"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Fire Safety Crisis in Wang Fuk Court",
+        "text": "A year after the deadliest fire in Hong Kong, families are still waiting for justice.",
         "image_search_query": "Mrs Lau"
-    },
-    "classification": {
-        "country": "HONG KONG",
-        "category": "technology",
-        "subcategory": "fire safety",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Hong Kong",
-        "tags": [
-            "fire safety",
-            "Hong Kong",
-            "residents"
-        ],
-        "classification_reason": "The article is centered around the fire safety issues faced by residents in Wang Fuk Court, a residential complex in Hong Kong.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Fire Safety Crisis in Wang Fuk Court",
-        "caption": "A year after the deadliest fire in Hong Kong, families are still waiting for justice.",
-        "hashtags": [
-            "#FireSafety",
-            "#HongKongFire"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Fire Safety Crisis in Wang Fuk Court",
-                "text": "A year after the deadliest fire in Hong Kong, families are still waiting for justice.",
-                "image_search_query": "Mrs Lau"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Fire Safety Issues",
-                "text": "The fire safety issues faced by residents in Wang Fuk Court, a residential complex in Hong Kong, have led to a year-long investigation and a call for reforms.",
-                "image_search_query": "Wang Fuk Court Hong Kong"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Fire Safety Failures",
-                "text": "The fire safety failures, including the use of foam boards to block daylight and the installation of protective mesh nets and bamboo scaffolding, have been identified as contributing factors to the fire.",
-                "image_search_query": "fire safety failures Hong Kong"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-25T23:26:50+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Fire Safety Issues",
+        "text": "The fire safety issues faced by residents in Wang Fuk Court, a residential complex in Hong Kong, have led to a year-long investigation and a call for reforms.",
+        "image_search_query": "Wang Fuk Court Hong Kong"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Fire Safety Failures",
+        "text": "The fire safety failures, including the use of foam boards to block daylight and the installation of protective mesh nets and bamboo scaffolding, have been identified as contributing factors to the fire.",
+        "image_search_query": "fire safety failures Hong Kong"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-25T23:26:50+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-26/b32bc50d37ef55df/video.mp4"
 }
