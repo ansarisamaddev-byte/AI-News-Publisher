@@ -1,60 +1,63 @@
 {
-    "news_id": "0c77fde5ffa8bc35",
+  "news_id": "0c77fde5ffa8bc35",
+  "country": "UK",
+  "main_subject": {
+    "name": "CASRAI",
+    "type": "organization",
+    "image_search_query": "CASRAI"
+  },
+  "classification": {
     "country": "UK",
-    "main_subject": {
-        "name": "CASRAI",
-        "type": "organization",
+    "category": "science",
+    "subcategory": "environmental",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "UK",
+    "tags": [
+      "environmental testing"
+    ],
+    "classification_reason": "UK EA Screening Test for Mobile Polar Chemicals",
+    "selected_channels": [
+      "science-news"
+    ]
+  },
+  "content": {
+    "title": "UK EA Screening Test for Mobile Polar Chemicals CASRAI",
+    "caption": "The UK Environmental Agency (EA) is conducting a screening test for mobile polar chemicals using CASRAI.",
+    "hashtags": [
+      "#UKEA",
+      "#CASRAI"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "UK EA Screening Test for Mobile Polar Chemicals CASRAI",
+        "text": "The UK Environmental Agency (EA) is conducting a screening test for mobile polar chemicals using CASRAI.",
         "image_search_query": "CASRAI"
-    },
-    "classification": {
-        "country": "UK",
-        "category": "science",
-        "subcategory": "environmental",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "UK",
-        "tags": [
-            "environmental testing"
-        ],
-        "classification_reason": "UK EA Screening Test for Mobile Polar Chemicals",
-        "selected_channels": [
-            "science-news"
-        ]
-    },
-    "content": {
-        "title": "UK EA Screening Test for Mobile Polar Chemicals CASRAI",
-        "caption": "The UK Environmental Agency (EA) is conducting a screening test for mobile polar chemicals using CASRAI.",
-        "hashtags": [
-            "#UKEA",
-            "#CASRAI"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "UK EA Screening Test for Mobile Polar Chemicals CASRAI",
-                "text": "The UK Environmental Agency (EA) is conducting a screening test for mobile polar chemicals using CASRAI.",
-                "image_search_query": "CASRAI"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Relevant context",
-                "text": "The EA is testing mobile polar chemicals to ensure environmental safety.",
-                "image_search_query": "EA testing mobile polar chemicals United Kingdom"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Important details",
-                "text": "CASRAI is the organization conducting the test.",
-                "image_search_query": "CASRAI conducting test United Kingdom"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Science",
-    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZURaNGM1T08xWmJQemZXenUzZXozNUQ0SG9WcEF2NVdxSUl5MVdoNHdBQzhUWVJUa1Z5SWMyN1Q1UDdOWWRrb0cxcGgweHA1eFZBajM5QVpMdkxLaDBVdXVXR1pSWHUxS1lnaGtCWm5VQXU3OXhDa29YMHY2WURWMU0xS24tUGpGTGxISlVUTWJPdFBlZ2J6aDZRckdVd2JQ?oc=5",
-    "published_at": "2026-11-26T23:57:45+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Relevant context",
+        "text": "The EA is testing mobile polar chemicals to ensure environmental safety.",
+        "image_search_query": "EA testing mobile polar chemicals United Kingdom"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Important details",
+        "text": "CASRAI is the organization conducting the test.",
+        "image_search_query": "CASRAI conducting test United Kingdom"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZURaNGM1T08xWmJQemZXenUzZXozNUQ0SG9WcEF2NVdxSUl5MVdoNHdBQzhUWVJUa1Z5SWMyN1Q1UDdOWWRrb0cxcGgweHA1eFZBajM5QVpMdkxLaDBVdXVXR1pSWHUxS1lnaGtCWm5VQXU3OXhDa29YMHY2WURWMU0xS24tUGpGTGxISlVUTWJPdFBlZ2J6aDZRckdVd2JQ?oc=5",
+  "published_at": "2026-11-26T23:57:45+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-27/0c77fde5ffa8bc35/video.mp4"
 }

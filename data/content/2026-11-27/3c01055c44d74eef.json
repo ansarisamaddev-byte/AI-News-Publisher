@@ -1,63 +1,66 @@
 {
-    "news_id": "3c01055c44d74eef",
+  "news_id": "3c01055c44d74eef",
+  "country": "US",
+  "main_subject": {
+    "name": "Jim Lembesis",
+    "type": "person",
+    "image_search_query": "Jim Lembesis"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Jim Lembesis",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "elevator mechanics",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Chicago",
+    "tags": [
+      "elevator mechanics",
+      "Chicago",
+      "Jim Lembesis"
+    ],
+    "classification_reason": "The article is primarily about Jim Lembesis, an elevator mechanic, and his work in Chicago.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Jim Lembesis: The Wizard of Elevator Mechanics",
+    "caption": "A skilled elevator mechanic who has been repairing and upgrading lifts for over 47 years.",
+    "hashtags": [
+      "#JimLembesis",
+      "#elevatormechanics",
+      "#Chicago"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Jim Lembesis: The Wizard of Elevator Mechanics",
+        "text": "A skilled elevator mechanic who has been repairing and upgrading lifts for over 47 years.",
         "image_search_query": "Jim Lembesis"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "elevator mechanics",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Chicago",
-        "tags": [
-            "elevator mechanics",
-            "Chicago",
-            "Jim Lembesis"
-        ],
-        "classification_reason": "The article is primarily about Jim Lembesis, an elevator mechanic, and his work in Chicago.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Jim Lembesis: The Wizard of Elevator Mechanics",
-        "caption": "A skilled elevator mechanic who has been repairing and upgrading lifts for over 47 years.",
-        "hashtags": [
-            "#JimLembesis",
-            "#elevatormechanics",
-            "#Chicago"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Jim Lembesis: The Wizard of Elevator Mechanics",
-                "text": "A skilled elevator mechanic who has been repairing and upgrading lifts for over 47 years.",
-                "image_search_query": "Jim Lembesis"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "The Problem",
-                "text": "A shortage of lift and escalator mechanics in the US, which is also a problem in many other countries, has gotten worse over time.",
-                "image_search_query": "lack of mechanics United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "The Solution",
-                "text": "Offering better tax breaks to companies that train lift mechanics could help ensure that plenty of workers continue to enter the industry.",
-                "image_search_query": "training tax breaks United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC Technology",
-    "source_url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-27T00:02:19+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "The Problem",
+        "text": "A shortage of lift and escalator mechanics in the US, which is also a problem in many other countries, has gotten worse over time.",
+        "image_search_query": "lack of mechanics United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "The Solution",
+        "text": "Offering better tax breaks to companies that train lift mechanics could help ensure that plenty of workers continue to enter the industry.",
+        "image_search_query": "training tax breaks United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC Technology",
+  "source_url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-27T00:02:19+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-27/3c01055c44d74eef/video.mp4"
 }

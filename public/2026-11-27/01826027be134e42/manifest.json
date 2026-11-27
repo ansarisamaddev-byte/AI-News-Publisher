@@ -1,0 +1,74 @@
+{
+  "news_id": "01826027be134e42",
+  "title": "Torino Team Bounds Values In 100-Qubit Quantum Systems",
+  "main_subject": {
+    "name": "Torino Team",
+    "type": "company",
+    "image_search_query": "Torino Team"
+  },
+  "category": "technology",
+  "tags": [
+    "quantum computing",
+    "100-qubit",
+    "Torino Team"
+  ],
+  "source": "Google News - Technology",
+  "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUHR1ZnIta0FZVmw2VlhPTEdCWXhIVmxRcU0zc2pFV2ViVGVQaFotVGFCLUtBWFVpek9yWGd2ODduN1hoVGJwbDVUblBSbmZaY2NJYThZbXBLZmpsbHV2ckpiSmJpRkVfRWNud2V1SHdUZzVDaDAwUURxa1lCb1FaQ1Z3VGloMUpGRlMw?oc=5",
+  "published_at": "2026-11-26T22:59:49+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Torino Team Bounds Values In 100-Qubit Quantum Systems",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUHR1ZnIta0FZVmw2VlhPTEdCWXhIVmxRcU0zc2pFV2ViVGVQaFotVGFCLUtBWFVpek9yWGd2ODduN1hoVGJwbDVUblBSbmZaY2NJYThZbXBLZmpsbHV2ckpiSmJpRkVfRWNud2V1SHdUZzVDaDAwUURxa1lCb1FaQ1Z3VGloMUpGRlMw?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Torino Team"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Relevant context",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUHR1ZnIta0FZVmw2VlhPTEdCWXhIVmxRcU0zc2pFV2ViVGVQaFotVGFCLUtBWFVpek9yWGd2ODduN1hoVGJwbDVUblBSbmZaY2NJYThZbXBLZmpsbHV2ckpiSmJpRkVfRWNud2V1SHdUZzVDaDAwUURxa1lCb1FaQ1Z3VGloMUpGRlMw?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Torino Team Quantum System United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Important details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUHR1ZnIta0FZVmw2VlhPTEdCWXhIVmxRcU0zc2pFV2ViVGVQaFotVGFCLUtBWFVpek9yWGd2ODduN1hoVGJwbDVUblBSbmZaY2NJYThZbXBLZmpsbHV2ckpiSmJpRkVfRWNud2V1SHdUZzVDaDAwUURxa1lCb1FaQ1Z3VGloMUpGRlMw?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Torino Team Quantum Computing United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUHR1ZnIta0FZVmw2VlhPTEdCWXhIVmxRcU0zc2pFV2ViVGVQaFotVGFCLUtBWFVpek9yWGd2ODduN1hoVGJwbDVUblBSbmZaY2NJYThZbXBLZmpsbHV2ckpiSmJpRkVfRWNud2V1SHdUZzVDaDAwUURxa1lCb1FaQ1Z3VGloMUpGRlMw?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

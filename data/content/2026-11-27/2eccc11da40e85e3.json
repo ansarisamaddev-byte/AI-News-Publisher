@@ -1,63 +1,66 @@
 {
-    "news_id": "2eccc11da40e85e3",
+  "news_id": "2eccc11da40e85e3",
+  "country": "UKRAINE",
+  "main_subject": {
+    "name": "Volodymyr Zelensky",
+    "type": "person",
+    "image_search_query": "Volodymyr Zelensky"
+  },
+  "classification": {
     "country": "UKRAINE",
-    "main_subject": {
-        "name": "Volodymyr Zelensky",
-        "type": "person",
+    "category": "politics",
+    "subcategory": "international relations",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Kyiv",
+    "tags": [
+      "Ukraine",
+      "politics",
+      "international relations"
+    ],
+    "classification_reason": "Volodymyr Zelensky is the central figure in the article, focusing on his interactions with the US and Russia.",
+    "selected_channels": [
+      "politics-news"
+    ]
+  },
+  "content": {
+    "title": "Ukraine's President Zelensky Criticizes US for Calling Putin a Friend",
+    "caption": "Volodymyr Zelensky, Ukraine's president, criticizes the US for calling Vladimir Putin a friend and delays in delivering vital anti-ballistic missiles.",
+    "hashtags": [
+      "#Ukraine",
+      "#Zelensky",
+      "#Putin"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Ukraine's President Zelensky Criticizes US for Calling Putin a Friend",
+        "text": "Volodymyr Zelensky, Ukraine's president, criticizes the US for calling Vladimir Putin a friend and delays in delivering vital anti-ballistic missiles.",
         "image_search_query": "Volodymyr Zelensky"
-    },
-    "classification": {
-        "country": "UKRAINE",
-        "category": "politics",
-        "subcategory": "international relations",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Kyiv",
-        "tags": [
-            "Ukraine",
-            "politics",
-            "international relations"
-        ],
-        "classification_reason": "Volodymyr Zelensky is the central figure in the article, focusing on his interactions with the US and Russia.",
-        "selected_channels": [
-            "politics-news"
-        ]
-    },
-    "content": {
-        "title": "Ukraine's President Zelensky Criticizes US for Calling Putin a Friend",
-        "caption": "Volodymyr Zelensky, Ukraine's president, criticizes the US for calling Vladimir Putin a friend and delays in delivering vital anti-ballistic missiles.",
-        "hashtags": [
-            "#Ukraine",
-            "#Zelensky",
-            "#Putin"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Ukraine's President Zelensky Criticizes US for Calling Putin a Friend",
-                "text": "Volodymyr Zelensky, Ukraine's president, criticizes the US for calling Vladimir Putin a friend and delays in delivering vital anti-ballistic missiles.",
-                "image_search_query": "Volodymyr Zelensky"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "US Criticizes Putin as Friend",
-                "text": "The US criticized Vladimir Putin as a friend and delays in delivering vital anti-ballistic missiles.",
-                "image_search_query": "US, Putin, anti-ballistic missiles Ukraine"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Impact on Ukraine",
-                "text": "The US's actions have caused delays in delivering vital anti-ballistic missiles, costing Ukrainian lives.",
-                "image_search_query": "US, Putin, anti-ballistic missiles, Ukraine"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-26T22:49:27+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "US Criticizes Putin as Friend",
+        "text": "The US criticized Vladimir Putin as a friend and delays in delivering vital anti-ballistic missiles.",
+        "image_search_query": "US, Putin, anti-ballistic missiles Ukraine"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Impact on Ukraine",
+        "text": "The US's actions have caused delays in delivering vital anti-ballistic missiles, costing Ukrainian lives.",
+        "image_search_query": "US, Putin, anti-ballistic missiles, Ukraine"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-26T22:49:27+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-27/2eccc11da40e85e3/video.mp4"
 }

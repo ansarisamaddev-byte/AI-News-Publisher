@@ -1,0 +1,73 @@
+{
+  "news_id": "47c5948b83957aaf",
+  "title": "Delhi High Court Sets Aside Centre's Order Cancelling FCRA Licence of NGO",
+  "main_subject": {
+    "name": "Delhi High Court",
+    "type": "other",
+    "image_search_query": "Delhi High Court"
+  },
+  "category": "technology",
+  "tags": [
+    "legal",
+    "judicial decision"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-sets-aside-centres-order-cancelling-fcra-licence-of-ngo/article71747409.ece",
+  "published_at": "2026-11-26T22:29:46+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Delhi High Court Sets Aside Centre's Order Cancelling FCRA Licence",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/heeubg/article71727333.ece/alternates/LANDSCAPE_1200/TH02-Rocky-MateG06GFRT7V.3.jpg.jpg",
+        "article_url": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-sets-aside-centres-order-cancelling-fcra-licence-of-ngo/article71747409.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Delhi High Court"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What Happened?",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/heeubg/article71727333.ece/alternates/LANDSCAPE_1200/TH02-Rocky-MateG06GFRT7V.3.jpg.jpg",
+        "article_url": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-sets-aside-centres-order-cancelling-fcra-licence-of-ngo/article71747409.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Centre's order cancelling FCRA registration certificate India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why Does It Matter?",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/heeubg/article71727333.ece/alternates/LANDSCAPE_1200/TH02-Rocky-MateG06GFRT7V.3.jpg.jpg",
+        "article_url": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-sets-aside-centres-order-cancelling-fcra-licence-of-ngo/article71747409.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Why does it matter India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/heeubg/article71727333.ece/alternates/LANDSCAPE_1200/TH02-Rocky-MateG06GFRT7V.3.jpg.jpg",
+        "article_url": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-sets-aside-centres-order-cancelling-fcra-licence-of-ngo/article71747409.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

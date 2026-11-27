@@ -1,64 +1,67 @@
 {
-    "news_id": "e9fd551f5436e119",
+  "news_id": "e9fd551f5436e119",
+  "country": "AUSTRALIA",
+  "main_subject": {
+    "name": "Cricket Australia",
+    "type": "company",
+    "image_search_query": "Cricket Australia"
+  },
+  "classification": {
     "country": "AUSTRALIA",
-    "main_subject": {
-        "name": "Cricket Australia",
-        "type": "company",
+    "category": "business",
+    "subcategory": "cricket",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Australia",
+    "tags": [
+      "cricket",
+      "sandpapergate",
+      "Ashes",
+      "independent probe"
+    ],
+    "classification_reason": "Cricket Australia is the central entity involved in the sandpapergate scandal and Ashes series investigation.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Cricket Australia to Investigate 2017-18 Ashes Series",
+    "caption": "Cricket Australia will conduct an independent probe into the sandpapergate scandal and the 2017-18 Ashes series against England.",
+    "hashtags": [
+      "#CricketAustralia",
+      "#Sandpapergate",
+      "#AshesSeries"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Cricket Australia to Investigate 2017-18 Ashes Series",
+        "text": "Cricket Australia will conduct an independent probe into the sandpapergate scandal and the 2017-18 Ashes series against England.",
         "image_search_query": "Cricket Australia"
-    },
-    "classification": {
-        "country": "AUSTRALIA",
-        "category": "business",
-        "subcategory": "cricket",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Australia",
-        "tags": [
-            "cricket",
-            "sandpapergate",
-            "Ashes",
-            "independent probe"
-        ],
-        "classification_reason": "Cricket Australia is the central entity involved in the sandpapergate scandal and Ashes series investigation.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Cricket Australia to Investigate 2017-18 Ashes Series",
-        "caption": "Cricket Australia will conduct an independent probe into the sandpapergate scandal and the 2017-18 Ashes series against England.",
-        "hashtags": [
-            "#CricketAustralia",
-            "#Sandpapergate",
-            "#AshesSeries"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Cricket Australia to Investigate 2017-18 Ashes Series",
-                "text": "Cricket Australia will conduct an independent probe into the sandpapergate scandal and the 2017-18 Ashes series against England.",
-                "image_search_query": "Cricket Australia"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Scandal and Series",
-                "text": "Cricket Australia will investigate the sandpapergate scandal and the 2017-18 Ashes series against England.",
-                "image_search_query": "sandpapergate, Ashes series Australia"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Inquiry Scope",
-                "text": "The inquiry will cover ball-management practices in the Australian men's team during the 2017-18 season, including the Ashes series Australia won 4-0.",
-                "image_search_query": "inquiry scope, 2017-18 Ashes series Australia"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cxdd1335nyj0o?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-27T00:43:03+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Scandal and Series",
+        "text": "Cricket Australia will investigate the sandpapergate scandal and the 2017-18 Ashes series against England.",
+        "image_search_query": "sandpapergate, Ashes series Australia"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Inquiry Scope",
+        "text": "The inquiry will cover ball-management practices in the Australian men's team during the 2017-18 season, including the Ashes series Australia won 4-0.",
+        "image_search_query": "inquiry scope, 2017-18 Ashes series Australia"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cxdd1335nyj0o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-27T00:43:03+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-27/e9fd551f5436e119/video.mp4"
 }

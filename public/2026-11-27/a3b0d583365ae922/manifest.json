@@ -1,0 +1,73 @@
+{
+  "news_id": "a3b0d583365ae922",
+  "title": "Congress President Mallikarjun Kharge Urges Removal of BJP from Uttar Pradesh",
+  "main_subject": {
+    "name": "Mallikarjun Kharge",
+    "type": "person",
+    "image_search_query": "Mallikarjun Kharge"
+  },
+  "category": "politics",
+  "tags": [
+    "Congress president",
+    "Uttar Pradesh"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/leave-aside-any-differences-remove-bjp-in-up-says-congress-chief/article71748320.ece",
+  "published_at": "2026-11-26T22:39:06+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Congress President Mallikarjun Kharge Urges Removal of BJP from Uttar",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/glrlht/article71748319.ece/alternates/LANDSCAPE_1200/PTI11_26_2026_000268B.jpg",
+        "article_url": "https://www.thehindu.com/news/national/uttar-pradesh/leave-aside-any-differences-remove-bjp-in-up-says-congress-chief/article71748320.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Mallikarjun Kharge"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Uttar Pradesh",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/glrlht/article71748319.ece/alternates/LANDSCAPE_1200/PTI11_26_2026_000268B.jpg",
+        "article_url": "https://www.thehindu.com/news/national/uttar-pradesh/leave-aside-any-differences-remove-bjp-in-up-says-congress-chief/article71748320.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Uttar Pradesh, India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Congress President's Statement",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/glrlht/article71748319.ece/alternates/LANDSCAPE_1200/PTI11_26_2026_000268B.jpg",
+        "article_url": "https://www.thehindu.com/news/national/uttar-pradesh/leave-aside-any-differences-remove-bjp-in-up-says-congress-chief/article71748320.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Congress president statement India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/glrlht/article71748319.ece/alternates/LANDSCAPE_1200/PTI11_26_2026_000268B.jpg",
+        "article_url": "https://www.thehindu.com/news/national/uttar-pradesh/leave-aside-any-differences-remove-bjp-in-up-says-congress-chief/article71748320.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "parliament government building"
+      }
+    }
+  ]
+}

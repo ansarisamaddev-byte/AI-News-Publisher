@@ -1,0 +1,74 @@
+{
+  "news_id": "4b983d707562bfba",
+  "title": "Delhi Police Bust International Cyber Slavery Racket, Rescue 164 Foreigners",
+  "main_subject": {
+    "name": "Delhi Police",
+    "type": "organization",
+    "image_search_query": "Delhi Police"
+  },
+  "category": "politics",
+  "tags": [
+    "police",
+    "cybercrime",
+    "rescue"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/delhi-news/delhi-police-bust-international-cyber-slavery-racket-rescue-164-foreigners-12382653#publisher=newsstand",
+  "published_at": "2026-11-26T23:21:01+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Delhi Police Bust International Cyber Slavery Racket, Rescue 164 Foreigners",
+      "image": {
+        "provider": "generated",
+        "query": "Delhi Police",
+        "fallback_query": "parliament government building",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Relevant Context",
+      "image": {
+        "provider": "generated",
+        "query": "Digital infrastructure seized India",
+        "fallback_query": "parliament government building",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Important Details",
+      "image": {
+        "provider": "generated",
+        "query": "Details of the operation India",
+        "fallback_query": "parliament government building",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "parliament government building",
+        "fallback_query": "parliament government building",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}
