@@ -1,0 +1,62 @@
+{
+    "news_id": "47c5948b83957aaf",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Delhi High Court",
+        "type": "other",
+        "image_search_query": "Delhi High Court"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "technology",
+        "subcategory": "legal",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Delhi",
+        "tags": [
+            "legal",
+            "judicial decision"
+        ],
+        "classification_reason": "The article is about a legal decision made by the Delhi High Court.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Delhi High Court Sets Aside Centre's Order Cancelling FCRA Licence of NGO",
+        "caption": "The Delhi High Court overturned the Centre's decision to cancel the Foreign Contribution (Regulation) Act (FCRA) registration certificate of the NGO Socio Legal Information Centre (SLIC).",
+        "hashtags": [
+            "#DelhiHighCourt",
+            "#FCRARegulation",
+            "#NGO"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Delhi High Court Sets Aside Centre's Order Cancelling FCRA Licence",
+                "text": "The Delhi High Court overturned the Centre's decision to cancel the Foreign Contribution (Regulation) Act (FCRA) registration certificate of the NGO Socio Legal Information Centre (SLIC).",
+                "image_search_query": "Delhi High Court"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "What Happened?",
+                "text": "The Delhi High Court set aside the Centre's order cancelling the FCRA registration certificate of the NGO Socio Legal Information Centre (SLIC).",
+                "image_search_query": "Centre's order cancelling FCRA registration certificate India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why Does It Matter?",
+                "text": "The Delhi High Court overturned the Centre's decision to cancel the FCRA registration certificate of the NGO Socio Legal Information Centre (SLIC).",
+                "image_search_query": "Why does it matter India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-sets-aside-centres-order-cancelling-fcra-licence-of-ngo/article71747409.ece",
+    "published_at": "2026-11-26T22:29:46+00:00"
+}

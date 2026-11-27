@@ -1,0 +1,62 @@
+{
+    "news_id": "a3b0d583365ae922",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Mallikarjun Kharge",
+        "type": "person",
+        "image_search_query": "Mallikarjun Kharge"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "politics",
+        "subcategory": "political leadership",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Uttar Pradesh, India",
+        "tags": [
+            "Congress president",
+            "Uttar Pradesh"
+        ],
+        "classification_reason": "The article is centered around Mallikarjun Kharge, the Congress president, and his statements regarding the BJP's presence in Uttar Pradesh.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Congress President Mallikarjun Kharge Urges Removal of BJP from Uttar Pradesh",
+        "caption": "Mallikarjun Kharge, Congress president, urges the Samajwadi Party (SP)-Congress alliance to remove the Bharatiya Janata Party (BJP) from power in Uttar Pradesh.",
+        "hashtags": [
+            "#Congress",
+            "#Uttar Pradesh",
+            "#BJP"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Congress President Mallikarjun Kharge Urges Removal of BJP from Uttar",
+                "text": "Mallikarjun Kharge, Congress president, urges the Samajwadi Party (SP)-Congress alliance to remove the Bharatiya Janata Party (BJP) from power in Uttar Pradesh.",
+                "image_search_query": "Mallikarjun Kharge"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Uttar Pradesh",
+                "text": "The article discusses the situation in Uttar Pradesh, a state in India.",
+                "image_search_query": "Uttar Pradesh, India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Congress President's Statement",
+                "text": "Mallikarjun Kharge, the Congress president, urges the SP-Congress alliance to remove the BJP from power in Uttar Pradesh.",
+                "image_search_query": "Congress president statement India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/leave-aside-any-differences-remove-bjp-in-up-says-congress-chief/article71748320.ece",
+    "published_at": "2026-11-26T22:39:06+00:00"
+}

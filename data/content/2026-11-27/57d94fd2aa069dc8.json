@@ -1,0 +1,63 @@
+{
+    "news_id": "57d94fd2aa069dc8",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Sergio Gor",
+        "type": "person",
+        "image_search_query": "Sergio Gor"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "business",
+        "subcategory": "technology",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "New Delhi",
+        "tags": [
+            "US Envoy",
+            "Thanksgiving",
+            "Marine Security Guard"
+        ],
+        "classification_reason": "Celebrated Thanksgiving with Marines in New Delhi",
+        "selected_channels": [
+            "business-news"
+        ]
+    },
+    "content": {
+        "title": "US Envoy Sergio Gor Celebrates Thanksgiving with Marines in New Delhi",
+        "caption": "US Envoy Sergio Gor celebrates Thanksgiving with the Marine Security Guard Detachment in New Delhi.",
+        "hashtags": [
+            "#USEnvoy",
+            "#Thanksgiving",
+            "#MarineSecurityGuard"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "US Envoy Sergio Gor Celebrates Thanksgiving with Marines in New",
+                "text": "US Envoy Sergio Gor celebrates Thanksgiving with the Marine Security Guard Detachment in New Delhi.",
+                "image_search_query": "Sergio Gor"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Celebration Details",
+                "text": "Sergio Gor, an envoy from the United States, celebrated Thanksgiving with the Marine Security Guard Detachment in New Delhi.",
+                "image_search_query": "Sergio Gor Thanksgiving Marines India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact and Consequences",
+                "text": "The event highlights the close ties between the United States and India, with the US Envoy participating in a traditional holiday with the Indian military.",
+                "image_search_query": "Sergio Gor Impact Thanksgiving India"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "NDTV",
+    "source_url": "https://www.ndtv.com/india-news/us-envoy-sergio-gor-celebrates-thanksgiving-with-us-marines-in-delhi-12382617#publisher=newsstand",
+    "published_at": "2026-11-26T22:17:13+00:00"
+}

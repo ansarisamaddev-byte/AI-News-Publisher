@@ -1,0 +1,63 @@
+{
+    "news_id": "01826027be134e42",
+    "country": "US",
+    "main_subject": {
+        "name": "Torino Team",
+        "type": "company",
+        "image_search_query": "Torino Team"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "quantum computing",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US",
+        "tags": [
+            "quantum computing",
+            "100-qubit",
+            "Torino Team"
+        ],
+        "classification_reason": "The article is about a quantum computing company, Torino Team, and focuses on their achievement in developing 100-qubit quantum systems.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Torino Team Bounds Values In 100-Qubit Quantum Systems",
+        "caption": "Torino Team achieves significant milestone in quantum computing, advancing the field with their 100-qubit quantum system.",
+        "hashtags": [
+            "#TorinoTeam",
+            "#QuantumComputing",
+            "#100Qubit"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Torino Team Bounds Values In 100-Qubit Quantum Systems",
+                "text": "Torino Team achieves significant milestone in quantum computing, advancing the field with their 100-qubit quantum system.",
+                "image_search_query": "Torino Team"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Relevant context",
+                "text": "The Torino Team has made a significant breakthrough in quantum computing by developing a 100-qubit quantum system.",
+                "image_search_query": "Torino Team Quantum System United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Important details",
+                "text": "The achievement marks a significant step forward in the field of quantum computing, demonstrating the team's expertise and dedication.",
+                "image_search_query": "Torino Team Quantum Computing United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Technology",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUHR1ZnIta0FZVmw2VlhPTEdCWXhIVmxRcU0zc2pFV2ViVGVQaFotVGFCLUtBWFVpek9yWGd2ODduN1hoVGJwbDVUblBSbmZaY2NJYThZbXBLZmpsbHV2ckpiSmJpRkVfRWNud2V1SHdUZzVDaDAwUURxa1lCb1FaQ1Z3VGloMUpGRlMw?oc=5",
+    "published_at": "2026-11-26T22:59:49+00:00"
+}
