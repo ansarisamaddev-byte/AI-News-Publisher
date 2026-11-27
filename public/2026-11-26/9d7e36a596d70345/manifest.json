@@ -1,0 +1,76 @@
+{
+  "news_id": "9d7e36a596d70345",
+  "title": "Theory of geometry-modulated domain wall motion in nanowires with chiral interaction and perpendicular anisotropy",
+  "main_subject": {
+    "name": "nanowires",
+    "type": "product",
+    "image_search_query": "nanowires"
+  },
+  "category": "technology",
+  "tags": [
+    "nanowires",
+    "nanotechnology",
+    "domain wall motion",
+    "chiral interaction",
+    "perpendicular anisotropy"
+  ],
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1Z3NnM0VTT2hVUmJ3SVBsa0RkTFhXUm1XWHlEVFFQT2ZqcktIc2wtMkptcGRUMUdvMUwxeTVVdTFtMkdvbllkOXdqSXQ2RFdsdC0yYmItRXZYY3ZMT3F1UG1JYXhRQQ?oc=5",
+  "published_at": "2026-11-25T22:54:28+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Theory of geometry-modulated domain wall motion in nanowires with chiral",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1Z3NnM0VTT2hVUmJ3SVBsa0RkTFhXUm1XWHlEVFFQT2ZqcktIc2wtMkptcGRUMUdvMUwxeTVVdTFtMkdvbllkOXdqSXQ2RFdsdC0yYmItRXZYY3ZMT3F1UG1JYXhRQQ?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "nanowires"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Theory of domain wall motion",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1Z3NnM0VTT2hVUmJ3SVBsa0RkTFhXUm1XWHlEVFFQT2ZqcktIc2wtMkptcGRUMUdvMUwxeTVVdTFtMkdvbllkOXdqSXQ2RFdsdC0yYmItRXZYY3ZMT3F1UG1JYXhRQQ?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "nanowires domain wall motion United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Chiral interaction and anisotropy",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1Z3NnM0VTT2hVUmJ3SVBsa0RkTFhXUm1XWHlEVFFQT2ZqcktIc2wtMkptcGRUMUdvMUwxeTVVdTFtMkdvbllkOXdqSXQ2RFdsdC0yYmItRXZYY3ZMT3F1UG1JYXhRQQ?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "nanowires chiral interaction anisotropy United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1Z3NnM0VTT2hVUmJ3SVBsa0RkTFhXUm1XWHlEVFFQT2ZqcktIc2wtMkptcGRUMUdvMUwxeTVVdTFtMkdvbllkOXdqSXQ2RFdsdC0yYmItRXZYY3ZMT3F1UG1JYXhRQQ?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

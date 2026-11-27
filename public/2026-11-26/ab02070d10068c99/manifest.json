@@ -1,0 +1,75 @@
+{
+  "news_id": "ab02070d10068c99",
+  "title": "Two Delhi Hospital Staffers Sustain Head Injuries In Road Rage",
+  "main_subject": {
+    "name": "Delhi Hospital Staffers",
+    "type": "person",
+    "image_search_query": "Delhi Hospital Staffers"
+  },
+  "category": "business",
+  "tags": [
+    "hospital",
+    "staff",
+    "injuries",
+    "road rage"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/delhi-news/2-safdarjung-hospital-staffers-sustain-head-injuries-in-road-rage-in-delhi-case-filed-12377927#publisher=newsstand",
+  "published_at": "2026-11-25T22:48:09+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Two Delhi Hospital Staffers Sustain Head Injuries In Road Rage",
+      "image": {
+        "provider": "generated",
+        "query": "Delhi Hospital Staffers",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Incident Details",
+      "image": {
+        "provider": "generated",
+        "query": "Safdarjung Hospital incident India",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Injuries and Consequences",
+      "image": {
+        "provider": "generated",
+        "query": "Injuries from road rage India",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "business finance corporate office",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

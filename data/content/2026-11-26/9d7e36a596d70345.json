@@ -1,67 +1,70 @@
 {
-    "news_id": "9d7e36a596d70345",
+  "news_id": "9d7e36a596d70345",
+  "country": "US",
+  "main_subject": {
+    "name": "nanowires",
+    "type": "product",
+    "image_search_query": "nanowires"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "nanowires",
-        "type": "product",
+    "category": "technology",
+    "subcategory": "nanotechnology",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "nanowires",
+      "nanotechnology",
+      "domain wall motion",
+      "chiral interaction",
+      "perpendicular anisotropy"
+    ],
+    "classification_reason": "nanowires are the central subject of the article, focusing on their properties and motion in nanoscale structures.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Theory of geometry-modulated domain wall motion in nanowires with chiral interaction and perpendicular anisotropy",
+    "caption": "The article discusses the theory behind the movement of domain walls in nanowires, emphasizing the influence of chiral interaction and perpendicular anisotropy.",
+    "hashtags": [
+      "#nanowires",
+      "#nanotechnology",
+      "#domain_wall_motion",
+      "#chiral_interaction",
+      "#perpendicular_anisotropy"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Theory of geometry-modulated domain wall motion in nanowires with chiral",
+        "text": "The article discusses the theory behind the movement of domain walls in nanowires, emphasizing the influence of chiral interaction and perpendicular anisotropy.",
         "image_search_query": "nanowires"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "nanotechnology",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "nanowires",
-            "nanotechnology",
-            "domain wall motion",
-            "chiral interaction",
-            "perpendicular anisotropy"
-        ],
-        "classification_reason": "nanowires are the central subject of the article, focusing on their properties and motion in nanoscale structures.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Theory of geometry-modulated domain wall motion in nanowires with chiral interaction and perpendicular anisotropy",
-        "caption": "The article discusses the theory behind the movement of domain walls in nanowires, emphasizing the influence of chiral interaction and perpendicular anisotropy.",
-        "hashtags": [
-            "#nanowires",
-            "#nanotechnology",
-            "#domain_wall_motion",
-            "#chiral_interaction",
-            "#perpendicular_anisotropy"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Theory of geometry-modulated domain wall motion in nanowires with chiral",
-                "text": "The article discusses the theory behind the movement of domain walls in nanowires, emphasizing the influence of chiral interaction and perpendicular anisotropy.",
-                "image_search_query": "nanowires"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Theory of domain wall motion",
-                "text": "The article delves into the theory behind the movement of domain walls in nanowires, highlighting the influence of chiral interaction and perpendicular anisotropy.",
-                "image_search_query": "nanowires domain wall motion United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Chiral interaction and anisotropy",
-                "text": "The article explains how chiral interaction and perpendicular anisotropy affect the movement of domain walls in nanowires.",
-                "image_search_query": "nanowires chiral interaction anisotropy United States"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Science",
-    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1Z3NnM0VTT2hVUmJ3SVBsa0RkTFhXUm1XWHlEVFFQT2ZqcktIc2wtMkptcGRUMUdvMUwxeTVVdTFtMkdvbllkOXdqSXQ2RFdsdC0yYmItRXZYY3ZMT3F1UG1JYXhRQQ?oc=5",
-    "published_at": "2026-11-25T22:54:28+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Theory of domain wall motion",
+        "text": "The article delves into the theory behind the movement of domain walls in nanowires, highlighting the influence of chiral interaction and perpendicular anisotropy.",
+        "image_search_query": "nanowires domain wall motion United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Chiral interaction and anisotropy",
+        "text": "The article explains how chiral interaction and perpendicular anisotropy affect the movement of domain walls in nanowires.",
+        "image_search_query": "nanowires chiral interaction anisotropy United States"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1Z3NnM0VTT2hVUmJ3SVBsa0RkTFhXUm1XWHlEVFFQT2ZqcktIc2wtMkptcGRUMUdvMUwxeTVVdTFtMkdvbllkOXdqSXQ2RFdsdC0yYmItRXZYY3ZMT3F1UG1JYXhRQQ?oc=5",
+  "published_at": "2026-11-25T22:54:28+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-26/9d7e36a596d70345/video.mp4"
 }

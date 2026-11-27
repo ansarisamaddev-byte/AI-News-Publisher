@@ -1,61 +1,64 @@
 {
-    "news_id": "ce19d8f48502f898",
+  "news_id": "ce19d8f48502f898",
+  "country": "US",
+  "main_subject": {
+    "name": "Goethite",
+    "type": "product",
+    "image_search_query": "Goethite"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Goethite",
-        "type": "product",
+    "category": "science",
+    "subcategory": "materials science",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "materials science",
+      "goethite"
+    ],
+    "classification_reason": "Goethite is a specific mineral product discussed in the article.",
+    "selected_channels": [
+      "science-news"
+    ]
+  },
+  "content": {
+    "title": "Magnetic structure, spin-flop transition, and terahertz antiferromagnetic resonances in Goethite",
+    "caption": "Goethite, a mineral, exhibits unique magnetic properties.",
+    "hashtags": [
+      "#materialsscience",
+      "#goethite"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Magnetic structure, spin-flop transition, and terahertz antiferromagnetic resonances in Goethite",
+        "text": "Goethite, a mineral, exhibits unique magnetic properties.",
         "image_search_query": "Goethite"
-    },
-    "classification": {
-        "country": "US",
-        "category": "science",
-        "subcategory": "materials science",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "materials science",
-            "goethite"
-        ],
-        "classification_reason": "Goethite is a specific mineral product discussed in the article.",
-        "selected_channels": [
-            "science-news"
-        ]
-    },
-    "content": {
-        "title": "Magnetic structure, spin-flop transition, and terahertz antiferromagnetic resonances in Goethite",
-        "caption": "Goethite, a mineral, exhibits unique magnetic properties.",
-        "hashtags": [
-            "#materialsscience",
-            "#goethite"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Magnetic structure, spin-flop transition, and terahertz antiferromagnetic resonances in Goethite",
-                "text": "Goethite, a mineral, exhibits unique magnetic properties.",
-                "image_search_query": "Goethite"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Magnetic Structure",
-                "text": "Goethite has a magnetic structure that can be studied.",
-                "image_search_query": "Goethite magnetic structure United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Spin-Flop Transition",
-                "text": "A spin-flop transition occurs in Goethite.",
-                "image_search_query": "Goethite spin-flop transition United States"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Science",
-    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqUUMwdlBWY0p0STVWbWJIRlRVUmlGeE90NEl2a1hQVjduclJjdkpHcVlFYTM0U2g4SWJaQWNsOTJiTDhaRTlVX2xMZGliZXBUSHBPWEFFQ25CT0VYZ1pMb3pIbGZKUQ?oc=5",
-    "published_at": "2026-11-25T22:54:28+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Magnetic Structure",
+        "text": "Goethite has a magnetic structure that can be studied.",
+        "image_search_query": "Goethite magnetic structure United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Spin-Flop Transition",
+        "text": "A spin-flop transition occurs in Goethite.",
+        "image_search_query": "Goethite spin-flop transition United States"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqUUMwdlBWY0p0STVWbWJIRlRVUmlGeE90NEl2a1hQVjduclJjdkpHcVlFYTM0U2g4SWJaQWNsOTJiTDhaRTlVX2xMZGliZXBUSHBPWEFFQ25CT0VYZ1pMb3pIbGZKUQ?oc=5",
+  "published_at": "2026-11-25T22:54:28+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-26/ce19d8f48502f898/video.mp4"
 }

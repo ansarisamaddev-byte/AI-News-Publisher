@@ -1,64 +1,67 @@
 {
-    "news_id": "37d2e3291822d70e",
+  "news_id": "37d2e3291822d70e",
+  "country": "US",
+  "main_subject": {
+    "name": "SpaceX",
+    "type": "company",
+    "image_search_query": "SpaceX"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "SpaceX",
-        "type": "company",
+    "category": "technology",
+    "subcategory": "satellites",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "satellites",
+      "space",
+      "launch",
+      "data centers"
+    ],
+    "classification_reason": "SpaceX's authorization for launching 1 million satellites is a significant technological development in satellite technology.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "US Clears SpaceX To Launch 1 Million Satellites For Data Centers In Space",
+    "caption": "SpaceX's authorization to launch 1 million satellites for data centers in space is approved by the FCC.",
+    "hashtags": [
+      "#SpaceX",
+      "#Satellites",
+      "#DataCenters"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "US Clears SpaceX To Launch 1 Million Satellites For Data",
+        "text": "SpaceX's authorization to launch 1 million satellites for data centers in space is approved by the FCC.",
         "image_search_query": "SpaceX"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "satellites",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "satellites",
-            "space",
-            "launch",
-            "data centers"
-        ],
-        "classification_reason": "SpaceX's authorization for launching 1 million satellites is a significant technological development in satellite technology.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "US Clears SpaceX To Launch 1 Million Satellites For Data Centers In Space",
-        "caption": "SpaceX's authorization to launch 1 million satellites for data centers in space is approved by the FCC.",
-        "hashtags": [
-            "#SpaceX",
-            "#Satellites",
-            "#DataCenters"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "US Clears SpaceX To Launch 1 Million Satellites For Data",
-                "text": "SpaceX's authorization to launch 1 million satellites for data centers in space is approved by the FCC.",
-                "image_search_query": "SpaceX"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Satellite Launch Authorization",
-                "text": "The US FCC has approved SpaceX's satellite launch authorization.",
-                "image_search_query": "US FCC satellite launch authorization United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Satellite Launch Details",
-                "text": "The satellites will be used for data centers in space.",
-                "image_search_query": "Satellite data centers in space United States"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "NDTV",
-    "source_url": "https://www.ndtv.com/world-news/us-clears-spacex-to-launch-1-million-satellites-for-data-centers-in-space-12377997#publisher=newsstand",
-    "published_at": "2026-11-25T23:45:59+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Satellite Launch Authorization",
+        "text": "The US FCC has approved SpaceX's satellite launch authorization.",
+        "image_search_query": "US FCC satellite launch authorization United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Satellite Launch Details",
+        "text": "The satellites will be used for data centers in space.",
+        "image_search_query": "Satellite data centers in space United States"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/us-clears-spacex-to-launch-1-million-satellites-for-data-centers-in-space-12377997#publisher=newsstand",
+  "published_at": "2026-11-25T23:45:59+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-26/37d2e3291822d70e/video.mp4"
 }

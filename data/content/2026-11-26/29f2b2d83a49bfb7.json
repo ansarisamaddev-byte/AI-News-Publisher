@@ -1,63 +1,66 @@
 {
-    "news_id": "29f2b2d83a49bfb7",
+  "news_id": "29f2b2d83a49bfb7",
+  "country": "US",
+  "main_subject": {
+    "name": "SpaceX",
+    "type": "company",
+    "image_search_query": "SpaceX"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "SpaceX",
-        "type": "company",
+    "category": "technology",
+    "subcategory": "satellite internet",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "satellite internet",
+      "Starmind",
+      "FCC"
+    ],
+    "classification_reason": "The article is about SpaceX's satellite internet project Starmind, which received FCC approval.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "US regulators approve SpaceX's Starmind satellite internet project",
+    "caption": "The FCC gives SpaceX permission to launch a million satellites into space to build data centers.",
+    "hashtags": [
+      "#Starmind",
+      "#SatelliteInternet",
+      "#FCCApproval"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "US regulators approve SpaceX's Starmind satellite internet project",
+        "text": "The FCC gives SpaceX permission to launch a million satellites into space to build data centers.",
         "image_search_query": "SpaceX"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "satellite internet",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "satellite internet",
-            "Starmind",
-            "FCC"
-        ],
-        "classification_reason": "The article is about SpaceX's satellite internet project Starmind, which received FCC approval.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "US regulators approve SpaceX's Starmind satellite internet project",
-        "caption": "The FCC gives SpaceX permission to launch a million satellites into space to build data centers.",
-        "hashtags": [
-            "#Starmind",
-            "#SatelliteInternet",
-            "#FCCApproval"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "US regulators approve SpaceX's Starmind satellite internet project",
-                "text": "The FCC gives SpaceX permission to launch a million satellites into space to build data centers.",
-                "image_search_query": "SpaceX"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "What SpaceX wants to do",
-                "text": "SpaceX wants to use sunlight to power satellites that will process data for AI and send the results back to Earth.",
-                "image_search_query": "SpaceX satellite internet United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Why it matters",
-                "text": "The FCC approval opens a bold new frontier for the computing infrastructure needed to power America's leadership and growth.",
-                "image_search_query": "SpaceX satellite internet Starmind United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-26T00:07:51+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "What SpaceX wants to do",
+        "text": "SpaceX wants to use sunlight to power satellites that will process data for AI and send the results back to Earth.",
+        "image_search_query": "SpaceX satellite internet United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Why it matters",
+        "text": "The FCC approval opens a bold new frontier for the computing infrastructure needed to power America's leadership and growth.",
+        "image_search_query": "SpaceX satellite internet Starmind United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-26T00:07:51+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-26/29f2b2d83a49bfb7/video.mp4"
 }

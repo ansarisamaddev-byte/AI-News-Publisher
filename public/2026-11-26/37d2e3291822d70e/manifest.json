@@ -1,0 +1,75 @@
+{
+  "news_id": "37d2e3291822d70e",
+  "title": "US Clears SpaceX To Launch 1 Million Satellites For Data Centers In Space",
+  "main_subject": {
+    "name": "SpaceX",
+    "type": "company",
+    "image_search_query": "SpaceX"
+  },
+  "category": "technology",
+  "tags": [
+    "satellites",
+    "space",
+    "launch",
+    "data centers"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/us-clears-spacex-to-launch-1-million-satellites-for-data-centers-in-space-12377997#publisher=newsstand",
+  "published_at": "2026-11-25T23:45:59+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "US Clears SpaceX To Launch 1 Million Satellites For Data",
+      "image": {
+        "provider": "generated",
+        "query": "SpaceX",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Satellite Launch Authorization",
+      "image": {
+        "provider": "generated",
+        "query": "US FCC satellite launch authorization United States",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Satellite Launch Details",
+      "image": {
+        "provider": "generated",
+        "query": "Satellite data centers in space United States",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "modern technology computer digital",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

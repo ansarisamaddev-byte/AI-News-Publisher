@@ -1,62 +1,65 @@
 {
-    "news_id": "df9992d6e4ae4122",
+  "news_id": "df9992d6e4ae4122",
+  "country": "UK",
+  "main_subject": {
+    "name": "Mauricio Pochettino",
+    "type": "person",
+    "image_search_query": "Mauricio Pochettino"
+  },
+  "classification": {
     "country": "UK",
-    "main_subject": {
-        "name": "Mauricio Pochettino",
-        "type": "person",
+    "category": "business",
+    "subcategory": "football",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "",
+    "tags": [
+      "football",
+      "manager"
+    ],
+    "classification_reason": "The article is about Mauricio Pochettino's first two matches as Manchester United manager, focusing on his performance, decisions, and reactions.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Mauricio Pochettino's First Two Matches as Manchester United Manager",
+    "caption": "Mauricio Pochettino's first two matches as Manchester United manager, focusing on his performance, decisions, and reactions.",
+    "hashtags": [
+      "#MauricioPochettino",
+      "#ManchesterUnited",
+      "#FootballManager"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Mauricio Pochettino's First Two Matches as Manchester United Manager",
+        "text": "Mauricio Pochettino's first two matches as Manchester United manager, focusing on his performance, decisions, and reactions.",
         "image_search_query": "Mauricio Pochettino"
-    },
-    "classification": {
-        "country": "UK",
-        "category": "business",
-        "subcategory": "football",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "",
-        "tags": [
-            "football",
-            "manager"
-        ],
-        "classification_reason": "The article is about Mauricio Pochettino's first two matches as Manchester United manager, focusing on his performance, decisions, and reactions.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Mauricio Pochettino's First Two Matches as Manchester United Manager",
-        "caption": "Mauricio Pochettino's first two matches as Manchester United manager, focusing on his performance, decisions, and reactions.",
-        "hashtags": [
-            "#MauricioPochettino",
-            "#ManchesterUnited",
-            "#FootballManager"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Mauricio Pochettino's First Two Matches as Manchester United Manager",
-                "text": "Mauricio Pochettino's first two matches as Manchester United manager, focusing on his performance, decisions, and reactions.",
-                "image_search_query": "Mauricio Pochettino"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "First Match: Liverpool vs United",
-                "text": "Pochettino's first match against Liverpool was a disaster. He was sent off for a red card, and the game ended in a 4-0 defeat. The referee, Szymon Marciniak, was criticized for his decisions.",
-                "image_search_query": "Mauricio Pochettino Liverpool United Kingdom"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Second Match: Lisbon vs Sporting",
-                "text": "In the second match, Pochettino was criticized for his decisions, with two red cards and a goal disallowed. The game ended in a 2-2 draw, with United officials feeling that the referee, Marciniak, was unfair.",
-                "image_search_query": "Mauricio Pochettino Lisbon Sporting United Kingdom"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-26T00:24:48+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "First Match: Liverpool vs United",
+        "text": "Pochettino's first match against Liverpool was a disaster. He was sent off for a red card, and the game ended in a 4-0 defeat. The referee, Szymon Marciniak, was criticized for his decisions.",
+        "image_search_query": "Mauricio Pochettino Liverpool United Kingdom"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Second Match: Lisbon vs Sporting",
+        "text": "In the second match, Pochettino was criticized for his decisions, with two red cards and a goal disallowed. The game ended in a 2-2 draw, with United officials feeling that the referee, Marciniak, was unfair.",
+        "image_search_query": "Mauricio Pochettino Lisbon Sporting United Kingdom"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-26T00:24:48+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-26/df9992d6e4ae4122/video.mp4"
 }

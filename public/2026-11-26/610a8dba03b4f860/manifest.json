@@ -1,0 +1,74 @@
+{
+  "news_id": "610a8dba03b4f860",
+  "title": "Hera spacecraft returns to study DART impact on Dimorphos",
+  "main_subject": {
+    "name": "Hera",
+    "type": "company",
+    "image_search_query": "Hera"
+  },
+  "category": "technology",
+  "tags": [
+    "spacecraft",
+    "astronomy",
+    "near-Earth asteroid"
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+  "published_at": "2026-11-25T22:36:45+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Hera spacecraft returns to study DART impact on Dimorphos",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
+        "article_url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Hera"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "DART experiment",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
+        "article_url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "NASA DART spacecraft United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Hera's arrival",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
+        "article_url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Hera spacecraft arriving at Didymos system United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
+        "article_url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}
