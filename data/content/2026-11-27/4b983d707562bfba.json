@@ -1,0 +1,63 @@
+{
+    "news_id": "4b983d707562bfba",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Delhi Police",
+        "type": "organization",
+        "image_search_query": "Delhi Police"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "politics",
+        "subcategory": "police",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "Delhi",
+        "tags": [
+            "police",
+            "cybercrime",
+            "rescue"
+        ],
+        "classification_reason": "police action against cybercrime",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "Delhi Police Bust International Cyber Slavery Racket, Rescue 164 Foreigners",
+        "caption": "Delhi Police seize substantial digital infrastructure used in international cyber slavery racket, rescuing 164 foreign nationals.",
+        "hashtags": [
+            "#DelhiPolice",
+            "#CyberSlavery",
+            "#Rescue"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Delhi Police Bust International Cyber Slavery Racket, Rescue 164 Foreigners",
+                "text": "Delhi Police seize substantial digital infrastructure used in international cyber slavery racket, rescuing 164 foreign nationals.",
+                "image_search_query": "Delhi Police"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Relevant Context",
+                "text": "The police have seized a substantial digital infrastructure allegedly used to run the operation.",
+                "image_search_query": "Digital infrastructure seized India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Important Details",
+                "text": "Full article text successfully extracted: False",
+                "image_search_query": "Details of the operation India"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "NDTV",
+    "source_url": "https://www.ndtv.com/delhi-news/delhi-police-bust-international-cyber-slavery-racket-rescue-164-foreigners-12382653#publisher=newsstand",
+    "published_at": "2026-11-26T23:21:01+00:00"
+}

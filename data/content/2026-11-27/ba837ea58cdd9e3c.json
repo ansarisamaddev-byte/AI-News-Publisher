@@ -1,0 +1,66 @@
+{
+    "news_id": "ba837ea58cdd9e3c",
+    "country": "GERMANY",
+    "main_subject": {
+        "name": "Rheinmetall",
+        "type": "company",
+        "image_search_query": "Rheinmetall"
+    },
+    "classification": {
+        "country": "GERMANY",
+        "category": "technology",
+        "subcategory": "defense",
+        "importance_score": 7,
+        "relevance_score": 7,
+        "region": "Europe",
+        "tags": [
+            "Rheinmetall",
+            "Italy",
+            "Iran",
+            "Kuwait",
+            "Gulf War"
+        ],
+        "classification_reason": "The article is about a company involved in a drone attack in Kuwait, which is a significant event in the Gulf War.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Rheinmetall and Italy's Italian technicians killed in drone attack in Kuwait",
+        "caption": "A company involved in a drone attack in Kuwait, Rheinmetall, lost two Italian technicians working on an air defense system.",
+        "hashtags": [
+            "#Rheinmetall",
+            "#Italy",
+            "#Kuwait",
+            "#GulfWar"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Rheinmetall and Italy's Italian technicians killed in drone attack in",
+                "text": "A company involved in a drone attack in Kuwait, Rheinmetall, lost two Italian technicians working on an air defense system.",
+                "image_search_query": "Rheinmetall"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Relevant context",
+                "text": "A drone attack in Kuwait killed two Italian technicians working on an air defense system.",
+                "image_search_query": "Kuwait drone attack Germany"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Important details",
+                "text": "The attack came days after Kuwait activated its air defences to counter Iranian drone strikes.",
+                "image_search_query": "Kuwait air defences Germany"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/news/international/drone-attack-kuwait-us-iran-war-death-november-27-2026/article71748337.ece",
+    "published_at": "2026-11-26T23:39:13+00:00"
+}

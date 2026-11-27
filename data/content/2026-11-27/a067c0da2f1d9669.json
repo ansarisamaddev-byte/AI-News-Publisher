@@ -1,0 +1,64 @@
+{
+    "news_id": "a067c0da2f1d9669",
+    "country": "US",
+    "main_subject": {
+        "name": "President Donald Trump",
+        "type": "person",
+        "image_search_query": "President Donald Trump"
+    },
+    "classification": {
+        "country": "US",
+        "category": "politics",
+        "subcategory": "emergency funds",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "USA",
+        "tags": [
+            "emergency funds",
+            "weather",
+            "travel",
+            "travel delays"
+        ],
+        "classification_reason": "The article discusses the impact of weather on travel and infrastructure, with President Trump considering emergency funds for the east coast.",
+        "selected_channels": [
+            "politics-news"
+        ]
+    },
+    "content": {
+        "title": "President Trump considers emergency funds for east coast",
+        "caption": "President Donald Trump considers releasing emergency funds for the east coast due to severe weather.",
+        "hashtags": [
+            "#emergency_funds",
+            "#weather_impact",
+            "#east_coast"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "President Trump considers emergency funds for east coast",
+                "text": "President Donald Trump considers releasing emergency funds for the east coast due to severe weather.",
+                "image_search_query": "President Donald Trump"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Weather impact",
+                "text": "Severe weather impacts travel and infrastructure across the east coast.",
+                "image_search_query": "massive storms, Thanksgiving, east coast United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Emergency funds",
+                "text": "President Trump considers releasing emergency funds for the east coast due to severe weather.",
+                "image_search_query": "emergency funds, weather, travel United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-27T00:29:48+00:00"
+}

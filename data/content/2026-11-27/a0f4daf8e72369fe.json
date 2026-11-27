@@ -1,0 +1,64 @@
+{
+    "news_id": "a0f4daf8e72369fe",
+    "country": "UK",
+    "main_subject": {
+        "name": "NHS England",
+        "type": "organization",
+        "image_search_query": "NHS England"
+    },
+    "classification": {
+        "country": "UK",
+        "category": "health",
+        "subcategory": "flu outbreak",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "England",
+        "tags": [
+            "flu outbreak",
+            "NHS",
+            "hospital admissions",
+            "vaccination"
+        ],
+        "classification_reason": "The article is about a flu outbreak in England and the response from the NHS.",
+        "selected_channels": [
+            "health-news"
+        ]
+    },
+    "content": {
+        "title": "NHS England Urges Flu Vaccination Amid Surge in Hospital Admissions",
+        "caption": "Health officials in England are urging those most at risk to get vaccinated against flu as hospital admission rates soar to the highest since before the pandemic.",
+        "hashtags": [
+            "#fluoutbreak",
+            "#NHSvaccination",
+            "#hospitaladmissions"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "NHS England Urges Flu Vaccination Amid Surge in Hospital Admissions",
+                "text": "Health officials in England are urging those most at risk to get vaccinated against flu as hospital admission rates soar to the highest since before the pandemic.",
+                "image_search_query": "NHS England"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Flu Surge",
+                "text": "Hospital admission rates soar to the highest since before the pandemic.",
+                "image_search_query": "hospital admissions surge United Kingdom"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Flu Vaccine Uptake",
+                "text": "Flu vaccine uptake among those aged 65 and over was just under 68%.",
+                "image_search_query": "flu vaccine uptake United Kingdom"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "BBC News",
+    "source_url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
+    "published_at": "2026-11-27T00:20:10+00:00"
+}
