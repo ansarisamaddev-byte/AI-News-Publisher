@@ -1,0 +1,65 @@
+{
+    "news_id": "b9d33777af674c12",
+    "country": "INDIA",
+    "main_subject": {
+        "name": "Jasprit Bumrah",
+        "type": "person",
+        "image_search_query": "Jasprit Bumrah"
+    },
+    "classification": {
+        "country": "INDIA",
+        "category": "technology",
+        "subcategory": "cricket",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "India",
+        "tags": [
+            "Jasprit Bumrah",
+            "run-up",
+            "wicketless",
+            "India vs NZ"
+        ],
+        "classification_reason": "The main subject is a prominent cricket player who is central to the news story.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Jasprit Bumrah Mixes Up Run-Up in Bid to End Wicketless Spell",
+        "caption": "Jasprit Bumrah's unusual run-up during the second Test against New Zealand showcases his determination to end his wicketless streak.",
+        "hashtags": [
+            "#JaspritBumrah",
+            "#RunUp",
+            "#Wicketless",
+            "#IndiaVsNZ"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Jasprit Bumrah Mixes Up Run-Up in Bid to End Wicketless",
+                "text": "Jasprit Bumrah's unusual run-up during the second Test against New Zealand showcases his determination to end his wicketless streak.",
+                "image_search_query": "Jasprit Bumrah"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Run-Up Unusual",
+                "text": "During the second session, Bumrah took longer strides and stretched his arms ahead of his body while running in instead of hiding the ball with both hands.",
+                "image_search_query": "Jasprit Bumrah unusual run-up India"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Impact on Game",
+                "text": "The unusual run-up may have added to the element of surprise and helped India end New Zealand's wicketless streak.",
+                "image_search_query": "Jasprit Bumrah impact on game India"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Hindu",
+    "source_url": "https://www.thehindu.com/sport/cricket/ind-vs-nz-second-test-wily-jasprit-bumrah-mixes-it-up-in-bid-to-end-wicketless-funk/article71750706.ece",
+    "published_at": "2026-11-27T23:36:08+00:00"
+}

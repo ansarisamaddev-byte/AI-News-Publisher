@@ -1,0 +1,63 @@
+{
+    "news_id": "c8fd0c75d694b79f",
+    "country": "US",
+    "main_subject": {
+        "name": "Yeti",
+        "type": "company",
+        "image_search_query": "Yeti"
+    },
+    "classification": {
+        "country": "US",
+        "category": "technology",
+        "subcategory": "coolers",
+        "importance_score": 7,
+        "relevance_score": 7,
+        "region": "USA",
+        "tags": [
+            "Yeti",
+            "coolers",
+            "discounts"
+        ],
+        "classification_reason": "The article is primarily about Yeti's Black Friday deals, focusing on their coolers and insulated cups.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "Yeti's Black Friday Deals",
+        "caption": "Yeti offers discounts on their coolers and insulated cups for Black Friday.",
+        "hashtags": [
+            "#Yeti",
+            "#BlackFriday",
+            "#Coolers"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "Yeti's Black Friday Deals",
+                "text": "Yeti offers discounts on their coolers and insulated cups for Black Friday.",
+                "image_search_query": "Yeti"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "What's on Sale",
+                "text": "The company is offering discounts on their coolers and insulated cups for Black Friday.",
+                "image_search_query": "Yeti insulated cups United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Why It Matters",
+                "text": "The discounts are rare and tend to sell out quickly, making them a good opportunity to purchase.",
+                "image_search_query": "Yeti cooler discounts United States"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "Wired",
+    "source_url": "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
+    "published_at": "2026-11-27T23:54:42+00:00"
+}

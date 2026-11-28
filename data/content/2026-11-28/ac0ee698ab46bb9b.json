@@ -1,0 +1,63 @@
+{
+    "news_id": "ac0ee698ab46bb9b",
+    "country": "CHINA",
+    "main_subject": {
+        "name": "BYD",
+        "type": "company",
+        "image_search_query": "BYD"
+    },
+    "classification": {
+        "country": "CHINA",
+        "category": "technology",
+        "subcategory": "electric vehicles",
+        "importance_score": 8,
+        "relevance_score": 8,
+        "region": "China",
+        "tags": [
+            "electric vehicles",
+            "minivans",
+            "BYD"
+        ],
+        "classification_reason": "The article is primarily about BYD's electric minivan, which is a significant development in the electric vehicle market.",
+        "selected_channels": [
+            "technology-news"
+        ]
+    },
+    "content": {
+        "title": "BYD Announces Electric Minivan with 559 Miles Range",
+        "caption": "China's BYD unveils the BYD Whale, an electric minivan with an impressive 559 miles range.",
+        "hashtags": [
+            "#BYD",
+            "#ElectricMinivan",
+            "#559MilesRange"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "BYD Announces Electric Minivan with 559 Miles Range",
+                "text": "China's BYD unveils the BYD Whale, an electric minivan with an impressive 559 miles range.",
+                "image_search_query": "BYD"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Announcement Details",
+                "text": "BYD announces the launch of the BYD Whale, a high-performance electric minivan with a range of 559 miles.",
+                "image_search_query": "BYD Whale launch announcement China"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Vehicle Specifications",
+                "text": "The BYD Whale boasts impressive dimensions and advanced features, including a 123-inch wheelbase and a sensor cluster on its forehead.",
+                "image_search_query": "BYD Whale specifications China"
+            }
+        ]
+    },
+    "article_text_available": true,
+    "article_text_note": "Full article text extracted.",
+    "source": "The Verge",
+    "source_url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+    "published_at": "2026-11-28T00:02:49+00:00"
+}

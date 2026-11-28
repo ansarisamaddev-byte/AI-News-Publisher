@@ -1,0 +1,65 @@
+{
+    "news_id": "7d48fe694b0f12b8",
+    "country": "US",
+    "main_subject": {
+        "name": "RNA discovery",
+        "type": "product",
+        "image_search_query": "RNA discovery"
+    },
+    "classification": {
+        "country": "US",
+        "category": "science",
+        "subcategory": "biotechnology",
+        "importance_score": 10,
+        "relevance_score": 10,
+        "region": "US",
+        "tags": [
+            "biotechnology",
+            "RNA",
+            "gut bacterium",
+            "intestinal mucus"
+        ],
+        "classification_reason": "RNA discovery in biotechnology",
+        "selected_channels": [
+            "science-news"
+        ]
+    },
+    "content": {
+        "title": "RNA discovery reveals how gut bacterium adapts to life in intestinal mucus",
+        "caption": "Scientists uncover the mechanism by which gut bacteria survive in the mucus layer of the intestine.",
+        "hashtags": [
+            "#biotechnology",
+            "#RNA",
+            "#gut_bacterium",
+            "#intestinal_mucus"
+        ],
+        "slides": [
+            {
+                "slide_number": 1,
+                "type": "cover",
+                "heading": "RNA discovery reveals how gut bacterium adapts to life in",
+                "text": "Scientists uncover the mechanism by which gut bacteria survive in the mucus layer of the intestine.",
+                "image_search_query": "RNA discovery"
+            },
+            {
+                "slide_number": 2,
+                "type": "context",
+                "heading": "Relevant context",
+                "text": "The discovery of RNA in the gut bacterium provides insights into its survival strategy.",
+                "image_search_query": "gut bacterium, RNA, survival strategy United States"
+            },
+            {
+                "slide_number": 3,
+                "type": "details",
+                "heading": "Important details",
+                "text": "The study reveals how the bacterium adapts to the harsh environment of the intestinal mucus layer.",
+                "image_search_query": "gut bacterium, RNA, survival, mucus layer United States"
+            }
+        ]
+    },
+    "article_text_available": false,
+    "article_text_note": "Full article unavailable. Generated using RSS information only.",
+    "source": "Google News - Science",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2YzU0QUkwVFMtSE1qcDlsV0dUeWV0em1iQmpMR2dJRjJlSThTX0VEaTRNWXFpS1lmb0w2SHFrNEdzVklFdS1mUXBsaE13aWFRVmlXdGgtY2VBdEN4amc1b3ZFbHBSWDFqVjMyYTNobFVUSFpfS0dyMDR3?oc=5",
+    "published_at": "2026-11-28T00:00:01+00:00"
+}
