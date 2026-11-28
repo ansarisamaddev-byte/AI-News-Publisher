@@ -1,64 +1,67 @@
 {
-    "news_id": "7b0bef2f1175fa62",
+  "news_id": "7b0bef2f1175fa62",
+  "country": "US",
+  "main_subject": {
+    "name": "GTA 6",
+    "type": "product",
+    "image_search_query": "GTA 6"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "GTA 6",
-        "type": "product",
+    "category": "technology",
+    "subcategory": "gaming",
+    "importance_score": 1,
+    "relevance_score": 1,
+    "region": "US",
+    "tags": [
+      "gta",
+      "6",
+      "gaming",
+      "weapons"
+    ],
+    "classification_reason": "GTA 6 is a specific product in the gaming industry.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "GTA 6 Guide: How to Switch Guns",
+    "caption": "A guide on how to switch weapons in GTA 6, including a free silenced pistol.",
+    "hashtags": [
+      "#GTA6",
+      "#GTA6Guide",
+      "#SwitchWeapons"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "GTA 6 Guide: How to Switch Guns",
+        "text": "A guide on how to switch weapons in GTA 6, including a free silenced pistol.",
         "image_search_query": "GTA 6"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "gaming",
-        "importance_score": 1,
-        "relevance_score": 1,
-        "region": "US",
-        "tags": [
-            "gta",
-            "6",
-            "gaming",
-            "weapons"
-        ],
-        "classification_reason": "GTA 6 is a specific product in the gaming industry.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "GTA 6 Guide: How to Switch Guns",
-        "caption": "A guide on how to switch weapons in GTA 6, including a free silenced pistol.",
-        "hashtags": [
-            "#GTA6",
-            "#GTA6Guide",
-            "#SwitchWeapons"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "GTA 6 Guide: How to Switch Guns",
-                "text": "A guide on how to switch weapons in GTA 6, including a free silenced pistol.",
-                "image_search_query": "GTA 6"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "How to Save Guns and Weapons",
-                "text": "A guide on how to save and switch weapons in GTA 6.",
-                "image_search_query": "GTA 6 weapons guide United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Best Legendary Weapon Variants",
-                "text": "A guide on the best legendary weapons in GTA 6.",
-                "image_search_query": "GTA 6 legendary weapons United States"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Technology",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91eDZXd1dldE1XWG02cnFxVWVQTVZ0RFpmTEh6M19XVlZLT2dWOF9haVhBZEUwdDU0ZnN0VnJjM1JtSW9xQTBSdkN5NmpCWW9PcDFneUR2YW1aUFNXck54UVl0YWlIXzdJRXFfNU9zN3QteEtEYll2NVVzb3Y?oc=5",
-    "published_at": "2026-11-26T22:40:14+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "How to Save Guns and Weapons",
+        "text": "A guide on how to save and switch weapons in GTA 6.",
+        "image_search_query": "GTA 6 weapons guide United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Best Legendary Weapon Variants",
+        "text": "A guide on the best legendary weapons in GTA 6.",
+        "image_search_query": "GTA 6 legendary weapons United States"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Technology",
+  "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91eDZXd1dldE1XWG02cnFxVWVQTVZ0RFpmTEh6M19XVlZLT2dWOF9haVhBZEUwdDU0ZnN0VnJjM1JtSW9xQTBSdkN5NmpCWW9PcDFneUR2YW1aUFNXck54UVl0YWlIXzdJRXFfNU9zN3QteEtEYll2NVVzb3Y?oc=5",
+  "published_at": "2026-11-26T22:40:14+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-27/7b0bef2f1175fa62/video.mp4"
 }

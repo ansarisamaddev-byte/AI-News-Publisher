@@ -1,0 +1,74 @@
+{
+  "news_id": "7cb3b0d2394eac92",
+  "title": "Aaditya Thackeray Writes to Chief Minister on Pagdi Buildings",
+  "main_subject": {
+    "name": "Aaditya Thackeray",
+    "type": "person",
+    "image_search_query": "Aaditya Thackeray"
+  },
+  "category": "business",
+  "tags": [
+    "Shiv Sena UBT",
+    "Aaditya Thackeray",
+    "Pagdi buildings"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/maharashtra/shiv-sena-ubt-leader-aaditya-thackeray-writes-to-cm-fadnavis-over-935-pagdi-buildings/article71749175.ece",
+  "published_at": "2026-11-27T00:25:23+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Aaditya Thackeray Writes to Chief Minister on Pagdi Buildings",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/935emt/article71749176.ece/alternates/LANDSCAPE_1200/20260708441L.jpg",
+        "article_url": "https://www.thehindu.com/news/national/maharashtra/shiv-sena-ubt-leader-aaditya-thackeray-writes-to-cm-fadnavis-over-935-pagdi-buildings/article71749175.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Aaditya Thackeray"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Pagdi Buildings",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/935emt/article71749176.ece/alternates/LANDSCAPE_1200/20260708441L.jpg",
+        "article_url": "https://www.thehindu.com/news/national/maharashtra/shiv-sena-ubt-leader-aaditya-thackeray-writes-to-cm-fadnavis-over-935-pagdi-buildings/article71749175.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Pagdi buildings Maharashtra Rent Control Act India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Thackeray's Demand",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/935emt/article71749176.ece/alternates/LANDSCAPE_1200/20260708441L.jpg",
+        "article_url": "https://www.thehindu.com/news/national/maharashtra/shiv-sena-ubt-leader-aaditya-thackeray-writes-to-cm-fadnavis-over-935-pagdi-buildings/article71749175.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Thackeray pagdi buildings redevelopment India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/935emt/article71749176.ece/alternates/LANDSCAPE_1200/20260708441L.jpg",
+        "article_url": "https://www.thehindu.com/news/national/maharashtra/shiv-sena-ubt-leader-aaditya-thackeray-writes-to-cm-fadnavis-over-935-pagdi-buildings/article71749175.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

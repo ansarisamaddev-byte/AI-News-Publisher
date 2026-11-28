@@ -1,63 +1,66 @@
 {
-    "news_id": "f87f8fd93da71720",
+  "news_id": "f87f8fd93da71720",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Iran",
+    "type": "other",
+    "image_search_query": "Iran"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Iran",
-        "type": "other",
+    "category": "technology",
+    "subcategory": "defense",
+    "importance_score": 1,
+    "relevance_score": 1,
+    "region": "Kuwait",
+    "tags": [
+      "Iran",
+      "Kuwait",
+      "drone strike"
+    ],
+    "classification_reason": "Iran is the country involved in the drone strike, and Kuwait is the location where the deaths occurred.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "2 Italians Killed In Drone Strike In Kuwait, Iran Denies Responsibility",
+    "caption": "Italy and Kuwait confirm the deaths, blaming the attack on Iran.",
+    "hashtags": [
+      "#Iran",
+      "#Kuwait",
+      "#dronestrike"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "2 Italians Killed In Drone Strike In Kuwait, Iran Denies",
+        "text": "Italy and Kuwait confirm the deaths, blaming the attack on Iran.",
         "image_search_query": "Iran"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "technology",
-        "subcategory": "defense",
-        "importance_score": 1,
-        "relevance_score": 1,
-        "region": "Kuwait",
-        "tags": [
-            "Iran",
-            "Kuwait",
-            "drone strike"
-        ],
-        "classification_reason": "Iran is the country involved in the drone strike, and Kuwait is the location where the deaths occurred.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "2 Italians Killed In Drone Strike In Kuwait, Iran Denies Responsibility",
-        "caption": "Italy and Kuwait confirm the deaths, blaming the attack on Iran.",
-        "hashtags": [
-            "#Iran",
-            "#Kuwait",
-            "#dronestrike"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "2 Italians Killed In Drone Strike In Kuwait, Iran Denies",
-                "text": "Italy and Kuwait confirm the deaths, blaming the attack on Iran.",
-                "image_search_query": "Iran"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Kuwait",
-                "text": "Kuwait is the location where the deaths occurred.",
-                "image_search_query": "Kuwait drone strike India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Italy and Kuwait",
-                "text": "Both Italy and Kuwait confirmed the deaths.",
-                "image_search_query": "Italy and Kuwait drone strike India"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "NDTV",
-    "source_url": "https://www.ndtv.com/world-news/2-italians-killed-in-drone-strike-in-kuwait-iran-denies-responsibility-12382629#publisher=newsstand",
-    "published_at": "2026-11-26T22:33:04+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Kuwait",
+        "text": "Kuwait is the location where the deaths occurred.",
+        "image_search_query": "Kuwait drone strike India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Italy and Kuwait",
+        "text": "Both Italy and Kuwait confirmed the deaths.",
+        "image_search_query": "Italy and Kuwait drone strike India"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/2-italians-killed-in-drone-strike-in-kuwait-iran-denies-responsibility-12382629#publisher=newsstand",
+  "published_at": "2026-11-26T22:33:04+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-27/f87f8fd93da71720/video.mp4"
 }

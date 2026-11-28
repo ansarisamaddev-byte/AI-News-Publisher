@@ -1,63 +1,66 @@
 {
-    "news_id": "58521738fb3c10e0",
+  "news_id": "58521738fb3c10e0",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Nayab Singh Saini",
+    "type": "person",
+    "image_search_query": "Nayab Singh Saini"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Nayab Singh Saini",
-        "type": "person",
+    "category": "politics",
+    "subcategory": "government",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Haryana, India",
+    "tags": [
+      "Haryana CM",
+      "Constitution Day",
+      "democracy"
+    ],
+    "classification_reason": "The article is about the Haryana Chief Minister's speech on Constitution Day and the Congress party's response to the BJP government's actions.",
+    "selected_channels": [
+      "politics-news"
+    ]
+  },
+  "content": {
+    "title": "Haryana Chief Minister's Speech on Constitution Day",
+    "caption": "Haryana Chief Minister Nayab Singh Saini addresses the House during the special session of the Haryana State Assembly on the 77th anniversary of the adoption of the Constitution.",
+    "hashtags": [
+      "#HaryanaCM",
+      "#ConstitutionDay",
+      "#Democracy"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Haryana Chief Minister's Speech on Constitution Day",
+        "text": "Haryana Chief Minister Nayab Singh Saini addresses the House during the special session of the Haryana State Assembly on the 77th anniversary of the adoption of the Constitution.",
         "image_search_query": "Nayab Singh Saini"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "politics",
-        "subcategory": "government",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Haryana, India",
-        "tags": [
-            "Haryana CM",
-            "Constitution Day",
-            "democracy"
-        ],
-        "classification_reason": "The article is about the Haryana Chief Minister's speech on Constitution Day and the Congress party's response to the BJP government's actions.",
-        "selected_channels": [
-            "politics-news"
-        ]
-    },
-    "content": {
-        "title": "Haryana Chief Minister's Speech on Constitution Day",
-        "caption": "Haryana Chief Minister Nayab Singh Saini addresses the House during the special session of the Haryana State Assembly on the 77th anniversary of the adoption of the Constitution.",
-        "hashtags": [
-            "#HaryanaCM",
-            "#ConstitutionDay",
-            "#Democracy"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Haryana Chief Minister's Speech on Constitution Day",
-                "text": "Haryana Chief Minister Nayab Singh Saini addresses the House during the special session of the Haryana State Assembly on the 77th anniversary of the adoption of the Constitution.",
-                "image_search_query": "Nayab Singh Saini"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Relevant Context",
-                "text": "The article discusses the Haryana Chief Minister's speech on Constitution Day and the Congress party's response to the BJP government's actions.",
-                "image_search_query": "Constitution Day, Haryana, Congress party India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Important Details",
-                "text": "The article highlights the importance of respecting the Constitution and maintaining its decorum, as well as the threat posed by the BJP government's actions.",
-                "image_search_query": "Nayab Singh Saini, Constitution Day, democracy India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/haryana/constitution-is-the-guiding-force-for-present-future-says-haryana-cm-saini-congress-accuses-bjp-of-undermining-democracy/article71747227.ece",
-    "published_at": "2026-11-26T22:47:00+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Relevant Context",
+        "text": "The article discusses the Haryana Chief Minister's speech on Constitution Day and the Congress party's response to the BJP government's actions.",
+        "image_search_query": "Constitution Day, Haryana, Congress party India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Important Details",
+        "text": "The article highlights the importance of respecting the Constitution and maintaining its decorum, as well as the threat posed by the BJP government's actions.",
+        "image_search_query": "Nayab Singh Saini, Constitution Day, democracy India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/haryana/constitution-is-the-guiding-force-for-present-future-says-haryana-cm-saini-congress-accuses-bjp-of-undermining-democracy/article71747227.ece",
+  "published_at": "2026-11-26T22:47:00+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-27/58521738fb3c10e0/video.mp4"
 }

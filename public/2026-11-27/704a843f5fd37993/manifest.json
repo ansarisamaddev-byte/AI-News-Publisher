@@ -1,0 +1,73 @@
+{
+  "news_id": "704a843f5fd37993",
+  "title": "Huw Edwards Gives First Interviews Since Conviction",
+  "main_subject": {
+    "name": "Huw Edwards",
+    "type": "person",
+    "image_search_query": "Huw Edwards"
+  },
+  "category": "technology",
+  "tags": [
+    "politics",
+    "former BBC News presenter"
+  ],
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-27T00:38:03+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Huw Edwards Gives First Interviews Since Conviction",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6dd8/live/1cae3a30-e9a2-11f1-b880-15b494ba858d.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Huw Edwards"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What Happened",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6dd8/live/1cae3a30-e9a2-11f1-b880-15b494ba858d.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "BBC News, indecent images United Kingdom"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why It Matters",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6dd8/live/1cae3a30-e9a2-11f1-b880-15b494ba858d.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Huw Edwards, BBC News United Kingdom"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6dd8/live/1cae3a30-e9a2-11f1-b880-15b494ba858d.jpg",
+        "article_url": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

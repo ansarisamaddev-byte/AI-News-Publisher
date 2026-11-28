@@ -1,61 +1,64 @@
 {
-    "news_id": "b084591b14edb85c",
+  "news_id": "b084591b14edb85c",
+  "country": "HK",
+  "main_subject": {
+    "name": "Mr So",
+    "type": "person",
+    "image_search_query": "Mr So"
+  },
+  "classification": {
     "country": "HK",
-    "main_subject": {
-        "name": "Mr So",
-        "type": "person",
+    "category": "business",
+    "subcategory": "personal finance",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Hong Kong",
+    "tags": [
+      "personal finance",
+      "Hong Kong tower fire"
+    ],
+    "classification_reason": "The article is about a personal finance matter related to the victims of the Hong Kong tower fire.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Mr So's Watch and Remains",
+    "caption": "A video showing the remains of Mr So's parents and his watch found in the ashes of the Hong Kong tower fire.",
+    "hashtags": [
+      "#Hong Kong tower fire",
+      "#personal finance"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Mr So's Watch and Remains",
+        "text": "A video showing the remains of Mr So's parents and his watch found in the ashes of the Hong Kong tower fire.",
         "image_search_query": "Mr So"
-    },
-    "classification": {
-        "country": "HK",
-        "category": "business",
-        "subcategory": "personal finance",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Hong Kong",
-        "tags": [
-            "personal finance",
-            "Hong Kong tower fire"
-        ],
-        "classification_reason": "The article is about a personal finance matter related to the victims of the Hong Kong tower fire.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Mr So's Watch and Remains",
-        "caption": "A video showing the remains of Mr So's parents and his watch found in the ashes of the Hong Kong tower fire.",
-        "hashtags": [
-            "#Hong Kong tower fire",
-            "#personal finance"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Mr So's Watch and Remains",
-                "text": "A video showing the remains of Mr So's parents and his watch found in the ashes of the Hong Kong tower fire.",
-                "image_search_query": "Mr So"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "The Hong Kong Tower Fire",
-                "text": "The deadliest fire in Hong Kong in decades, killing 168 people.",
-                "image_search_query": "Hong Kong tower fire Hk"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Mr So's Remains",
-                "text": "The remains of Mr So's parents and his watch found in the ashes of the fire.",
-                "image_search_query": "Mr So's parents' remains Hk"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-26T23:03:16+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "The Hong Kong Tower Fire",
+        "text": "The deadliest fire in Hong Kong in decades, killing 168 people.",
+        "image_search_query": "Hong Kong tower fire Hk"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Mr So's Remains",
+        "text": "The remains of Mr So's parents and his watch found in the ashes of the fire.",
+        "image_search_query": "Mr So's parents' remains Hk"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-26T23:03:16+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-27/b084591b14edb85c/video.mp4"
 }

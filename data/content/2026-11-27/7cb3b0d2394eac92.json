@@ -1,62 +1,65 @@
 {
-    "news_id": "7cb3b0d2394eac92",
+  "news_id": "7cb3b0d2394eac92",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Aaditya Thackeray",
+    "type": "person",
+    "image_search_query": "Aaditya Thackeray"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Aaditya Thackeray",
-        "type": "person",
+    "category": "business",
+    "subcategory": "politics",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Mumbai",
+    "tags": [
+      "Shiv Sena UBT",
+      "Aaditya Thackeray",
+      "Pagdi buildings"
+    ],
+    "classification_reason": "The article is about a Shiv Sena UBT leader writing to the Chief Minister about pagdi buildings in Mumbai.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "Aaditya Thackeray Writes to Chief Minister on Pagdi Buildings",
+    "caption": "Aaditya Thackeray, Shiv Sena UBT leader, writes to Chief Minister Devendra Fadnavis on the redevelopment of pagdi buildings in Mumbai.",
+    "hashtags": [
+      "#AadityaThackeray",
+      "#PagdiBuildings"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Aaditya Thackeray Writes to Chief Minister on Pagdi Buildings",
+        "text": "Aaditya Thackeray, Shiv Sena UBT leader, writes to Chief Minister Devendra Fadnavis on the redevelopment of pagdi buildings in Mumbai.",
         "image_search_query": "Aaditya Thackeray"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "business",
-        "subcategory": "politics",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Mumbai",
-        "tags": [
-            "Shiv Sena UBT",
-            "Aaditya Thackeray",
-            "Pagdi buildings"
-        ],
-        "classification_reason": "The article is about a Shiv Sena UBT leader writing to the Chief Minister about pagdi buildings in Mumbai.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "Aaditya Thackeray Writes to Chief Minister on Pagdi Buildings",
-        "caption": "Aaditya Thackeray, Shiv Sena UBT leader, writes to Chief Minister Devendra Fadnavis on the redevelopment of pagdi buildings in Mumbai.",
-        "hashtags": [
-            "#AadityaThackeray",
-            "#PagdiBuildings"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Aaditya Thackeray Writes to Chief Minister on Pagdi Buildings",
-                "text": "Aaditya Thackeray, Shiv Sena UBT leader, writes to Chief Minister Devendra Fadnavis on the redevelopment of pagdi buildings in Mumbai.",
-                "image_search_query": "Aaditya Thackeray"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Pagdi Buildings",
-                "text": "Pagdi buildings are old tenanted buildings where occupiers paid a large one-time amount to the landlord and then paid a low monthly rent, giving tenant semi-ownership rights.",
-                "image_search_query": "Pagdi buildings Maharashtra Rent Control Act India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Thackeray's Demand",
-                "text": "Thackeray demands statutory and policy reforms for the redevelopment of cessed and non-cessed pagdi buildings in Mumbai, including clearing the way for the redevelopment of 935 highly dangerous pagdi buildings.",
-                "image_search_query": "Thackeray pagdi buildings redevelopment India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/national/maharashtra/shiv-sena-ubt-leader-aaditya-thackeray-writes-to-cm-fadnavis-over-935-pagdi-buildings/article71749175.ece",
-    "published_at": "2026-11-27T00:25:23+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Pagdi Buildings",
+        "text": "Pagdi buildings are old tenanted buildings where occupiers paid a large one-time amount to the landlord and then paid a low monthly rent, giving tenant semi-ownership rights.",
+        "image_search_query": "Pagdi buildings Maharashtra Rent Control Act India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Thackeray's Demand",
+        "text": "Thackeray demands statutory and policy reforms for the redevelopment of cessed and non-cessed pagdi buildings in Mumbai, including clearing the way for the redevelopment of 935 highly dangerous pagdi buildings.",
+        "image_search_query": "Thackeray pagdi buildings redevelopment India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/maharashtra/shiv-sena-ubt-leader-aaditya-thackeray-writes-to-cm-fadnavis-over-935-pagdi-buildings/article71749175.ece",
+  "published_at": "2026-11-27T00:25:23+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-27/7cb3b0d2394eac92/video.mp4"
 }

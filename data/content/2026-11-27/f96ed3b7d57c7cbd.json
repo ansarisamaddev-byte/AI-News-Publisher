@@ -1,61 +1,64 @@
 {
-    "news_id": "f96ed3b7d57c7cbd",
+  "news_id": "f96ed3b7d57c7cbd",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Extreme weather",
+    "type": "event",
+    "image_search_query": "Extreme weather"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Extreme weather",
-        "type": "event",
+    "category": "science",
+    "subcategory": "atmospheric science",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "India",
+    "tags": [
+      "atmospheric science",
+      "weather events"
+    ],
+    "classification_reason": "The article discusses the shared atmospheric connection between extreme weather events in India and China.",
+    "selected_channels": [
+      "science-news"
+    ]
+  },
+  "content": {
+    "title": "Extreme weather in India and China shared a hidden atmospheric connection",
+    "caption": "The article explains the hidden atmospheric connection between extreme weather events in India and China.",
+    "hashtags": [
+      "#atmosphericscience",
+      "#weatherevents"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Extreme weather in India and China shared a hidden atmospheric",
+        "text": "The article explains the hidden atmospheric connection between extreme weather events in India and China.",
         "image_search_query": "Extreme weather"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "science",
-        "subcategory": "atmospheric science",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "India",
-        "tags": [
-            "atmospheric science",
-            "weather events"
-        ],
-        "classification_reason": "The article discusses the shared atmospheric connection between extreme weather events in India and China.",
-        "selected_channels": [
-            "science-news"
-        ]
-    },
-    "content": {
-        "title": "Extreme weather in India and China shared a hidden atmospheric connection",
-        "caption": "The article explains the hidden atmospheric connection between extreme weather events in India and China.",
-        "hashtags": [
-            "#atmosphericscience",
-            "#weatherevents"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Extreme weather in India and China shared a hidden atmospheric",
-                "text": "The article explains the hidden atmospheric connection between extreme weather events in India and China.",
-                "image_search_query": "Extreme weather"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Shared atmospheric connection",
-                "text": "The article explains how extreme weather events in India and China share a hidden atmospheric connection.",
-                "image_search_query": "Extreme weather events in India and China"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Implications",
-                "text": "The article discusses the potential implications of this atmospheric connection on weather patterns and climate.",
-                "image_search_query": "Implications of atmospheric connection India"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Science",
-    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV3BnZDI4ZUhZTTFGNTNMbm05VmJETnJFRnJKRHBhRE40RmkwZDdER0ZvY1ZSNzhzNEdaWEp0UzJkdWZwYm9iSzJmMjRkbE43N05MV1BFTXBtWHE5TXNidlZTNy1keHc0Ukp5bWE4NWlXcnlCNVBlc2tJcWQ5NDhWTExVbTd3UlJIMEZadXVOYXpMa0JENm5STlI4WnFRVF8tblRYdjdCTQ?oc=5",
-    "published_at": "2026-11-26T23:12:16+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Shared atmospheric connection",
+        "text": "The article explains how extreme weather events in India and China share a hidden atmospheric connection.",
+        "image_search_query": "Extreme weather events in India and China"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Implications",
+        "text": "The article discusses the potential implications of this atmospheric connection on weather patterns and climate.",
+        "image_search_query": "Implications of atmospheric connection India"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV3BnZDI4ZUhZTTFGNTNMbm05VmJETnJFRnJKRHBhRE40RmkwZDdER0ZvY1ZSNzhzNEdaWEp0UzJkdWZwYm9iSzJmMjRkbE43N05MV1BFTXBtWHE5TXNidlZTNy1keHc0Ukp5bWE4NWlXcnlCNVBlc2tJcWQ5NDhWTExVbTd3UlJIMEZadXVOYXpMa0JENm5STlI4WnFRVF8tblRYdjdCTQ?oc=5",
+  "published_at": "2026-11-26T23:12:16+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-27/f96ed3b7d57c7cbd/video.mp4"
 }

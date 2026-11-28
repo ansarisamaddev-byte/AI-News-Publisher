@@ -1,0 +1,75 @@
+{
+  "news_id": "7b0bef2f1175fa62",
+  "title": "GTA 6 Guide: How to Switch Guns",
+  "main_subject": {
+    "name": "GTA 6",
+    "type": "product",
+    "image_search_query": "GTA 6"
+  },
+  "category": "technology",
+  "tags": [
+    "gta",
+    "6",
+    "gaming",
+    "weapons"
+  ],
+  "source": "Google News - Technology",
+  "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91eDZXd1dldE1XWG02cnFxVWVQTVZ0RFpmTEh6M19XVlZLT2dWOF9haVhBZEUwdDU0ZnN0VnJjM1JtSW9xQTBSdkN5NmpCWW9PcDFneUR2YW1aUFNXck54UVl0YWlIXzdJRXFfNU9zN3QteEtEYll2NVVzb3Y?oc=5",
+  "published_at": "2026-11-26T22:40:14+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "GTA 6 Guide: How to Switch Guns",
+      "image": {
+        "provider": "generated",
+        "query": "GTA 6",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "How to Save Guns and Weapons",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91eDZXd1dldE1XWG02cnFxVWVQTVZ0RFpmTEh6M19XVlZLT2dWOF9haVhBZEUwdDU0ZnN0VnJjM1JtSW9xQTBSdkN5NmpCWW9PcDFneUR2YW1aUFNXck54UVl0YWlIXzdJRXFfNU9zN3QteEtEYll2NVVzb3Y?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "GTA 6 weapons guide United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Best Legendary Weapon Variants",
+      "image": {
+        "provider": "generated",
+        "query": "GTA 6 legendary weapons United States",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "modern technology computer digital",
+        "fallback_query": "modern technology computer digital",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

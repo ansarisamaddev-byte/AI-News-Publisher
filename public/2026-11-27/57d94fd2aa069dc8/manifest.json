@@ -1,0 +1,74 @@
+{
+  "news_id": "57d94fd2aa069dc8",
+  "title": "US Envoy Sergio Gor Celebrates Thanksgiving with Marines in New Delhi",
+  "main_subject": {
+    "name": "Sergio Gor",
+    "type": "person",
+    "image_search_query": "Sergio Gor"
+  },
+  "category": "business",
+  "tags": [
+    "US Envoy",
+    "Thanksgiving",
+    "Marine Security Guard"
+  ],
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/us-envoy-sergio-gor-celebrates-thanksgiving-with-us-marines-in-delhi-12382617#publisher=newsstand",
+  "published_at": "2026-11-26T22:17:13+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "US Envoy Sergio Gor Celebrates Thanksgiving with Marines in New",
+      "image": {
+        "provider": "generated",
+        "query": "Sergio Gor",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Celebration Details",
+      "image": {
+        "provider": "generated",
+        "query": "Sergio Gor Thanksgiving Marines India",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact and Consequences",
+      "image": {
+        "provider": "generated",
+        "query": "Sergio Gor Impact Thanksgiving India",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "generated",
+        "query": "business finance corporate office",
+        "fallback_query": "business finance corporate office",
+        "fallback_used": true,
+        "error": "Article image and Unsplash image not found",
+        "fallback_graphic": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "news_id": "a2365779c9dd20d4",
+  "title": "FIR Registered Against CPI(M) Leader T I Madhusoodanan",
+  "main_subject": {
+    "name": "T I Madhusoodanan",
+    "type": "person",
+    "image_search_query": "T I Madhusoodanan"
+  },
+  "category": "politics",
+  "tags": [
+    "CPI(M) leader"
+  ],
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/fir-registered-against-cpi-m-leader-t-i-madhusoodanan-in-kannur-over-inflammatory-speech-101795737504309.html",
+  "published_at": "2026-11-27T00:14:27+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "FIR Registered Against CPI(M) Leader T I Madhusoodanan",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/logo/HT_Representational_1795738036225_YDzk_1795738036327_uBSf_4c6a788b-5831-440f-9353-94ebac831845_9XEG.jpg",
+        "article_url": "https://www.hindustantimes.com/india-news/fir-registered-against-cpi-m-leader-t-i-madhusoodanan-in-kannur-over-inflammatory-speech-101795737504309.html",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "T I Madhusoodanan"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Complaint Alleging Inflammatory Speech",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/logo/HT_Representational_1795738036225_YDzk_1795738036327_uBSf_4c6a788b-5831-440f-9353-94ebac831845_9XEG.jpg",
+        "article_url": "https://www.hindustantimes.com/india-news/fir-registered-against-cpi-m-leader-t-i-madhusoodanan-in-kannur-over-inflammatory-speech-101795737504309.html",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "CPI(M) leader T I Madhusoodanan DYFI meeting India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Complaint and Evidence",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/logo/HT_Representational_1795738036225_YDzk_1795738036327_uBSf_4c6a788b-5831-440f-9353-94ebac831845_9XEG.jpg",
+        "article_url": "https://www.hindustantimes.com/india-news/fir-registered-against-cpi-m-leader-t-i-madhusoodanan-in-kannur-over-inflammatory-speech-101795737504309.html",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "CPI(M) leader T I Madhusoodanan speech visuals India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://www.hindustantimes.com/ht-img/img/2026/11/27/1600x900/logo/HT_Representational_1795738036225_YDzk_1795738036327_uBSf_4c6a788b-5831-440f-9353-94ebac831845_9XEG.jpg",
+        "article_url": "https://www.hindustantimes.com/india-news/fir-registered-against-cpi-m-leader-t-i-madhusoodanan-in-kannur-over-inflammatory-speech-101795737504309.html",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "parliament government building"
+      }
+    }
+  ]
+}

@@ -1,59 +1,62 @@
 {
-    "news_id": "a2365779c9dd20d4",
+  "news_id": "a2365779c9dd20d4",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "T I Madhusoodanan",
+    "type": "person",
+    "image_search_query": "T I Madhusoodanan"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "T I Madhusoodanan",
-        "type": "person",
+    "category": "politics",
+    "subcategory": "police action",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Kerala",
+    "tags": [
+      "CPI(M) leader"
+    ],
+    "classification_reason": "police action against CPI(M) leader",
+    "selected_channels": [
+      "politics-news"
+    ]
+  },
+  "content": {
+    "title": "FIR Registered Against CPI(M) Leader T I Madhusoodanan",
+    "caption": "Kerala police book T I Madhusoodanan over alleged provocative speech",
+    "hashtags": [
+      "#CPI(M) #policeaction"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "FIR Registered Against CPI(M) Leader T I Madhusoodanan",
+        "text": "Kerala police book T I Madhusoodanan over alleged provocative speech",
         "image_search_query": "T I Madhusoodanan"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "politics",
-        "subcategory": "police action",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Kerala",
-        "tags": [
-            "CPI(M) leader"
-        ],
-        "classification_reason": "police action against CPI(M) leader",
-        "selected_channels": [
-            "politics-news"
-        ]
-    },
-    "content": {
-        "title": "FIR Registered Against CPI(M) Leader T I Madhusoodanan",
-        "caption": "Kerala police book T I Madhusoodanan over alleged provocative speech",
-        "hashtags": [
-            "#CPI(M) #policeaction"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "FIR Registered Against CPI(M) Leader T I Madhusoodanan",
-                "text": "Kerala police book T I Madhusoodanan over alleged provocative speech",
-                "image_search_query": "T I Madhusoodanan"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Complaint Alleging Inflammatory Speech",
-                "text": "CPI(M) leader T I Madhusoodanan allegedly made provocative speech at DYFI meeting",
-                "image_search_query": "CPI(M) leader T I Madhusoodanan DYFI meeting India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Complaint and Evidence",
-                "text": "Complainant submitted visuals of speech as evidence",
-                "image_search_query": "CPI(M) leader T I Madhusoodanan speech visuals India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "Hindustan Times",
-    "source_url": "https://www.hindustantimes.com/india-news/fir-registered-against-cpi-m-leader-t-i-madhusoodanan-in-kannur-over-inflammatory-speech-101795737504309.html",
-    "published_at": "2026-11-27T00:14:27+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Complaint Alleging Inflammatory Speech",
+        "text": "CPI(M) leader T I Madhusoodanan allegedly made provocative speech at DYFI meeting",
+        "image_search_query": "CPI(M) leader T I Madhusoodanan DYFI meeting India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Complaint and Evidence",
+        "text": "Complainant submitted visuals of speech as evidence",
+        "image_search_query": "CPI(M) leader T I Madhusoodanan speech visuals India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/fir-registered-against-cpi-m-leader-t-i-madhusoodanan-in-kannur-over-inflammatory-speech-101795737504309.html",
+  "published_at": "2026-11-27T00:14:27+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-27/a2365779c9dd20d4/video.mp4"
 }

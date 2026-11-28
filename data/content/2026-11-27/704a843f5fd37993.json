@@ -1,62 +1,65 @@
 {
-    "news_id": "704a843f5fd37993",
+  "news_id": "704a843f5fd37993",
+  "country": "UK",
+  "main_subject": {
+    "name": "Huw Edwards",
+    "type": "person",
+    "image_search_query": "Huw Edwards"
+  },
+  "classification": {
     "country": "UK",
-    "main_subject": {
-        "name": "Huw Edwards",
-        "type": "person",
+    "category": "technology",
+    "subcategory": "politics",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "UK",
+    "tags": [
+      "politics",
+      "former BBC News presenter"
+    ],
+    "classification_reason": "The article is about Huw Edwards, a former BBC News presenter who has given interviews after being convicted of making indecent images of children.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Huw Edwards Gives First Interviews Since Conviction",
+    "caption": "Former BBC News presenter Huw Edwards gives his first interviews since being convicted of making indecent images of children.",
+    "hashtags": [
+      "#HuwEdwards",
+      "#BBCNews",
+      "#IndecentImages"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Huw Edwards Gives First Interviews Since Conviction",
+        "text": "Former BBC News presenter Huw Edwards gives his first interviews since being convicted of making indecent images of children.",
         "image_search_query": "Huw Edwards"
-    },
-    "classification": {
-        "country": "UK",
-        "category": "technology",
-        "subcategory": "politics",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "UK",
-        "tags": [
-            "politics",
-            "former BBC News presenter"
-        ],
-        "classification_reason": "The article is about Huw Edwards, a former BBC News presenter who has given interviews after being convicted of making indecent images of children.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Huw Edwards Gives First Interviews Since Conviction",
-        "caption": "Former BBC News presenter Huw Edwards gives his first interviews since being convicted of making indecent images of children.",
-        "hashtags": [
-            "#HuwEdwards",
-            "#BBCNews",
-            "#IndecentImages"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Huw Edwards Gives First Interviews Since Conviction",
-                "text": "Former BBC News presenter Huw Edwards gives his first interviews since being convicted of making indecent images of children.",
-                "image_search_query": "Huw Edwards"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "What Happened",
-                "text": "Huw Edwards, a former BBC News presenter, gave his first interviews since being convicted of making indecent images of children.",
-                "image_search_query": "BBC News, indecent images United Kingdom"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Why It Matters",
-                "text": "The interviews are seen as an attempt to set the record straight after being convicted of making indecent images of children.",
-                "image_search_query": "Huw Edwards, BBC News United Kingdom"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "BBC News",
-    "source_url": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
-    "published_at": "2026-11-27T00:38:03+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "What Happened",
+        "text": "Huw Edwards, a former BBC News presenter, gave his first interviews since being convicted of making indecent images of children.",
+        "image_search_query": "BBC News, indecent images United Kingdom"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Why It Matters",
+        "text": "The interviews are seen as an attempt to set the record straight after being convicted of making indecent images of children.",
+        "image_search_query": "Huw Edwards, BBC News United Kingdom"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
+  "published_at": "2026-11-27T00:38:03+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-27/704a843f5fd37993/video.mp4"
 }
