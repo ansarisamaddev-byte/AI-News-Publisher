@@ -1,0 +1,74 @@
+{
+  "news_id": "f85d14fe0a5bac29",
+  "title": "Shark Depuffi and FacialPro Glow on Sale for Black Friday",
+  "main_subject": {
+    "name": "Shark",
+    "type": "company",
+    "image_search_query": "Shark"
+  },
+  "category": "technology",
+  "tags": [
+    "Shark",
+    "Black Friday",
+    "Beauty Tools"
+  ],
+  "source": "Wired",
+  "source_url": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/",
+  "published_at": "2026-11-27T23:27:04+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Shark Depuffi and FacialPro Glow on Sale for Black Friday",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6b0a019be1f03ae5536a590d/191:100/w_1280,c_limit/Shark%20Depuffi%20sale.png",
+        "article_url": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Shark"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Black Friday Sale",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6b0a019be1f03ae5536a590d/191:100/w_1280,c_limit/Shark%20Depuffi%20sale.png",
+        "article_url": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Black Friday Sale United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Shark Depuffi and FacialPro Glow Bundle",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6b0a019be1f03ae5536a590d/191:100/w_1280,c_limit/Shark%20Depuffi%20sale.png",
+        "article_url": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Shark Depuffi and FacialPro Glow Bundle United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6b0a019be1f03ae5536a590d/191:100/w_1280,c_limit/Shark%20Depuffi%20sale.png",
+        "article_url": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

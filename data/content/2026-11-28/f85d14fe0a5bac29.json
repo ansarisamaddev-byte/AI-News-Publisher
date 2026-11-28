@@ -1,63 +1,66 @@
 {
-    "news_id": "f85d14fe0a5bac29",
+  "news_id": "f85d14fe0a5bac29",
+  "country": "US",
+  "main_subject": {
+    "name": "Shark",
+    "type": "company",
+    "image_search_query": "Shark"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Shark",
-        "type": "company",
+    "category": "technology",
+    "subcategory": "consumer electronics",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "US",
+    "tags": [
+      "Shark",
+      "Black Friday",
+      "Beauty Tools"
+    ],
+    "classification_reason": "The article is primarily about Shark's beauty products and Black Friday deals.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Shark Depuffi and FacialPro Glow on Sale for Black Friday",
+    "caption": "Shark's beauty tools are on sale for Black Friday, offering a discounted bundle of Depuffi and Glow.",
+    "hashtags": [
+      "#SharkDepuffi",
+      "#FacialProGlow",
+      "#BlackFriday"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Shark Depuffi and FacialPro Glow on Sale for Black Friday",
+        "text": "Shark's beauty tools are on sale for Black Friday, offering a discounted bundle of Depuffi and Glow.",
         "image_search_query": "Shark"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "consumer electronics",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "US",
-        "tags": [
-            "Shark",
-            "Black Friday",
-            "Beauty Tools"
-        ],
-        "classification_reason": "The article is primarily about Shark's beauty products and Black Friday deals.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Shark Depuffi and FacialPro Glow on Sale for Black Friday",
-        "caption": "Shark's beauty tools are on sale for Black Friday, offering a discounted bundle of Depuffi and Glow.",
-        "hashtags": [
-            "#SharkDepuffi",
-            "#FacialProGlow",
-            "#BlackFriday"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Shark Depuffi and FacialPro Glow on Sale for Black Friday",
-                "text": "Shark's beauty tools are on sale for Black Friday, offering a discounted bundle of Depuffi and Glow.",
-                "image_search_query": "Shark"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Black Friday Sale",
-                "text": "The Depuffi is already sold out at several major retailers, and the sale might stick around, but the stock might not.",
-                "image_search_query": "Black Friday Sale United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Shark Depuffi and FacialPro Glow Bundle",
-                "text": "The Depuffi and Glow bundle includes two skincare products and is a worthwhile addition to any skincare routine.",
-                "image_search_query": "Shark Depuffi and FacialPro Glow Bundle United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "Wired",
-    "source_url": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/",
-    "published_at": "2026-11-27T23:27:04+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Black Friday Sale",
+        "text": "The Depuffi is already sold out at several major retailers, and the sale might stick around, but the stock might not.",
+        "image_search_query": "Black Friday Sale United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Shark Depuffi and FacialPro Glow Bundle",
+        "text": "The Depuffi and Glow bundle includes two skincare products and is a worthwhile addition to any skincare routine.",
+        "image_search_query": "Shark Depuffi and FacialPro Glow Bundle United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "Wired",
+  "source_url": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/",
+  "published_at": "2026-11-27T23:27:04+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-28/f85d14fe0a5bac29/video.mp4"
 }

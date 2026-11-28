@@ -1,0 +1,74 @@
+{
+  "news_id": "ac0ee698ab46bb9b",
+  "title": "BYD Announces Electric Minivan with 559 Miles Range",
+  "main_subject": {
+    "name": "BYD",
+    "type": "company",
+    "image_search_query": "BYD"
+  },
+  "category": "technology",
+  "tags": [
+    "electric vehicles",
+    "minivans",
+    "BYD"
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+  "published_at": "2026-11-28T00:02:49+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "BYD Announces Electric Minivan with 559 Miles Range",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/img_20261127171000_s224i5s0.jpg?quality=90&strip=all&crop=0,3.5301589268565,100,92.939682146287",
+        "article_url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "BYD"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Announcement Details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/img_20261127171000_s224i5s0.jpg?quality=90&strip=all&crop=0,3.5301589268565,100,92.939682146287",
+        "article_url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "BYD Whale launch announcement China"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Vehicle Specifications",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/img_20261127171000_s224i5s0.jpg?quality=90&strip=all&crop=0,3.5301589268565,100,92.939682146287",
+        "article_url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "BYD Whale specifications China"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/img_20261127171000_s224i5s0.jpg?quality=90&strip=all&crop=0,3.5301589268565,100,92.939682146287",
+        "article_url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

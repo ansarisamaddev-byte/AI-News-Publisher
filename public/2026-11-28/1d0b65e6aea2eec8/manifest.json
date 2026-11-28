@@ -1,0 +1,73 @@
+{
+  "news_id": "1d0b65e6aea2eec8",
+  "title": "New in Hyderabad: Restaurants, menus and food experiences worth exploring",
+  "main_subject": {
+    "name": "Tuya",
+    "type": "company",
+    "image_search_query": "Tuya"
+  },
+  "category": "business",
+  "tags": [
+    "restaurant",
+    "food"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/food/features/new-in-hyderabad-restaurants-menus-and-food-experiences-worth-exploring/article71745401.ece",
+  "published_at": "2026-11-27T23:36:21+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "New in Hyderabad: Restaurants, menus and food experiences worth exploring",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/dur2b3/article71752559.ece/alternates/LANDSCAPE_1200/IMG_4056.jpeg",
+        "article_url": "https://www.thehindu.com/food/features/new-in-hyderabad-restaurants-menus-and-food-experiences-worth-exploring/article71745401.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Tuya"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Tuya Indian Winters",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/dur2b3/article71752559.ece/alternates/LANDSCAPE_1200/IMG_4056.jpeg",
+        "article_url": "https://www.thehindu.com/food/features/new-in-hyderabad-restaurants-menus-and-food-experiences-worth-exploring/article71745401.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Tuya Indian Winters India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Tuya’s New Menu",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/dur2b3/article71752559.ece/alternates/LANDSCAPE_1200/IMG_4056.jpeg",
+        "article_url": "https://www.thehindu.com/food/features/new-in-hyderabad-restaurants-menus-and-food-experiences-worth-exploring/article71745401.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Tuya’s new menu India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/dur2b3/article71752559.ece/alternates/LANDSCAPE_1200/IMG_4056.jpeg",
+        "article_url": "https://www.thehindu.com/food/features/new-in-hyderabad-restaurants-menus-and-food-experiences-worth-exploring/article71745401.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "business finance corporate office"
+      }
+    }
+  ]
+}

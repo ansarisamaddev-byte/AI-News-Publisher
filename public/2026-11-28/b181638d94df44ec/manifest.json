@@ -1,0 +1,73 @@
+{
+  "news_id": "b181638d94df44ec",
+  "title": "Makkah Defence Alliance Reviews Regional Security Situation",
+  "main_subject": {
+    "name": "Makkah Defence Alliance",
+    "type": "organization",
+    "image_search_query": "Makkah Defence Alliance"
+  },
+  "category": "technology",
+  "tags": [
+    "defense alliance",
+    "security pact"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/international/makkah-alliance-countries-review-regional-security-situation-condemn-houthi-attacks-on-saudi-arabia/article71752547.ece",
+  "published_at": "2026-11-27T22:36:35+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Makkah Defence Alliance Reviews Regional Security Situation",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/arqxz1/article71752549.ece/alternates/LANDSCAPE_1200/Pakistan_62937.jpg",
+        "article_url": "https://www.thehindu.com/news/international/makkah-alliance-countries-review-regional-security-situation-condemn-houthi-attacks-on-saudi-arabia/article71752547.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Makkah Defence Alliance"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Meeting Details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/arqxz1/article71752549.ece/alternates/LANDSCAPE_1200/Pakistan_62937.jpg",
+        "article_url": "https://www.thehindu.com/news/international/makkah-alliance-countries-review-regional-security-situation-condemn-houthi-attacks-on-saudi-arabia/article71752547.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Makkah Defence Alliance meeting Saudi Arabia"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Key Details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/arqxz1/article71752549.ece/alternates/LANDSCAPE_1200/Pakistan_62937.jpg",
+        "article_url": "https://www.thehindu.com/news/international/makkah-alliance-countries-review-regional-security-situation-condemn-houthi-attacks-on-saudi-arabia/article71752547.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Makkah Defence Alliance details Saudi Arabia"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/incoming/arqxz1/article71752549.ece/alternates/LANDSCAPE_1200/Pakistan_62937.jpg",
+        "article_url": "https://www.thehindu.com/news/international/makkah-alliance-countries-review-regional-security-situation-condemn-houthi-attacks-on-saudi-arabia/article71752547.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "news_id": "b9d33777af674c12",
+  "title": "Jasprit Bumrah Mixes Up Run-Up in Bid to End Wicketless Spell",
+  "main_subject": {
+    "name": "Jasprit Bumrah",
+    "type": "person",
+    "image_search_query": "Jasprit Bumrah"
+  },
+  "category": "technology",
+  "tags": [
+    "Jasprit Bumrah",
+    "run-up",
+    "wicketless",
+    "India vs NZ"
+  ],
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/sport/cricket/ind-vs-nz-second-test-wily-jasprit-bumrah-mixes-it-up-in-bid-to-end-wicketless-funk/article71750706.ece",
+  "published_at": "2026-11-27T23:36:08+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Jasprit Bumrah Mixes Up Run-Up in Bid to End Wicketless",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/sport/ifekf4/article71750711.ece/alternates/LANDSCAPE_1200/_J7A0398.jpg",
+        "article_url": "https://www.thehindu.com/sport/cricket/ind-vs-nz-second-test-wily-jasprit-bumrah-mixes-it-up-in-bid-to-end-wicketless-funk/article71750706.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Jasprit Bumrah"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Run-Up Unusual",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/sport/ifekf4/article71750711.ece/alternates/LANDSCAPE_1200/_J7A0398.jpg",
+        "article_url": "https://www.thehindu.com/sport/cricket/ind-vs-nz-second-test-wily-jasprit-bumrah-mixes-it-up-in-bid-to-end-wicketless-funk/article71750706.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Jasprit Bumrah unusual run-up India"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Impact on Game",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/sport/ifekf4/article71750711.ece/alternates/LANDSCAPE_1200/_J7A0398.jpg",
+        "article_url": "https://www.thehindu.com/sport/cricket/ind-vs-nz-second-test-wily-jasprit-bumrah-mixes-it-up-in-bid-to-end-wicketless-funk/article71750706.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Jasprit Bumrah impact on game India"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://th-i.thgim.com/public/sport/ifekf4/article71750711.ece/alternates/LANDSCAPE_1200/_J7A0398.jpg",
+        "article_url": "https://www.thehindu.com/sport/cricket/ind-vs-nz-second-test-wily-jasprit-bumrah-mixes-it-up-in-bid-to-end-wicketless-funk/article71750706.ece",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

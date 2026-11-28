@@ -1,61 +1,64 @@
 {
-    "news_id": "b181638d94df44ec",
+  "news_id": "b181638d94df44ec",
+  "country": "SAUDI ARABIA",
+  "main_subject": {
+    "name": "Makkah Defence Alliance",
+    "type": "organization",
+    "image_search_query": "Makkah Defence Alliance"
+  },
+  "classification": {
     "country": "SAUDI ARABIA",
-    "main_subject": {
-        "name": "Makkah Defence Alliance",
-        "type": "organization",
+    "category": "technology",
+    "subcategory": "defense",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "Saudi Arabia",
+    "tags": [
+      "defense alliance",
+      "security pact"
+    ],
+    "classification_reason": "The article discusses the Makkah Defence Alliance, a defense pact among three countries.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Makkah Defence Alliance Reviews Regional Security Situation",
+    "caption": "The Makkah Defence Alliance met to review the evolving regional security situation and condemn attacks by Yemen's Iranian-backed Houthi militia on Saudi Arabia.",
+    "hashtags": [
+      "#MakkahAlliance",
+      "#DefenseAlliance"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Makkah Defence Alliance Reviews Regional Security Situation",
+        "text": "The Makkah Defence Alliance met to review the evolving regional security situation and condemn attacks by Yemen's Iranian-backed Houthi militia on Saudi Arabia.",
         "image_search_query": "Makkah Defence Alliance"
-    },
-    "classification": {
-        "country": "SAUDI ARABIA",
-        "category": "technology",
-        "subcategory": "defense",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "Saudi Arabia",
-        "tags": [
-            "defense alliance",
-            "security pact"
-        ],
-        "classification_reason": "The article discusses the Makkah Defence Alliance, a defense pact among three countries.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Makkah Defence Alliance Reviews Regional Security Situation",
-        "caption": "The Makkah Defence Alliance met to review the evolving regional security situation and condemn attacks by Yemen's Iranian-backed Houthi militia on Saudi Arabia.",
-        "hashtags": [
-            "#MakkahAlliance",
-            "#DefenseAlliance"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Makkah Defence Alliance Reviews Regional Security Situation",
-                "text": "The Makkah Defence Alliance met to review the evolving regional security situation and condemn attacks by Yemen's Iranian-backed Houthi militia on Saudi Arabia.",
-                "image_search_query": "Makkah Defence Alliance"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Meeting Details",
-                "text": "The Makkah Defence Alliance met in Islamabad to review the evolving regional security situation and condemn attacks by Yemen's Iranian-backed Houthi militia on Saudi Arabia.",
-                "image_search_query": "Makkah Defence Alliance meeting Saudi Arabia"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Key Details",
-                "text": "The alliance condemned persistent and heinous attacks by Yemen's Houthis on civilians and civilian infrastructure in Saudi Arabia, reaffirming their collective resolve to continue efforts in safeguarding Saudi Arabia’s security, sovereignty, and territorial integrity.",
-                "image_search_query": "Makkah Defence Alliance details Saudi Arabia"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/news/international/makkah-alliance-countries-review-regional-security-situation-condemn-houthi-attacks-on-saudi-arabia/article71752547.ece",
-    "published_at": "2026-11-27T22:36:35+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Meeting Details",
+        "text": "The Makkah Defence Alliance met in Islamabad to review the evolving regional security situation and condemn attacks by Yemen's Iranian-backed Houthi militia on Saudi Arabia.",
+        "image_search_query": "Makkah Defence Alliance meeting Saudi Arabia"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Key Details",
+        "text": "The alliance condemned persistent and heinous attacks by Yemen's Houthis on civilians and civilian infrastructure in Saudi Arabia, reaffirming their collective resolve to continue efforts in safeguarding Saudi Arabia’s security, sovereignty, and territorial integrity.",
+        "image_search_query": "Makkah Defence Alliance details Saudi Arabia"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/international/makkah-alliance-countries-review-regional-security-situation-condemn-houthi-attacks-on-saudi-arabia/article71752547.ece",
+  "published_at": "2026-11-27T22:36:35+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-28/b181638d94df44ec/video.mp4"
 }

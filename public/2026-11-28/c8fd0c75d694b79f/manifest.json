@@ -1,0 +1,74 @@
+{
+  "news_id": "c8fd0c75d694b79f",
+  "title": "Yeti's Black Friday Deals",
+  "main_subject": {
+    "name": "Yeti",
+    "type": "company",
+    "image_search_query": "Yeti"
+  },
+  "category": "technology",
+  "tags": [
+    "Yeti",
+    "coolers",
+    "discounts"
+  ],
+  "source": "Wired",
+  "source_url": "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
+  "published_at": "2026-11-27T23:54:42+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Yeti's Black Friday Deals",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6ac50d7fb19b1ceefddd39c0/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Yeti%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+        "article_url": "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Yeti"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "What's on Sale",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6ac50d7fb19b1ceefddd39c0/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Yeti%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+        "article_url": "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Yeti insulated cups United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Why It Matters",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6ac50d7fb19b1ceefddd39c0/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Yeti%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+        "article_url": "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Yeti cooler discounts United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6ac50d7fb19b1ceefddd39c0/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Yeti%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+        "article_url": "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

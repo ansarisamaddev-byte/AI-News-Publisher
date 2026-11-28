@@ -1,0 +1,76 @@
+{
+  "news_id": "1652ec489fb15449",
+  "title": "Best Black Friday Gaming Accessory Deals",
+  "main_subject": {
+    "name": "Razer",
+    "type": "company",
+    "image_search_query": "Razer"
+  },
+  "category": "technology",
+  "tags": [
+    "gaming",
+    "headsets",
+    "mice",
+    "controllers",
+    "VR"
+  ],
+  "source": "Wired",
+  "source_url": "https://www.wired.com/story/black-friday-gaming-deals-11-27-2026/",
+  "published_at": "2026-11-27T23:15:34+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "Best Black Friday Gaming Accessory Deals",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6a8c77cd68e309e12a12eda0/191:100/w_1280,c_limit/The-Gaming-Headset-I-Use-Every-Day-Is-on-Sale-in-3-of-4-Color-Options.jpg",
+        "article_url": "https://www.wired.com/story/black-friday-gaming-deals-11-27-2026/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Razer"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Headset Deals",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6a8c77cd68e309e12a12eda0/191:100/w_1280,c_limit/The-Gaming-Headset-I-Use-Every-Day-Is-on-Sale-in-3-of-4-Color-Options.jpg",
+        "article_url": "https://www.wired.com/story/black-friday-gaming-deals-11-27-2026/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Razer Kraken Kitty V3 Pro United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Mouse Deals",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6a8c77cd68e309e12a12eda0/191:100/w_1280,c_limit/The-Gaming-Headset-I-Use-Every-Day-Is-on-Sale-in-3-of-4-Color-Options.jpg",
+        "article_url": "https://www.wired.com/story/black-friday-gaming-deals-11-27-2026/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "Razer Cobra HyperSpeed United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://media.wired.com/photos/6a8c77cd68e309e12a12eda0/191:100/w_1280,c_limit/The-Gaming-Headset-I-Use-Every-Day-Is-on-Sale-in-3-of-4-Color-Options.jpg",
+        "article_url": "https://www.wired.com/story/black-friday-gaming-deals-11-27-2026/",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "modern technology computer digital"
+      }
+    }
+  ]
+}

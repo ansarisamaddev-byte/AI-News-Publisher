@@ -1,61 +1,64 @@
 {
-    "news_id": "ad94e8c6e54d057e",
+  "news_id": "ad94e8c6e54d057e",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "The Snap Plate",
+    "type": "product",
+    "image_search_query": "The Snap Plate"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "The Snap Plate",
-        "type": "product",
+    "category": "technology",
+    "subcategory": "automobile",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "New Delhi",
+    "tags": [
+      "automobile",
+      "technology"
+    ],
+    "classification_reason": "The Snap Plate is a specific product related to the automobile and technology categories.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "The Snap Plate --- Rt 40-65 27 November 2026",
+    "caption": "The Snap Plate is a unique automobile product, likely a car accessory, introduced on 27 November 2026.",
+    "hashtags": [
+      "#SnapPlate",
+      "#AutomobileProduct"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "The Snap Plate --- Rt 40-65 27 November 2026",
+        "text": "The Snap Plate is a unique automobile product, likely a car accessory, introduced on 27 November 2026.",
         "image_search_query": "The Snap Plate"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "technology",
-        "subcategory": "automobile",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "New Delhi",
-        "tags": [
-            "automobile",
-            "technology"
-        ],
-        "classification_reason": "The Snap Plate is a specific product related to the automobile and technology categories.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "The Snap Plate --- Rt 40-65 27 November 2026",
-        "caption": "The Snap Plate is a unique automobile product, likely a car accessory, introduced on 27 November 2026.",
-        "hashtags": [
-            "#SnapPlate",
-            "#AutomobileProduct"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "The Snap Plate --- Rt 40-65 27 November 2026",
-                "text": "The Snap Plate is a unique automobile product, likely a car accessory, introduced on 27 November 2026.",
-                "image_search_query": "The Snap Plate"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Introduction",
-                "text": "The Snap Plate is a car accessory designed to enhance the driving experience.",
-                "image_search_query": "Snap Plate introduction India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Features",
-                "text": "The Snap Plate includes a series of innovative features designed to improve driving comfort and safety.",
-                "image_search_query": "Snap Plate features India"
-            }
-        ]
-    },
-    "article_text_available": false,
-    "article_text_note": "Full article unavailable. Generated using RSS information only.",
-    "source": "Google News - Entertainment",
-    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORVZOX2lrTGxzLVBsLWQtZDd6Q1hIRm5qRlFhUlhBQ3ctbEdmZ2tNVVJKOUpPMDhteW9nQXRHWkxrZzdHX1lScklvbVdNY05ucS10RkRoQjVQMWJXUkFKa25qTkFxSzlWTnBoZnRDNWw2QzV2V2lCTy1pb3REMlZDUmtxbHVSemk5Nk5naVN4WXNTbkxGZ3JzNGxqNnlRcjQyWTVXUGpvdkxBMzhnY1BXMHkzV1FiMWJULTRtZQ?oc=5",
-    "published_at": "2026-11-27T22:51:50+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Introduction",
+        "text": "The Snap Plate is a car accessory designed to enhance the driving experience.",
+        "image_search_query": "Snap Plate introduction India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Features",
+        "text": "The Snap Plate includes a series of innovative features designed to improve driving comfort and safety.",
+        "image_search_query": "Snap Plate features India"
+      }
+    ]
+  },
+  "article_text_available": false,
+  "article_text_note": "Full article unavailable. Generated using RSS information only.",
+  "source": "Google News - Entertainment",
+  "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORVZOX2lrTGxzLVBsLWQtZDd6Q1hIRm5qRlFhUlhBQ3ctbEdmZ2tNVVJKOUpPMDhteW9nQXRHWkxrZzdHX1lScklvbVdNY05ucS10RkRoQjVQMWJXUkFKa25qTkFxSzlWTnBoZnRDNWw2QzV2V2lCTy1pb3REMlZDUmtxbHVSemk5Nk5naVN4WXNTbkxGZ3JzNGxqNnlRcjQyWTVXUGpvdkxBMzhnY1BXMHkzV1FiMWJULTRtZQ?oc=5",
+  "published_at": "2026-11-27T22:51:50+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-28/ad94e8c6e54d057e/video.mp4"
 }

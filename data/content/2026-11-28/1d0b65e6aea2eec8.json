@@ -1,61 +1,64 @@
 {
-    "news_id": "1d0b65e6aea2eec8",
+  "news_id": "1d0b65e6aea2eec8",
+  "country": "INDIA",
+  "main_subject": {
+    "name": "Tuya",
+    "type": "company",
+    "image_search_query": "Tuya"
+  },
+  "classification": {
     "country": "INDIA",
-    "main_subject": {
-        "name": "Tuya",
-        "type": "company",
+    "category": "business",
+    "subcategory": "food",
+    "importance_score": 1,
+    "relevance_score": 1,
+    "region": "Hyderabad, India",
+    "tags": [
+      "restaurant",
+      "food"
+    ],
+    "classification_reason": "The article is primarily about a restaurant, focusing on its new menu and its location.",
+    "selected_channels": [
+      "business-news"
+    ]
+  },
+  "content": {
+    "title": "New in Hyderabad: Restaurants, menus and food experiences worth exploring",
+    "caption": "A concise explanation of the actual news.",
+    "hashtags": [
+      "#HyderabadRestaurants",
+      "#FoodExperiences"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "New in Hyderabad: Restaurants, menus and food experiences worth exploring",
+        "text": "A concise explanation of the actual news.",
         "image_search_query": "Tuya"
-    },
-    "classification": {
-        "country": "INDIA",
-        "category": "business",
-        "subcategory": "food",
-        "importance_score": 1,
-        "relevance_score": 1,
-        "region": "Hyderabad, India",
-        "tags": [
-            "restaurant",
-            "food"
-        ],
-        "classification_reason": "The article is primarily about a restaurant, focusing on its new menu and its location.",
-        "selected_channels": [
-            "business-news"
-        ]
-    },
-    "content": {
-        "title": "New in Hyderabad: Restaurants, menus and food experiences worth exploring",
-        "caption": "A concise explanation of the actual news.",
-        "hashtags": [
-            "#HyderabadRestaurants",
-            "#FoodExperiences"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "New in Hyderabad: Restaurants, menus and food experiences worth exploring",
-                "text": "A concise explanation of the actual news.",
-                "image_search_query": "Tuya"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Tuya Indian Winters",
-                "text": "Tuya Indian Winters and pani singhara (water chestnut) share an understated food culture, as do roasted baingan and pakodis.",
-                "image_search_query": "Tuya Indian Winters India"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Tuya’s New Menu",
-                "text": "Tuya’s new menu features dishes such as munnakaya pappu charu, thotakura pakoda, mushroom lukmi, and mutton patti samosa.",
-                "image_search_query": "Tuya’s new menu India"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "The Hindu",
-    "source_url": "https://www.thehindu.com/food/features/new-in-hyderabad-restaurants-menus-and-food-experiences-worth-exploring/article71745401.ece",
-    "published_at": "2026-11-27T23:36:21+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Tuya Indian Winters",
+        "text": "Tuya Indian Winters and pani singhara (water chestnut) share an understated food culture, as do roasted baingan and pakodis.",
+        "image_search_query": "Tuya Indian Winters India"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Tuya’s New Menu",
+        "text": "Tuya’s new menu features dishes such as munnakaya pappu charu, thotakura pakoda, mushroom lukmi, and mutton patti samosa.",
+        "image_search_query": "Tuya’s new menu India"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/food/features/new-in-hyderabad-restaurants-menus-and-food-experiences-worth-exploring/article71745401.ece",
+  "published_at": "2026-11-27T23:36:21+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-28/1d0b65e6aea2eec8/video.mp4"
 }

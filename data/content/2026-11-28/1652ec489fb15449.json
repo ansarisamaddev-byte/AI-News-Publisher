@@ -1,65 +1,68 @@
 {
-    "news_id": "1652ec489fb15449",
+  "news_id": "1652ec489fb15449",
+  "country": "US",
+  "main_subject": {
+    "name": "Razer",
+    "type": "company",
+    "image_search_query": "Razer"
+  },
+  "classification": {
     "country": "US",
-    "main_subject": {
-        "name": "Razer",
-        "type": "company",
+    "category": "technology",
+    "subcategory": "gaming",
+    "importance_score": 10,
+    "relevance_score": 10,
+    "region": "",
+    "tags": [
+      "gaming",
+      "headsets",
+      "mice",
+      "controllers",
+      "VR"
+    ],
+    "classification_reason": "The article is primarily about Razer products and deals, focusing on gaming accessories and VR headsets.",
+    "selected_channels": [
+      "technology-news"
+    ]
+  },
+  "content": {
+    "title": "Best Black Friday Gaming Accessory Deals",
+    "caption": "The article highlights various Razer products and deals for Black Friday.",
+    "hashtags": [
+      "#Razer",
+      "#BlackFriday",
+      "#GamingAccessories"
+    ],
+    "slides": [
+      {
+        "slide_number": 1,
+        "type": "cover",
+        "heading": "Best Black Friday Gaming Accessory Deals",
+        "text": "The article highlights various Razer products and deals for Black Friday.",
         "image_search_query": "Razer"
-    },
-    "classification": {
-        "country": "US",
-        "category": "technology",
-        "subcategory": "gaming",
-        "importance_score": 10,
-        "relevance_score": 10,
-        "region": "",
-        "tags": [
-            "gaming",
-            "headsets",
-            "mice",
-            "controllers",
-            "VR"
-        ],
-        "classification_reason": "The article is primarily about Razer products and deals, focusing on gaming accessories and VR headsets.",
-        "selected_channels": [
-            "technology-news"
-        ]
-    },
-    "content": {
-        "title": "Best Black Friday Gaming Accessory Deals",
-        "caption": "The article highlights various Razer products and deals for Black Friday.",
-        "hashtags": [
-            "#Razer",
-            "#BlackFriday",
-            "#GamingAccessories"
-        ],
-        "slides": [
-            {
-                "slide_number": 1,
-                "type": "cover",
-                "heading": "Best Black Friday Gaming Accessory Deals",
-                "text": "The article highlights various Razer products and deals for Black Friday.",
-                "image_search_query": "Razer"
-            },
-            {
-                "slide_number": 2,
-                "type": "context",
-                "heading": "Headset Deals",
-                "text": "Razer Kraken Kitty V3 Pro is a popular gaming headset with a 40-hour battery life.",
-                "image_search_query": "Razer Kraken Kitty V3 Pro United States"
-            },
-            {
-                "slide_number": 3,
-                "type": "details",
-                "heading": "Mouse Deals",
-                "text": "Razer Cobra HyperSpeed is a high-quality gaming mouse with a 300-hour battery life.",
-                "image_search_query": "Razer Cobra HyperSpeed United States"
-            }
-        ]
-    },
-    "article_text_available": true,
-    "article_text_note": "Full article text extracted.",
-    "source": "Wired",
-    "source_url": "https://www.wired.com/story/black-friday-gaming-deals-11-27-2026/",
-    "published_at": "2026-11-27T23:15:34+00:00"
+      },
+      {
+        "slide_number": 2,
+        "type": "context",
+        "heading": "Headset Deals",
+        "text": "Razer Kraken Kitty V3 Pro is a popular gaming headset with a 40-hour battery life.",
+        "image_search_query": "Razer Kraken Kitty V3 Pro United States"
+      },
+      {
+        "slide_number": 3,
+        "type": "details",
+        "heading": "Mouse Deals",
+        "text": "Razer Cobra HyperSpeed is a high-quality gaming mouse with a 300-hour battery life.",
+        "image_search_query": "Razer Cobra HyperSpeed United States"
+      }
+    ]
+  },
+  "article_text_available": true,
+  "article_text_note": "Full article text extracted.",
+  "source": "Wired",
+  "source_url": "https://www.wired.com/story/black-friday-gaming-deals-11-27-2026/",
+  "published_at": "2026-11-27T23:15:34+00:00",
+  "image_done": true,
+  "video_done": true,
+  "video_path": "2026-11-28/1652ec489fb15449/video.mp4"
 }

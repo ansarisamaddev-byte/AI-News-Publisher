@@ -1,0 +1,75 @@
+{
+  "news_id": "7d48fe694b0f12b8",
+  "title": "RNA discovery reveals how gut bacterium adapts to life in intestinal mucus",
+  "main_subject": {
+    "name": "RNA discovery",
+    "type": "product",
+    "image_search_query": "RNA discovery"
+  },
+  "category": "science",
+  "tags": [
+    "biotechnology",
+    "RNA",
+    "gut bacterium",
+    "intestinal mucus"
+  ],
+  "source": "Google News - Science",
+  "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2YzU0QUkwVFMtSE1qcDlsV0dUeWV0em1iQmpMR2dJRjJlSThTX0VEaTRNWXFpS1lmb0w2SHFrNEdzVklFdS1mUXBsaE13aWFRVmlXdGgtY2VBdEN4amc1b3ZFbHBSWDFqVjMyYTNobFVUSFpfS0dyMDR3?oc=5",
+  "published_at": "2026-11-28T00:00:01+00:00",
+  "provider_default": "unsplash",
+  "image_count": 4,
+  "images": [
+    {
+      "file": "slide_01.png",
+      "slide_number": 1,
+      "heading": "RNA discovery reveals how gut bacterium adapts to life in",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2YzU0QUkwVFMtSE1qcDlsV0dUeWV0em1iQmpMR2dJRjJlSThTX0VEaTRNWXFpS1lmb0w2SHFrNEdzVklFdS1mUXBsaE13aWFRVmlXdGgtY2VBdEN4amc1b3ZFbHBSWDFqVjMyYTNobFVUSFpfS0dyMDR3?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "RNA discovery"
+      }
+    },
+    {
+      "file": "slide_02.png",
+      "slide_number": 2,
+      "heading": "Relevant context",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2YzU0QUkwVFMtSE1qcDlsV0dUeWV0em1iQmpMR2dJRjJlSThTX0VEaTRNWXFpS1lmb0w2SHFrNEdzVklFdS1mUXBsaE13aWFRVmlXdGgtY2VBdEN4amc1b3ZFbHBSWDFqVjMyYTNobFVUSFpfS0dyMDR3?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "gut bacterium, RNA, survival strategy United States"
+      }
+    },
+    {
+      "file": "slide_03.png",
+      "slide_number": 3,
+      "heading": "Important details",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2YzU0QUkwVFMtSE1qcDlsV0dUeWV0em1iQmpMR2dJRjJlSThTX0VEaTRNWXFpS1lmb0w2SHFrNEdzVklFdS1mUXBsaE13aWFRVmlXdGgtY2VBdEN4amc1b3ZFbHBSWDFqVjMyYTNobFVUSFpfS0dyMDR3?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "gut bacterium, RNA, survival, mucus layer United States"
+      }
+    },
+    {
+      "file": "slide_04.png",
+      "slide_number": 4,
+      "type": "source_follow",
+      "image": {
+        "provider": "Original Article",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "article_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2YzU0QUkwVFMtSE1qcDlsV0dUeWV0em1iQmpMR2dJRjJlSThTX0VEaTRNWXFpS1lmb0w2SHFrNEdzVklFdS1mUXBsaE13aWFRVmlXdGgtY2VBdEN4amc1b3ZFbHBSWDFqVjMyYTNobFVUSFpfS0dyMDR3?oc=5",
+        "query": "article featured image",
+        "fallback_used": false,
+        "original_query": "scientific research laboratory"
+      }
+    }
+  ]
+}
